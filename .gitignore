@@ -328,3 +328,11 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/unpacker/*.exe
+/unpacker/file
+/unpacker/file_png
+/unpacker/ROOM
+/unpacker/ROOM_dc
+/unpacker/dc
+/unpacker/dialog
+/unpacker/jpsxdec

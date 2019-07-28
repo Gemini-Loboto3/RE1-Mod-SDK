@@ -1,0 +1,462 @@
+﻿<Damage>
+    <!--Zombie-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="100" h="-1800" dmg="8" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="100" h="-2620" dmg="9" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="100" h="-2500" dmg="20" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Magnum-->
+        <Weapon r="100" h="-2620" dmg="50" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Dumdum-->
+        <Weapon r="100" h="-2620" dmg="60" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-1500" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-1620" dmg="201" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="150" h="-1520" dmg="70" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="150" h="-1500" dmg="70" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-1620" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Desnudo-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="100" h="-1800" dmg="8" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="100" h="-2620" dmg="9" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="100" h="-2500" dmg="20" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Magnum-->
+        <Weapon r="100" h="-2620" dmg="50" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Dumdum-->
+        <Weapon r="100" h="-2620" dmg="60" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-1500" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-1620" dmg="201" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="150" h="-1520" dmg="70" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="150" h="-1500" dmg="70" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-1620" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Cerberus-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="100" h="-1200" dmg="30" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="100" h="-1200" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="100" h="-1200" dmg="35" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Magnum-->
+        <Weapon r="100" h="-1200" dmg="60" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Dumdum-->
+        <Weapon r="100" h="-1200" dmg="60" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Fuel-->
+        <Weapon r="100" h="0" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="100" h="-100" dmg="200" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="100" h="0" dmg="90" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="100" h="0" dmg="90" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="100" h="-100" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Spinner-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="-1200" dmg="10" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="-1220" dmg="15" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="-1100" dmg="24" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Magnum-->
+        <Weapon r="0" h="-1220" dmg="30" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="-1220" dmg="40" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Fuel-->
+        <Weapon r="0" h="-1100" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="-1120" dmg="100" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="0" h="-1120" dmg="100" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="-1100" dmg="200" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="-1120" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Tiger-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="-900" dmg="10" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="-920" dmg="12" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="-800" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Magnum-->
+        <Weapon r="0" h="-920" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="-920" dmg="70" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Fuel-->
+        <Weapon r="0" h="-800" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="-820" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="0" h="-820" dmg="50" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="-800" dmg="103" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="-820" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Crow-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="26" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="200" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="60" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="60" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Hunter-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="-1500" dmg="16" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Handgun-->
+        <Weapon r="0" h="-1500" dmg="14" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="-1500" dmg="25" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Magnum-->
+        <Weapon r="0" h="-1500" dmg="40" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="-1500" dmg="80" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-1500" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-1500" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="150" h="-1500" dmg="80" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="150" h="-1500" dmg="50" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-1500" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Bee-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="30" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="60" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="70" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="70" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="200" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="80" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="80" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Plant42-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="15" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Handgun-->
+        <Weapon r="0" h="1000" dmg="10" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="1500" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Magnum-->
+        <Weapon r="0" h="1000" dmg="38" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="1000" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Fuel-->
+        <Weapon r="0" h="1500" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="1500" dmg="40" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Acid-->
+        <Weapon r="0" h="1500" dmg="40" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="1500" dmg="150" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="1500" dmg="900" timer_0="2" timer_1="2" timer_2="2"/>
+    </Enemy>
+    <!--Chimera-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="10" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="12" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="20" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="40" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="41" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-1500" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-1500" dmg="60" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="150" h="-1500" dmg="60" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="150" h="-1500" dmg="100" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-1500" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Snake-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="20" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="40" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="50" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="30" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="200" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="60" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="60" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Neptune-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="0" h="-1500" dmg="0" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="0" h="-1500" dmg="0" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="0" h="-1500" dmg="0" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="0" h="-1500" dmg="0" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="0" h="-1500" dmg="0" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Tyrant-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="10" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="15" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="20" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="50" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="40" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-2000" dmg="20" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-2000" dmg="35" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Acid-->
+        <Weapon r="150" h="-2000" dmg="35" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Flame-->
+        <Weapon r="150" h="-2000" dmg="35" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-2000" dmg="900" timer_0="2" timer_1="2" timer_2="2"/>
+    </Enemy>
+    <!--Yawn 1-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="15" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="18" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="5" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="40" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="60" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="20" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="60" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="120" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="60" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="900" timer_0="2" timer_1="2" timer_2="2"/>
+    </Enemy>
+    <!--Root-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+    </Enemy>
+    <!--Tentacle-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+    </Enemy>
+    <!--S-Tyrant-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="10" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="15" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="20" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="50" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="40" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-2000" dmg="20" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-2000" dmg="35" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Acid-->
+        <Weapon r="150" h="-2000" dmg="35" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Flame-->
+        <Weapon r="150" h="-2000" dmg="35" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-2000" dmg="900" timer_0="2" timer_1="2" timer_2="2"/>
+    </Enemy>
+    <!--Zombie-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="100" h="-1800" dmg="8" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="100" h="-2620" dmg="9" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Shotgun-->
+        <Weapon r="100" h="-1500" dmg="20" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Magnum-->
+        <Weapon r="100" h="-2620" dmg="50" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Dumdum-->
+        <Weapon r="100" h="-2620" dmg="60" timer_0="4" timer_1="4" timer_2="4"/>
+        <!--Fuel-->
+        <Weapon r="150" h="-2500" dmg="20" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Explosive-->
+        <Weapon r="150" h="-1620" dmg="201" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Acid-->
+        <Weapon r="150" h="-1520" dmg="70" timer_0="9" timer_1="9" timer_2="9"/>
+        <!--Flame-->
+        <Weapon r="150" h="-1500" dmg="70" timer_0="14" timer_1="14" timer_2="14"/>
+        <!--Rocket-->
+        <Weapon r="150" h="-1620" dmg="900" timer_0="0" timer_1="0" timer_2="0"/>
+    </Enemy>
+    <!--Yawn 2-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="15" timer_0="0" timer_1="0" timer_2="0"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="18" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="15" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="40" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="60" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="20" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="60" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="120" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="60" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="900" timer_0="2" timer_1="2" timer_2="2"/>
+    </Enemy>
+    <!--Web-->
+    <Enemy>
+        <!--Knife-->
+        <Weapon r="0" h="0" dmg="6" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Handgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Shotgun-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Magnum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Dumdum-->
+        <Weapon r="0" h="0" dmg="0" timer_0="1" timer_1="1" timer_2="1"/>
+        <!--Fuel-->
+        <Weapon r="0" h="0" dmg="2" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Explosive-->
+        <Weapon r="0" h="0" dmg="10" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Acid-->
+        <Weapon r="0" h="0" dmg="20" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Flame-->
+        <Weapon r="0" h="0" dmg="30" timer_0="2" timer_1="2" timer_2="2"/>
+        <!--Rocket-->
+        <Weapon r="0" h="0" dmg="900" timer_0="2" timer_1="2" timer_2="2"/>
+    </Enemy>
+</Damage>
