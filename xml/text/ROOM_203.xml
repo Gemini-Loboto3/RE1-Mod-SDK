@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}I've got to search this\nhall first!</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 116}{scroll 0}\n{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 115}{scroll 0}\n{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 96}{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 190}{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
+</Strings>

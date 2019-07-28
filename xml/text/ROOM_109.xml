@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 2}{clear 68}{scroll 0}\n{scroll 2}{clear 69}{scroll 0}\n{scroll 2}{timed 112}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 172}{scroll 0}\n{scroll 2}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 112}{scroll 0}\n{scroll 2}{timed 143}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+</Strings>

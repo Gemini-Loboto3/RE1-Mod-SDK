@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>There is no time to check\nit.{scroll 2}</Text>
+    <Text>\nNothing unusual.{scroll 2}</Text>
+    <Text>A picture of a beautiful\nwoman.{scroll 2}{clear 0}\nNothing to bother about.{scroll 2}</Text>
+    <Text>A picture of steep\nscenery.{scroll 2}{clear 0}\nNothing unusual.{scroll 2}</Text>
+    <Text>\nA beautiful oil painting.{scroll 2}</Text>
+    <Text>A picture of beautiful\nscenery.{scroll 2}</Text>
+    <Text>\nVarious pictures.{scroll 2}</Text>
+    <Text>\n“A woman drawing water"{scroll 2}</Text>
+    <Text>A picture of a chubby\nwoman.{scroll 2}</Text>
+    <Text>It's a map of 1ST FLOOR.\nWill you take it?{scroll 1}{branch 0 1 0}You got the\nmap of 1ST FLOOR.{scroll 2}</Text>
+    <Text>You got the\nmap of 1ST FLOOR.{scroll 2}</Text>
+</Strings>

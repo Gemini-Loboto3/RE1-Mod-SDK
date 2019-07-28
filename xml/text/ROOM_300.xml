@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{clear 53}{scroll 0}\n{scroll 1}{clear 97}{scroll 0}\n{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 103}{scroll 0}\n{scroll 1}{clear 83}{scroll 0}\n{scroll 1}{timed 166}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 56}{scroll 0}\n{scroll 1}{clear 91}{scroll 0}\n{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 106}{scroll 0}\n{scroll 1}{clear 83}{scroll 0}\n{scroll 1}{timed 162}</Text>
+    <Text>{scroll 2}A winch for the elevator.\nThe elevator is down.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}It's a map of GARDEN.\nWill you take it?{branch 0 1 0}{scroll 2}You got the\nmap of GARDEN.</Text>
+    <Text>{scroll 2}You got the\nmap of GARDEN.</Text>
+</Strings>

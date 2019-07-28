@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}“Triggering System\nActivation Admitted"{clear 0}“1st Degree Emergency\nIssued"{clear 0}\n“Unlock All Blocks"{clear 0}“Triggering System\nDeactivation Impossible"{scroll 2}</Text>
+    <Text>{scroll 2}It's a triggering system\nactivator.{clear 0}It's quite big.{scroll 2}</Text>
+    <Text>{scroll 2}\nWhat a miserable death...{scroll 2}</Text>
+    <Text>{scroll 2}A power connection switch.\nThe elevator power is off.{clear 0}Will you connect it?{branch 0 1 1}{scroll 2}The power isn't supplied\nto the elevator.{scroll 2}</Text>
+    <Text>{scroll 2}The power isn't supplied\nto the elevator.{scroll 2}</Text>
+    <Text>{scroll 2}I've got to get power to\nthe elevator.{scroll 2}</Text>
+    <Text>{scroll 2}The power for the elevator\nis activated as the power{clear 0}supply and the circuit\nhave been connected.{scroll 2}</Text>
+    <Text>{scroll 2}Rebecca is activating the\ntriggering device.{scroll 2}</Text>
+</Strings>

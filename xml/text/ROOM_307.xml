@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 220}{scroll 0}\n {scroll 1}{clear 150}{scroll 0}\n {scroll 1}{clear 90}{scroll 0}\n {scroll 1}{clear 50}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 110}{scroll 0}\n {scroll 1}{clear 90}{scroll 0}\n {scroll 1}{clear 160}{scroll 0}\n {scroll 1}{clear 120}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 210}{scroll 0}\n {scroll 1}{timed 200}</Text>
+    <Text>{scroll 2}\nBarry...{scroll 1}</Text>
+    <Text>{scroll 2}There's a ladder. Will\nyou climb it?{scroll 1}{branch 0 1 0}{scroll 2}\nThere's a hexagonal hole.{scroll 1}</Text>
+    <Text>{scroll 2}\nThere's a hexagonal hole.{scroll 1}</Text>
+    <Text>{scroll 2}A hole has opened, and I\ncan't jump over it.{scroll 1}</Text>
+</Strings>

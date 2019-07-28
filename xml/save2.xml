@@ -1,0 +1,24 @@
+﻿<Strings>
+	<Text>Exit</Text>
+	<Text>Create New</Text>
+	<Text>Load</Text>
+	<Text>Save</Text>
+	<Text>Do not load</Text>
+	<Text>Do not save</Text>
+	<Text>Chris</Text>
+	<Text>Jill</Text>
+	<Text>Proceed to overwrite?</Text>
+	<Text>Yes</Text>
+	<Text>No</Text>
+	<!-- rooms -->
+	<Text>M. Room 1F</Text>
+    <Text>Hall 1F</Text>
+    <Text>Courtyard Room B1</Text>
+	<Text>Guardhouse 1F</Text>
+	<Text>Laboratory B3</Text>
+	<Text>Storeroom 1F</Text>
+	<Text>Courtyard Path B1</Text>
+	<!-- ascii strings used to generate save names -->
+	<Text>Chris</Text>
+	<Text>Jill</Text>
+</Strings>

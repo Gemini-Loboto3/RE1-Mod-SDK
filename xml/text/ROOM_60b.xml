@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>I'll put some bullets in\nthe back room.{scroll 2}{clear 0}Use them in case of\ntrouble. Wesker.{scroll 2}</Text>
+    <Text>I'll put some bullets in\nthe back room.{scroll 2}{clear 0}Use them in case of\ntrouble. Barry.{scroll 2}</Text>
+    <Text>I wish I had time to enjoy\nthese pictures...{scroll 2}</Text>
+</Strings>

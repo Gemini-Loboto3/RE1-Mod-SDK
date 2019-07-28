@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}It's too dark to see \nanything...{scroll 1}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 60}</Text>
+</Strings>

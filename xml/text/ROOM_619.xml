@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>There's a switch. Will\nyou push it?{scroll 1}{branch 0 1 0}\nNothing uncommon.{scroll 2}</Text>
+    <Text>\nNothing uncommon.{scroll 2}</Text>
+    <Text>It's too dark to see\nanything.{scroll 2}</Text>
+    <Text>I can only see moonlight\nand dense forest.{scroll 2}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>\n{scroll 2}</Text>
+</Strings>

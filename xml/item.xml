@@ -1,0 +1,418 @@
+﻿<Items>
+    <Item name="-Nothing-" id="ID_NOTHING" alt_name="ID_CRANK_0">
+        <Data max="0" icon="0"/>
+    </Item>
+    <Item name="Combat Knife" id="ID_COMBAT_KNIFE">
+        <Data max="0" icon="1"/>
+    </Item>
+    <Item name="Beretta" id="ID_BERETTA">
+        <Data max="15" icon="2">
+            <Mix with="ID_HAND_GUN_BULLETS" result="ID_BERETTA" reminder="ID_HAND_GUN_BULLETS" type="IM_RELOAD_0"/>
+        </Data>
+    </Item>
+    <Item name="Shotgun" id="ID_SHOTGUN">
+        <Data max="7" icon="3">
+            <Mix with="ID_SHOTGUN_SHELLS" result="ID_SHOTGUN" reminder="ID_SHOTGUN_SHELLS" type="IM_RELOAD_0"/>
+        </Data>
+    </Item>
+    <Item name="Colt Python" id="ID_COLT_PYTHON_0">
+        <Data max="6" icon="4">
+            <Mix with="ID_DUMDUM_BULLETS" result="ID_COLT_PYTHON_0" reminder="ID_DUMDUM_BULLETS" type="IM_RELOAD_0"/>
+        </Data>
+    </Item>
+    <Item name="Colt Python" id="ID_COLT_PYTHON_1">
+        <Data max="6" icon="4">
+            <Mix with="ID_MAGNUM_BULLETS" result="ID_COLT_PYTHON_1" reminder="ID_MAGNUM_BULLETS" type="IM_RELOAD_0"/>
+        </Data>
+    </Item>
+    <Item name="Flamethrower" id="ID_FLAMETHROWER">
+        <Data max="240" icon="5">
+            <Mix with="ID_FUEL" result="ID_FLAMETHROWER" reminder="ID_FUEL" type="IM_RELOAD_0"/>
+        </Data>
+    </Item>
+    <Item name="Grenade Gun" id="ID_GRENADE_GUN_0">
+        <Data max="6" icon="6">
+            <Mix with="ID_GRENADE_ROUNDS" result="ID_GRENADE_GUN_0" reminder="ID_GRENADE_ROUNDS" type="IM_RELOAD_0"/>
+            <Mix with="ID_ACID_ROUNDS" result="ID_GRENADE_GUN_1" reminder="ID_ACID_ROUNDS" type="IM_GRENADE_0"/>
+            <Mix with="ID_FLAME_ROUNDS" result="ID_GRENADE_GUN_2" reminder="ID_FLAME_ROUNDS" type="IM_GRENADE_0"/>
+        </Data>
+    </Item>
+    <Item name="Grenade Gun" id="ID_GRENADE_GUN_1">
+        <Data max="6" icon="6">
+            <Mix with="ID_GRENADE_ROUNDS" result="ID_GRENADE_GUN_0" reminder="ID_GRENADE_ROUNDS" type="IM_GRENADE_0"/>
+            <Mix with="ID_ACID_ROUNDS" result="ID_GRENADE_GUN_1" reminder="ID_ACID_ROUNDS" type="IM_RELOAD_0"/>
+            <Mix with="ID_FLAME_ROUNDS" result="ID_GRENADE_GUN_2" reminder="ID_FLAME_ROUNDS" type="IM_GRENADE_0"/>
+        </Data>
+    </Item>
+    <Item name="Grenade Gun" id="ID_GRENADE_GUN_2">
+        <Data max="6" icon="6">
+            <Mix with="ID_GRENADE_ROUNDS" result="ID_GRENADE_GUN_0" reminder="ID_GRENADE_ROUNDS" type="IM_GRENADE_0"/>
+            <Mix with="ID_ACID_ROUNDS" result="ID_GRENADE_GUN_1" reminder="ID_ACID_ROUNDS" type="IM_GRENADE_0"/>
+            <Mix with="ID_FLAME_ROUNDS" result="ID_GRENADE_GUN_2" reminder="ID_FLAME_ROUNDS" type="IM_RELOAD_0"/>
+        </Data>
+    </Item>
+    <Item name="Rocket Launcher" id="ID_ROCKET_LAUNCHER">
+        <Data max="4" icon="7"/>
+    </Item>
+    <Item name="Hand Gun Bullets" id="ID_HAND_GUN_BULLETS">
+        <Data max="15" icon="8">
+            <Mix with="ID_BERETTA" result="ID_HAND_GUN_BULLETS" reminder="ID_BERETTA" type="IM_RELOAD_1"/>
+            <Mix with="ID_HAND_GUN_BULLETS" result="ID_HAND_GUN_BULLETS" reminder="ID_HAND_GUN_BULLETS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Shotgun Shells" id="ID_SHOTGUN_SHELLS">
+        <Data max="7" icon="9">
+            <Mix with="ID_SHOTGUN" result="ID_SHOTGUN_SHELLS" reminder="ID_SHOTGUN" type="IM_RELOAD_1"/>
+            <Mix with="ID_SHOTGUN_SHELLS" result="ID_SHOTGUN_SHELLS" reminder="ID_SHOTGUN_SHELLS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="DumDum Bullets" id="ID_DUMDUM_BULLETS">
+        <Data max="6" icon="10">
+            <Mix with="ID_COLT_PYTHON_0" result="ID_DUMDUM_BULLETS" reminder="ID_COLT_PYTHON_0" type="IM_RELOAD_1"/>
+            <Mix with="ID_DUMDUM_BULLETS" result="ID_DUMDUM_BULLETS" reminder="ID_DUMDUM_BULLETS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Magnum Bullets" id="ID_MAGNUM_BULLETS">
+        <Data max="6" icon="11">
+            <Mix with="ID_COLT_PYTHON_1" result="ID_MAGNUM_BULLETS" reminder="ID_COLT_PYTHON_1" type="IM_RELOAD_1"/>
+            <Mix with="ID_MAGNUM_BULLETS" result="ID_MAGNUM_BULLETS" reminder="ID_MAGNUM_BULLETS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Fuel" id="ID_FUEL">
+        <Data max="240" icon="12">
+            <Mix with="ID_FLAMETHROWER" result="ID_FUEL" reminder="ID_FLAMETHROWER" type="IM_RELOAD_1"/>
+            <Mix with="ID_FUEL" result="ID_FUEL" reminder="ID_FUEL" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Grenade Rounds" id="ID_GRENADE_ROUNDS">
+        <Data max="6" icon="13">
+            <Mix with="ID_GRENADE_GUN_0" result="ID_GRENADE_ROUNDS" reminder="ID_GRENADE_GUN_0" type="IM_RELOAD_1"/>
+            <Mix with="ID_GRENADE_GUN_1" result="ID_GRENADE_ROUNDS" reminder="ID_GRENADE_GUN_0" type="IM_GRENADE_1"/>
+            <Mix with="ID_GRENADE_GUN_2" result="ID_GRENADE_ROUNDS" reminder="ID_GRENADE_GUN_0" type="IM_GRENADE_1"/>
+            <Mix with="ID_GRENADE_ROUNDS" result="ID_GRENADE_ROUNDS" reminder="ID_GRENADE_ROUNDS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Acid Rounds" id="ID_ACID_ROUNDS">
+        <Data max="6" icon="14">
+            <Mix with="ID_GRENADE_GUN_0" result="ID_ACID_ROUNDS" reminder="ID_GRENADE_GUN_1" type="IM_GRENADE_1"/>
+            <Mix with="ID_GRENADE_GUN_1" result="ID_ACID_ROUNDS" reminder="ID_GRENADE_GUN_1" type="IM_RELOAD_1"/>
+            <Mix with="ID_GRENADE_GUN_2" result="ID_ACID_ROUNDS" reminder="ID_GRENADE_GUN_1" type="IM_GRENADE_1"/>
+            <Mix with="ID_ACID_ROUNDS" result="ID_ACID_ROUNDS" reminder="ID_ACID_ROUNDS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Flame Rounds" id="ID_FLAME_ROUNDS">
+        <Data max="6" icon="15">
+            <Mix with="ID_GRENADE_GUN_0" result="ID_FLAME_ROUNDS" reminder="ID_GRENADE_GUN_2" type="IM_GRENADE_1"/>
+            <Mix with="ID_GRENADE_GUN_1" result="ID_FLAME_ROUNDS" reminder="ID_GRENADE_GUN_2" type="IM_GRENADE_1"/>
+            <Mix with="ID_GRENADE_GUN_2" result="ID_FLAME_ROUNDS" reminder="ID_GRENADE_GUN_2" type="IM_RELOAD_1"/>
+            <Mix with="ID_FLAME_ROUNDS" result="ID_FLAME_ROUNDS" reminder="ID_FLAME_ROUNDS" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Empty Bottle" id="ID_EMPTY_BOTTLE">
+        <Data max="1" icon="16"/>
+    </Item>
+    <Item name="Water" id="ID_WATER">
+        <Data max="1" icon="17">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_WATER" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_NP003" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO7" type="IM_COMMON"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO4" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="UMB No.2" id="ID_UMB_NO2">
+        <Data max="1" icon="18">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_NP003" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO2" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_YELLOW6" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+        </Data>
+    </Item>
+    <Item name="UMB No.4" id="ID_UMB_NO4">
+        <Data max="1" icon="19">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_YELLOW6" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO4" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO7" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="UMB No.7" id="ID_UMB_NO7">
+        <Data max="1" icon="20">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO7" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO13" type="IM_COMMON"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+        </Data>
+    </Item>
+    <Item name="UMB No.13" id="ID_UMB_NO13">
+        <Data max="1" icon="21">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO13" type="IM_COMMON"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_VJOLT" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Yellow-6" id="ID_YELLOW6">
+        <Data max="1" icon="22">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO7" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO13" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_0"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_YELLOW6" type="IM_COMMON"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+        </Data>
+    </Item>
+    <Item name="NP-003" id="ID_NP003">
+        <Data max="1" icon="23">
+            <Mix with="ID_WATER" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO4" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO2" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO4" result="ID_EMPTY_BOTTLE" reminder="ID_UMB_NO7" type="IM_COMMON"/>
+            <Mix with="ID_UMB_NO7" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_UMB_NO13" result="ID_EMPTY_BOTTLE" reminder="ID_VJOLT" type="IM_COMMON"/>
+            <Mix with="ID_YELLOW6" result="ID_EMPTY_BOTTLE" reminder="ID_EMPTY_BOTTLE" type="IM_VJOLT_1"/>
+            <Mix with="ID_NP003" result="ID_EMPTY_BOTTLE" reminder="ID_NP003" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="V-Jolt" id="ID_VJOLT">
+        <Data max="1" icon="24"/>
+    </Item>
+    <Item name="Broken Shotgun" id="ID_BROKEN_SHOTGUN">
+        <Data max="1" icon="25"/>
+    </Item>
+    <Item name="Square Crank" id="ID_SQUARE_CRANK" alt_name="ID_CRANK_0">
+        <Data max="0" icon="26"/>
+    </Item>
+    <Item name="Hexagonal Crank" id="ID_HEXAGONAL_CRANK" alt_name="ID_CRANK_1">
+        <Data max="0" icon="27"/>
+    </Item>
+    <Item name="Emblem" id="ID_EMBLEM">
+        <Data max="1" icon="28"/>
+    </Item>
+    <Item name="Gold Emblem" id="ID_GOLD_EMBLEM">
+        <Data max="1" icon="29"/>
+    </Item>
+    <Item name="Blue Jewel" id="ID_BLUE_JEWEL">
+        <Data max="1" icon="30"/>
+    </Item>
+    <Item name="Red Jewel" id="ID_RED_JEWEL">
+        <Data max="1" icon="31"/>
+    </Item>
+    <Item name="Music Score" id="ID_MUSIC_SCORE">
+        <Data max="1" icon="32"/>
+    </Item>
+    <Item name="Wolf Medal" id="ID_WOLF_MEDAL">
+        <Data max="1" icon="33"/>
+    </Item>
+    <Item name="Eagle Medal" id="ID_EAGLE_MEDAL">
+        <Data max="1" icon="34"/>
+    </Item>
+    <Item name="Herbicide" id="ID_HERBICIDE" alt_name="ID_CHEMICAL">
+        <Data max="1" icon="35"/>
+    </Item>
+    <Item name="Battery" id="ID_BATTERY">
+        <Data max="1" icon="36"/>
+    </Item>
+    <Item name="MO-Disk" id="ID_MODISK">
+        <Data max="1" icon="37"/>
+    </Item>
+    <Item name="Wind Crest" id="ID_WIND_CREST">
+        <Data max="1" icon="38"/>
+    </Item>
+    <Item name="Flare" id="ID_FLARE">
+        <Data max="1" icon="39"/>
+    </Item>
+    <Item name="Slides" id="ID_SLIDES">
+        <Data max="1" icon="40"/>
+    </Item>
+    <Item name="Moon Crest" id="ID_MOON_CREST">
+        <Data max="1" icon="41"/>
+    </Item>
+    <Item name="Star Crest" id="ID_STAR_CREST">
+        <Data max="1" icon="42"/>
+    </Item>
+    <Item name="Sun Crest" id="ID_SUN_CREST">
+        <Data max="1" icon="43"/>
+    </Item>
+    <Item name="Ink Ribbon" id="ID_INK_RIBBON">
+        <Data max="3" icon="44">
+            <Mix with="ID_INK_RIBBON" result="ID_INK_RIBBON" reminder="ID_INK_RIBBON" type="IM_AMMO"/>
+        </Data>
+    </Item>
+    <Item name="Lighter" id="ID_LIGHTER">
+        <Data max="0" icon="45"/>
+    </Item>
+    <Item name="Lockpick" id="ID_LOCKPICK">
+        <Data max="0" icon="46"/>
+    </Item>
+    <Item name="" id="NOTHING_0">
+        <Data max="2" icon="47"/>
+    </Item>
+    <Item name="Sword Key" id="ID_SWORD_KEY" alt_name="ID_MANSION_KEY_0">
+        <Data max="0" icon="48"/>
+    </Item>
+    <Item name="Armor Key" id="ID_ARMOR_KEY" alt_name="ID_MANSION_KEY_1">
+        <Data max="0" icon="49"/>
+    </Item>
+    <Item name="Shield Key" id="ID_SHIELD_KEY" alt_name="ID_MANSION_KEY_2">
+        <Data max="0" icon="50"/>
+    </Item>
+    <Item name="Helmet Key" id="ID_HELMET_KEY" alt_name="ID_MANSION_KEY_3">
+        <Data max="0" icon="51"/>
+    </Item>
+    <Item name="Master Key" id="ID_MASTER_KEY" alt_name="ID_LABORATORY_KEY_0">
+        <Data max="0" icon="52"/>
+    </Item>
+    <Item name="Closet Key" id="ID_CLOSET_KEY" alt_name="ID_SPECIAL_KEY">
+        <Data max="0" icon="53"/>
+    </Item>
+    <Item name="Key for Room 002" id="ID_KEY_FOR_ROOM_002" alt_name="ID_GUARDHOUSE_KEY_0">
+        <Data max="0" icon="54"/>
+    </Item>
+    <Item name="Key for Room 003" id="ID_KEY_FOR_ROOM_003" alt_name="ID_GUARDHOUSE_KEY_1">
+        <Data max="0" icon="55"/>
+    </Item>
+    <Item name="Control Room Key" id="ID_CONTROL_ROOM_KEY">
+        <Data max="0" icon="56"/>
+    </Item>
+    <Item name="Power Room Key" id="ID_POWER_ROOM_KEY" alt_name="ID_LABORATORY_KEY_1">
+        <Data max="0" icon="57"/>
+    </Item>
+    <Item name="Desk Key" id="ID_DESK_KEY" alt_name="ID_SMALL_KEY">
+        <Data max="1" icon="58"/>
+    </Item>
+    <Item name="Blank Book" id="ID_BLANK_BOOK" alt_name="ID_RED_BOOK">
+        <Data max="1" icon="59"/>
+    </Item>
+    <Item name="Doom Book 2" id="ID_DOOM_BOOK_2_0" alt_name="ID_DOOM_BOOK_2_1">
+        <Data max="1" icon="60"/>
+    </Item>
+    <Item name="Doom Book 1" id="ID_DOOM_BOOK_1_0" alt_name="ID_DOOM_BOOK_1_1">
+        <Data max="1" icon="61"/>
+    </Item>
+    <Item name="First Aid Spray" id="ID_FIRST_AID_SPRAY">
+        <Data max="1" icon="62"/>
+    </Item>
+    <Item name="Serum" id="ID_SERUM">
+        <Data max="1" icon="63"/>
+    </Item>
+    <Item name="Red Herb" id="ID_RED_HERB">
+        <Data max="1" icon="64">
+            <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERBS_0" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_MIXED_HERBS_2" result="ID_MIXED_HERBS_3" reminder="ID_NOTHING" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Green Herb" id="ID_GREEN_HERB">
+        <Data max="1" icon="65">
+            <Mix with="ID_RED_HERB" result="ID_MIXED_HERBS_0" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERBS_1" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_BLUE_HERB" result="ID_MIXED_HERBS_2" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_MIXED_HERBS_1" result="ID_MIXED_HERBS_4" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_MIXED_HERBS_2" result="ID_MIXED_HERBS_5" reminder="ID_NOTHING" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Blue Herb" id="ID_BLUE_HERB">
+        <Data max="1" icon="66">
+            <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERBS_2" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_MIXED_HERBS_0" result="ID_MIXED_HERBS_3" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_MIXED_HERBS_1" result="ID_MIXED_HERBS_5" reminder="ID_NOTHING" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Mixed Herbs" id="ID_MIXED_HERBS_0">
+        <Data max="1" icon="67">
+            <Mix with="ID_BLUE_HERB" result="ID_MIXED_HERBS_3" reminder="ID_NOTHING" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Mixed Herbs" id="ID_MIXED_HERBS_1">
+        <Data max="1" icon="68">
+            <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERBS_4" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_BLUE_HERB" result="ID_MIXED_HERBS_5" reminder="ID_NOTHING" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Mixed Herbs" id="ID_MIXED_HERBS_2">
+        <Data max="1" icon="69">
+            <Mix with="ID_RED_HERB" result="ID_MIXED_HERBS_3" reminder="ID_NOTHING" type="IM_COMMON"/>
+            <Mix with="ID_GREEN_HERB" result="ID_MIXED_HERBS_5" reminder="ID_NOTHING" type="IM_COMMON"/>
+        </Data>
+    </Item>
+    <Item name="Mixed Herbs" id="ID_MIXED_HERBS_3">
+        <Data max="1" icon="70"/>
+    </Item>
+    <Item name="Mixed Herbs" id="ID_MIXED_HERBS_4">
+        <Data max="1" icon="71"/>
+    </Item>
+    <Item name="Mixed Herbs" id="ID_MIXED_HERBS_5">
+        <Data max="1" icon="72"/>
+    </Item>
+    <Item name="" id="NOTHING_1">
+        <Data max="0" icon="73"/>
+    </Item>
+    <Item name="Comm. Radio" id="ID_COMM_RADIO">
+        <Data max="0" icon="74"/>
+    </Item>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name=""/>
+    <Item name="Researcher&apos;s Will"/>
+    <Item name="Researcher&apos;s Will"/>
+    <Item name="Keeper&apos;s Diary"/>
+    <Item name="Orders"/>
+    <Item name="Pass Number"/>
+    <Item name="Plant-42 Report"/>
+    <Item name="Fax"/>
+    <Item name="Scrapbook"/>
+    <Item name="Security System"/>
+    <Item name="Researcher&apos;s Letter"/>
+    <Item name="V-Jolt Report"/>
+    <Item name="Barry&apos;s Picture"/>
+    <Item name="Pass Code 01"/>
+    <Item name="Pass Code 02"/>
+    <Item name="Pass Code 03"/>
+    <Item name="Botany Book"/>
+    <Item name="Ingram"/>
+    <Item name="Minimi"/>
+    <Item name="Crank" id="ID_CRANK_0"/>
+    <Item name="Crank" id="ID_CRANK_1"/>
+    <Item name="Chemical" id="ID_CHEMICAL"/>
+    <Item name="Mansion Key" id="ID_MANSION_KEY_0"/>
+    <Item name="Mansion Key" id="ID_MANSION_KEY_1"/>
+    <Item name="Mansion Key" id="ID_MANSION_KEY_2"/>
+    <Item name="Mansion Key" id="ID_MANSION_KEY_3"/>
+    <Item name="Laboratory Key" id="ID_LABORATORY_KEY_0"/>
+    <Item name="Special Key" id="ID_SPECIAL_KEY"/>
+    <Item name="Guardhouse Key" id="ID_GUARDHOUSE_KEY_0"/>
+    <Item name="Guardhouse Key" id="ID_GUARDHOUSE_KEY_1"/>
+    <Item name="Laboratory Key" id="ID_LABORATORY_KEY_1"/>
+    <Item name="Small Key" id="ID_SMALL_KEY"/>
+    <Item name="Red Book" id="ID_RED_BOOK"/>
+    <Item name="Doom Book 2" id="ID_DOOM_BOOK_2_1"/>
+    <Item name="Doom Book 1" id="ID_DOOM_BOOK_1_1"/>
+</Items>

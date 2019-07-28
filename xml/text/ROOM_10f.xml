@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nA fine grand piano.</Text>
+    <Text>Chris unfortunately can't\nread music.</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 85}</Text>
+    <Text>Will you have Rebecca\npractice? {branch 0 1 0}{scroll 0}\n {scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 116}</Text>
+    <Text>Rebecca is playing the\npiano.</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 55}</Text>
+    <Text>\nIt's “Moonlight Sonata".</Text>
+    <Text>It's the hollow that an\nemblem was in.</Text>
+    <Text>\nAn emblem is in place.</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n {scroll 2}{timed 85}</Text>
+    <Text>There's no time to play\nthe piano!</Text>
+</Strings>

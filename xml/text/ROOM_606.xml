@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 35}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 52}{scroll 0}\n{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 38}{scroll 0}\n{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 72}{scroll 0}\n{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 138}{scroll 0}\n{scroll 1}{timed 186}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 92}{scroll 0}\n{scroll 1}{clear 170}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 75}{scroll 0}\n{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 75}{scroll 0}\n{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}It's too dangerous to go\noutside!</Text>
+    <Text>{scroll 2}I've got to search this\nhall first!</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 116}{scroll 0}\n{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 115}{scroll 0}\n{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 96}{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 190}{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
+    <Text>{scroll 2}\nIt's Jill's gun...!{clear 0}{scroll 2}\n{timed 1}</Text>
+    <Text>{scroll 2}There is no time to check\nit.</Text>
+</Strings>

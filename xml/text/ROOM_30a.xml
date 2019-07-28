@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 65}{scroll 0}\n {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 110}</Text>
+    <Text>{scroll 40} {scroll 0}\n {scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}He couldn't have moved\nbecause of this injury...{scroll 1}{clear 0}{scroll 2}\nHe's holding something.{scroll 1}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 45}{scroll 0}\n {scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 30}{scroll 0}\n {scroll 1}{clear 30}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 250}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 240}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 1}\n{scroll 1}{branch 0 1 0}{scroll 1}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 1}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 2}He couldn't have moved\nbecause of this injury...{scroll 1}{clear 0}{scroll 2}\nHe's holding something.{scroll 1}</Text>
+    <Text>{scroll 2}\nBarry is investigating...{scroll 1}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>The door is tightly\nlocked.</Text>
+</Strings>

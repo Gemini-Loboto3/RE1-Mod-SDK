@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>Someone has moved this\ntombstone.{scroll 2}</Text>
+    <Text>It's too dark to see \nanything.{scroll 2}</Text>
+    <Text>It's too dark to see.Will\nyou jump down?{scroll 1}{branch 0 1 0}There's a rope. Will you\ndescend it?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>There's a rope. Will you\ndescend it?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 160}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 70}{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 85}{scroll 0}\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 80}{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 95}{scroll 0}\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 65}{scroll 0}\n{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 90}</Text>
+    <Text>{branch 2 9 22}«{0x17}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 9 22}«{0x17}</Text>
+    <Text>There's a switch below.\nWill you push it?{scroll 1}{branch 0 1 0}{branch 2 9 25}</Text>
+    <Text>{branch 2 9 25}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 9 25}</Text>
+    <Text>There's a rope. Will you\nclimb it?{scroll 1}{branch 0 1 0}There's a ladder. Will\nyou descend it?{scroll 1}{branch 0 1 0}A hole opens in the\nfireplace.{scroll 2}</Text>
+    <Text>There's a ladder. Will\nyou descend it?{scroll 1}{branch 0 1 0}A hole opens in the\nfireplace.{scroll 2}</Text>
+    <Text>A hole opens in the\nfireplace.{scroll 2}</Text>
+</Strings>

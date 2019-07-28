@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>\nA pass code panel.</Text>
+    <Text>You don't have the pass\ncode.</Text>
+    <Text>You've entered the pass\ncode.</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>It's electronically\nlocked.</Text>
+    <Text>\n It's locked.</Text>
+</Strings>

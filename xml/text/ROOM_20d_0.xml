@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 120}{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 123}{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 90}{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 151}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 92}{scroll 1}{timed 163}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 93}{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 77}</Text>
+    <Text>{scroll 2}\nRichard from Bravo team.{scroll 10}</Text>
+    <Text>{scroll 2}\nI've got to go to get the\nserum...{scroll 10}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 55}</Text>
+    <Text>{scroll 2}\nRichard is dead.{scroll 10}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 53}</Text>
+</Strings>

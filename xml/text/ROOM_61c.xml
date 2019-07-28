@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nOld clothes.{scroll 2}</Text>
+    <Text>{scroll 2}\nA strange looking costume.{clear 0}Will you change your\noutfit?{branch 0 1 1}{scroll 0}\nJust a moment please.{scroll 50} {scroll 2}{timed 255}</Text>
+    <Text>{scroll 0}\nJust a moment please.{scroll 50} {scroll 2}{timed 255}</Text>
+    <Text>{scroll 2}\nA different looking costume.{clear 0}Will you change your\noutfit?{branch 0 1 1}  {0xFF}{0xFF}{0xFF}{0xFF}{0xFF}{0xFF}{0xFF}{0xFF}                                e       </Text>
+</Strings>

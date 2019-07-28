@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text>{scroll 0}{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 217}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 172}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 143}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 166}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 200}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 156}</Text>
+    <Text>{scroll 2}\nRichard from Bravo team.{scroll 10}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}\nRichard is dead.{scroll 10}</Text>
+    <Text>{scroll 2}\nI've got to go to get the\nserum...{scroll 10}</Text>
+    <Text>{scroll 2}\nRichard is dead.{scroll 10}</Text>
+</Strings>

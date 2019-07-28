@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 0}“Umbrella Inc."\n“Bio-weapon Materials"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“MA-39 Cerberus"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“Fi-3 Neptune"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“MA-121 Hunter"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n“T-002 Tyrant"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}“Bio-weapon research \ninstitute. R and D staff"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Something has been dragged \naround the wall.{scroll 1}</Text>
+    <Text>{scroll 2}There's a panel. Will you \nopen it?{scroll 1}{branch 0 1 0}{scroll 2}There's a switch. Will \nyou push it?{scroll 1}{branch 0 1 0}{scroll 2}\nA projector.{scroll 1}</Text>
+    <Text>{scroll 2}There's a switch. Will \nyou push it?{scroll 1}{branch 0 1 0}{scroll 2}\nA projector.{scroll 1}</Text>
+    <Text>{scroll 2}\nA projector.{scroll 1}</Text>
+    <Text>{scroll 2}\nA screen.{scroll 1}</Text>
+    <Text>{scroll 2}An intercom. It does not \nseem to be operative.{scroll 1}</Text>
+    <Text>{scroll 2}\nUnfamiliar physics symbols\nare written here.{scroll 1}</Text>
+</Strings>

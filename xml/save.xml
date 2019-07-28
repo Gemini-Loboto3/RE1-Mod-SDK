@@ -1,0 +1,25 @@
+﻿<Strings>
+	<Text>-----{tab 40}/--{tab 64}/-----------------</Text>
+	<Text>{center}Load Game</Text>
+	<Text>{center}Save Game</Text>
+	<Text>Do not load</Text>
+	<Text>Do not save</Text>
+	<Text>C{s}h{s}r{s}i{s}s{s}</Text>
+	<Text>J{s}i{s}l{s}l{s}</Text>
+	<Text>{center}Proceed to overwrite?</Text>
+	<Text>Yes</Text>
+	<Text>No</Text>
+	<Text>M{s}.{s} {s}R{s}o{s}o{s}m{s} {s}1{s}F{s}</Text>
+    <Text>H{s}a{s}l{s}l{s} {s}1{s}F{s}</Text>
+    <Text>C{s}o{s}u{s}r{s}t{s}y{s}a{s}r{s}d{s} {s}R{s}o{s}o{s}m{s} {s}B{s}1{s}</Text>
+	<Text>G{s}u{s}a{s}r{s}d{s}h{s}o{s}u{s}s{s}e{s} {s}1{s}F{s}</Text>
+	<Text>L{s}a{s}b{s}o{s}r{s}a{s}t{s}o{s}r{s}y{s} {s}B{s}3{s}</Text>
+	<Text>S{s}t{s}o{s}r{s}e{s}r{s}o{s}o{s}m{s} {s}1{s}F{s}</Text>
+	<Text>C{s}o{s}u{s}r{s}t{s}y{s}a{s}r{s}d{s} {s}P{s}a{s}t{s}h{s} {s}B{s}1{s}</Text>
+	<Text>{tab 12}Yes{tab 68}No</Text>
+	<Text>{tab 40}/{tab 64}/</Text>
+	<!-- position of number counter -->
+	<Text>{tab 40}</Text>
+	<!-- position of location string-->
+	<Text>{tab 64}</Text>
+</Strings>

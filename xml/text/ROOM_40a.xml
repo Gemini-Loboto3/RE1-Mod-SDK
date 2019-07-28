@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}These books are well\narranged.{scroll 2}</Text>
+    <Text>{scroll 2}There is no time to check\nit.{scroll 2}</Text>
+    <Text>{scroll 2}I wonder where the missing\nbook is...{scroll 2}</Text>
+    <Text>{scroll 2}\nA row of red books.{clear 0}There's one white book.\nWill you take it?{branch 0 1 1}{scroll 2}\nNow a book is missing.{scroll 2}</Text>
+    <Text>{scroll 2}\nNow a book is missing.{scroll 2}</Text>
+</Strings>

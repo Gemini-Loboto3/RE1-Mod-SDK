@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 120}{scroll 0}\n{scroll 2}{clear 80}{scroll 0}\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 70}{scroll 0}\n{scroll 2}{clear 130}{scroll 0}\n{scroll 2}{clear 65}{scroll 0}\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 60}{scroll 0}\n{scroll 2}{clear 25}{scroll 0}\n{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 145}{scroll 0}\n{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 140}{scroll 0}\n{scroll 2}{clear 110}{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 40}</Text>
+    <Text>There's something shining\nhere but I can't reach it.{scroll 2}</Text>
+    <Text>It's locked again.\nThe door won't open.{scroll 2}</Text>
+</Strings>

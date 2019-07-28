@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\n{scroll 2}It's a map of 1ST FLOOR.\nWill you take it? {branch 0 1 0}{scroll 2}\nNone of them looks useful.{scroll 10}</Text>
+    <Text>{scroll 2}It's a map of 1ST FLOOR.\nWill you take it? {branch 0 1 0}{scroll 2}\nNone of them looks useful.{scroll 10}</Text>
+    <Text>{scroll 2}\nNone of them looks useful.{scroll 10}</Text>
+    <Text>{scroll 2}\nNothing special.{scroll 10}</Text>
+    <Text>{scroll 2}You got the\nmap of 1ST FLOOR.{scroll 10}</Text>
+</Strings>

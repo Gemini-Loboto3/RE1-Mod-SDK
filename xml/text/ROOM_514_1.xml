@@ -1,0 +1,41 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{clear 130}{scroll 0}\n {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 230}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 190}{scroll 0}\n {scroll 1}{clear 120}{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 150}{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 180}{scroll 0}\n {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 50}{scroll 0}\n {scroll 1}{clear 200}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 50}{scroll 0}\n {scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 250}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 150}</Text>
+</Strings>

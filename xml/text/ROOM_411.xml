@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}There's a lever. Will you\nmove it?{branch 0 1 1}{scroll 2}There's a button. Will\nyou push it?{branch 0 1 1}{scroll 2}There was a sound from the\nroom next door.{scroll 2}</Text>
+    <Text>{scroll 2}There's a button. Will\nyou push it?{branch 0 1 1}{scroll 2}There was a sound from the\nroom next door.{scroll 2}</Text>
+    <Text>{scroll 2}There was a sound from the\nroom next door.{scroll 2}</Text>
+    <Text>{scroll 2}\nNothing special.{scroll 2}</Text>
+</Strings>

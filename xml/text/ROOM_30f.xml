@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThere's a hexagonal hole.</Text>
+    <Text>{scroll 2}It's a map of UNDER GROUND.\nWill you take it?{branch 0 1 1}{scroll 2}You got the\nmap of UNDER GROUND.</Text>
+    <Text>{scroll 2}You got the\nmap of UNDER GROUND.</Text>
+    <Text>{scroll 2}\nNothing unusual.</Text>
+</Strings>

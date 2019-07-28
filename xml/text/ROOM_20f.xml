@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nA candle.</Text>
+    <Text>{scroll 2}\nThe candle is lit.</Text>
+    <Text>{scroll 2}It's too dark to see\nanything.</Text>
+</Strings>

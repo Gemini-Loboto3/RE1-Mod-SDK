@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 2}There's a switch. Will \nyou push it?{scroll 1}{branch 0 1 0}{scroll 2}There's no reaction. \nIt has no power.{scroll 1}</Text>
+    <Text>{scroll 2}There's no reaction. \nIt has no power.{scroll 1}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 150}{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 85}{scroll 0}\n {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 80}{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 140}{scroll 0}\n {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 125}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n {scroll 1}</Text>
+</Strings>

@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 125}</Text>
+    <Text>{scroll 0}{scroll 0}\n {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 1}Will you go with him?\n{scroll 1}{branch 0 1 0}{scroll 1}Do you want him to go first?\n{scroll 1}{branch 0 1 0}{scroll 1}Will you stay here?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 1}Do you want him to go first?\n{scroll 1}{branch 0 1 0}{scroll 1}Will you stay here?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 1}Will you stay here?\n {scroll 1}{branch 0 1 0}{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 55}</Text>
+</Strings>

@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 80}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 90}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 40}{scroll 0}\n {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 160}{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 120}{scroll 0}\n {scroll 1}{clear 110}{scroll 0}\n {scroll 1}{clear 120}{scroll 0}\n {scroll 1}{clear 110}{scroll 0}\n {scroll 1}{clear 110}{scroll 0}\n {scroll 1}{clear 110}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>Voices are heard from the\nother side of the door.</Text>
+</Strings>

@@ -1,0 +1,39 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}There's a key on the\nfloor.</Text>
+    <Text>{scroll 2}\nWhat a miserable death...</Text>
+    <Text>{scroll 2}\nI can't leave Barry alone!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 115}{scroll 0}\n{scroll 1}{timed 64}</Text>
+    <Text>{scroll 1}{clear 50}{scroll 0}\n{scroll 1}{clear 40}{scroll 1}{clear 30}{scroll 0}\n{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 75}{scroll 0}\n{scroll 1}{timed 168}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 175}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 135}{scroll 0}\n{scroll 1}{clear 100}{scroll 0}\n{scroll 1}{timed 153}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 95}{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 45}{scroll 0}\n{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 115}</Text>
+    <Text>{scroll 1}{clear 20}{scroll 0}\n{scroll 1}{timed 40}</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room.{clear 0}{scroll 2}But there's no time to\noperate it!</Text>
+    <Text>{scroll 2}It's electronically\nlocked!?</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room.{clear 0}{scroll 2}Found a door lock switch.\nUnlock the door?{branch 0 1 0}{scroll 2}It looks like the control\ndevice for this room.{clear 0}{scroll 2}A door lock device.\nUnlock the door?{branch 0 1 0}{scroll 2}It's electronically\nlocked</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room.{clear 0}{scroll 2}A door lock device.\nUnlock the door?{branch 0 1 0}{scroll 2}It's electronically\nlocked</Text>
+    <Text>{scroll 2}It's electronically\nlocked</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 165}{scroll 0}\n{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+</Strings>

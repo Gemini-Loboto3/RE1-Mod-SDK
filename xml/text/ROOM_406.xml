@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 190}{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 170}{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 200}</Text>
+    <Text>A dormitory sketch.\nWill you take it?{branch 0 1 0}There's a ladder. Will\nyou descend it?{branch 0 1 0}There is no time to check\nit.</Text>
+    <Text>There's a ladder. Will\nyou descend it?{branch 0 1 0}There is no time to check\nit.</Text>
+    <Text>There is no time to check\nit.</Text>
+    <Text>You got the\nmap of DORMITORY.</Text>
+</Strings>

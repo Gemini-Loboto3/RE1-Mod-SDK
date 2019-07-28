@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{clear 48}{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 54}{scroll 0}\n{scroll 1}{timed 91}</Text>
+    <Text>{scroll 2}There's no need to go\ndownstairs now.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}It's welded and does not\nopen.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}{color 1}\n{color 0}{scroll 1}{timed 108}</Text>
+</Strings>

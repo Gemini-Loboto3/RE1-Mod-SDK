@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 60}</Text>
+</Strings>

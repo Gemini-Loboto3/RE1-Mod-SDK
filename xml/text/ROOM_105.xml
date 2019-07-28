@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 51}{scroll 0}\n {scroll 1}{clear 62}{scroll 0}\n {scroll 1}{clear 96}{scroll 0}\n {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 52}{scroll 0}\n {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 51}{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 41}{scroll 0}\n {scroll 1}{clear 76}{scroll 0}\n {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 89}</Text>
+    <Text>There may be more here\nworth investigating.</Text>
+    <Text>I've got to report this to\nWesker...</Text>
+    <Text>It's the hollow that an\nemblem was in.</Text>
+    <Text>\nAn emblem is in place.</Text>
+    <Text>\nBarry is investigating...</Text>
+    <Text>There is no time to check\nit.</Text>
+    <Text>\n </Text>
+    <Text>\nA picture of a woman.</Text>
+    <Text>A picture of beautiful\nscenery.</Text>
+    <Text>A dusty looking\nGrandfather Clock.</Text>
+    <Text>It is not running any\nmore.</Text>
+    <Text>\nDinner utensils.</Text>
+    <Text>It's dark outside and I\ncan't see very far.</Text>
+    <Text>\nThere's nothing inside.</Text>
+</Strings>

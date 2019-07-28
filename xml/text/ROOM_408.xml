@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{clear 20}{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 72}{scroll 0}\n {scroll 1}{timed 142}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 170}{scroll 0}\n {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 80}{scroll 0}\n {scroll 1}{timed 100}</Text>
+    <Text>\nIt won't move at all.{clear 0}It seems to be obstructed\nfrom the opposite side.</Text>
+    <Text>There's a panel with\nnumber keys.{clear 0}Will you push the keys?\n {branch 0 1 0}\nIt's locked.</Text>
+    <Text>\nIt's locked.</Text>
+</Strings>

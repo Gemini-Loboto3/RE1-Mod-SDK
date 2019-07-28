@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}Something is written on\nthe wall.{clear 0}Water=1, Red=2,\nPurple=3, Green=4{scroll 2}</Text>
+    <Text>{scroll 2}Something is written on\nthe wall.{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nThere's a UMB.No2.{scroll 2}</Text>
+    <Text>{scroll 2}\nThere's a UMB.No4.{scroll 2}</Text>
+    <Text>{scroll 2}\nA faucet.{scroll 2}</Text>
+    <Text>{scroll 2}Will you put water in the\nempty bottle?{branch 0 1 1}{scroll 2}There's a UMB.No2.{clear 0}Will you put UMB No.2 in the\nempty bottle?{branch 0 1 1}{scroll 2}There's a UMB.No4.{clear 0}Will you put UMB No.4 in the\nempty bottle?{branch 0 1 1}{scroll 2}There's UMB No.2. You need\na container to obtain it.{scroll 2}</Text>
+    <Text>{scroll 2}There's a UMB.No2.{clear 0}Will you put UMB No.2 in the\nempty bottle?{branch 0 1 1}{scroll 2}There's a UMB.No4.{clear 0}Will you put UMB No.4 in the\nempty bottle?{branch 0 1 1}{scroll 2}There's UMB No.2. You need\na container to obtain it.{scroll 2}</Text>
+    <Text>{scroll 2}There's a UMB.No4.{clear 0}Will you put UMB No.4 in the\nempty bottle?{branch 0 1 1}{scroll 2}There's UMB No.2. You need\na container to obtain it.{scroll 2}</Text>
+    <Text>{scroll 2}There's UMB No.2. You need\na container to obtain it.{scroll 2}</Text>
+    <Text>{scroll 2}There's UMB No.4. You need\na container to obtain it.{scroll 2}</Text>
+    <Text>\nIt's poison gas!{scroll 2}Perhaps I should leave for\na moment.{scroll 2}</Text>
+    <Text>{scroll 2}Perhaps I should leave for\na moment.{scroll 2}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 100}{scroll 0}\n{scroll 2}{timed 150}</Text>
+    <Text>Do you want me to heal\nyour wounds?{scroll 1}{branch 0 1 0}{scroll 0}\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 50}{scroll 0}\n{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 50}{scroll 0}\n{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 60}{scroll 0}\n{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 75}</Text>
+    <Text>\nRebecca treats Chris.{scroll 2}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}There's UMB No.2. But he\ncan't handle chemicals.{scroll 2}</Text>
+    <Text>{scroll 2}There's UMB No.4. But he\ncan't handle chemicals.{scroll 2}</Text>
+    <Text>{scroll 2}It's useless. Chris can't\nhandle chemicals.{scroll 2}</Text>
+</Strings>

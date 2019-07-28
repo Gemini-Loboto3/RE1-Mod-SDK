@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}It's a pass code output\nmachine.{clear 0}If I had a MO DISK,\nI could get the code...{scroll 2}</Text>
+    <Text>{scroll 2}I already have the pass\ncode.{scroll 2}</Text>
+</Strings>

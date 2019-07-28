@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>There's a switch. Will\nyou push it? {branch 1 1 0}\nA weird hole opens.{scroll 2}</Text>
+    <Text>\nA weird hole opens.{scroll 2}</Text>
+    <Text>Something can be seen in \nthe showcase.{scroll 2}</Text>
+    <Text>Heavy-looking suits of \narmor.{scroll 2}</Text>
+    <Text>\nPoison gas is escaping...!{scroll 2}{timed 1}</Text>
+</Strings>

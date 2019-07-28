@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}\nThe battery is pulled out.{scroll 1}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 150}{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 35}{scroll 0}\n {scroll 1}{clear 90}{scroll 0}\n {scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 110}{scroll 0}\n {scroll 1}{clear 50}{scroll 0}\n {scroll 1}{clear 80}{scroll 0}\n {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 120}{scroll 0}\n {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 100}{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{clear 40}{scroll 0}\n {scroll 1}{clear 80}{scroll 0}\n {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 60}{scroll 0}\n {scroll 1}{clear 40}{scroll 0}\n {scroll 1}{clear 80}{scroll 0}\n {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 170}{scroll 0}\n {scroll 1}{clear 40}{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 200}{scroll 0}\n {scroll 1}{timed 150}</Text>
+    <Text>{scroll 1}There's no reaction. \nIt has no power.{scroll 1}</Text>
+    <Text>{scroll 0}\n {scroll 1}{timed 100}</Text>
+</Strings>

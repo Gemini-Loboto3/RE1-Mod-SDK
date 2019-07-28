@@ -1,0 +1,164 @@
+<Encoding width="8" indent="0">
+	<Entry Encode="0x00" Char=" "/>
+	<Entry Encode="0x02" Char="@" width="14" indent="0"/>
+	<Entry Encode="0x05" Char="(" width="5" indent="3"/>
+	<Entry Encode="0x06" Char=")" width="5"/>
+	<Entry Encode="0x09" Char="«" width="7" indent="6"/>
+	<Entry Encode="0x0A" Char="»" width="7" indent="1"/>
+	<Entry Encode="0x0B" Char="@" width="14" indent="0"/>
+	<Entry Encode="0x0C" Char="0"/>
+	<Entry Encode="0x0D" Char="1"/>
+	<Entry Encode="0x0E" Char="2"/>
+	<Entry Encode="0x0F" Char="3"/>
+	<Entry Encode="0x10" Char="4"/>
+	<Entry Encode="0x11" Char="5"/>
+	<Entry Encode="0x12" Char="6"/>
+	<Entry Encode="0x13" Char="7"/>
+	<Entry Encode="0x14" Char="8"/>
+	<Entry Encode="0x15" Char="9"/>
+	<Entry Encode="0x16" Char=":" width="4" indent="2"/>
+	<Entry Encode="0x17" Char=";" width="4" indent="2"/>
+	<Entry Encode="0x18" Char="," width="4" indent="2"/>
+	<Entry Encode="0x19" Char="&#34;" width="7"/>
+	<Entry Encode="0x1A" Char="!" width="3" indent="2"/>
+	<Entry Encode="0x1B" Char="?" width="7"/>
+	<Entry Encode="0x1C" Char="⁉"/>
+	<Entry Encode="0x1D" Char="A"/>
+	<Entry Encode="0x1E" Char="B"/>
+	<Entry Encode="0x1F" Char="C"/>
+	<Entry Encode="0x20" Char="D"/>
+	<Entry Encode="0x21" Char="E"/>
+	<Entry Encode="0x22" Char="F"/>
+	<Entry Encode="0x23" Char="G"/>
+	<Entry Encode="0x24" Char="H"/>
+	<Entry Encode="0x25" Char="I" width="5" indent="2"/>
+	<Entry Encode="0x26" Char="J" width="7"/>
+	<Entry Encode="0x27" Char="K"/>
+	<Entry Encode="0x28" Char="L"/>
+	<Entry Encode="0x29" Char="M"/>
+	<Entry Encode="0x2A" Char="N"/>
+	<Entry Encode="0x2B" Char="O"/>
+	<Entry Encode="0x2C" Char="P"/>
+	<Entry Encode="0x2D" Char="Q"/>
+	<Entry Encode="0x2E" Char="R"/>
+	<Entry Encode="0x2F" Char="S"/>
+	<Entry Encode="0x30" Char="T"/>
+	<Entry Encode="0x31" Char="U"/>
+	<Entry Encode="0x32" Char="V"/>
+	<Entry Encode="0x33" Char="W"/>
+	<Entry Encode="0x34" Char="X"/>
+	<Entry Encode="0x35" Char="Y"/>
+	<Entry Encode="0x36" Char="Z"/>
+	<Entry Encode="0x37" Char="[" width="5" indent="3"/>
+	<Entry Encode="0x38" Char="/"/>
+	<Entry Encode="0x39" Char="]" width="5" indent="3"/>
+	<Entry Encode="0x3A" Char="&#39;" width="4"/>
+	<Entry Encode="0x3B" Char="-" width="7"/>
+	<Entry Encode="0x3C" Char="·" width="7"/>
+	<Entry Encode="0x3D" Char="a"/>
+	<Entry Encode="0x3E" Char="b"/>
+	<Entry Encode="0x3F" Char="c"/>
+	<Entry Encode="0x40" Char="d"/>
+	<Entry Encode="0x41" Char="e"/>
+	<Entry Encode="0x42" Char="f"/>
+	<Entry Encode="0x43" Char="g"/>
+	<Entry Encode="0x44" Char="h"/>
+	<Entry Encode="0x45" Char="i" width="5" indent="2"/>
+	<Entry Encode="0x46" Char="j" width="4" indent="2"/>
+	<Entry Encode="0x47" Char="k"/>
+	<Entry Encode="0x48" Char="l" width="5" indent="2"/>
+	<Entry Encode="0x49" Char="m" width="7"/>
+	<Entry Encode="0x4A" Char="n"/>
+	<Entry Encode="0x4B" Char="o"/>
+	<Entry Encode="0x4C" Char="p"/>
+	<Entry Encode="0x4D" Char="q"/>
+	<Entry Encode="0x4E" Char="r" width="7"/>
+	<Entry Encode="0x4F" Char="s" width="7"/>
+	<Entry Encode="0x50" Char="t" width="6" indent="1"/>
+	<Entry Encode="0x51" Char="u"/>
+	<Entry Encode="0x52" Char="v"/>
+	<Entry Encode="0x53" Char="w"/>
+	<Entry Encode="0x54" Char="x" width="7"/>
+	<Entry Encode="0x55" Char="y"/>
+	<Entry Encode="0x56" Char="z"/>
+	<Entry Encode="0x57" Char="Ä"/>
+	<Entry Encode="0x58" Char="ä"/>
+	<Entry Encode="0x59" Char="Ö"/>
+	<Entry Encode="0x5A" Char="ö"/>
+	<Entry Encode="0x5B" Char="Ü"/>
+	<Entry Encode="0x5C" Char="ü"/>
+	<Entry Encode="0x5D" Char="ß"/>
+	<Entry Encode="0x5E" Char="À"/>
+	<Entry Encode="0x5F" Char="à"/>
+	<Entry Encode="0x60" Char="Â"/>
+	<Entry Encode="0x61" Char="â"/>
+	<Entry Encode="0x62" Char="È"/>
+	<Entry Encode="0x63" Char="è"/>
+	<Entry Encode="0x64" Char="É"/>
+	<Entry Encode="0x65" Char="é"/>
+	<Entry Encode="0x66" Char="Ê"/>
+	<Entry Encode="0x67" Char="ê"/>
+	<Entry Encode="0x68" Char="Ï" width="5" indent="2"/>
+	<Entry Encode="0x69" Char="ï" width="5" indent="2"/>
+	<Entry Encode="0x6A" Char="Î" width="5" indent="2"/>
+	<Entry Encode="0x6B" Char="î" width="5" indent="2"/>
+	<Entry Encode="0x6C" Char="Ô"/>
+	<Entry Encode="0x6D" Char="ô"/>
+	<Entry Encode="0x6E" Char="Ù"/>
+	<Entry Encode="0x6F" Char="ù"/>
+	<Entry Encode="0x70" Char="Û"/>
+	<Entry Encode="0x71" Char="û"/>
+	<Entry Encode="0x72" Char="Ç"/>
+	<Entry Encode="0x73" Char="ç"/>
+	<Entry Encode="0x74" Char="Ｓ"/>
+	<Entry Encode="0x75" Char="Ｔ"/>
+	<Entry Encode="0x76" Char="Ａ"/>
+	<Entry Encode="0x77" Char="Ｒ"/>
+	<Entry Encode="0x78" Char="“" width="7"/>
+	<Entry Encode="0x79" Char="." width="4"/>
+	<Entry Encode="0x7A" Char="…"/>
+	<Entry Encode="0x7B" Char="‒"/>
+	<Entry Encode="0x7C" Char="–"/>
+	<Entry Encode="0x7D" Char="+"/>
+	<Entry Encode="0x7E" Char="=" width="7"/>
+	<Entry Encode="0x7F" Char="&amp;"/>
+	<Entry Encode="0x80" Char="‰"/>
+	<Entry Encode="0x81" Char="‰"/>
+	<Entry Encode="0x82" Char="‰"/>
+	<Entry Encode="0x83" Char="‰"/>
+	<Entry Encode="0x84" Char="Ñ"/>
+	<Entry Encode="0x85" Char="ñ"/>
+	<Entry Encode="0x86" Char="Ë"/>
+	<Entry Encode="0x87" Char="ë"/>
+	<Entry Encode="0x88" Char="°" width="5"/>
+	<Entry Encode="0x89" Char="ª" width="7"/>
+	<Entry Encode="0x8A" Char="Á"/>
+	<Entry Encode="0x8B" Char="á"/>
+	<Entry Encode="0x8C" Char="Í" width="5" indent="2"/>
+	<Entry Encode="0x8D" Char="í" width="5" indent="2"/>
+	<Entry Encode="0x8E" Char="Ó"/>
+	<Entry Encode="0x8F" Char="ó"/>
+	<Entry Encode="0x90" Char="Ú"/>
+	<Entry Encode="0x91" Char="ú"/>
+	<Entry Encode="0x92" Char="¿" width="7"/>
+	<Entry Encode="0x93" Char="¡" width="3" indent="2"/>
+	<Entry Encode="0x94" Char="Ì" width="5" indent="2"/>
+	<Entry Encode="0x95" Char="ì" width="5" indent="2"/>
+	<Entry Encode="0x96" Char="Ò"/>
+	<Entry Encode="0x97" Char="ò"/>
+	<Entry Encode="0x98" Char="$"/>
+	<Entry Encode="0x99" Char="*"/>
+	<Entry Encode="0x9A" Char="„" width="7"/>
+	<Entry Encode="0x9B" Char="‟" width="7"/>
+	<Entry Encode="0x9C" Char="▲"/>
+	<Entry Encode="0x9D" Char="`" width="4" indent="2"/>
+	<Entry Encode="0x9E" Char="Æ" width="11"/>
+	<Entry Encode="0x9F" Char="æ" width="11"/>
+	<Entry Encode="0xA0" Char="Ø"/>
+	<Entry Encode="0xA1" Char="ø"/>
+	<Entry Encode="0xA2" Char="Å"/>
+	<Entry Encode="0xA3" Char="å"/>
+	<!-- fake symbols used by save files to display correct messages -->
+	<Entry Encode="0x16" Char="^" width="4" indent="2"/>
+	<Entry Encode="0x38" Char="_"/>
+</Encoding>
