@@ -54,6 +54,15 @@
     <ClInclude Include="re1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MarniExModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="obj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3d_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="depack_pak.cpp">
@@ -84,6 +93,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MarniExModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="obj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3d_math.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -12,6 +12,9 @@
 #include "RoomRE1.h"
 #include "tinyxml2.h"
 #include "re1.h"
+#include "obj.h"
+#include "MarniExModel.h"
+#include "3d_math.h"
 
 void StringsToXml(std::vector<std::string> &str, LPCSTR out_name);
 
@@ -652,9 +655,127 @@ void Extract_esp_tbl(u8 *pExe, LPCSTR out_name)
 	xml.SaveFile(out_name);
 }
 
+void Extract_icons(LPCSTR folder_name, LPCSTR out_name, u8 *pExe)
+{
+	char path[MAX_PATH];
+	ITEM_DATA *data = (ITEM_DATA*)&pExe[0x4CCCBC - EXE_DIFF_J];
+	
+	CTim tim;
+	CBufferFile icons;
+
+	sprintf_s(path, MAX_PATH, "%s\\STATUS.TIM", folder_name);
+	icons.Open(path);
+	tim.Open(icons.data);
+
+	sprintf_s(path, MAX_PATH, "%s\\ITEM_ALL.PIX", folder_name);
+	icons.Open(path);
+
+	CBitmap bmp;
+	//u8 *ico = icons.GetBuffer();
+	std::vector<u32> rgb = std::vector<u32>(256);
+	Convert_clut(&tim.clut[256 * 2], &rgb[0], 256);
+	for (int i = 0, icon = 0; i < 2; i++)
+	{
+		bmp.Create(256, 256);
+		for (int j = 0; j < 6 * 8; j++, icon++)
+		{
+			u8 *ico = icons.GetBuffer() + (data[icon].Icon - 1) * (40 * 30);
+			for (int k = 0; k < 30 * 40; k++)
+			{
+				bmp.setPixel((k % 40) + (j % 6) * 40,  (k / 40) + (j / 6) * 30, rgb[*ico++]);
+			}
+		}
+		sprintf_s(path, MAX_PATH, "%s_%d.png", out_name, i);
+		bmp.SavePng(path);
+	}
+}
+
+void ExportIVM(const char *in_name, const char *out_name)
+{
+	MarniExTMD tmd;
+	CBufferFile b(in_name);
+	if (b.GetBuffer() == nullptr)
+		return;
+	tmd.Open(b.GetBuffer() + 0x10220);
+
+	obj obj;
+	int total = 0;
+	// total of vertices
+	for (int i = 0; i < tmd.Count; i++)
+		total += tmd.joint[i].Count;
+
+	obj.vc = total * 3;
+	obj.vv = new struct obj_vert[total * 3];
+
+	CMatrix roty;
+	MatrixRotateXYZ(&roty, 0.f, DEGTORAD(180.f), DEGTORAD(180.f));
+
+	for (int o = 0, b = 0; o < tmd.Count; o++)
+	{
+		for (int i = 0; i < tmd.joint[o].Count * 3; i++, b++)
+		{
+			CVector v(tmd.joint[o].p[i].x, tmd.joint[o].p[i].y, tmd.joint[o].p[i].z);
+			CVector r = MatrixTransformVector(v, roty);
+			obj.vv[b].v[0] = r.x * 100.f;
+			obj.vv[b].v[1] = r.y * 100.f;
+			obj.vv[b].v[2] = r.z * 100.f;
+			CVector n(tmd.joint[o].p[i].n[0], tmd.joint[o].p[i].n[1], tmd.joint[o].p[i].n[2]);
+			r = MatrixTransformVector(n, roty);
+			obj.vv[b].n[0] = r.x;
+			obj.vv[b].n[1] = r.y;
+			obj.vv[b].n[2] = r.z;
+			obj.vv[b].t[0] = tmd.joint[o].p[i].u;
+			obj.vv[b].t[1] = 1.0f - tmd.joint[o].p[i].v;
+		}
+	}
+
+	obj.sc = tmd.Count;
+	obj.sv = new struct obj_surf[tmd.Count];
+	for (int i = 0, b = 0; i < tmd.Count; i++)
+	{
+		obj.sv[i].pv = new struct obj_poly[tmd.joint[i].Count];
+		obj.sv[i].pc = tmd.joint[i].Count;
+		for (int j = 0; j < tmd.joint[i].Count; j++)
+		{
+			obj.sv[i].pv[j].vi[0] = (j + b) * 3 + 0;
+			obj.sv[i].pv[j].vi[1] = (j + b) * 3 + 1;
+			obj.sv[i].pv[j].vi[2] = (j + b) * 3 + 2;
+		}
+		b += tmd.joint[i].Count;
+	}
+
+	obj_write_obj(&obj, std::string(std::string(out_name) + ".obj").c_str(), nullptr, 8);
+
+	for (int i = 0; i < obj.sc; i++)
+	{
+		delete[] obj.sv[i].pv;
+	}
+	delete[] obj.vv;
+	delete[] obj.sv;
+
+	CBitmap bmp;
+	bmp.CreateFromTim(b.GetBuffer(), 0);
+	bmp.SavePng(std::string(std::string(out_name) + ".png").c_str());
+}
+
 int main()
 {
-	Set_color_mode(0);
+	CBufferFile exe;
+	exe.Open("BIOHAZARD.EXE");
+
+	Set_color_mode(1);
+
+	for (int i = 0; i < 80; i++)
+	{
+		char path1[MAX_PATH], path2[MAX_PATH];
+		sprintf_s(path1, MAX_PATH, "D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\I%02dV.IVM", i);
+		sprintf_s(path2, MAX_PATH, "ivm\\I%02dV", i);
+		ExportIVM(path1, path2);
+	}
+	ExportIVM("D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\ING.IVM", "ivm\\ING");
+	ExportIVM("D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\MINI.IVM", "ivm\\MINI");
+
+	Extract_icons("D:\\Program Files\\RESIDENT EVIL\\JPN\\DATA", "item_all", exe.GetBuffer());
 
 	//Extract_files("file", "file_png");
 
@@ -662,14 +783,13 @@ int main()
 	//Extract_strings(exe.GetBuffer(), 0x4BFC70, 63, "misc.xml");
 	//Extract_strings(exe.GetBuffer(), 0x4C6170, 79, "desc.xml");
 
-	//exe.Open("BIOHAZARD.EXE");
 	//ExtractItems(exe.GetBuffer());
 	//Extract_weapon_tbl(exe.GetBuffer(), 0xAD308, "damage_tbl_0.xml");
 	//Extract_esp_tbl(exe.GetBuffer(), "esp.xml");
 	//Extract_weapon_tbl(exe.GetBuffer(), 0xADC68, "damage_tbl_1.xml");
 
 	//Extract_strings(exe.GetBuffer(), 0x4BF0B8, 128, "test.txt");
-	Extract_messages("D:\\Program Files\\RESIDENT EVIL\\USA", "dialog");
+	//Extract_messages("D:\\Program Files\\RESIDENT EVIL\\USA", "dialog");
 	//Extract_bgs_psx();
 	//Extract_bgs();
 	//Extract_bg("D:\\Program Files\\RESIDENT EVIL\\JPN\\STAGE1\\RC1050.pak", "test");

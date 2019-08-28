@@ -1,0 +1,39 @@
+<Init>
+	<!-- Jill -->
+	<Player>
+		<!-- knife -->
+		<Entry id="1" count="0"/>
+		<!-- beretta -->
+		<Entry id="2" count="15"/>
+		<!-- knife -->
+		<Entry id="65" count="1"/>
+		<!-- empty -->
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+	</Player>
+	<!-- Chris & Rebecca -->
+	<Player>
+	<!-- Chris -->
+		<!-- knife -->
+		<Entry id="1" count="1"/>
+		<!-- spray -->
+		<Entry id="65" count="1"/>
+		<!-- empty -->
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+	<!-- Rebecca -->
+		<!-- beretta -->
+		<Entry id="2" count="15"/>
+		<!-- empty -->
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+		<Entry id="0" count="0"/>
+	</Player>
+</Init>

@@ -155,13 +155,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="3d_math.h" />
     <ClInclude Include="Bitmap.h" />
     <ClInclude Include="decoder\mdec.h" />
     <ClInclude Include="depack_pak.h" />
     <ClInclude Include="FileHandle.h" />
     <ClInclude Include="int24.h" />
     <ClInclude Include="lodepng.h" />
+    <ClInclude Include="MarniExModel.h" />
     <ClInclude Include="memstream.h" />
+    <ClInclude Include="obj.h" />
     <ClInclude Include="re1.h" />
     <ClInclude Include="RoomRE1.h" />
     <ClInclude Include="stdafx.h" />
@@ -169,14 +172,17 @@
     <ClInclude Include="tinyxml2.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="3d_math.cpp" />
     <ClCompile Include="Bitmap.cpp" />
     <ClCompile Include="decoder\mdec.cpp" />
     <ClCompile Include="Decoding.cpp" />
     <ClCompile Include="depack_pak.cpp" />
     <ClCompile Include="FileHandle.cpp" />
     <ClCompile Include="lodepng.cpp" />
+    <ClCompile Include="MarniExModel.cpp" />
     <ClCompile Include="memstream.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="obj.cpp" />
     <ClCompile Include="RoomRE1.cpp" />
     <ClCompile Include="tinyxml2.cpp" />
   </ItemGroup>
