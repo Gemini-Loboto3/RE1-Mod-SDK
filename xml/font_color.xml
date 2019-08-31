@@ -1,0 +1,14 @@
+<Font>
+	<!-- white, regular text -->
+	<Color>#ffffff</Color>
+	<!-- green, chris saves -->
+	<Color>#00ff00</Color>
+	<!-- red, countdown timer -->
+	<Color>#d00050</Color>
+	<!-- grey, disabled text -->
+	<Color>#808080</Color>
+	<!-- gold, new game+ text -->
+	<Color>#ffd700</Color>
+	<!-- blue, jill saves -->
+	<Color>#4080ff</Color>
+</Font>
