@@ -580,8 +580,8 @@ void Extract_weapon_tbl(const u8 *pExe, u32 ptr, LPCSTR out_name)
 
 	static LPCSTR wp_name[] =
 	{
-		"Knife",	"Handgun",	"Shotgun",	"Magnum",
-		"Dumdum",	"Fuel",		"Explosive","Acid",
+		"Knife",	"Handgun",	"Shotgun",	"Dumdum",
+		"Magnum",	"Fuel",		"Explosive","Acid",
 		"Flame",	"Rocket"
 	};
 	static LPCSTR em_name[]=
@@ -758,6 +758,40 @@ void ExportIVM(const char *in_name, const char *out_name)
 	bmp.SavePng(std::string(std::string(out_name) + ".png").c_str());
 }
 
+void DumpSoundTables(u8 *pExe)
+{
+	char path[MAX_PATH];
+
+	CreateDirectory("Tables", nullptr);
+	u32 *tbl = (u32*)&pExe[0xC1D28];
+
+	for (int i = 0; i < 7; i++)
+	{
+		for (int j = 0; j < 29; j++)
+		{
+			u32 *ntbl = (u32*)&pExe[*tbl - EXE_DIFF_J];
+			sprintf_s(path, MAX_PATH, "Tables\\room_%X%02X.xml", i + 1, j);
+
+			XMLDocument xml;
+			xml.SetBOM(true);
+
+			XMLElement *s = xml.NewElement("Room");
+			for (int k = 0; k < 48; k++)
+			{
+				auto e = xml.NewElement("Entry");
+				e->SetText(ntbl[k] ? (char*)&pExe[ntbl[k] - EXE_DIFF_J] : "");
+				if(k == 0) s->InsertEndChild(xml.NewComment(" enemy "));
+				if(k == 16) s->InsertEndChild(xml.NewComment(" block 1 "));
+				if (k == 32) s->InsertEndChild(xml.NewComment(" block 2 "));
+				s->InsertEndChild(e);
+			}
+			xml.InsertEndChild(s);
+			xml.SaveFile(path);
+			tbl++;
+		}
+	}
+}
+
 int main()
 {
 	CBufferFile exe;
@@ -765,17 +799,19 @@ int main()
 
 	Set_color_mode(1);
 
-	for (int i = 0; i < 80; i++)
-	{
-		char path1[MAX_PATH], path2[MAX_PATH];
-		sprintf_s(path1, MAX_PATH, "D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\I%02dV.IVM", i);
-		sprintf_s(path2, MAX_PATH, "ivm\\I%02dV", i);
-		ExportIVM(path1, path2);
-	}
-	ExportIVM("D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\ING.IVM", "ivm\\ING");
-	ExportIVM("D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\MINI.IVM", "ivm\\MINI");
+	DumpSoundTables(exe.GetBuffer());
 
-	Extract_icons("D:\\Program Files\\RESIDENT EVIL\\JPN\\DATA", "item_all", exe.GetBuffer());
+	//for (int i = 0; i < 80; i++)
+	//{
+	//	char path1[MAX_PATH], path2[MAX_PATH];
+	//	sprintf_s(path1, MAX_PATH, "D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\I%02dV.IVM", i);
+	//	sprintf_s(path2, MAX_PATH, "ivm\\I%02dV", i);
+	//	ExportIVM(path1, path2);
+	//}
+	//ExportIVM("D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\ING.IVM", "ivm\\ING");
+	//ExportIVM("D:\\Program Files\\RESIDENT EVIL\\JPN\\ITEM_M2\\MINI.IVM", "ivm\\MINI");
+
+	//Extract_icons("D:\\Program Files\\RESIDENT EVIL\\JPN\\DATA", "item_all", exe.GetBuffer());
 
 	//Extract_files("file", "file_png");
 
@@ -784,7 +820,7 @@ int main()
 	//Extract_strings(exe.GetBuffer(), 0x4C6170, 79, "desc.xml");
 
 	//ExtractItems(exe.GetBuffer());
-	//Extract_weapon_tbl(exe.GetBuffer(), 0xAD308, "damage_tbl_0.xml");
+	Extract_weapon_tbl(exe.GetBuffer(), 0xAD308, "damage_tbl.xml");
 	//Extract_esp_tbl(exe.GetBuffer(), "esp.xml");
 	//Extract_weapon_tbl(exe.GetBuffer(), 0xADC68, "damage_tbl_1.xml");
 
