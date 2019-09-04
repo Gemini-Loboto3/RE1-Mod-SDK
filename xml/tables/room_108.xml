@@ -1,4 +1,4 @@
-﻿<Room>
+﻿<Sound>
     <!-- enemy -->
     <Entry>cer_foot</Entry>
     <Entry>cer_taoA</Entry>
@@ -50,4 +50,4 @@
     <Entry>ft_cpA</Entry>
     <Entry>ft_cpB</Entry>
     <Entry>taore_cp</Entry>
-</Room>
+</Sound>

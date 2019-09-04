@@ -1,4 +1,4 @@
-﻿<Room>
+﻿<Sound>
     <!-- enemy -->
     <Entry>z_taore</Entry>
     <Entry>z_ftL</Entry>
@@ -50,4 +50,4 @@
     <Entry>ft_stwd</Entry>
     <Entry></Entry>
     <Entry></Entry>
-</Room>
+</Sound>

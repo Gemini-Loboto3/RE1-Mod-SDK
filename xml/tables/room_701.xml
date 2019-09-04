@@ -1,4 +1,4 @@
-﻿<Room>
+﻿<Sound>
     <!-- enemy -->
     <Entry>HU_walkA</Entry>
     <Entry>HU_walkB</Entry>
@@ -50,4 +50,4 @@
     <Entry>ft_stwd</Entry>
     <Entry></Entry>
     <Entry></Entry>
-</Room>
+</Sound>

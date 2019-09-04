@@ -1,4 +1,4 @@
-﻿<Room>
+﻿<Sound>
     <!-- enemy -->
     <Entry>GV_move</Entry>
     <Entry>GV_dino</Entry>
@@ -50,4 +50,4 @@
     <Entry>ft_wdA</Entry>
     <Entry>ft_wdB</Entry>
     <Entry>taore_wd</Entry>
-</Room>
+</Sound>

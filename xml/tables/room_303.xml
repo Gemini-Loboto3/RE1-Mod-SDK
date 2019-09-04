@@ -1,4 +1,4 @@
-﻿<Room>
+﻿<Sound>
     <!-- enemy -->
     <Entry>TY_foot</Entry>
     <Entry>TY_kaze</Entry>
@@ -50,4 +50,4 @@
     <Entry>ft_concA</Entry>
     <Entry>ft_concB</Entry>
     <Entry>taore_st</Entry>
-</Room>
+</Sound>

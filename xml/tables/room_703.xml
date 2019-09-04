@@ -1,4 +1,4 @@
-﻿<Room>
+﻿<Sound>
     <!-- enemy -->
     <Entry></Entry>
     <Entry></Entry>
@@ -50,4 +50,4 @@
     <Entry>ft_stwp</Entry>
     <Entry></Entry>
     <Entry></Entry>
-</Room>
+</Sound>

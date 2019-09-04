@@ -155,7 +155,7 @@ void Extract_bs(LPCSTR in_name, LPCSTR out_name)
 	MemStreamOpen(&s, in_name);
 	if (s.data == NULL)
 		return;
-	char name[MAX_PATH];
+	//char name[MAX_PATH];
 	u16* out = new u16[320 * 240];
 
 	//PsxMdecIDCT_double idct;
@@ -775,7 +775,7 @@ void DumpSoundTables(u8 *pExe)
 			XMLDocument xml;
 			xml.SetBOM(true);
 
-			XMLElement *s = xml.NewElement("Room");
+			XMLElement *s = xml.NewElement("Sound");
 			for (int k = 0; k < 48; k++)
 			{
 				auto e = xml.NewElement("Entry");
@@ -792,6 +792,152 @@ void DumpSoundTables(u8 *pExe)
 	}
 }
 
+void DumpPlayerTables(u8 *pExe)
+{
+	char path[MAX_PATH];
+
+	CreateDirectory("Tables", nullptr);
+	u32 *tbl = (u32*)&pExe[0xC2650];
+
+	for (int i = 0; i < 8; i++)
+	{
+		u32 *ntbl = (u32*)&pExe[*tbl - EXE_DIFF_J];
+		sprintf_s(path, MAX_PATH, "Tables\\player_%02d.xml", i);
+
+		XMLDocument xml;
+		xml.SetBOM(true);
+
+		XMLElement *s = xml.NewElement("Sound");
+		for (int k = 0; k < 16; k++)
+		{
+			auto e = xml.NewElement("Entry");
+			e->SetText(ntbl[k] ? (char*)&pExe[ntbl[k] - EXE_DIFF_J] : "");
+			s->InsertEndChild(e);
+		}
+		xml.InsertEndChild(s);
+		xml.SaveFile(path);
+		tbl++;
+	}
+}
+
+void DumpCoreTables(u8 *pExe)
+{
+	char path[MAX_PATH];
+
+	CreateDirectory("Tables", nullptr);
+	u32 *tbl = (u32*)&pExe[0xC23D8];
+
+	for (int i = 0; i < 16; i++)
+	{
+		u32 *ntbl = (u32*)&pExe[*tbl - EXE_DIFF_J];
+		sprintf_s(path, MAX_PATH, "Tables\\core_%02d.xml", i);
+
+		XMLDocument xml;
+		xml.SetBOM(true);
+
+		XMLElement *s = xml.NewElement("Sound");
+		for (int k = 0; k < 16; k++)
+		{
+			auto e = xml.NewElement("Entry");
+			e->SetText(ntbl[k] ? (char*)&pExe[ntbl[k] - EXE_DIFF_J] : "");
+			s->InsertEndChild(e);
+		}
+		xml.InsertEndChild(s);
+		xml.SaveFile(path);
+		tbl++;
+	}
+}
+
+void DumpDoorTables(u8 *pExe)
+{
+	char path[MAX_PATH];
+
+	CreateDirectory("Tables", nullptr);
+	u32 *tbl = (u32*)&pExe[0xC2490];
+
+	for (int i = 0; i < 15; i++)
+	{
+		u32 *ntbl = (u32*)&pExe[*tbl - EXE_DIFF_J];
+		sprintf_s(path, MAX_PATH, "Tables\\door_%02d.xml", i);
+
+		XMLDocument xml;
+		xml.SetBOM(true);
+
+		XMLElement *s = xml.NewElement("Sound");
+		for (int k = 0; k < 2; k++)
+		{
+			auto e = xml.NewElement("Entry");
+			e->SetText(ntbl[k] ? (char*)&pExe[ntbl[k] - EXE_DIFF_J] : "");
+			s->InsertEndChild(e);
+		}
+		xml.InsertEndChild(s);
+		xml.SaveFile(path);
+		tbl++;
+	}
+}
+
+void DumpBgmTables(u8 *pExe)
+{
+	char path[MAX_PATH];
+
+	CreateDirectory("Tables", nullptr);
+	u32 *tbl = (u32*)&pExe[0xC2A00];
+	u32 *idx = (u32*)&pExe[0xC2BC8];
+
+	for (int i = 0; i < 57; i++)
+	{
+		u32 *ntbl = (u32*)&pExe[*tbl - EXE_DIFF_J];
+		u8  *itbl = (u8*) &pExe[*idx - EXE_DIFF_J];
+		sprintf_s(path, MAX_PATH, "Tables\\bgm_%02d.xml", i);
+
+		XMLDocument xml;
+		xml.SetBOM(true);
+
+		XMLElement *s = xml.NewElement("Sound");
+		for (int k = 0; k < 4; k++)
+		{
+			auto e = xml.NewElement("Entry");
+			e->SetText(ntbl[k] ? (char*)&pExe[ntbl[k] - EXE_DIFF_J] : "");
+			e->SetAttribute("auto", itbl[k]);
+			s->InsertEndChild(e);
+		}
+		xml.InsertEndChild(s);
+		xml.SaveFile(path);
+		tbl++;
+		idx++;
+	}
+
+	XMLDocument xml;
+	xml.SetBOM(true);
+
+	u8 *dat = &pExe[0xC2E78];
+
+	XMLElement *s = xml.NewElement("Bgm");
+	for (int Stage = 1; Stage < 8; Stage++)
+	{
+		for (int Room = 0; Room < 32; Room++)
+		{
+			char room[8];
+			sprintf_s(room, 8, "%X%02X", Stage, Room);
+			auto r = xml.NewElement("Room");
+			s->InsertEndChild(xml.NewComment(room));
+			for (int i = 0; i < 4; i++)
+			{
+				if (dat[i] == 0xff) continue;
+				sprintf_s(room, 8, "bgm_%d", i);
+				r->SetAttribute(room, dat[i]);
+				//auto e = xml.NewElement("Entry");
+				//e->SetAttribute("val", dat[i]);
+				//r->InsertEndChild(e);
+			}
+			s->InsertEndChild(r);
+			dat += 4;
+		}
+	}
+	xml.InsertEndChild(s);
+	xml.SaveFile("bgm_tbl.xml");
+}
+
 int main()
 {
 	CBufferFile exe;
@@ -800,6 +946,10 @@ int main()
 	Set_color_mode(1);
 
 	DumpSoundTables(exe.GetBuffer());
+	DumpPlayerTables(exe.GetBuffer());
+	DumpCoreTables(exe.GetBuffer());
+	DumpDoorTables(exe.GetBuffer());
+	DumpBgmTables(exe.GetBuffer());
 
 	//for (int i = 0; i < 80; i++)
 	//{
