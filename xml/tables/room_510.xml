@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>FL_walk</Entry>
+    <Entry>FL_jump</Entry>
+    <Entry>steam_b</Entry>
+    <Entry>FL_ceil</Entry>
+    <Entry>FL_fall</Entry>
+    <Entry>FL_slash</Entry>
+    <Entry>FL_att</Entry>
+    <Entry>FL_dam</Entry>
+    <Entry>FL_out</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>type02</Entry>
+    <Entry>steam_a</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_mtnA</Entry>
+    <Entry>ft_mtnB</Entry>
+    <Entry>taore_pl</Entry>
+    <Entry>ft_plaA</Entry>
+    <Entry>ft_plaB</Entry>
+    <Entry>taore_pl</Entry>
+    <Entry>ft_concA</Entry>
+    <Entry>ft_concB</Entry>
+    <Entry>taore_st</Entry>
+</Room>

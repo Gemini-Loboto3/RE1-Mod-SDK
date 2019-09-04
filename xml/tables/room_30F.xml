@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>R_pass</Entry>
+    <Entry>crank</Entry>
+    <Entry></Entry>
+    <Entry>rck_hitA</Entry>
+    <Entry>rck_hitB</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>rck_stop</Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry>ELV1</Entry>
+    <Entry>ELV2</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_caveA</Entry>
+    <Entry>ft_caveB</Entry>
+    <Entry>taore_ca</Entry>
+</Room>

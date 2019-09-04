@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>PYe_mena</Entry>
+    <Entry>PYe_hit</Entry>
+    <Entry>PYe_fall</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>DM_gacha</Entry>
+    <Entry></Entry>
+    <Entry>mv_cp</Entry>
+    <Entry>hookmix</Entry>
+    <Entry>lockoutA</Entry>
+    <Entry>lockoutB</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_caveA</Entry>
+    <Entry>ft_caveB</Entry>
+    <Entry>taore_ca</Entry>
+</Room>

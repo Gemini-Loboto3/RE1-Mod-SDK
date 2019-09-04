@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>cer_foot</Entry>
+    <Entry>cer_taoA</Entry>
+    <Entry>cer_unar</Entry>
+    <Entry>cer_bite</Entry>
+    <Entry>cer_cryA</Entry>
+    <Entry>cer_taoB</Entry>
+    <Entry>cer_jkMX</Entry>
+    <Entry>cer_kamu</Entry>
+    <Entry>cer_cryB</Entry>
+    <Entry>cer_runMX</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>mv_show</Entry>
+    <Entry>glass</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_cpA</Entry>
+    <Entry>ft_cpB</Entry>
+    <Entry>taore_cp</Entry>
+</Room>

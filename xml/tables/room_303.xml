@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>TY_foot</Entry>
+    <Entry>TY_kaze</Entry>
+    <Entry>TY_slice</Entry>
+    <Entry>TY_HIT</Entry>
+    <Entry>TY_trust</Entry>
+    <Entry>TY_slef</Entry>
+    <Entry></Entry>
+    <Entry>TY_nage</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>Rancher</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>Ty_bomb</Entry>
+    <Entry>VB00_31a</Entry>
+    <Entry>VB00_31b</Entry>
+    <Entry>VB00_31c</Entry>
+    <Entry>TY_sube</Entry>
+    <!-- block 2 -->
+    <Entry>TY_crash</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_concA</Entry>
+    <Entry>ft_concB</Entry>
+    <Entry>taore_st</Entry>
+</Room>

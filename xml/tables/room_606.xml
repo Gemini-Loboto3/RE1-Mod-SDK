@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>D_gacha</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>cancel</Entry>
+    <Entry>type01</Entry>
+    <Entry>type02</Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>key_door</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_haA</Entry>
+    <Entry>ft_haB</Entry>
+    <Entry>taore_st</Entry>
+    <Entry>ft_cpA</Entry>
+    <Entry>ft_cpB</Entry>
+    <Entry>taore_cp</Entry>
+    <Entry>ft_stwp</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+</Room>

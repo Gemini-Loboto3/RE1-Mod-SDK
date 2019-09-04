@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>TY_foot</Entry>
+    <Entry>TY_kaze</Entry>
+    <Entry>TY_slice</Entry>
+    <Entry>TY_HIT</Entry>
+    <Entry>TY_trust</Entry>
+    <Entry></Entry>
+    <Entry>TY_taore</Entry>
+    <Entry>TY_nage</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>bubble_S</Entry>
+    <Entry>bubble_L</Entry>
+    <Entry>crackMIX</Entry>
+    <Entry>glass</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>conpane</Entry>
+    <Entry>key_lost</Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_mtnA</Entry>
+    <Entry>ft_mtnB</Entry>
+    <Entry>taore_pl</Entry>
+    <Entry>ft_plaA</Entry>
+    <Entry>ft_plaB</Entry>
+    <Entry>taore_pl</Entry>
+</Room>

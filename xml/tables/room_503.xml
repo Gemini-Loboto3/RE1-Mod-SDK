@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>z_taore</Entry>
+    <Entry>ze_ftL</Entry>
+    <Entry>z_ftR</Entry>
+    <Entry>ze_kamu</Entry>
+    <Entry>ze_tomo2</Entry>
+    <Entry>ze_tomo1</Entry>
+    <Entry>ze_head</Entry>
+    <Entry>ze_haki</Entry>
+    <Entry>ze_sanj</Entry>
+    <Entry>ze_tomo3</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>DM_gacha</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_mtnA</Entry>
+    <Entry>ft_mtnB</Entry>
+    <Entry>taore_pl</Entry>
+    <Entry>ft_concA</Entry>
+    <Entry>ft_concB</Entry>
+    <Entry>taore_st</Entry>
+    <Entry>ft_stmt</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+</Room>

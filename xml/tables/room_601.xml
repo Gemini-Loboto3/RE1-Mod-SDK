@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>HU_walkA</Entry>
+    <Entry>HU_walkB</Entry>
+    <Entry>HU_jump</Entry>
+    <Entry>HU_att</Entry>
+    <Entry>HU_land</Entry>
+    <Entry>HU_smash</Entry>
+    <Entry>HU_dam</Entry>
+    <Entry>HU_Nout</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>Reb01</Entry>
+    <Entry>Reb02</Entry>
+    <Entry>Reb03</Entry>
+    <Entry>Reb04</Entry>
+    <Entry>reb_scr</Entry>
+    <Entry>slback_c</Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>D_gacha</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_floA</Entry>
+    <Entry>ft_floB</Entry>
+    <Entry>taore_wd</Entry>
+    <Entry>ft_stwd</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+</Room>

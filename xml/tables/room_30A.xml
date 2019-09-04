@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>He_walkA</Entry>
+    <Entry>He_walkB</Entry>
+    <Entry>He_jump</Entry>
+    <Entry>He_att</Entry>
+    <Entry>He_land</Entry>
+    <Entry>He_smash</Entry>
+    <Entry>He_dam</Entry>
+    <Entry>He_Nout</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>gun_pf</Entry>
+    <Entry></Entry>
+    <Entry>yk_30a</Entry>
+    <Entry>taore_ca</Entry>
+    <Entry>v00d_02</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_caveA</Entry>
+    <Entry>ft_caveB</Entry>
+    <Entry>taore_ca</Entry>
+</Room>

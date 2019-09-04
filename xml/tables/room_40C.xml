@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>VN_air</Entry>
+    <Entry>VN_kazeA</Entry>
+    <Entry>VN_hitA</Entry>
+    <Entry>VN_kazeB</Entry>
+    <Entry>VN_hitL</Entry>
+    <Entry>VN_hitB</Entry>
+    <Entry>VN_sime</Entry>
+    <Entry>VN_OUT</Entry>
+    <Entry>VN_fall</Entry>
+    <Entry>VN_OUT2</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ch_sime</Entry>
+    <Entry>ji_sime</Entry>
+    <Entry>taore_s1</Entry>
+    <Entry>taore_wa</Entry>
+    <Entry>filefall</Entry>
+    <Entry>VN_body</Entry>
+    <Entry>sliding</Entry>
+    <Entry>blaze</Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_wdA</Entry>
+    <Entry>ft_wdB</Entry>
+    <Entry>taore_wd</Entry>
+    <Entry>ft_cpA</Entry>
+    <Entry>ft_cpB</Entry>
+    <Entry>taore_cp</Entry>
+</Room>

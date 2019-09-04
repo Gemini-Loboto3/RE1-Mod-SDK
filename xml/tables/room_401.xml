@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>z_taore</Entry>
+    <Entry>z_ftL</Entry>
+    <Entry>z_ftR</Entry>
+    <Entry>z_kamu</Entry>
+    <Entry>z_simo02</Entry>
+    <Entry>z_simo01</Entry>
+    <Entry>z_head</Entry>
+    <Entry>z_Hkick</Entry>
+    <Entry>z_Ugoron</Entry>
+    <Entry>z_simo03</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 1 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>drw_opwd</Entry>
+    <Entry>drw_shwd</Entry>
+    <Entry>key_desk</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_cpA</Entry>
+    <Entry>ft_cpB</Entry>
+    <Entry>taore_cp</Entry>
+    <Entry>ft_wdA</Entry>
+    <Entry>ft_wdB</Entry>
+    <Entry>taore_wd</Entry>
+</Room>

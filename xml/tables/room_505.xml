@@ -1,0 +1,53 @@
+﻿<Room>
+    <!-- enemy -->
+    <Entry>z_taore</Entry>
+    <Entry>zep_ftL</Entry>
+    <Entry>z_ftR</Entry>
+    <Entry>ze_kamu</Entry>
+    <Entry>z_nisi2</Entry>
+    <Entry>z_nisi1</Entry>
+    <Entry>ze_head</Entry>
+    <Entry>ze_haki</Entry>
+    <Entry>ze_sanj</Entry>
+    <Entry>z_nisi3</Entry>
+    <Entry>FL_walk</Entry>
+    <Entry>FL_jump</Entry>
+    <Entry>steam_b</Entry>
+    <Entry>FL_ceil</Entry>
+    <Entry>FL_fall</Entry>
+    <Entry>FL_slash</Entry>
+    <!-- block 1 -->
+    <Entry>FL_att</Entry>
+    <Entry>FL_dam</Entry>
+    <Entry>FL_out</Entry>
+    <Entry></Entry>
+    <Entry>DM_gacha</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>kns_tetu</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <!-- block 2 -->
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+    <Entry>ft_concA</Entry>
+    <Entry>ft_concB</Entry>
+    <Entry>taore_st</Entry>
+    <Entry>ft_stmt</Entry>
+    <Entry></Entry>
+    <Entry></Entry>
+</Room>
