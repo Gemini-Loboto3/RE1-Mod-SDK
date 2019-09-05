@@ -1,6 +1,6 @@
 ﻿<Sound>
-    <Entry auto="1">Se_55</Entry>
-    <Entry auto="1">Bgm_20</Entry>
-    <Entry auto="1">Bgm_24</Entry>
-    <Entry auto="0"></Entry>
+    <Entry loop="1">Se_55</Entry>
+    <Entry loop="1">Bgm_20</Entry>
+    <Entry loop="1">Bgm_24</Entry>
+    <Entry loop="0"></Entry>
 </Sound>

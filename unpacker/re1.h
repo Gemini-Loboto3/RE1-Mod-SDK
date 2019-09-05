@@ -84,8 +84,8 @@ typedef struct tagRdtHeader
 	u32 pEdd;			// 0x70 [DONE]
 	u32 pMessage;		// 0x74
 	u32 pRaw;			// 0x78
-	u32 pEsp;			// 0x7C
-	u32 pEff;			// 0x80
+	u32 pEsp;			// 0x7C (ESP header)
+	u32 pEff;			// 0x80 (pointer to ESP data)
 	u32 pTim;			// 0x84
 	u32 pEdt, pVh, pVb;	// 0x88-8C-90
 	RCUT Cut[1];		// 0x94 x[nCut] number of elements

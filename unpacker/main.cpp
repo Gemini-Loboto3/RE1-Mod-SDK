@@ -898,7 +898,7 @@ void DumpBgmTables(u8 *pExe)
 		{
 			auto e = xml.NewElement("Entry");
 			e->SetText(ntbl[k] ? (char*)&pExe[ntbl[k] - EXE_DIFF_J] : "");
-			e->SetAttribute("auto", itbl[k]);
+			e->SetAttribute("loop", itbl[k]);
 			s->InsertEndChild(e);
 		}
 		xml.InsertEndChild(s);
