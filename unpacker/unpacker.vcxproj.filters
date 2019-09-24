@@ -63,6 +63,27 @@
     <ClInclude Include="3d_math.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="psound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="encvag.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xxh3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xxhash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WAVFileReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wav_hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stringpool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="depack_pak.cpp">
@@ -102,6 +123,27 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="3d_math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="psound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="encvag.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="depack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xxhash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WAVFileReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wav_hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stringpool.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

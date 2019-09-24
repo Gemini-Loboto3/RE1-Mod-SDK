@@ -39,6 +39,7 @@ distribution.
 #   include <cstdio>
 #   include <cstdlib>
 #   include <cstring>
+#   include <string>
 #endif
 #include <stdint.h>
 
@@ -1502,6 +1503,7 @@ public:
     	GetText() will return "This is ".
     */
     const char* GetText() const;
+	std::string GetTexts() const;
 
     /** Convenience function for easy access to the text inside an element. Although easy
     	and concise, SetText() is limited compared to creating an XMLText child

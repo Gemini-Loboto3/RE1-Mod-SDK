@@ -5,6 +5,8 @@
 
 #include <stdafx.h>
 #include <iostream>
+#include <algorithm>
+#include <inttypes.h>
 #include "depack_pak.h"
 #include "Bitmap.h"
 #include "mdec\bs.h"
@@ -15,6 +17,10 @@
 #include "obj.h"
 #include "MarniExModel.h"
 #include "3d_math.h"
+#include "wav_hash.h"
+#include "psound.h"
+#include "encvag.h"
+#include "xxhash.h"
 
 void StringsToXml(std::vector<std::string> &str, LPCSTR out_name);
 
@@ -938,10 +944,481 @@ void DumpBgmTables(u8 *pExe)
 	xml.SaveFile("bgm_tbl.xml");
 }
 
+//
+
+class X64Hash
+{
+public:
+	class Entry
+	{
+	public:
+		Entry(XXH64_hash_t _h, std::string _n) :
+			h(_h), n(_n) {}
+
+		bool operator==(const Entry& h2) const
+		{
+			if (h == h2.h)
+				return true;
+
+			return false;
+		}
+
+		XXH64_hash_t h;
+		std::string n;
+	};
+
+	bool PushHash(const void* data, size_t size, LPCSTR name)
+	{
+		XXH64_hash_t hash = XXH64(data, size, 0);
+		Entry h = { hash, name };
+
+		auto f = std::find(hashes.begin(), hashes.end(), h);
+		if (f != hashes.end())
+			return true;
+		//for (size_t i = 0, si = hashes.size(); i < si; i++)
+		//	if (hash == hashes[i])
+		//		return;
+
+		hashes.push_back({ hash, name });
+		SortByHash();
+		return false;
+	}
+
+	void Write(LPCSTR out_name)
+	{
+		XMLDocument xml;
+		xml.SetBOM(true);
+
+		auto r = xml.NewElement("Hashes");
+		for (auto it = hashes.begin(); it != hashes.end(); it++)
+		{
+			char str[32];
+			auto e = xml.NewElement("Hash");
+			sprintf_s(str, 32, "%016llX", it->h);
+			e->SetAttribute("h", str);
+			e->SetAttribute("n", it->n.c_str());
+
+			for (int i = 0; i < 3; i++)
+			{
+				auto el = xml.NewElement("Alias");
+				el->SetText(i);
+				e->InsertEndChild(el);
+			}
+
+			r->InsertEndChild(e);
+		}
+		xml.InsertFirstChild(r);
+		xml.SaveFile(out_name);
+	}
+
+	void SortByHash()
+	{
+		std::sort(hashes.begin(), hashes.end(), [](Entry& a, Entry& b)
+		{
+			return a.h < b.h;
+		});
+	}
+
+	void SortByName()
+	{
+		std::sort(hashes.begin(), hashes.end(), [](Entry& a, Entry& b)
+		{
+			return a.n < b.n;
+		});
+	}
+
+	std::vector<Entry> hashes;
+};
+
+typedef struct tagEdh
+{
+	u8 unk,
+		prog,
+		id,
+		unk2;
+} EDH;
+
+void DumpRoomSounds(LPSTR in_rdt, LPSTR id_name, X64Hash &tbl)
+{
+	CBufferFile f(in_rdt);
+	if (f.GetSize() <= 4) return;
+
+	CVab vab;
+	u8* b = f.GetBuffer();
+	RDT_HEADER* head = (RDT_HEADER*)f.GetBuffer();
+
+	if (head->pEdt == 0 || head->pVh == 0 || head->pVb == 0)
+		return;
+
+	std::vector<EDH> edh = std::vector<EDH>(48);
+	memcpy(&edh[0], &b[head->pEdt], 48 * sizeof(EDH));
+	vab.OpenVab(&b[head->pVh], &b[head->pVb]);
+
+	std::vector<short> pcm = std::vector<short>(2 * 1024 * 1024);
+	char path[MAX_PATH];
+
+	for (int p = 0, pi = vab.GetVabCount(), i = 0; p < pi; p++)
+	{
+		auto prg = vab.GetVabProg(p);
+		for (int vv = 0, vi = prg->tones; vv < vi; vv++, i++)
+		{
+			CVag* v = vab.GetVag(prg->tone[vv].vag - 1);
+			vab.GetVabProg(0)->freq;
+
+			int vol = prg->tone[vv].vol;
+			int freq = prg->freq[vv];
+			size_t size = decode((s8*)v->data, v->GetSize(), &pcm[0]);
+
+			XXH64_hash_t hash = XXH64(v->data, v->GetSize(), 0);
+			char id2[32];
+			sprintf_s(id2, 32, "%s_%02d", id_name, i);
+
+			for (size_t i = 0; i < size / 2; i++)
+				pcm[i] = pcm[i] * vol / 127;
+
+			if (tbl.PushHash(&pcm[0], size / 2, id2))
+				continue;
+
+			WAV_HEADER2 wav;
+			wav.RIFF = MAGIC('R', 'I', 'F', 'F');
+			wav.ChunkSize = size + sizeof(wav) - 8;
+			wav.WAVE = MAGIC('W', 'A', 'V', 'E');
+			wav.fmt = MAGIC('f', 'm', 't', ' ');
+			wav.Subchunk1Size = 16;
+			wav.AudioFormat = 1;
+			wav.NumOfChan = 1;
+			wav.SamplesPerSec = freq;
+			wav.bytesPerSec = 2 * freq;
+			wav.blockAlign = 2;
+			wav.bitsPerSample = 16;
+			wav.Subchunk2ID = MAGIC('d', 'a', 't', 'a');
+			wav.Subchunk2Size = size;
+
+			sprintf_s(path, MAX_PATH, "SOUND_hashed\\%s.wav", id2);//%016llX.wav", hash);
+			FILE* file = fopen(path, "wb");
+			fwrite(&wav, sizeof(wav), 1, file);
+			fwrite(&pcm[0], size, 1, file);
+			fclose(file);
+		}
+	}
+}
+
+void DumpRoomSounds(LPSTR in_rdt, LPSTR in_xml)
+{
+	CBufferFile f(in_rdt);
+	if (f.GetSize() <= 4) return;
+
+	CVab vab;
+	u8* b = f.GetBuffer();
+	RDT_HEADER* head = (RDT_HEADER*)f.GetBuffer();
+
+	if (head->pEdt == 0 || head->pVh == 0 || head->pVb == 0)
+		return;
+
+	XMLDocument xml;
+	xml.LoadFile(in_xml);
+	auto root = xml.RootElement();
+
+	std::vector<EDH> edh = std::vector<EDH>(48);
+	memcpy(&edh[0], &b[head->pEdt], 48 * sizeof(EDH));
+	vab.OpenVab(&b[head->pVh], &b[head->pVb]);
+
+	std::vector<short> pcm = std::vector<short>(2 * 1024 * 1024);
+	char path[MAX_PATH];
+
+	auto s = root->FirstChildElement("Entry");
+	for (int i = 0; i < 48; i++, s = s->NextSiblingElement("Entry"))
+	{
+		const char* name = s->GetText();
+		if (name == nullptr)
+			continue;
+		CVabProgram* p = vab.GetVabProg(edh[i].prog);
+		int freq = p->freq[edh[i].id];
+		int vol = p->tone[edh[i].id].vol;
+		CVag* v = vab.GetVag(p->tone[edh[i].id].vag - 1);
+
+		size_t size = decode((s8*)v->data, v->GetSize(), &pcm[0]);
+
+		for (size_t i = 0; i < size / 2; i++)
+			pcm[i] = pcm[i] * vol / 127;
+
+		WAV_HEADER2 wav;
+		wav.RIFF = MAGIC('R', 'I', 'F', 'F');
+		wav.ChunkSize = size + sizeof(wav) - 8;
+		wav.WAVE = MAGIC('W', 'A', 'V', 'E');
+		wav.fmt = MAGIC('f', 'm', 't', ' ');
+		wav.Subchunk1Size = 16;
+		wav.AudioFormat = 1;
+		wav.NumOfChan = 1;
+		wav.SamplesPerSec = freq;
+		wav.bytesPerSec = 2 * freq;
+		wav.blockAlign = 2;
+		wav.bitsPerSample = 16;
+		wav.Subchunk2ID = MAGIC('d', 'a', 't', 'a');
+		wav.Subchunk2Size = size;
+
+		sprintf_s(path, MAX_PATH, "SOUND\\%s.wav", name);
+		FILE* file = fopen(path, "wb");
+		fwrite(&wav, sizeof(wav), 1, file);
+		fwrite(&pcm[0], size, 1, file);
+		fclose(file);
+	}
+}
+
+void DumpMiscSounds(LPCSTR in_hed, LPCSTR in_vb, LPCSTR in_xml)
+{
+	CBufferFile h(in_hed), v(in_vb);
+
+	u32* footer = (u32*)& h.GetBuffer()[h.GetSize() - 8];
+	CVab vab;
+	vab.OpenVab(&h.GetBuffer()[footer[0]], v.GetBuffer());
+
+	int count = footer[0] / 4;
+	EDH* edh = (EDH*)h.GetBuffer();
+
+	XMLDocument xml;
+	xml.LoadFile(in_xml);
+	auto root = xml.RootElement();
+
+	char path[MAX_PATH];
+	std::vector<short> pcm = std::vector<short>(2 * 1024 * 1024);
+
+	auto s = root->FirstChildElement("Entry");
+	for (int i = 0; i < count || s != nullptr; i++, s = s->NextSiblingElement("Entry"))
+	{
+		const char* name = s->GetText();
+		if (name == nullptr)
+			continue;
+		CVabProgram* p = vab.GetVabProg(edh[i].prog);
+		int freq = p->freq[edh[i].id];
+		int vol = p->tone[edh[i].id].vol;
+		CVag* v = vab.GetVag(p->tone[edh[i].id].vag - 1);
+
+		size_t size = decode((s8*)v->data, v->GetSize(), &pcm[0]);
+
+		for (size_t i = 0; i < size / 2; i++)
+			pcm[i] = pcm[i] * vol / 127;
+
+		WAV_HEADER2 wav;
+		wav.RIFF = MAGIC('R', 'I', 'F', 'F');
+		wav.ChunkSize = size + sizeof(wav) - 8;
+		wav.WAVE = MAGIC('W', 'A', 'V', 'E');
+		wav.fmt = MAGIC('f', 'm', 't', ' ');
+		wav.Subchunk1Size = 16;
+		wav.AudioFormat = 1;
+		wav.NumOfChan = 1;
+		wav.SamplesPerSec = freq;
+		wav.bytesPerSec = 2 * freq;
+		wav.blockAlign = 2;
+		wav.bitsPerSample = 16;
+		wav.Subchunk2ID = MAGIC('d', 'a', 't', 'a');
+		wav.Subchunk2Size = size;
+
+		sprintf_s(path, MAX_PATH, "SOUND\\%s.wav", name);
+		FILE* file = fopen(path, "wb");
+		fwrite(&wav, sizeof(wav), 1, file);
+		fwrite(&pcm[0], size, 1, file);
+		fclose(file);
+	}
+}
+
+void DumpMiscSounds(LPCSTR in_hed, LPCSTR in_vb, LPCSTR id_name, X64Hash& tbl)
+{
+	CBufferFile h(in_hed), v(in_vb);
+
+	u32* footer = (u32*)& h.GetBuffer()[h.GetSize() - 8];
+	CVab vab;
+	vab.OpenVab(&h.GetBuffer()[footer[0]], v.GetBuffer());
+
+	int count = footer[0] / 4;
+	char path[MAX_PATH];
+	std::vector<short> pcm = std::vector<short>(2 * 1024 * 1024);
+
+	for (int p = 0, pi = vab.GetVabCount(), i = 0; p < pi; p++)
+	{
+		auto prg = vab.GetVabProg(p);
+		for (int vv = 0, vi = prg->tones; vv < vi; vv++, i++)
+		{
+			CVag* v = vab.GetVag(prg->tone[vv].vag - 1);
+			vab.GetVabProg(0)->freq;
+
+			int vol = prg->tone[vv].vol;
+			int freq = prg->freq[vv];
+			size_t size = decode((s8*)v->data, v->GetSize(), &pcm[0]);
+
+			XXH64_hash_t hash = XXH64(v->data, v->GetSize(), 0);
+			char id2[32];
+			sprintf_s(id2, 32, "%s_%02d", id_name, i);
+
+			for (size_t i = 0; i < size / 2; i++)
+				pcm[i] = pcm[i] * vol / 127;
+
+			if (tbl.PushHash(&pcm[0], size / 2, id2))
+				continue;
+
+			WAV_HEADER2 wav;
+			wav.RIFF = MAGIC('R', 'I', 'F', 'F');
+			wav.ChunkSize = size + sizeof(wav) - 8;
+			wav.WAVE = MAGIC('W', 'A', 'V', 'E');
+			wav.fmt = MAGIC('f', 'm', 't', ' ');
+			wav.Subchunk1Size = 16;
+			wav.AudioFormat = 1;
+			wav.NumOfChan = 1;
+			wav.SamplesPerSec = freq;
+			wav.bytesPerSec = 2 * freq;
+			wav.blockAlign = 2;
+			wav.bitsPerSample = 16;
+			wav.Subchunk2ID = MAGIC('d', 'a', 't', 'a');
+			wav.Subchunk2Size = size;
+
+			sprintf_s(path, MAX_PATH, "SOUND_hashed\\%s.wav", id2);//%016llX.wav", hash);
+			FILE* file = fopen(path, "wb");
+			fwrite(&wav, sizeof(wav), 1, file);
+			fwrite(&pcm[0], size, 1, file);
+			fclose(file);
+		}
+	}
+}
+
+void DumpSounds()
+{
+	X64Hash tbl;
+	char path[MAX_PATH], pxml[MAX_PATH];
+
+	std::vector<std::string> hed, vb;
+	ListFiles("PSX\\SOUND\\", "*.HED", hed);
+	ListFiles("PSX\\SOUND\\", "*.VB", vb);
+
+	char pvb[MAX_PATH], phed[MAX_PATH];
+	for (size_t i = 0, si = hed.size(); i < si; i++)
+	{
+		std::string id = vb[i].substr(0, strrchr(vb[i].c_str(), '.') - vb[i].c_str());
+		sprintf_s(pvb, "PSX\\SOUND\\%s", vb[i].c_str());
+		sprintf_s(phed, "PSX\\SOUND\\%s", hed[i].c_str());
+		DumpMiscSounds(phed, pvb, id.c_str(), tbl);
+	}
+
+	for (int Stage = 1; Stage < 8; Stage++)
+	{
+		for (int Room = 0; Room < 32; Room++)
+		{
+			char name[32];
+			printf("Doing room %d%02X\n", Stage, Room);
+			sprintf_s(path, MAX_PATH, "D:\\Program Files\\RESIDENT EVIL\\JPN\\STAGE%d\\ROOM%d%02X0.RDT", Stage, Stage, Room);
+			sprintf_s(pxml, MAX_PATH, "..\\xml\\tables\\room_%d%02X.xml", Stage, Room);
+			sprintf_s(name, 32, "ROOM%d%02X", Stage, Room);
+			DumpRoomSounds(path, name, tbl);
+		}
+	}
+
+	tbl.Write("sound_hashes.xml");
+	tbl.SortByName();
+	tbl.Write("sound_hashes_n.xml");
+}
+
+void SpotPCSoundDupes()
+{
+	std::vector<std::string> list;
+	ListFiles("D:\\Program Files\\RESIDENT EVIL\\JPN\\sound\\", "*.WAV", list);
+
+	X64HashComplex tbl;
+
+	for (auto it = list.begin(); it != list.end(); it++)
+	{
+		if (_strnicmp(it->c_str(), "bgm_", 4) == 0)
+			continue;
+		if (_strnicmp(it->c_str(), "se_", 3) == 0)
+			continue;
+
+		char path[MAX_PATH];
+		sprintf_s(path, MAX_PATH, "D:\\Program Files\\RESIDENT EVIL\\JPN\\sound\\%s", it->c_str());
+		CBufferFile f(path);
+
+		std::string id_name = it->substr(0, strrchr(it->c_str(), '.') - it->c_str());
+		if (id_name == "CH_EF01" || id_name == "CHRIS01")
+			it = it;
+		tbl.PushHash(f.GetBuffer(), f.GetSize(), id_name);
+	}
+
+	tbl.Write("pcm.xml");
+}
+
+void DumpMiscSounds()
+{
+	DumpMiscSounds("PSX\\SOUND\\WP001.HED", "PSX\\SOUND\\WP001.VB", "..\\xml\\tables\\core_01.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP002.HED", "PSX\\SOUND\\WP002.VB", "..\\xml\\tables\\core_02.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP003.HED", "PSX\\SOUND\\WP003.VB", "..\\xml\\tables\\core_03.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP004.HED", "PSX\\SOUND\\WP004.VB", "..\\xml\\tables\\core_04.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP005.HED", "PSX\\SOUND\\WP005.VB", "..\\xml\\tables\\core_05.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP006.HED", "PSX\\SOUND\\WP006.VB", "..\\xml\\tables\\core_06.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP007.HED", "PSX\\SOUND\\WP007.VB", "..\\xml\\tables\\core_07.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP008.HED", "PSX\\SOUND\\WP008.VB", "..\\xml\\tables\\core_08.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP009.HED", "PSX\\SOUND\\WP009.VB", "..\\xml\\tables\\core_09.xml");
+	DumpMiscSounds("PSX\\SOUND\\WP00A.HED", "PSX\\SOUND\\WP00A.VB", "..\\xml\\tables\\core_10.xml");
+
+	//DumpMiscSounds("PSX\\SOUND\\CHAR00.HED", "PSX\\SOUND\\CHAR00.VB", "..\\xml\\tables\\player_00.xml");
+	//DumpMiscSounds("PSX\\SOUND\\CHAR01.HED", "PSX\\SOUND\\CHAR01.VB", "..\\xml\\tables\\player_01.xml");
+	//DumpMiscSounds("PSX\\SOUND\\CHAR02.HED", "PSX\\SOUND\\CHAR02.VB", "..\\xml\\tables\\player_02.xml");
+	////DumpMiscSounds("PSX\\SOUND\\CHAR03.HED", "PSX\\SOUND\\CHAR03.VB", "..\\xml\\tables\\player_03.xml");
+	//DumpMiscSounds("PSX\\SOUND\\CHAR04.HED", "PSX\\SOUND\\CHAR04.VB", "..\\xml\\tables\\player_04.xml");
+	//DumpMiscSounds("PSX\\SOUND\\CHAR05.HED", "PSX\\SOUND\\CHAR05.VB", "..\\xml\\tables\\player_05.xml");
+}
+
+#include "stringpool.h"
+
+void ListAndDump()
+{
+	std::vector<std::string> xml_list, wav_list;
+	ListFiles("..\\xml\\tables\\", "*.xml", xml_list);
+	ListFiles("D:\\Program Files\\RESIDENT EVIL\\JPN\\sound", "*.wav", wav_list);
+
+	CStringPool pool;
+
+	std::vector<std::string> found_list;
+
+	// gather all strings into pool
+	for (size_t i = 0, si = xml_list.size(); i < si; i++)
+	{
+		char path[MAX_PATH];
+		XMLDocument xml;
+		sprintf_s(path, MAX_PATH, "..\\xml\\tables\\%s", xml_list[i].c_str());
+		xml.LoadFile(path);
+		auto root = xml.RootElement();
+		auto s = root->FirstChildElement("Entry");
+		while (s)
+		{
+			const char* str = s->GetText();
+			if (str)
+				pool.AddString(std::string(str + std::string(".wav")).c_str());
+			s = s->NextSiblingElement("Entry");
+		}
+	}
+
+	// check any wav names and dump
+	FILE* flog = fopen("missing_pcm.txt", "wt");
+	FILE* flol = fopen("working_pcm.txt", "wt");
+	for (size_t i = 0, si = wav_list.size(); i < si; i++)
+	{
+		if (!pool.GetString(wav_list[i].c_str()))
+			fprintf(flog, "%s\n", wav_list[i].c_str());
+		else fprintf(flol, "%s\n", wav_list[i].c_str());
+	}
+	fclose(flog);
+	fclose(flol);
+}
+
 int main()
 {
 	CBufferFile exe;
 	exe.Open("BIOHAZARD.EXE");
+
+	ListAndDump();
+
+	//SpotPCSoundDupes();
+	DumpSounds();
+	//ListAndDump();
+	//
+	//DumpMiscSounds();
 
 	Set_color_mode(1);
 

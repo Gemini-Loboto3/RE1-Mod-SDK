@@ -1588,6 +1588,15 @@ const char* XMLElement::GetText() const
     return 0;
 }
 
+std::string XMLElement::GetTexts() const
+{
+	auto s = GetText();
+	if (s == nullptr)
+		return std::string("");
+
+	return std::string(s);
+}
+
 
 void	XMLElement::SetText( const char* inText )
 {
