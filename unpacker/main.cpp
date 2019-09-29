@@ -23,6 +23,7 @@
 #include "xxhash.h"
 
 void StringsToXml(std::vector<std::string> &str, LPCSTR out_name);
+std::string DecodeStringDS(u8* data);
 
 void ReplaceStringInPlace(std::string& subject, const std::string& search, const std::string& replace)
 {
@@ -257,12 +258,12 @@ void StringsToXml(std::vector<std::string> &str, LPCSTR out_name)
 	xml.SaveFile(out_name);
 }
 
-void Extract_text(LPCSTR rdt_name, LPCSTR xml_name)
+int Extract_text(LPCSTR rdt_name, LPCSTR xml_name)
 {
 	CBufferFile rdt(rdt_name);
-	if (rdt.data == nullptr) return;
+	if (rdt.data == nullptr) return 0;
 	RE1::RDT_HEADER *h = (RE1::RDT_HEADER*)rdt.GetBuffer();
-	if (h->pMessage == 0) return;
+	if (h->pMessage == 0) return 0;
 
 	u16 *ptr = (u16*)&rdt.GetBuffer()[h->pMessage];
 	std::vector<std::string> str;
@@ -270,7 +271,10 @@ void Extract_text(LPCSTR rdt_name, LPCSTR xml_name)
 		str.push_back(DecodeString(&((u8*)ptr)[ptr[i]]));
 
 	StringsToXml(str, xml_name);
+	return ptr[0] / 2;
 }
+
+std::vector<std::pair<u8,u8>> room_tbl;
 
 void Extract_messages(LPCSTR in_folder, LPCSTR out_folder)
 {
@@ -285,7 +289,11 @@ void Extract_messages(LPCSTR in_folder, LPCSTR out_folder)
 				//	Stage = 4;
 				sprintf_s(path, MAX_PATH, "%s\\STAGE%d\\ROOM%x%02x0.RDT", in_folder, Stage, Stage, Room);
 				sprintf_s(xml, MAX_PATH, "%s\\ROOM_%x%02x.xml", out_folder, Stage, Room);
-				Extract_text(path, xml);
+				if (Extract_text(path, xml))
+				{
+					room_tbl.push_back(std::make_pair(Stage, Room));
+					//room_tbl.push_back(Room);
+				}
 			}
 		}
 	}
@@ -1407,10 +1415,49 @@ void ListAndDump()
 	fclose(flol);
 }
 
+void DumpDsMessages(LPCSTR in_file, LPCSTR out_folder)
+{
+	CBufferFile f(in_file);
+
+	char path[MAX_PATH];
+	CreateDirectoryA(out_folder, nullptr);
+
+	static std::pair<u8, u8> tbl[] =
+	{
+		{ 1, 1 }, {-1, -1},	// 100
+		{1, 4},	// 104
+	};
+
+	u32* ptr = (u32*)f.GetBuffer();
+	int count = ptr[0] / 4;
+
+	// banks
+	for (int i = 0; i < count - 1; i++)
+	{
+		if (i % 2 == 0) continue;
+
+		u32* pptr = (u32*)(&f.GetBuffer()[ptr[i]]);
+		//if (i < 230)
+			//sprintf(path, "%s\\Room_%d%02X.xml", out_folder, room_tbl[i / 2].first, room_tbl[i / 2].second);
+		//else
+			sprintf(path, "%s\\%03d.xml", out_folder, i);
+		std::vector<std::string> sstr;
+
+		int scount = (ptr[i + 1] - ptr[i]) / 4;
+		// bank
+		for (int j = 0; j < scount; j++)
+			sstr.push_back(DecodeStringDS(&f.GetBuffer()[pptr[j]]));
+		StringsToXml(sstr, path);
+	}
+}
+
 int main()
 {
 	CBufferFile exe;
 	exe.Open("BIOHAZARD.EXE");
+
+	//Extract_messages("D:\\Program Files\\RESIDENT EVIL\\USA", "dialog");
+	DumpDsMessages("DS\\msgdat.en", "DS Dumps");
 
 	ListAndDump();
 
@@ -1452,7 +1499,6 @@ int main()
 	//Extract_weapon_tbl(exe.GetBuffer(), 0xADC68, "damage_tbl_1.xml");
 
 	//Extract_strings(exe.GetBuffer(), 0x4BF0B8, 128, "test.txt");
-	//Extract_messages("D:\\Program Files\\RESIDENT EVIL\\USA", "dialog");
 	//Extract_bgs_psx();
 	//Extract_bgs();
 	//Extract_bg("D:\\Program Files\\RESIDENT EVIL\\JPN\\STAGE1\\RC1050.pak", "test");

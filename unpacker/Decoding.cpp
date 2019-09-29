@@ -73,7 +73,7 @@ std::string DecodeString(u8 *data)
 		case 0xf8:	// upper ranges
 		case 0xf9:
 		case 0xfa:
-			str += encode[*data++ + 0xea];
+			str += encode[*data++ + 0xea] & 0xff;
 			break;
 		default:
 			if (encode[c] == L'@')
@@ -148,7 +148,7 @@ std::string DecodeStringEU(u8 *data)
 		switch (c)
 		{
 		case 0xee:	// upper ranges
-			str += encode[*data++ + 0xea];
+			str += encode[*data++ + 0xea] & 0xff;
 			break;
 		case 0xef:
 		case 0xf0:
@@ -200,6 +200,93 @@ std::string DecodeStringEU(u8 *data)
 		default:
 			u8_wc_toutf8(temp, encode_eu[c]);
 			str += temp;
+		}
+	}
+
+	return str;
+}
+
+std::string DecodeStringDS(u8* data)
+{
+	char temp[32];
+	char ucs32[5];
+	std::string str;
+
+	while (1)
+	{
+		int ch = *data++;
+
+		switch (ch)
+		{
+		case 0:
+			return str;
+		case 1:
+			str += "\\n";
+			break;
+		case 3:
+			sprintf_s(temp, 32, "{scroll %x}", *data++);
+			str += temp;
+			break;
+		case 6:
+			if (data[1] == 2)
+			{
+				sprintf_s(temp, 32, "{clear %d}", *data++);
+				data++;
+				str += temp;
+				continue;
+			}
+			else if (*data != 0)
+			{
+				sprintf_s(temp, 32, "{timed %d}", *data++);
+				str += temp;
+			}
+			break;
+			//return str;
+		case 7:
+			//sprintf_s(temp, 32, "{07 %x}", *data++);
+			//str += temp;
+			data++;
+			str += "{branch 0 1 0}";
+			break;
+		case 0x11:	// long characters
+			switch (*data)
+			{
+			case 1:
+				u8_wc_toutf8(ucs32, 0xff33);	// S
+				str += ucs32;
+				break;
+			case 0x81:
+				u8_wc_toutf8(ucs32, 0xff34);	// T
+				str += ucs32;
+				break;
+			case 0x83:
+				u8_wc_toutf8(ucs32, 0xff21);	// A
+				str += ucs32;
+				break;
+			case 0x86:
+				u8_wc_toutf8(ucs32, 0xff32);	// R
+				str += ucs32;
+				break;
+			default:
+				printf("What the deuce?\n");
+			}
+			data++;
+			break;
+		default:
+			if (ch == 0x85)
+				str += "...";
+			else if (ch < 128)
+				str += ch;
+			else if (ch < 0xC0)
+			{
+				str += 0xc2;
+				str += ch;
+			}
+			else
+			{
+				str += 0xc3;
+				str += (ch - 0x40);
+			}
 		}
 	}
 
