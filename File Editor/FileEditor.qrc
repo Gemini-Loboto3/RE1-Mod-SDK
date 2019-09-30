@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="FileEditor">
+    <file>Resources/Disaster.png</file>
     <file>Resources/Exit.png</file>
     <file>Resources/Down.png</file>
     <file>Resources/Up.png</file>
@@ -10,5 +11,24 @@
     <file>Resources/Load.png</file>
     <file>Resources/About.png</file>
     <file>Resources/Save.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>png/action_add_16xLG.png</file>
+    <file>png/action_Cancel_16xLG.png</file>
+    <file>png/CheckInItem_16x.png</file>
+    <file>png/CheckOutItem_16x.png</file>
+    <file>png/OpenFile_16x.png</file>
+    <file>png/arrow_Next_16xLG_color.png</file>
+    <file>png/arrow_Previous_16xLG_color.png</file>
+    <file>png/NewScript_16x.png</file>
+    <file>png/server_remote_16xLG.png</file>
+    <file>png/Exit_16x.png</file>
+    <file>png/Save_16x.png</file>
+    <file>png/SaveAll_16x.png</file>
+    <file>png/SaveAs_16x.png</file>
+    <file>png/StatusAnnotations_Information_16xMD_color.png</file>
+  </qresource>
+  <qresource prefix="About">
+    <file>Resources/logo.png</file>
   </qresource>
 </RCC>

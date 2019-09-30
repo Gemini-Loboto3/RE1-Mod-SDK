@@ -13,23 +13,32 @@ public:
 
 	void UpdatePreview();
 
-	void DrawString(QString &str);
-	void DrawChar(ucs_char_t ch);
-	int GetLineWidth(QString &str, int pos);
+	//void DrawString(QString &str, QImage &dst);
+	//void DrawChar(ucs_char_t ch, QImage &dst);
+	//int GetLineWidth(QString &str, int pos);
+	void Swap(int it1, int it2);
+
+	void Enable(bool enable);
 
 private:
 	Ui::FileEditorClass ui;
 
-	QImage img, font;
-	int px, py;
+	QImage img/*, font*/;
+	//int px, py;
 
 	QPixmap pix;
+	QString file_name;
 	QStringList text;
 
 private slots:
+	void onNew();
 	void onLoad();
 	void onSave();
+	void onSaveAs();
+	void onExport();
 
+	void onBatch();
+	void onAbout();
 	void onSelection();
 
 	void onTextChange();
@@ -37,4 +46,6 @@ private slots:
 	void onClicked_delete();
 	void onClicked_back();
 	void onClicked_next();
+	void onClicked_moveup();
+	void onClicked_movedn();
 };

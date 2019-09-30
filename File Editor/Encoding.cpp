@@ -83,6 +83,7 @@ void CEncoding::Set_encoding(LPCSTR filename)
 	w = root->IntAttribute("width", 8);
 	in = root->IntAttribute("indent", 0);
 
+	ucs_char_t highest = 0;
 	auto s = root->FirstChildElement("Entry");
 	std::vector<SYMBOL> tbl;
 	while (s)
@@ -94,6 +95,8 @@ void CEncoding::Set_encoding(LPCSTR filename)
 		u8_to_wchar_t(str, t);
 		sym.ch = (wchar_t)t;
 		sym.encode = s->IntAttribute("Encode", 0);
+		if (sym.encode > highest)
+			highest = sym.encode;
 
 		s = s->NextSiblingElement("Entry");
 		tbl.push_back(sym);
@@ -101,17 +104,9 @@ void CEncoding::Set_encoding(LPCSTR filename)
 	Set_encoding(tbl);
 
 	// build width table
-	ucs_char_t highest = 0;
-	for (size_t i = 0, si = tbl.size(); i < si; i++)
-	{
-		if ((tbl[i].encode >> 8) >= 0xee) continue;
-		if (tbl[i].encode > highest)
-			highest = tbl[i].encode;
-	}
-
-	width_tbl.resize(highest + 1);
+	width_tbl.resize((highest > tbl.size() ? highest : tbl.size()) + 1);
 	// fill all entries, just in case
-	for (size_t i = 0, si = tbl.size(); i < si; i++)
+	for (size_t i = 0, si = highest > tbl.size() ? highest : tbl.size(); i < si; i++)
 	{
 		width_tbl[i].w = w;
 		width_tbl[i].i = in;
