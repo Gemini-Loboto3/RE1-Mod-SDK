@@ -35,6 +35,7 @@ public:
     {
         if (BatchProcess->objectName().isEmpty())
             BatchProcess->setObjectName(QString::fromUtf8("BatchProcess"));
+        BatchProcess->setWindowModality(Qt::ApplicationModal);
         BatchProcess->resize(411, 140);
         lineEdit_in = new QLineEdit(BatchProcess);
         lineEdit_in->setObjectName(QString::fromUtf8("lineEdit_in"));
@@ -72,7 +73,7 @@ public:
 
     void retranslateUi(QDialog *BatchProcess)
     {
-        BatchProcess->setWindowTitle(QApplication::translate("BatchProcess", "BatchProcess", nullptr));
+        BatchProcess->setWindowTitle(QApplication::translate("BatchProcess", "Batch Converter", nullptr));
         label->setText(QApplication::translate("BatchProcess", "Input folder", nullptr));
         pushBrowse_in->setText(QApplication::translate("BatchProcess", "Browse...", nullptr));
         pushBrowse_out->setText(QApplication::translate("BatchProcess", "Browse...", nullptr));

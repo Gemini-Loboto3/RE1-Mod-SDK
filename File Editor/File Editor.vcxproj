@@ -148,7 +148,11 @@
     <ClInclude Include="Encoding.h" />
     <ClInclude Include="lodepng.h" />
     <ClInclude Include="render.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="tinyxml2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="File Editor.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

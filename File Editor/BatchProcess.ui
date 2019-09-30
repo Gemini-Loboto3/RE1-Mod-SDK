@@ -2,6 +2,9 @@
 <ui version="4.0">
  <class>BatchProcess</class>
  <widget class="QDialog" name="BatchProcess">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,7 +14,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>BatchProcess</string>
+   <string>Batch Converter</string>
   </property>
   <widget class="QLineEdit" name="lineEdit_in">
    <property name="geometry">
