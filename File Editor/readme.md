@@ -15,3 +15,6 @@ If you need any extra glyphs, edit `font.png` and `encoding.xml` to give yoursel
 
 ## How to generate the MOLE password graphics
 You pretty much have to copy that from an already existing graphics, since that's also what CAPCOM did on Deadly Silence, where all FILEs are actually text and not images.
+
+## Where to find a compiled copy?
+Just head over to the Release section of this repository.
