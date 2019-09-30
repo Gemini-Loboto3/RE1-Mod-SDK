@@ -1,16 +1,6 @@
 <RCC>
   <qresource prefix="FileEditor">
     <file>Resources/Disaster.png</file>
-    <file>Resources/Exit.png</file>
-    <file>Resources/Down.png</file>
-    <file>Resources/Up.png</file>
-    <file>Resources/Thumbs down.png</file>
-    <file>Resources/Thumbs up.png</file>
-    <file>Resources/Back.png</file>
-    <file>Resources/Forward.png</file>
-    <file>Resources/Load.png</file>
-    <file>Resources/About.png</file>
-    <file>Resources/Save.png</file>
   </qresource>
   <qresource prefix="icons">
     <file>png/action_add_16xLG.png</file>
