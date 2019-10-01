@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOh, Jill. Quelle synchro.  {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Il y a un instant,\nj'ai entendu une voix venant{clear 75}{scroll 0}\nde ce trou.{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nAllons-y ensemble.{scroll 1}{clear 40}{scroll 0}Il y fait sombre et on n'y \nvoit pas à deux mètres. {scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}\nOK, allons-y ! {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}OK, je te couvre. \nDépêchons-nous. {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nEh, ça va ?  {scroll 1}{clear 60}{scroll 0}Je peux y aller \nen premier si tu veux... {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Oh oui, s'il te plaît. \nJe ne suis pas tranquille. {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nJe comprends.  {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}Mais cela peut être plus\ndangereux encore si tu me{scroll 1}{clear 114}{scroll 0}suis,...\nSois prudente !{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nOK. Allons-y, Barry.  {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nJe compte sur toi. {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n...Barry.... Je... {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}....Cela peut être\ndangereux.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}J'y vais même si je dois y \naller seul.  {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\nTu m'attends ici, Jill ?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nJe suis désolée. {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Ce n'est pas grave. \nBon, j'y vais.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Attends ici. \nJe reviens tout de suite !{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}Barry, je crois que je vais \nprendre un autre chemin. {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Je vois... Tu as peut-être \nraison.  {scroll 1}{clear 75}{scroll 0}\nFais attention. {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 1}Voulez-vous l'accompagner ?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Voulez-vous qu'il vous \nprécède ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Voulez-vous rester ici ?\n {scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Tu baisses déjà les bras ? \nÇa ne te ressemble pas. {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry ? {scroll 1}{timed 55}</Text>
+</Strings>

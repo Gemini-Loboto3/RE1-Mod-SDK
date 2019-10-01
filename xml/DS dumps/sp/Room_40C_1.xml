@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Chris!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Re-Rebecca...\nNo, no sirve...{scroll 2}{clear 120}{scroll 0}Las raíces están en\nel sótano...{scroll 2}{clear 80}{scroll 0}\nPuedes... ¡Vaya!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nLlévate este archivo...{scroll 2}{clear 70}{scroll 0}\nUsa la información...{scroll 2}{clear 60}{scroll 0}para hacer una poción\ny matar la raíz.{scroll 2}{clear 95}{scroll 0}\n¡R-Rebecca, por favor!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¡Chris! ¡No te mueras!{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\n¿Qué diablos es esto?{scroll 2}{clear 60}{scroll 0}\n¡Barry!{scroll 2}{clear 25}{scroll 0}\n¡Jill!{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\n¡Me has salvado!{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nSí...{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}¡Ha faltado poco!\nGracias, Barry.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}No ha sido nada. \nQué monstruo.{scroll 2}{clear 110}{scroll 0}No puedo creerlo.\n¿Pero qué es este sitio?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Vale, me quedaré en\nla garita{scroll 2}{clear 90}{scroll 0}y echaré un vistazo.\nAunque estoy seguro{scroll 2}{clear 90}{scroll 0}de que aún quedan\ncosas en la mansión también.{scroll 2}{clear 65}{scroll 0}Bueno, empecemos a\nbuscar por separado.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nVale.{scroll 2}{timed 40}</Text>
+    <Text>Aquí hay algo brillante,\npero no puedo alcanzarlo...{scroll 2}</Text>
+    <Text>Vuelve a estar cerrado...\nLa puerta no se abre...{scroll 2}</Text>
+    <Text>{scroll 2}Está soldada, no\nse abre...</Text>
+    <Text>{scroll 2}\nDebería seguir moviéndome.{scroll 2}</Text>
+</Strings>

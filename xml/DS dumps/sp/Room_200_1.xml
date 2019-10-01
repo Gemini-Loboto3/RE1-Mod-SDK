@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}\nRopas viejas...{scroll 2}</Text>
+    <Text>{scroll 2}\nParecen de tu talla.{clear 0}\n¿Quieres cambiar de traje?{branch 0 6 1}</Text>
+</Strings>

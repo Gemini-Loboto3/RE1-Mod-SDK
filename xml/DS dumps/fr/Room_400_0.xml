@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Je ne peux pas laisser Chris\ntout seul !{scroll 2}</Text>
+    <Text>\n{scroll 2}La porte est verrouillée.{clear 0}\n{scroll 2}Clé spéciale nécessaire.</Text>
+</Strings>

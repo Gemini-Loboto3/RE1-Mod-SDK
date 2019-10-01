@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>\nUna tastierina numerica...</Text>
+    <Text>\nNon hai il codice...</Text>
+    <Text>\nHai inserito il codice...</Text>
+    <Text>{scroll 0}\nDiamoci una mossa.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 2}\nÈ chiusa elettronicamente...{scroll 1}</Text>
+    <Text>\nChiusa...</Text>
+</Strings>

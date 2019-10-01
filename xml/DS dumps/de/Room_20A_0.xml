@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}Das ist ein großer\nWasserbehälter.</Text>
+    <Text>{scroll 2}Er lässt sich\nüberhaupt nicht bewegen.</Text>
+    <Text>{scroll 2}Es sieht aus, als hätte hier\nschon mal jemand gesucht...</Text>
+    <Text>{scroll 2}Es sieht aus, als hätte hier\nschon mal jemand gesucht...{clear 0}{scroll 2}Das scheint ein Schalter zu\nsein.{clear 0}{scroll 2}Möchten Sie draufdrücken?\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}Da ist irgendwas auf der\nRückseite des Regals.</Text>
+    <Text>{scroll 2}\nEs ist gut aufgeräumt hier.</Text>
+    <Text>{scroll 2}\nNichts Besonderes.</Text>
+    <Text>{scroll 2}\n{clear 0}\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}\n{clear 0}\n?{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nBist du das, Jill?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\nWas ist jetzt schon wieder?{scroll 1}{clear 60}{scroll 0}Du siehst ja völlig verstört\naus.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nSieh dir das an.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nWas denkst du darüber?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nIch habe schon immer wusst,{scroll 1}{clear 45}{scroll 0}dass mit diesem Haus\nirgendwas nicht stimmt...{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nRichtig.{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Hey, es sieht so aus,\nals ob da eine Seite fehlt!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Hmm, das habe ich \nauch schon gedacht.{scroll 1}{clear 85}{scroll 0}Vielleicht war es genau die\nwichtigste Stelle...{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Ich möchte hier bleiben\nund mich intensiver umsehen.{scroll 1}{timed 94}</Text>
+</Strings>

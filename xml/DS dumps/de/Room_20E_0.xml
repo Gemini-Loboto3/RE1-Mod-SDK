@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}Bin ich vergiftet?\nVerdammt, gib mir das Serum...{scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Ich bin sicher,\ndas Serum ist bestimmt da!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nIch bin gleich zurück!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n...Du, alles okay?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ja...\nWas ist passiert?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Eine giftige Schlange\nhat dich gebissen.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nBist du okay?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Aua...\nMein Kopf bringt mich um.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}Ich denke,\nes geht dir bald besser.{scroll 1}{clear 45}{scroll 0}Ich habe dir\neine Injektion gegeben.{scroll 1}{clear 45}{scroll 0}\nAber sei bitte vorsichtig.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Ich bin froh,\ndass ich dir helfen konnte!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Du hast mein Leben gerettet,\nich schulde dir was.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Bin ich vergiftet?\nAh, gib mit das Serum...{scroll 1}{timed 150}</Text>
+</Strings>

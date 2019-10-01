@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 0}\nThat was too close!{scroll 2}{clear 68}{scroll 0}You were almost\na Jill sandwich.{scroll 2}{clear 70}{scroll 0}You're right! Barry, thanks\nfor saving my life.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}But Barry, didn't you say\nyou were going back to{scroll 2}{clear 73}{scroll 0}the dining room\nto do some research?{scroll 2}{clear 70}{scroll 0}\nWhy on earth are you here?{scroll 2}{timed 53}</Text>
+    <Text>{scroll 0}er... I just had something\nI wanted to check. {scroll 2}{clear 113}{scroll 0}Now, let's get back to\nsearching for the lost{scroll 2}{clear 65}{scroll 0}\nCaptain and Chris, shall we?{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\nThank you, Barry.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Wh-What are they?\nM-Monsters?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca! \nIs she still in the house?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWhat are they?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}It's Rebecca,\nshe must be upstairs!{scroll 2}{timed 110}</Text>
+</Strings>

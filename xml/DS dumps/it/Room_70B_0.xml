@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>È una mappa del PRIMO PIANO.\nVuoi prenderla?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nLa legna è nella stufa...{scroll 2}{clear 0}\nC'è un foglio sul muro...{scroll 2}</Text>
+    <Text>Hai preso la mappa del\nPRIMO PIANO...{scroll 2}</Text>
+</Strings>

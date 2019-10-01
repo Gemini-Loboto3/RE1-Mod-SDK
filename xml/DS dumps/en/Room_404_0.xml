@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>\nA "3 ball..."{scroll 2}</Text>
+    <Text>\nA "6 ball..."{scroll 2}</Text>
+    <Text>\nA "9 ball..."{scroll 2}</Text>
+    <Text>It looks like a clock\ndial...{scroll 2}{clear 0}\nSome kind of a code...{scroll 2}</Text>
+    <Text>\nA dartboard...{scroll 2}</Text>
+    <Text>\nIt's broken...{scroll 2}</Text>
+    <Text>There is no time to check\nit...{scroll 2}</Text>
+    <Text>It looks like a clock\ndial...{scroll 2}{clear 0}\n1·2···4·5···{scroll 2}{clear 0}\nSome kind of a code...{scroll 2}</Text>
+    <Text>It looks like a clock\ndial...{scroll 2}{clear 0}\n2···1·5···{scroll 2}{clear 0}\nSome kind of a code...{scroll 2}</Text>
+    <Text>It looks like a clock\ndial...{scroll 2}{clear 0}\n3···4·5···{scroll 2}{clear 0}\nSome kind of a code...{scroll 2}</Text>
+    <Text>It looks like a clock\ndial...{scroll 2}{clear 0}\n9···5·8···{scroll 2}{clear 0}\nSome kind of a code...{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nUn magnífico piano de cola...</Text>
+    <Text>Por desgracia Chris\nno sabe leer partituras...</Text>
+    <Text>{scroll 0}\nSoy yo, Chris.{scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\n¿Estás bien?{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\nRebecca, ¿eres tú?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Sí, he decidido no\nseguir afligida.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ahh, es la Sonata \ndel claro de luna.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n¿Sabes tocar?{scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}\nEspera, ¿qué ha sido eso?{scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}Mi interpretación\nanda algo oxidada.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Chris, ¿puedo practicar\nalgo más?{scroll 2}{timed 85}</Text>
+    <Text>¿Quieres que Rebecca\npractique? {branch 0 6 0}</Text>
+    <Text>{scroll 0}\nMira, tú relájate y toca.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nVale.{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}Volvamos ya \npara buscarlos.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nVale.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nRebecca.{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Lo sé, lo sé,\nsólo un poco más.{scroll 2}{timed 116}</Text>
+    <Text>Rebecca está tocando\nel piano...</Text>
+    <Text>{scroll 0}\n¡Chris! ¡Chris!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¿Quieres oírme?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¡Oh, ha sido genial!{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 2}{timed 55}</Text>
+    <Text>\nEs Moonlight Sonata...</Text>
+    <Text>Es el hueco en el que\nhabía un emblema...</Text>
+    <Text>\nEl emblema está colocado.</Text>
+    <Text>\n¡Chris! ¡Ten cuidado!{scroll 0}{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, ¿estás bien?{scroll 2}{timed 85}</Text>
+    <Text>¡No tenemos tiempo\npara tocar el piano!</Text>
+</Strings>

@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}\nIo... Jill... Sei tu.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nBarry?{scroll 1}{clear 60}{scroll 0}Vederti adesso... Mi\nmette in imbarazzo.{scroll 1}{clear 115}{scroll 0}L-Lasciami,\nvai, presto.{scroll 1}{clear 81}{scroll 0}È finita, Barry.\nWesker è morto!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Davvero? Jill,\nmi puoi fare un favore?{scroll 1}{clear 200}{scroll 0}\nÈ il mio ultimo... Desiderio.{scroll 1}{clear 110}{scroll 0}D-Dai questa foto alla mia\nfamiglia... Lo farai?{scroll 1}{clear 230}{scroll 0}\nCerto.{scroll 1}{clear 50}{scroll 0}\nPerdonami... Jill... Uuuh.{scroll 1}{timed 199}</Text>
+    <Text>{scroll 0}Andiamo, Chris.\nNon possiamo fermarci.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nAndiamo!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nDiamoci una mossa.{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nMio Dio!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nAndiamo!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nDiamoci una mossa.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 2}C'è una scala...\nVuoi salire?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Dev'essere stato assalito\nda quei mostri...{scroll 1}</Text>
+    <Text>{scroll 2}Il baule è chiuso.\nVuoi esaminarlo?{branch 0 6 1}</Text>
+</Strings>

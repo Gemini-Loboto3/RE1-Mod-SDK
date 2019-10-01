@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}C-Che cosa sono?\nM-Mostri?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca! \nÈ ancora nella casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nChe cosa sono?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}È Rebecca,\ndev'essere di sopra!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}Il titolo è "Donami il\nsonno della pace..."{scroll 2}</Text>
+    <Text>{scroll 2}L'immagine di un uomo di\nmezza età, molto stanco...{scroll 2}</Text>
+    <Text>{scroll 2}L'immagine di un bimbo\nappena nato...{scroll 2}</Text>
+    <Text>{scroll 2}\nL'immagine di un ragazzo...{scroll 2}</Text>
+    <Text>{scroll 2}\nL'immagine di un bebè...{scroll 2}</Text>
+    <Text>{scroll 2}\nL'immagine di un bel ragazzo...{scroll 2}</Text>
+    <Text>{scroll 2}L'immagine di un uomo\ndall'aria ardita...{scroll 2}</Text>
+    <Text>{scroll 2}\nC'è un messaggio....{clear 0}"Dammi la pace della morte e io\nti donerò...{clear 0}\nLa gioia della vita..."{scroll 2}</Text>
+    <Text>{scroll 2}C'è un interruttore sotto.\nVuoi premerlo?{branch 0 6 1}</Text>
+    <Text>{scroll 2}L'immagine si intitola...\n"Dalla culla alla tomba..."{scroll 2}</Text>
+    <Text>{scroll 2}L'immagine si intitola...\n"La fine della vita..."{scroll 2}</Text>
+</Strings>

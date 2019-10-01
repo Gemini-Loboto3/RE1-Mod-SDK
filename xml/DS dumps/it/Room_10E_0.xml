@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nLa porta è chiusa.</Text>
+    <Text>{scroll 2}Una mappa del PIANO TERRA...\nVuoi prenderla?{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nNon c'è niente di utile...{scroll 10}</Text>
+    <Text>{scroll 2}\nNiente di speciale...{scroll 10}</Text>
+    <Text>{scroll 2}Hai preso la mappa del\nPIANO TERRA...{scroll 10}</Text>
+</Strings>

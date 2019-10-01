@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>\nGardening tools...{scroll 2}{clear 0}\nNothing useful...{scroll 2}</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris, usalo!{scroll 1}{clear 48}{scroll 0}\nUsalo contro i mostri. {scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}Sta arrivando! Jill, uccidi\nquel mostro!{scroll 1}{clear 90}{scroll 0}\nSei la più grande, Jill!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}Ora non c'è bisogno di\nscendere di sotto...</Text>
+    <Text>{scroll 2}\nLa porta è chiusa.</Text>
+    <Text>{scroll 2}C'è una saldatura, non si\napre...</Text>
+    <Text>{scroll 2}\nNulla di speciale.</Text>
+    <Text>{scroll 0}{color 1}Mancano tre minuti\nall'esplosione.{color 0}{scroll 1}{timed 108}</Text>
+</Strings>

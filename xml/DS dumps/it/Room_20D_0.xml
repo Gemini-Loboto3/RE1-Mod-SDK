@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChi sei?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Sono Chris della Squadra Alfa.\nSono qui per salvarti.{scroll 1}{clear 120}{scroll 0}\nRichard, cosa è successo?{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Chris, questa casa è\ntroppo pericolosa.{scroll 1}{clear 123}{scroll 0}Ci sono terribili demoni,\naaah!{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}\nRichard, non parlare.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}Sembra che sia stato morso\nda un serpente velenoso, ma{scroll 1}{clear 90}{scroll 0}le dimensioni della ferita\nsono molto grandi.{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}Non è stato un serpente,\nè stato un mostro!{scroll 1}{timed 151}</Text>
+    <Text>{scroll 0}Richard! Ha bisogno del siero,\nma è in un'altra stanza.{scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}\nAndrò io a prenderlo!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nFai presto!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}Non temere. Tu aspetta qui,\ntornerò subito.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Ecco il siero!\nSta bene?{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nSì, sta bene. Grazie.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Richard, tieni duro, ora\nti inietterò il siero.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Chris... Chris, ecco\nuna radio, prendila.{scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\nRebecca... Stai attenta, uuuh.{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}\nRichard... Richard, tu...?{scroll 1}{clear 92}{scroll 0}Rebecca, là fuori è molto\npericoloso. Vuoi venire con me?{scroll 1}{timed 163}</Text>
+    <Text>{scroll 0}V-Vorrei restare qui ancora\nper un po'.{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}OK, Rebecca.\nSai usare la pistola?{scroll 1}{clear 93}{scroll 0}Io cercherò gli altri, tu\nbada a te stessa.{timed 110}</Text>
+    <Text>{scroll 0}\nChris! Stai attento, ti prego!{scroll 1}{timed 77}</Text>
+    <Text>{scroll 2}\nRichard della Squadra Bravo...{scroll 10}</Text>
+    <Text>{scroll 2}Devo andare a prendere il\nsiero...{scroll 10}</Text>
+    <Text>{scroll 0}\nFai attenzione...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nStai attento, per favore!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 2}\nRichard è morto{scroll 10}</Text>
+    <Text>{scroll 0}\nFai presto!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 2}Non respira più. Vuoi provare a\neseguire la rianimazione?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nHa smesso di respirare.{clear 0}{scroll 2}Morirà, se non gli facciamo\navere dell'ossigeno.</Text>
+    <Text>{scroll 2}\nRichard respira di nuovo.</Text>
+    <Text>{scroll 2}\nTroppo tardi...</Text>
+    <Text>{scroll 0}Sposta l'orologio della\nsala da pranzo sulle 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Sposta l'orologio della\nsala da pranzo sulle 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHallo, Jill.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Hallo. Barry, ich habe\njemanden reden gehört...{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nDann hast du es also gehört.{scroll 1}{clear 60}{scroll 0}\nIch glaube, ich werde alt.{scroll 1}{clear 60}{scroll 0}Selbstgespräche werden wohl\nbei mir zur Gewohnheit.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nDu sprichst mit dir selbst?{scroll 1}{clear 75}{scroll 0}Barry, irgend etwas ist dir\nzugestoßen, oder irr ich mich?{scroll 1}{clear 90}{scroll 0}\nDu hörst dich komisch an.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Gut, es scheint, du\nbist meinetwegen beunruhigt.{scroll 1}{clear 90}{scroll 0}\nAber das brauchst du nicht.{scroll 1}{clear 40}{scroll 0}Vielleicht hab ich mich wie\nein nervöses Wrack aufgeführt,{scroll 1}{clear 40}{scroll 0}seit sich so viele seltsame\nDinge abspielen.{scroll 1}{clear 80}{scroll 0}Also, ich denke, ich werde\njetzt nach draußen gehen{scroll 1}{clear 50}{scroll 0}und zur Abwechslung mal\nfrische Luft atmen. {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Ich sagte doch,\nkein Grund zur Sorge.{scroll 1}{clear 40}{scroll 0}Ich gehe jetzt raus\nund schnappe frische Luft{scroll 1}{clear 50}{scroll 0}und werde von irgendeinem\nMonster gefressen!{scroll 1}{timed 110}</Text>
+    <Text>Das ist ein Plan\ndes {color 1}WACHHAUSES{color 0}.{scroll 2}{clear 0}Möchten Sie ihn mitnehmen?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nDa ist eine Leiter.{clear 0}Möchten Sie hinuntersteigen?{branch 0 6 0}</Text>
+    <Text>Es ist keine Zeit,\ndas zu überprüfen.</Text>
+    <Text>Sie besitzen jetzt den Plan\ndes {color 1}WACHHAUSES{color 0}.</Text>
+    <Text>{scroll 2}Kein Grund\nhinunter zu gehen.</Text>
+</Strings>

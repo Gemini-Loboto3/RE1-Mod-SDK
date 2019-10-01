@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}Oh, Jill.\nWas für ein Timing.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Noch vor einem Augenblick\nhörte ich irgendeine Stimme{scroll 1}{clear 65}{scroll 0}\ndurch dieses Loch.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Lass uns zusammen gehen,\ndenn es ist so dunkel,{scroll 1}{clear 65}{scroll 0}\nund wir können kaum was sehen.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}\nOkay, dann los!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Okay, dann werde ich dir\nDeckung geben.{scroll 1}{clear 70}{scroll 0}\nWir sollten uns beeilen.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nHey, alles in Ordnung mit dir?{scroll 1}{clear 60}{scroll 0}Wenn du möchtest,\nkann ich auch zuerst gehen...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Oh ja, bitte.\nIch bin etwas nervös.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nSchon klar.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}Es könnte sogar\ngefährlicher sein,{scroll 1}{clear 35}{scroll 0}\nwenn du hinter mir herkommst...{scroll 1}{clear 35}{scroll 0}\nGib gut Acht!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Okay.\nLos geht's, Barry.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nIch verlass mich auf dich.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n...Barry... ich...{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}...Natürlich könnte es\ngefährlich werden.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Ich werde gehen, sogar wenn\nich ganz allein gehen muss.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Willst du lieber hier warten,\nJill?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEs tut mir so Leid.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Ist schon gut.\nIch gehe jetzt wirklich.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Warte einfach hier.\nIch bin bald zurück!{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}Barry, ich denke, ich sollte\neinen anderen Weg versuchen.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Ich verstehe...\nTja, vielleicht solltest du.{scroll 1}{clear 55}{scroll 0}\nSei vorsichtig.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 60}</Text>
+    <Text>{scroll 1}Möchten Sie mit ihm gehen?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Möchten Sie, dass er vorgeht?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Möchten Sie hier bleiben?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Hast du den Mut verloren?\nDas sieht dir nicht ähnlich.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry¼{scroll 1}{timed 55}</Text>
+</Strings>

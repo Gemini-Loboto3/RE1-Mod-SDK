@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}¿Q-Qué son?\n¿Monstruos?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}¡Rebecca!\n¿Sigue estando en la casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Qué son?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es Rebecca,\n¡debe estar arriba!{scroll 2}{timed 110}</Text>
+</Strings>

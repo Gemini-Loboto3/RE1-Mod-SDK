@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Jill!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nNo, no, no me asustes.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Eso es lo que te\niba a decir.{scroll 1}{clear 60}{scroll 0}Barry, ¿no se suponía\nque tenías que estar{scroll 1}{clear 40}{scroll 0}\nen la planta baja?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Sí, es verdad,\n¡¡pero mira esto!!{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n¡Es Forest! ¡Dios mío!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n¡Es horrible!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Tengo que descubrir la\ncausa de su muerte.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Parece como si lo hubiera\nmatado un cuervo, o algo así.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Jill, ¿puedes mirar en\nla planta baja?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nVale.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Oye Jill, ésta debía \nde ser de Forest.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}No tienes arma,\nllévatela.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nNo puedo creerlo.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}\nForest...{scroll 1}</Text>
+    <Text>{scroll 2}¡Es Forest...! Ha muerto\npicoteado por los cuervos.{scroll 1}</Text>
+</Strings>

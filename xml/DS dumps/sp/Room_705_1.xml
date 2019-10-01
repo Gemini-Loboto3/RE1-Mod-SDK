@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Hay un interruptor...\n¿Quieres pulsarlo? {branch 1 6 0}</Text>
+    <Text>\nSe abre un extraño agujero...{scroll 2}</Text>
+    <Text>Parece que hay algo\nen la estantería...{scroll 2}</Text>
+    <Text>Son armaduras.\nParecen pesadas...{scroll 2}</Text>
+    <Text>\n¡Sale gas venenoso...!{scroll 2}{timed 1}</Text>
+    <Text>{scroll 2}Balanzas...\n¿Quieres examinarlas? {branch 0 6 1}</Text>
+</Strings>

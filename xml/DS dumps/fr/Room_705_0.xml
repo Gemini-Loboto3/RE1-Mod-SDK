@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Il y a un bouton.\nAppuyer dessus ?{branch 1 6 0}</Text>
+    <Text>\nUn trou bizarre s'ouvre.{scroll 2}</Text>
+    <Text>Il y a quelque chose dans \nla vitrine.{scroll 2}</Text>
+    <Text>Une rangée d'armures très \nlourdes.{scroll 2}</Text>
+    <Text>\nUn gaz nocif s'échappe...!{scroll 2}{timed 1}</Text>
+    <Text>{scroll 2}Une balance...\nExaminer ?{branch 0 6 1}</Text>
+</Strings>

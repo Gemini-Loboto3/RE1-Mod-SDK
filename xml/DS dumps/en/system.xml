@@ -1,0 +1,248 @@
+﻿<Strings>
+    <Text>This game contains scenes of\nexplicit violence and gore.</Text>
+    <Text>{color 1}Normal</Text>
+    <Text>{color 1}Hard</Text>
+    <Text>Choose / Action</Text>
+    <Text>Cancel / Dash</Text>
+    <Text>Control Type</Text>
+    <Text>Type A</Text>
+    <Text>Type B</Text>
+    <Text>Blood Color</Text>
+    <Text>Red</Text>
+    <Text>Green</Text>
+    <Text>Microphone Sensitivity</Text>
+    <Text>High</Text>
+    <Text>Normal</Text>
+    <Text>Low</Text>
+    <Text>Quick Turn / Reload</Text>
+    <Text>M.Room</Text>
+    <Text>M.Hall</Text>
+    <Text>Garden Room</Text>
+    <Text>Dormitory</Text>
+    <Text>Laboratory</Text>
+    <Text>M.Storeroom</Text>
+    <Text>Garden Path</Text>
+    <Text>No Data</Text>
+    <Text>SAVE</Text>
+    <Text>LOAD</Text>
+    <Text></Text>
+    <Text>System data</Text>
+    <Text></Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Classic Mode</Text>
+    <Text>Rebirth Mode</Text>
+    <Text>Overwrite?{branch 0 6 0}</Text>
+    <Text>There is no file.</Text>
+    <Text>Fail in save.</Text>
+    <Text>System data is corrupt\nand has been lost.</Text>
+    <Text>Select which save data to erase.</Text>
+    <Text>Erase save data? {branch 0 6 0}</Text>
+    <Text>OK to erase save data?{branch 0 6 0}</Text>
+    <Text>Save data erased.</Text>
+    <Text>Master of Knifing is\nnow selectable.</Text>
+    <Text> is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Unlimited Rocket Launcher\nhas been unlocked.</Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Barry</Text>
+    <Text>Rebecca</Text>
+    <Text>Wesker</Text>
+    <Text>Kenneth</Text>
+    <Text>Forest</Text>
+    <Text>Richard</Text>
+    <Text>Enrico</Text>
+    <Text>Mansion</Text>
+    <Text>Courtyard</Text>
+    <Text>Guardhouse</Text>
+    <Text>Laboratory</Text>
+    <Text>2F</Text>
+    <Text>1F</Text>
+    <Text>B1</Text>
+    <Text>B2</Text>
+    <Text>B3</Text>
+    <Text>B4</Text>
+    <Text>B5</Text>
+    <Text>Please wait...</Text>
+    <Text>{color 1}YOU ESCAPED!</Text>
+    <Text>Someone has already taken that item!</Text>
+    <Text>Time Remaining</Text>
+    <Text>Enemies Killed</Text>
+    <Text>No Heal</Text>
+    <Text>Sharpshooter</Text>
+    <Text>Knife Master</Text>
+    <Text>Total</Text>
+    <Text>{color 1}TEAM SCORE</Text>
+    <Text>{color 1}YOUR SCORE</Text>
+    <Text>Score</Text>
+    <Text>Calculating Team Score...</Text>
+    <Text>RANK</Text>
+    <Text>Retry</Text>
+    <Text>Quit</Text>
+    <Text>1st Bonus</Text>
+    <Text>2nd Bonus</Text>
+    <Text>1st</Text>
+    <Text>2nd</Text>
+    <Text>3rd</Text>
+    <Text>4th</Text>
+    <Text>{color 1}RANKING</Text>
+    <Text>Create New Game</Text>
+    <Text>Searching for games...</Text>
+    <Text>Select Mode</Text>
+    <Text>Versus</Text>
+    <Text>Co-op</Text>
+    <Text>Select Stage</Text>
+    <Text>Start</Text>
+    <Text>Goal</Text>
+    <Text>Time Limit</Text>
+    <Text>Select Character</Text>
+    <Text>Waiting for users...</Text>
+    <Text>Stop wireless communications?</Text>
+    <Text>DISCONNECTED</Text>
+    <Text>Good Luck!</Text>
+    <Text>Stage 1 Start</Text>
+    <Text>Stage 2 Start</Text>
+    <Text>Stage 3 Start</Text>
+    <Text>Stage 4 Start</Text>
+    <Text>Final Stage</Text>
+    <Text>Start</Text>
+    <Text>Stage 1 Clear</Text>
+    <Text>Stage 2 Clear</Text>
+    <Text>Stage 3 Clear</Text>
+    <Text>Stage 4 Clear</Text>
+    <Text>You cannot handle the \ntrue horror that awaits...</Text>
+    <Text>Clear Time</Text>
+    <Text>Max Hit Combo</Text>
+    <Text>Hit Accuracy</Text>
+    <Text>Damage Received</Text>
+    <Text>Score</Text>
+    <Text>Total</Text>
+    <Text>PAUSE</Text>
+    <Text>RETURN TO GAME</Text>
+    <Text>QUIT GAME</Text>
+    <Text></Text>
+    <Text>Alpha Team is flying around\nthe forest zone situated in</Text>
+    <Text>Northwest Raccoon City.</Text>
+    <Text>Where we're searching for\nthe helicopter of our</Text>
+    <Text>compatriots Bravo Team, \nwho disappeared during</Text>
+    <Text>the middle of our mission.</Text>
+    <Text>Bizarre murder cases have\nrecently occurred in Raccoon City.</Text>
+    <Text>Raccoon City.</Text>
+    <Text>There are outlandish reports\nof families being attacked by</Text>
+    <Text>a group of about ten people.</Text>
+    <Text>Victims, were apparently eaten.</Text>
+    <Text>Bravo Team went to the\nhideout of the group...</Text>
+    <Text>and disappeared. </Text>
+    <Text>Look Chris!</Text>
+    <Text>It was Bravo Team's helicopter, \nnobody was in it.</Text>
+    <Text>But strangely, most of the\nequipment was still there.</Text>
+    <Text>However, we soon\ndiscovered why.</Text>
+    <Text>Hey! Come here!</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{color 1}Training</Text>
+    <Text> </Text>
+    <Text>Are you tired, Rebecca?</Text>
+    <Text>Sorry Chris, I am.</Text>
+    <Text>You did a really good job.</Text>
+    <Text>This case was just\ntoo weird.</Text>
+    <Text>This case was...</Text>
+    <Text>Your wife?</Text>
+    <Text>Yeah, my wife and kids.</Text>
+    <Text>They always wait up for me.</Text>
+    <Text>Even today, my oldest\ndaughter...</Text>
+    <Text>Ahh, I'm sorry.</Text>
+    <Text>Don't worry about that.</Text>
+    <Text>I know he must still be\nalive.</Text>
+    <Text>Yes</Text>
+    <Text>No</Text>
+    <Text>HITS!</Text>
+    <Text>{color 0}CONNECTED</Text>
+    <Text>FAILED</Text>
+    <Text>Score</Text>
+    <Text>Max Hit Combo</Text>
+    <Text>LIFE</Text>
+    <Text>Score Bonus</Text>
+    <Text>{color 1}Versus</Text>
+    <Text>{color 1}Co-op</Text>
+    <Text>{color 0}\n\n\n\n\n\n</Text>
+    <Text>{color 0}\n\n\n\n\n\n\n</Text>
+    <Text>Defeat "yellow" enemies\nYour opponent's enemies\nbecome stronger.\nDefeat "purple" enemies! \nYour opponents will\nbe unable to run.\nOnly one person can take\nitems from blue storage boxes.</Text>
+    <Text>You and your allies share\nthe same life bar!\nThe enemies also share\nthe same life bar!\nWhen everyone is in the same\nroom you get an attack bonus!\nPass items using item boxes.\nOnly one person can take\nitems from blue storage boxes.</Text>
+    <Text>{color 2}Waiting for the game to end...\n\nThe map is still active\nin case you want to track\nyour opponents' progress.</Text>
+    <Text>{color 1}YOU SURVIVED!</Text>
+    <Text>Total Time</Text>
+    <Text>Number of saves</Text>
+    <Text>WHAT A TOUGH GUY!</Text>
+    <Text>You've closed this case completely.</Text>
+    <Text>You got the {color 1}SPECIAL KEY{color 0}.</Text>
+    <Text>You got the {color 1}R. LAUNCHER{color 0}.</Text>
+    <Text>Name</Text>
+    <Text>Date</Text>
+    <Text>Chris Redfield</Text>
+    <Text>Jill Valentine</Text>
+    <Text>Barry Burton</Text>
+    <Text>Rebecca Chambers</Text>
+    <Text>Albert Wesker</Text>
+    <Text>Kenneth J. Sullivan</Text>
+    <Text>Forest Speyer</Text>
+    <Text>Richard Aiken</Text>
+    <Text>Enrico Marini</Text>
+    <Text>Stage 1</Text>
+    <Text>Stage 2</Text>
+    <Text>Stage 3</Text>
+    <Text>Stage 4</Text>
+    <Text>Final Stage</Text>
+    <Text>Start</Text>
+    <Text>All Stages Clear!</Text>
+    <Text>Congratulations!</Text>
+    <Text>Good with handguns</Text>
+    <Text>Large item capacity</Text>
+    <Text>Skilled magnum user</Text>
+    <Text>Great at first aid</Text>
+    <Text>Master of firearms</Text>
+    <Text>Masterful knife expert</Text>
+    <Text>Good with heavy weapons</Text>
+    <Text>Crack shot with shotgun</Text>
+    <Text>Above average stats</Text>
+    <Text>Total Time</Text>
+    <Text>Total Score</Text>
+    <Text>Mansion 1F</Text>
+    <Text>Mansion 2F</Text>
+    <Text>Mansion B1</Text>
+    <Text>Courtyard 1F</Text>
+    <Text>Courtyard B1</Text>
+    <Text>Guardhouse 1F</Text>
+    <Text>Guardhouse B1</Text>
+    <Text>Laboratory B1</Text>
+    <Text>Laboratory B2</Text>
+    <Text>Laboratory B3</Text>
+    <Text>Laboratory B4</Text>
+    <Text>Time</Text>
+    <Text>System data is corrupt.\nRestored previous file.</Text>
+    <Text>Save data 1 is corrupt.\nFile deleted.</Text>
+    <Text>Save data 2 is corrupt.\nFile deleted.</Text>
+    <Text>Save data 3 is corrupt.\nFile deleted.</Text>
+    <Text>Save data 4 is corrupt.\nFile deleted.</Text>
+    <Text>Save data 5 is corrupt.\nFile deleted.</Text>
+    <Text>Save data 1 is corrupt.\nRestored previous file.</Text>
+    <Text>Save data 2 is corrupt.\nRestored previous file.</Text>
+    <Text>Save data 3 is corrupt.\nRestored previous file.</Text>
+    <Text>Save data 4 is corrupt.\nRestored previous file.</Text>
+    <Text>Save data 5 is corrupt.\nRestored previous file.</Text>
+    <Text>Chris is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Jill is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Barry is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Rebecca is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Wesker is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Kenneth is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Forest is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Richard is now selectable \nfor Multi-Card Play!</Text>
+    <Text>Enrico is now selectable \nfor Multi-Card Play!</Text>
+    <Text>No! Don't go!</Text>
+    <Text>Jill, run for that house!</Text>
+    <Text>There are only three\nＳＴＡＲＳ members left now.</Text>
+    <Text>Captain Wesker, Jill,\nand myself.</Text>
+    <Text>We don't know where\nBarry is.</Text>
+    <Text>Return to multi-card play menu?{branch 0 0 0}</Text>
+</Strings>

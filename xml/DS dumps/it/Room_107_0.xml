@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>Non c'è tempo per\ncontrollare...{scroll 2}</Text>
+    <Text>\nNiente di strano...{scroll 2}</Text>
+    <Text>L'immagine di una donna\nmolto bella...{scroll 2}{clear 0}\nNiente di interessante.{scroll 2}</Text>
+    <Text>L'immagine di una zona\nscoscesa...{scroll 2}{clear 0}\nNiente di interessante.{scroll 2}</Text>
+    <Text>Un antico dipinto, davvero\nmolto bello.{scroll 2}</Text>
+    <Text>L'immagine di un panorama\nmeraviglioso...{scroll 2}</Text>
+    <Text>\nDiverse immagini...{scroll 2}</Text>
+    <Text>\n"Una donna che attinge l'acqua"{scroll 2}</Text>
+    <Text>L'immagine di una donna\ngrassoccia...{scroll 2}</Text>
+    <Text>Una mappa del PIANO TERRA...\nVuoi prenderla?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Hai preso la mappa del\nPIANO TERRA...{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>This computer is used to\nopen the electronic locks...{scroll 2}{clear 0}Will you turn it on?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Various chemicals used for\nresearch...{scroll 2}{clear 0}\nNothing useful...{scroll 2}</Text>
+    <Text>Various devices and\nchemicals...{scroll 2}{clear 0}\nNothing useful...{scroll 2}</Text>
+    <Text>\nAn incubator...{scroll 2}{clear 0}\nNothing strange...{scroll 2}</Text>
+    <Text>\nNothing special...{scroll 2}</Text>
+</Strings>

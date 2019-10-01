@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Un panneau actionné par\nun code d'accès.</Text>
+    <Text>Vous n'avez pas le code\nd'accès.</Text>
+    <Text>Vous avez entré le code\nd'accès.</Text>
+    <Text>{scroll 0}\nPartons ! {scroll 1}{timed 65}</Text>
+    <Text>\nFermée électroniquement.</Text>
+    <Text>\nC'est fermé.</Text>
+</Strings>

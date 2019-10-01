@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}La vasca da bagno è piena\ndi acqua fangosa.{clear 0}{scroll 2}Vuoi togliere il tappo?{branch 0 6 1}</Text>
+    <Text>\nNulla di importante.</Text>
+    <Text>\nNiente di che...</Text>
+</Strings>

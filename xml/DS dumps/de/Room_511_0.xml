@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}"Auslöser \nDeaktivierung erlaubt"{clear 0}\n"Notfallstufe eins ausgelöst"{clear 0}\n"Alle Blöcke freigegeben"{clear 0}"Auslöser\nDeaktivierung nicht möglich"{scroll 2}</Text>
+    <Text>{scroll 2}Das ist ein Aktivator\nfür den Auslöser.{clear 0}\nEr ist ziemlich groß.{scroll 2}</Text>
+    <Text>{scroll 2}\nWas für ein schrecklicher Tod...{scroll 2}</Text>
+    <Text>{scroll 2}Der Hauptstromschalter.\nDer Aufzug hat keinen Strom.{clear 0}Möchten Sie ihn anschließen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Der Aufzug wird nicht\nmit Strom versorgt.{scroll 2}</Text>
+    <Text>{scroll 2}Ich muss den Aufzug\nirgendwie unter Strom setzen.{scroll 2}</Text>
+    <Text>{scroll 2}Die Stromversorgung für den\nAufzug wird aktiviert, wenn{clear 0}die Energiequelle an den\nStromkreis angeschlossen wird.{scroll 2}</Text>
+    <Text>{scroll 2}Rebecca aktiviert\ndie Auslösevorrichtung.{scroll 2}</Text>
+    <Text>{scroll 2}Der Hauptstromschalter.\nStrom in Bereichen absch.{clear 0}{scroll 2}Die Spannung ist falsch.\nVerkabelung rep.?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Ein Stromregler... Ich\nmuss wirklich weitergehen.{scroll 2}</Text>
+    <Text>{scroll 2}Platziere 2 Drähte. Wenn alle\nAnzeigen auf rot stehen.{clear 0}Die Elektrizität wird angestellt.</Text>
+</Strings>

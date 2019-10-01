@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Están oxidados...\nNo se han usado en mucho tiempo.{scroll 2}</Text>
+    <Text>Un frigorífico...\nNo se ha usado en mucho tiempo.{scroll 2}</Text>
+    <Text>\nUn horno...{clear 0}Está muy oxidado y\nno parece funcionar...{scroll 2}</Text>
+    <Text>Un hornillo de gas... \nPero no hay gas...{scroll 2}</Text>
+    <Text>\nNo hay agua...{scroll 2}</Text>
+    <Text>Tiene pegada sangre oscura...\n¿Qué cocinaban aquí?{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}{branch 2 8 1}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}\nAn object of art...{scroll 2}</Text>
+    <Text>{scroll 2}\nNothing special...{scroll 2}</Text>
+    <Text>{scroll 2}\nVarious things...{scroll 2}</Text>
+</Strings>

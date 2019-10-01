@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOh Jill, what good timing.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}A moment ago I heard\nsomeone's voice coming from{scroll 1}{clear 75}{scroll 0}\nthis hole.{timed 30}</Text>
+    <Text>{scroll 0}\nLet's go together since it's{scroll 1}{clear 35}{scroll 0}dark and we can't see\nvery well.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}\nOkay, let's go.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Okay, then I'm going to\ncover you. Let's hurry!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Hey? Are you alright? I can\ngo first if you want me to.{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Oh yes please!\nI'm a little nervous.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nI understand.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}It may be more dangerous\nif you come behind me.{scroll 1}{clear 70}{scroll 0}\nBe careful!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nOkay, let's go Barry.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nI'm depending on you.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nBarry, I...{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nSure, it may be dangerous.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}I'll go even if I have \nto go by myself.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Will you be waiting here,\nJill?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nI'm sorry.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nIt's okay. I'm going now.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}Barry, I think I'll take\nsome other route.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}I see... yeah, maybe you\nshould. Be careful!{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 60}</Text>
+    <Text>{scroll 1}Will you go with him?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Do you want him to go first?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Will you stay here?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Lost courage already?\nIt's not like you.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry!?{scroll 1}{timed 55}</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>\nEs sind Gartengeräte.{scroll 2}{clear 0}\nNichts Brauchbares.{scroll 2}</Text>
+    <Text>{scroll 2}Sie ist fest verschlossen.\nUntersuchen?{branch 0 6 1}</Text>
+</Strings>

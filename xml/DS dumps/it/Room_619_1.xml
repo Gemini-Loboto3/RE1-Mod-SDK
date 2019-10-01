@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>C'è un interruttore...\nVuoi premerlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nTutto nella norma...{scroll 2}</Text>
+    <Text>È troppo buio, non si\nvede niente...{scroll 2}</Text>
+    <Text>Vedo solo la luce della\nluna e una fitta foresta...{scroll 2}</Text>
+    <Text>{scroll 0}C-Che cosa sono?\nM-Mostri?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nÈ ancora nella casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nChe cosa sono?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}È Rebecca,\ndev'essere di sopra!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}</Text>
+</Strings>

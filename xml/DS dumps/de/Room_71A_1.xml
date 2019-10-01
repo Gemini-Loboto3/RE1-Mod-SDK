@@ -1,0 +1,3 @@
+﻿<Strings>
+    <Text>\nDa ist eine Leiter.{clear 0}Möchten Sie hinaufklettern?{scroll 1}{branch 0 6 0}</Text>
+</Strings>

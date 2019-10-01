@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Umbrella Inc.\nMatériel Arme biologique.{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"Ma-39 Cerbère"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"Fi-3 Neptune"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"Ma-121 Chasseur"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"T-002 Tyran"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}Armes biologiques.\nPersonnel R&amp;D.{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Quelque chose a été frotté \ncontre le mur.{scroll 1}</Text>
+    <Text>{scroll 2}Il y a un panneau. \nL'ouvrir ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Il y a un bouton.\nAppuyer dessus ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nUn projecteur.{scroll 1}</Text>
+    <Text>{scroll 2}\nUn écran.{scroll 1}</Text>
+    <Text>{scroll 2}Un intercom. Il ne semble\npas fonctionner.{scroll 1}</Text>
+    <Text>{scroll 2}Des symboles de physique\nétranges sont inscrits.{scroll 1}</Text>
+    <Text>{scroll 2}Instructions :\n{scroll 2}Boutons bleus pour activer.{clear 0}{scroll 2}Lampe rouge désactive le\n{scroll 2}bouton bleu juste dessous.</Text>
+</Strings>

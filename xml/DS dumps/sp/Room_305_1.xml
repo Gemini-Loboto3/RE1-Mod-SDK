@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\nLa medalla está en su sitio...{scroll 2}</Text>
+    <Text>{scroll 2}En un hueco redondo hay\nuna imagen de un águila...{scroll 2}</Text>
+    <Text>{scroll 2}En un hueco redondo hay\nuna imagen de un lobo...{scroll 2}</Text>
+    <Text>{scroll 2}Está soldada, no\nse abre...{scroll 2}</Text>
+    <Text>{scroll 2}\n_Has insertado la MEDALLA ÁGUILA.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 2}\n_Has insertado la MEDALLA LOBO.{scroll 2}{timed 60}</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>Oggetto finto</Text>
+    <Text>{scroll 2}\nSembrano della tua misura.{clear 0}Vuoi cambiarti?{branch 0 6 1}</Text>
+</Strings>

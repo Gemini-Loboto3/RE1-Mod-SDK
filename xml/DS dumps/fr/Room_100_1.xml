@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOuah ! Qu'est-ce que c'est !?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nComment ? Oh ! Oh, non !{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}Désolée ! Je ne voulais pas \nfaire ça !{scroll 1}{clear 90}{scroll 0}Vous devez faire partie de \nl'Equipe Bravo.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Oui, je suis Rebecca ! \nRebecca Chambers !{scroll 1}{clear 100}{scroll 0}\nJe suis une nouvelle recrue, {scroll 1}{clear 45}{scroll 0}j'ai intégré l'Equipe Bravo\ndes ＳＴＡＲＳ le mois dernier ! {scroll 1}{clear 130}{scroll 0}Je suis vraiment désolée. \nEst-ce que ça va ?{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Oui, je suis Chris Redfield\nde l'Equipe Alpha.{scroll 1}{clear 120}{scroll 0}Etes-vous le seul membre de \nl'Equipe Bravo, ici ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Eh bien, l'hélicoptère a fait \nun atterrissage forcé et {scroll 1}{clear 115}{scroll 0}j'ai trouvé cette maison, \nmais je...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nJe vois. {scroll 1}{clear 50}{scroll 0}\nVous n'aviez pas le choix. {scroll 1}{clear 43}{scroll 0}e toutes façons, c'est bien \nue vous soyez là.{scroll 2}{timed 57}</Text>
+    <Text>{scroll 0}\nA vos ordres.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nMais, c'est bizarre.{scroll 1}{clear 67}{scroll 0}J'ai fait la révision de \nl'hélicoptère tout récemment,{scroll 1}{clear 75}{scroll 0}et quelque chose a cloché au\nniveau du moteur. {scroll 1}{clear 74}{scroll 0}Le vol était pourtant\nsi court.{scroll 2}{timed 38}</Text>
+    <Text>{scroll 0}Je me demande si tout le \nmonde est...{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Bon, qu'est-ce que je dois \nfaire à présent ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Si vous partez à la recherche \ndes autres membres,{scroll 1}{clear 95}{scroll 0}laissez-moi\nvous accompagner.{scroll 2}{timed 47}</Text>
+    <Text>{scroll 0}\nTrès bien, allons-y.{scroll 1}{clear 70}{scroll 0}A vos ordres ! Je ferai de mon \nmieux.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}J'ai quelque chose à faire \nd'abord, je vous rejoins.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}C'est plutôt dangereux\ndehors. Je m'en charge.{scroll 1}{clear 120}{scroll 0}Je comprends. Je vais attendre\nici. Cette pièce regorge de {scroll 1}{clear 100}{scroll 0}produits chimiques qui \npourraient nous être utiles.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\nBon, je vais jeter un coup {scroll 2}{clear 40}{scroll 0}d'oeil à ces produits \nchimiques.{scroll 2}{timed 60}</Text>
+    <Text>Rebecca vient-elle avec \nvous ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\n{scroll 2}{clear 70}{scroll 0}Cette pièce est un véritable \nhôpital. Je peux tout soigner{scroll 2}{clear 60}{scroll 0}sauf votre blessure\nprincipale.{scroll 2}{clear 40}{scroll 0}\nVoulez-vous que je le fasse ?{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}S'il vous plaît, faites\nquelque chose en attendant.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}La plupart de ces médicaments \nproviennent d'Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nUmbrella ?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nÇa ne vous dit rien ?{scroll 2}{clear 42}{scroll 0}\nC'est un énorme laboratoire {scroll 2}{clear 40}{scroll 0}pharmaceutique basé à \nRacoon City.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}Oh, je vois, et savez-vous\ns'il y a assez de médicaments ?{scroll 2}{timed 155}</Text>
+    <Text>{scroll 0}Euh, probablement assez pour \ndeux doses.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\nEst-ce que ça va ? {scroll 2}{clear 60}{scroll 0}Vous voulez que je m'en\noccupe ?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris, soyez prudent !{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nTout va bien. {scroll 2}{clear 50}{scroll 0}Mais s'il m'arrive quelque \nchose, prenez soin de moi.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}D'accord, vous pouvez compter \nsur moi. {scroll 2}{clear 80}{scroll 0}Mais nous n'avons plus que \ntrois doses de médicaments.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\nExcusez-moi, {scroll 2}{clear 60}{scroll 0}mais j'espère que vous ne m'en\nvoulez pas pour tout ça ?{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nBien sûr que non ! {scroll 2}{clear 80}{scroll 0}Vous aviez l'air préoccupé \npourtant, non ? {scroll 2}{clear 80}{scroll 0}Eh ! On fait équipe, non ? \nAlors au travail !{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}A vos ordres ! Je fairai de\nmon mieux !{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris, faites attention !{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nC'est la dernière dose. {scroll 2}{clear 75}{scroll 0}Arrêtez de jouer les\ncasse-cou à présent.{scroll 2}{timed 95}</Text>
+    <Text>Voulez-vous que je vous \nsoigne ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nC'est vous, Rebecca ?{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, ça va ?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nOui, que s'est-il passé ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Vous avez été mordu par un \nserpent venimeux. Ca va ?{scroll 2}{timed 135}</Text>
+    <Text>{scroll 0}\nAïe ! J'ai mal à la tête.{scroll 2}{timed 145}</Text>
+    <Text>{scroll 0}Je crois que ça va aller avec\nla piqûre que je viens de vous{scroll 2}{clear 100}{scroll 0}faire, mais s'il vous plaît\névitez les ennuis.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Vous m'avez sauvé la vie, \nje vous revaudrai ça.{scroll 2}{timed 125}</Text>
+    <Text>{scroll 0}Je me demande si tout le \nmonde est...{scroll 2}{timed 115}</Text>
+    <Text>\nDes vitamines et des sérums.{scroll 2}</Text>
+    <Text>\nUne dose suffira.{scroll 2}</Text>
+    <Text>\nRebecca soigne Chris.{scroll 2}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}</Text>
+    <Text>{scroll 2}C'est fermé.\nExaminer ?{branch 0 6 1}</Text>
+</Strings>

@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Umbrella Inc.\nBiowaffen PR-Material{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"Ma/39 Cerberus"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"Fi/3 Neptune"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"Ma/121 Hunter"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\n"T-002 Tyrant"{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}Institut für Biowaffen\nForschung &amp; Entwicklung{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Irgendwas wurde\num diese Wand herumgezerrt.{scroll 1}</Text>
+    <Text>{scroll 2}Das ist ein Schaltschrank.\nMöchten Sie ihn öffnen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Da ist ein Schalter.\nMöchten Sie ihn betätigen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nEin Projektor.{scroll 1}</Text>
+    <Text>{scroll 2}\nEin Bildschirm.{scroll 1}</Text>
+    <Text>{scroll 2}Ein Funkgerät. Es scheint\njedoch defekt zu sein.{scroll 1}</Text>
+    <Text>{scroll 2}Dort wurden stehen seltsame\nphysikalische Symbole.{scroll 1}</Text>
+    <Text>{scroll 2}Bedienung: Zum Aktivieren,\nalle blauen Knöpfe{clear 0}{scroll 2}beleuchten. Rote Lampen\ndeaktiv. Bl. Knopf darunter.</Text>
+</Strings>

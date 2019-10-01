@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nKomm nur nicht näher, Chris.{scroll 1}{clear 70}{scroll 0}Moment.\nWas ist passiert?{scroll 1}{clear 65}{scroll 0}\nFalschspieler!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nTu's nicht!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Wer ist da?\nIst da jemand¼{scroll 1}{timed 110}</Text>
+    <Text>{scroll 40} {scroll 0}\nVerdammt, Umbrella...{scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}Falschspieler?\nWas hat er damit gemeint?{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}Er konnte sich mit dieser\nVerletzung nicht mehr bewegen.{scroll 1}{clear 0}{scroll 2}\nEr hält irgendwas fest.{scroll 1}</Text>
+    <Text>{scroll 0}\nIst das Jill?{scroll 1}{clear 45}{scroll 0}Ist das deine Stimme,\nEnrico?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n {scroll 1}{clear 30}{scroll 0}\nBleib stehen!{scroll 1}{clear 30}{scroll 0}Bleib stehen!\nIst jemand bei dir, Jill?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Wie? Oh, nein.\nIch bin allein hier...{scroll 1}{clear 80}{scroll 0}\naber warum fragst du das?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Hür zu! Die ＳＴＡＲＳ sind\nsowieso bald erledigt.{scroll 1}{clear 90}{scroll 0}\nEs gibt einen Verräter.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Von Beginn an wurde alles\nvon Umbrella so geplant.{scroll 1}{timed 210}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ich frage mich,\nwer ihn umgebracht hat.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWie? Oh, ja.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nAha, Barry und Jill vereint...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nIst alles in Ordnung, Enrico?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Die ＳＴＡＲＳ sind\ndem Untergang geweiht...{scroll 1}{clear 65}{scroll 0}Einer von uns ist ein\nVerräter...{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}Von Anfang an war alles\n von Umbrella so geplant...{scroll 1}{timed 205}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 1}\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 2}Mit dieser Verletzung konnte\ner sich nicht mehr bewegen...{scroll 1}{clear 0}{scroll 2}\nEr hält irgendwas fest.{scroll 1}</Text>
+    <Text>{scroll 2}\nBarry untersucht gerade etwas...{scroll 1}</Text>
+</Strings>

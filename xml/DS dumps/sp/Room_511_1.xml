@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}"Activación del sistema\nde detonación aceptada"{clear 0}"Declarada emergencia\nen primer grado"{clear 0}\n"Abrir todas las cerraduras"{clear 0}"La desactivación del sistema\nde detonación es imposible"{scroll 2}</Text>
+    <Text>{scroll 2}Es un sistema de\ndetonación...{clear 0}\nEs bastante grande...{scroll 2}</Text>
+    <Text>{scroll 2}\nQué muerte tan triste...{scroll 2}</Text>
+    <Text>{scroll 2}Un interruptor de energía...\nEl ascensor no tiene suministro{clear 0}eléctrico.\n¿Quieres conectarlo?{branch 0 6 1}</Text>
+    <Text>{scroll 2}El ascensor no recibe\nelectricidad.{scroll 2}</Text>
+    <Text>{scroll 2}Tengo que conectar el\nascensor...{scroll 2}</Text>
+    <Text>{scroll 2}El ascensor\nse activa cuando se{clear 0}conecta la energía \na través del circuito.{scroll 2}</Text>
+    <Text>{scroll 2}Rebecca está activando\nel detonador...{scroll 2}</Text>
+    <Text>{scroll 2}\nUn regulador de potencia...{clear 0}{scroll 2}El voltaje es incorrecto.\n¿Ajustas los cables?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Un regulador de potencia...\nDebería seguir moviéndome.{scroll 2}</Text>
+    <Text>{scroll 2}Pon dos cables en horizontal.\nCuando los gráficos superiores{clear 0}{scroll 2}pasen todos de 8, la electricidad\nse activará.{clear 0}{scroll 2}Cada gráfico rojo sube\nhasta la suma de{clear 0}{scroll 2}los números verdes a los que\nestá conectado.{clear 0}{scroll 2}Ten en cuenta que la\nelectricidad que circula desde{clear 0}{scroll 2}los números verdes hasta los\ngráficos rojos se desvía por.{clear 0}{scroll 2}todas las ramificaciones\nhorizontales que encuentra en{clear 0}{scroll 2}\nsu camino.</Text>
+</Strings>

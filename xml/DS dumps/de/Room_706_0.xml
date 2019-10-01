@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nEs ist gut aufgeräumt hier.{scroll 10}</Text>
+    <Text>{scroll 2}\n·········{scroll 10}</Text>
+    <Text>{scroll 2}\nRebecca...{scroll 1}{timed 40}</Text>
+    <Text>{scroll 2}\nNichts Ungewöhnliches.{scroll 10}</Text>
+</Strings>

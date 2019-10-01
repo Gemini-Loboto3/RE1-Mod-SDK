@@ -1,0 +1,42 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nYou did a fine job, Barry.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJust as I thought.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}I think you should stay away\nfrom Barry, Jill.{scroll 1}{clear 75}{scroll 0}I hear that his wife and two\ndaughters will be in danger{scroll 1}{clear 80}{scroll 0}if he doesn't do everything\nI tell him to.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nYou are so cruel!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Well, you don't have to\nworry about anything,{scroll 1}{clear 60}{scroll 0}because you'll be free from\nthis world very soon, Jill.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Why do you have to destroy\nＳＴＡＲＳ?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nThat's Umbrella's intention.{scroll 1}{clear 60}{scroll 0}This laboratory has been\nengaging in dangerous{scroll 1}{clear 60}{scroll 0}experiments and recently an\naccident has occurred.{scroll 1}{clear 88}{scroll 0}Anyway, this disaster cannot\nbe made public.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nAhh, that's why having{scroll 1}{clear 56}{scroll 0}ＳＴＡＲＳ nosing about is\nso inconvenient.{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}So you're a slave of\nUmbrella now?{scroll 1}{clear 60}{scroll 0}Along with these virus\nmonsters.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}I think you misunderstand\nme, Jill.{scroll 1}{clear 70}{scroll 0}To me, the monsters you\nmentioned, mean nothing.{scroll 1}{clear 75}{scroll 0}I'm going to burn all of\nthem together with{scroll 1}{clear 82}{scroll 0}\nthis entire laboratory.{scroll 1}{clear 45}{scroll 0}I must complete my mission,\nas ordered by Umbrella.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Barry, go up on the ground\nand wait there.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nBarry's such a fool.{scroll 1}{clear 40}{scroll 0}He'll be under the control\nof Umbrella forever.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}How come both Umbrella and\nyou can intimidate him{scroll 1}{clear 90}{scroll 0}by taking his family\nas hostages?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Umbrella?\nWell, I intimidated him,{scroll 1}{clear 105}{scroll 0}but it had nothing to do\nwith Umbrella.{scroll 1}{clear 65}{scroll 0}I just used him for my\npersonal purposes.{scroll 1}{clear 90}{scroll 0}Though both you and Barry\nseem to think I was following{scroll 1}{clear 75}{scroll 0}\norders from Umbrella.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}So you're planning\nsomething else?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}If you succeeded in\ndeveloping{scroll 1}{clear 50}{scroll 0}the world's most powerful\nbiological weapon,{scroll 1}{clear 96}{scroll 0}\nwhat would you do?{scroll 1}{clear 48}{scroll 0}\nWhat if you were in charge?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nYou must stop this now!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}You're a brave girl, but if I were\nyou, I wouldn't give up{scroll 1}{clear 120}{scroll 0}\nsuch a big discovery.{scroll 1}{clear 55}{scroll 0}\nYou guys are idiots!{scroll 1}{clear 56}{scroll 0}No one understands\nits real value.{scroll 1}{timed 89}</Text>
+    <Text>{scroll 0}So you're going to\nsteal all the research?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Better yet! I'm going to\nshow you the Tyrant!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nSorry, Jill.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nHow is your family?{scroll 1}{clear 50}{scroll 0}Uhh, I was listening to what\nyou and Wesker were talking about.{scroll 1}{clear 100}{scroll 0}I wish I realized it\nearlier. I thought it must{scroll 1}{clear 115}{scroll 0}have something to do with\nUmbrella, you know.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}So it's all been masterminded\nby him!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}But it's good that you\nknow that now.{scroll 1}{clear 76}{scroll 0}Anyway, let's get out of\nthis house first.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\nYes, what?{scroll 1}{clear 50}{scroll 0}Do you have any idea what\nWesker was going to show you{scroll 1}{clear 110}{scroll 0}\nat the back of this place?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWell, he was talking about{scroll 1}{clear 60}{scroll 0}the world's most powerful\nbiological weapon,{scroll 1}{clear 90}{scroll 0}called Tyrant or something,\nI think.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Do you think we could see,\nTyrant, now?{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Barry, \nyou're so optimistic.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nIt would look bad for ＳＴＡＲＳ{scroll 1}{clear 60}{scroll 0}if we let such a dangerous\ncreature run loose.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Maybe you're right!\nLet's go then!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry is no longer useful.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}Just as I thought! You are\nthe man behind all of this!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nWhat happened to Wesker?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}The triggering system has\nnow been activated.{scroll 1}{clear 90}{scroll 0}All researchers and\nguards should take cover{scroll 1}{clear 70}{scroll 0}immediately. Unlock all\nroutes for evacuation.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWesker must have set it off.{scroll 1}{clear 62}{scroll 0}There's not much time left\nfor us.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nWhat happened to Wesker?{scroll 1}{timed 40}</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Il faut que je fouille le \nhall d'abord !</Text>
+    <Text>{scroll 0}\nBarry !{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Jill ! Que se passe-t-il ? \nDu nouveau ?{scroll 1}{clear 116}{scroll 0}Non, mais...Quelque chose \ncloche dans cette maison !{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}Ouah ! Ce hall est dangereux. \nPeut-être vaut-il mieux tout {scroll 1}{clear 115}{scroll 0}d'abord prévoir un moyen de \nsortir d'ici.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Il doit bien y avoir une\nporte à l'arrière... {scroll 1}{clear 100}{scroll 0}Essayons de la trouver\nd'abord, OK ?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}D'accord, \non se sépare de nouveau.{scroll 1}{clear 80}{scroll 0}Un moment. \nJ'ai trouvé quelque chose.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}C'est une arme. Elle est très \npuissante, {scroll 1}{clear 45}{scroll 0}tout particulièrement pour se \ndébarrasser de morts-vivants. {scroll 1}{clear 125}{scroll 0}Mieux vaut que tu la prennes \navec toi.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nEt toi, Barry ?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nMoi, j'ai ça.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Dans ce cas, \nje la prends, merci.{scroll 1}{timed 87}</Text>
+</Strings>

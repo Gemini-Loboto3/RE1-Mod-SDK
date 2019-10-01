@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è qualcosa scritto\nsul muro...{clear 0}Acqua=1, Rosso=2,\nViola=3, Verde=4{scroll 2}</Text>
+    <Text>{scroll 2}C'è qualcosa scritto\nsul muro...{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nC'è un UMB N° 2...{scroll 2}</Text>
+    <Text>{scroll 2}\nC'è un UMB N° 4...{scroll 2}</Text>
+    <Text>{scroll 2}\nUn rubinetto...{scroll 2}</Text>
+    <Text>{scroll 2}Vuoi mettere l'acqua\nnella bottiglia vuota?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nC'è un UMB N° 2...{clear 0}Vuoi mettere l'UMB N° 2\nnella bottiglia vuota?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nC'è un UMB N° 4...{clear 0}Vuoi mettere l'UMB N° 4\nnella bottiglia vuota?{branch 0 6 1}</Text>
+    <Text>{scroll 2}C'è un UMB N° 2. Per prenderlo\nhai bisogno di un contenitore.{scroll 2}</Text>
+    <Text>{scroll 2}C'è un UMB N° 4. Per prenderlo\nhai bisogno di un contenitore.{scroll 2}</Text>
+    <Text>{scroll 2}\nGas venefico!{scroll 2}</Text>
+    <Text>{scroll 2}Forse dovrei andarmene\nper un attimo...{scroll 2}</Text>
+    <Text>{scroll 0}In questa stanza ci sono\nmolti medicinali.{scroll 2}{clear 90}{scroll 0}Potrò curarti, a parte\nle ferite più gravi.{scroll 2}{clear 90}{scroll 0}\nVuoi che lo faccia?{scroll 2}{timed 60}</Text>
+    <Text>Vuoi che curi le tue ferite?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Sì, per favore, cerca\ndi curarmi.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Molti di quei medicinali\nvengono dalla Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nChe cos'è la Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}Non lo sai?\nUna grande industria{scroll 2}{clear 55}{scroll 0}farmaceutica che ha sede\na Raccoon City.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}\nOh, capisco.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nSto bene, ma se dovesse{scroll 2}{clear 50}{scroll 0}capitarmi qualcosa, cerca\ndi rimettermi in sesto.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nTi senti bene?{scroll 2}{clear 60}{scroll 0}\nVuoi che ti curi?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris! Fai attenzione!{scroll 2}{timed 75}</Text>
+    <Text>\nRebecca cura Chris...{scroll 2}</Text>
+    <Text>{scroll 0}\nChris! stai attento!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}C'è l'UMB N° 2... Ma lui\nnon sa utilizzarlo...{scroll 2}</Text>
+    <Text>{scroll 2}C'è l'UMB N° 4... Ma lui\nnon sa utilizzarlo...{scroll 2}</Text>
+    <Text>{scroll 2}Inutile... Chris non sa usare\nle sostanze chimiche...{scroll 2}</Text>
+</Strings>

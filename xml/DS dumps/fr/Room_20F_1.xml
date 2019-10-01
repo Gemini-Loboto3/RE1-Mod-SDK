@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nUne bougie.</Text>
+    <Text>{scroll 2}\nLa bougie est allumée.</Text>
+    <Text>{scroll 2}Il fait trop sombre pour\nvoir quoi que ce soit.</Text>
+</Strings>

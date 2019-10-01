@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 0}\nC'était moins une ! {scroll 2}{clear 68}{scroll 0}Tu as failli finir en\nsandwich, Jill !{scroll 2}{clear 69}{scroll 0}Tu as raison. Barry, \nmerci de m'avoir sauvé la vie !{scroll 2}{timed 112}</Text>
+    <Text>{scroll 0}Mais Barry. Tu n'avais pas \ndit que tu allais à nouveau {scroll 2}{clear 73}{scroll 0}chercher dans la salle à \nmanger ? {scroll 2}{clear 70}{scroll 0}Qu'est-ce que tu fais ici, \nbon sang ?{scroll 2}{timed 48}</Text>
+    <Text>{scroll 0}Euh, je voulais vérifier un \ntruc.{scroll 2}{clear 112}{scroll 0}\nBon, reprenons nos recherches {scroll 2}{clear 60}{scroll 0}pour retrouver le Capitaine \net Chris, OK ?{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\nMerci, Barry !{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Qu'est-ce que c'est ? \nDes monstres ?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca ! Est-elle encore dans \nla maison ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}C'est Rebecca ! Elle doit être \nà l'étage !{scroll 2}{timed 110}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¿Jill? ¿Eres tú, Jill?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOh, Chris, ¡¡estás vivo!!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Pues claro. Maldición, estamos\nmetidos en un buen lío, Jill.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}Lo sé, Chris. Sea como sea,\nTengo que abrir esta puerta.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nAhh, ¡no hay forma!{scroll 1}{clear 70}{scroll 0}Bueno, Chris, volveré\npronto para ayudarte.{scroll 1}{clear 80}{scroll 0}\n¿Me esperas?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}¡Gracias!\nTe esperaré aquí.{scroll 1}{timed 80}</Text>
+    <Text>La puerta está bien\ncerrada...</Text>
+</Strings>

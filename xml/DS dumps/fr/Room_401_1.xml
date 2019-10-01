@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nIl y a une clé dans la coupe.{scroll 1}</Text>
+    <Text>{scroll 2}Il fait sombre dehors et je\nne peux rien voir.{scroll 1}</Text>
+    <Text>{scroll 2}\nRien d'utile.{scroll 1}</Text>
+</Strings>

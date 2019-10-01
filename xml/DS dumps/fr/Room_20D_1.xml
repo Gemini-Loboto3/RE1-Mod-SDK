@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nRichard ! Que s'est-il passé ?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Oh, Jill ! Cette maison est \ndangereuse... {scroll 1}{clear 124}{scroll 0}Il y a d'affreux démons...!\nAïe !{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Tu es blessé ! A quoi ressemblait\nle démon qui t'a attaqué ?{scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}C'était un serpent géant... \net très venimeux...!{scroll 1}{timed 172}</Text>
+    <Text>{scroll 0}Venimeux ? ...Oh, non... \nRichard, tiens bon !{scroll 1}{timed 143}</Text>
+    <Text>\n{scroll 0}Il existe un sérum...! {scroll 1}{timed 60}</Text>
+    <Text>\n{scroll 0}Oh, non...{scroll 1}{clear 30}{scroll 0}J'aurais dû en prendre\navec moi.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Pas de problème ! \nJe t'en rapporte !{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nMerci...{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Voilà le sérum ! Richard, \ntiens bon ! {scroll 1}{clear 83}{scroll 0}Je te fais une piqûre tout de \nsuite !{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}Jill, voici ma radio, tu\ndevrais la garder. Je suis...!{scroll 1}{timed 200}</Text>
+    <Text>{scroll 0}\nJill...sois prudente...!{scroll 1}{timed 156}</Text>
+    <Text>{scroll 2}\nRichard de l'Equipe Bravo.{scroll 10}</Text>
+    <Text>{scroll 0}\nSoyez prudent.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}\nRichard est mort.{scroll 10}</Text>
+    <Text>{scroll 2}Il faut que j'aille chercher \ndu sérum...{scroll 10}</Text>
+    <Text>{scroll 2}\nRichard est mort.{scroll 10}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Il ne respire plus.\nEssayer de réanimer ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Il ne respire plus.\nIl lui faut de l'air.</Text>
+    <Text>{scroll 2}Richard respire\nà nouveau.</Text>
+    <Text>{scroll 2}\nTrop tard...</Text>
+    <Text>{scroll 0}\nRégler l'horloge sur 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}\nRégler l'horloge sur 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

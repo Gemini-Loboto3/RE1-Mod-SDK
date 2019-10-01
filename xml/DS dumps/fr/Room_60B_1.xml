@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}Qu'est-ce que c'est ? \nDes monstres ?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca ! Est-elle encore dans \nla maison ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}C'est Rebecca ! Elle doit être \nà l'étage !{scroll 2}{timed 110}</Text>
+    <Text>Je laisse quelques balles \ndans la pièce arrière.{scroll 2}{clear 0}Utilise-les en cas \nd'urgence. Wesker.{scroll 2}</Text>
+    <Text>Je laisse quelques balles \ndans la pièce arrière.{scroll 2}{clear 0}Utilise-les en cas \nd'urgence. Barry.{scroll 2}</Text>
+    <Text>Si seulement j'avais le temps \nd'admirer ces tableaux...{scroll 2}</Text>
+</Strings>

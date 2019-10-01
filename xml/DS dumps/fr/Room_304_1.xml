@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\nIci Brad. {scroll 1}{clear 52}{scroll 0}Je sais que vous ne\npouvez pas répondre ! {scroll 1}{clear 55}{scroll 0}Mais débrouillez-vous\npour me faire signe...{scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}Ici Chris. \nBrad, tu me reçois...?{scroll 1}{clear 85}{scroll 0}\nZut !{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nIci Brad. {scroll 1}{clear 51}{scroll 0}Je sais que vous ne\npouvez pas répondre ! {scroll 1}{clear 53}{scroll 0}Mais débrouillez-vous\npour me faire signe...{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Ici Jill, \nBrad ! Oh... Elle est cassée !{scroll 1}{timed 170}</Text>
+</Strings>

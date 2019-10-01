@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Er ist staubig. Er wurde schon\nlange nicht mehr benutzt.{scroll 2}</Text>
+    <Text>Ein Gefrierschrank. War wohl\nlang nicht mehr in Betrieb.{scroll 2}</Text>
+    <Text>\nEin Ofen.{clear 0}Er ist furchtbar rostig\nund funtioniert nicht mehr.{scroll 2}</Text>
+    <Text>Ein Gasherd.\nEs ist kein Gas angeschlossen.{scroll 2}</Text>
+    <Text>\nEs fließt kein Wasser.{scroll 2}</Text>
+    <Text>Dunkles Blut klebt daran.\nWas haben die hier gekocht?{scroll 2}</Text>
+</Strings>

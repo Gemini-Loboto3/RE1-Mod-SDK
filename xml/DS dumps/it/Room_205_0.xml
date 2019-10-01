@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>C'è un interruttore... Vuoi\npremerlo? {branch 1 6 0}</Text>
+    <Text>\nSi apre uno strano foro...{scroll 2}</Text>
+    <Text>Puoi vedere qualcosa nella\nbacheca...{scroll 2}</Text>
+    <Text>Una corazza dall'aria molto\npesante...{scroll 2}</Text>
+    <Text>\nIl gas venefico sta uscendo!{scroll 2}{timed 1}</Text>
+    <Text>{scroll 2}C' è una bilancia...\nVuoi esaminarla?{branch 0 6 1}</Text>
+</Strings>

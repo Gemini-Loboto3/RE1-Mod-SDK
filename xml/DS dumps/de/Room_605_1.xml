@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEin Eßzimmer...{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Was?\nWas ist das...?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nWas ist es denn?{scroll 1}{clear 51}{scroll 0}\nBlut...{scroll 1}{clear 62}{scroll 0}Jill,\nschau dich um,{scroll 1}{clear 48}{scroll 0}ob es irgendwelche weiteren\nAnhaltspunkte gibt.{scroll 1}{clear 48}{scroll 0}Ich werde das hier\nuntersuchen.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Ich hoffe, es ist nicht\ndas Blut von Chris.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Hast du schon den\nMut verloren?{scroll 1}{clear 52}{scroll 0}\nDas sieht dir nicht ähnlich.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nWer ist es¼{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\nHey, halt dich zurück!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}Lauf, Jill!\nEr ist wahnsinnig!{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nWas zum Teufel...?{scroll 1}{clear 51}{scroll 0}Wir müssen es Wesker\nberichten.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nBarry...!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nWas ist das¼{scroll 1}{clear 41}{scroll 0}Paß' auf!\nEs ist ein Monster!{scroll 1}{clear 76}{scroll 0}\nIch werde mich darum kümmern!{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nWas ist das...?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Kenneth wurde umgebracht.\nVielleicht von diesem Biest.{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}Wir müssen Wesker auf jeden\nFall darüber informieren.{scroll 1}{timed 89}</Text>
+    <Text>Die Untersuchung hier ist noch\nnicht beendet.</Text>
+    <Text>\nDas muß ich Wesker berichten...</Text>
+    <Text>Das ist der Hohlraum,\nin dem sich ein Emblem befand.</Text>
+    <Text>\nEin Emblem sitzt drin.</Text>
+    <Text>\nBarry untersucht gerade etwas...</Text>
+    <Text>Es ist keine Zeit,\ndas zu überprüfen.</Text>
+    <Text>\n </Text>
+    <Text>\nDas Bildnis einer Frau.</Text>
+    <Text>\nEin hübsches Landschaftsbild.</Text>
+    <Text>Eine verstaubt aussehende Uhr\naus Großvaters Zeiten.</Text>
+    <Text>\nSie geht nicht mehr.</Text>
+    <Text>\nGeschirr und Besteck.</Text>
+    <Text>Draußen ist es dunkel und ich\nkann nicht sehr weit sehen.</Text>
+    <Text>\nDa ist nichts drin.</Text>
+    <Text>Neben dem Schild befindet\nsich ein Hohlraum.</Text>
+</Strings>

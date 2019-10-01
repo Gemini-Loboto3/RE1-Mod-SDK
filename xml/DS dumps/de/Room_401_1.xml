@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Da liegt ein Schlüssel\nin der Schale.{scroll 1}</Text>
+    <Text>{scroll 2}Draußen ist es dunkel und ich\nkann überhaupt nichts sehen.{scroll 1}</Text>
+    <Text>{scroll 2}\nNichts von Interesse.{scroll 1}</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}È troppo buio, non si vede\nniente...{scroll 1}</Text>
+    <Text>{scroll 0}Il sistema di innesco è stato\nattivato.{scroll 1}{clear 120}{scroll 0}Tutti i ricercatori e le\nguardie si portino subito{scroll 1}{clear 180}{scroll 0}all'esterno. Sbloccare tutti i\npercorsi per l'evacuazione.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}Usare la scala non\nservirebbe a nulla...</Text>
+</Strings>

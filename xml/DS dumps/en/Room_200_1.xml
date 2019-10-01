@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>Dummy</Text>
+    <Text>{scroll 2}Looks like it's your size.{clear 0}Change costumes?{branch 0 6 1}</Text>
+</Strings>

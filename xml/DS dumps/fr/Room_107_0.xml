@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>\nPas de temps pour vérifier.{scroll 2}</Text>
+    <Text>\nRien d'utile.{scroll 2}</Text>
+    <Text>Le portrait d'une belle \nfemme.{scroll 2}{clear 0}\nRien d'intéressant.{scroll 2}</Text>
+    <Text>\nUn tableau d'une falaise.{scroll 2}{clear 0}\nRien d'utile.{scroll 2}</Text>
+    <Text>\nUne belle peinture à l'huile.{scroll 2}</Text>
+    <Text>\nLe tableau d'un beau paysage.{scroll 2}</Text>
+    <Text>\nDivers tableaux.{scroll 2}</Text>
+    <Text>\n"Femme puisant de l'eau"{scroll 2}</Text>
+    <Text>Le portrait d'une femme \nenveloppée.{scroll 2}</Text>
+    <Text>C'est un plan DU RdC.\nLe prendre ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nVous avez le plan DU RdC.{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nC'est trop lourd à déplacer.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}On dirait qu'on a déjà \nfouillé ici...{clear 0}{scroll 2}On dirait un bouton.\nAppuyer dessus ?{branch 0 6 0}</Text>
+    <Text>{scroll 2}Il y a quelque chose au \ndos de l'étagère.</Text>
+    <Text>{scroll 2}\nC'est bien rangé.</Text>
+    <Text>{scroll 2}\nRien de spécial.</Text>
+    <Text>{scroll 2}\n{clear 0}\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}\n{clear 0}\n?{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nC'est toi, Jill...?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\nQue se passe-t'il ? {scroll 1}{clear 60}{scroll 0}\nPourquoi fais-tu cette tête ?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nJette un coup d'oeil.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}...Qu'est-ce que tu en \npenses...?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Je savais bien que quelque chose\nclochait dans cette maison...{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nAbsolument.{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Tiens, comment cela se\nfait-il, il manque une page !{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Oui, je me posais la même \nquestion. Peut-être {scroll 1}{clear 85}{scroll 0}contenait-elle les informations \nles plus importantes...{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}\nJe crois que je vais rester{scroll 1}{clear 44}{scroll 0}ici et continuer à faire\ndes recherches.{scroll 1}{timed 50}</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nParla Brad.{scroll 1}{clear 53}{scroll 0}Squadra Alfa ＳＴＡＲＳ,\nrispondete.{scroll 1}{clear 97}{scroll 0}Ma che diavolo?\nNon c'è nessuno là fuori?{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nSono Chris!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Parla Brad.\nSquadra Alfa ＳＴＡＲＳ,{scroll 1}{clear 103}{scroll 0}o Squadra Bravo non importa,\nqualcuno mi risponda...{scroll 1}{clear 120}{scroll 0}\nSono Brad...{scroll 1}{timed 166}</Text>
+    <Text>{scroll 0}\nDannazione! È rotta.{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nÈ.{scroll 1}{clear 56}{scroll 0}Squadra Alfa ＳＴＡＲＳ,\nrispondete.{scroll 1}{clear 91}{scroll 0}Ma che diavolo?\nNon c'è nessuno là fuori?{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\nBrad, sono Jill.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Parla Brad.\nSquadra Alfa ＳＴＡＲＳ,{scroll 1}{clear 106}{scroll 0}o Squadra Bravo non importa,\nqualcuno mi risponda...{scroll 1}{clear 150}{scroll 0}\nSono Brad...{scroll 1}{timed 35}</Text>
+    <Text>{scroll 2}Una manovella per l'ascensore.\nSi trova di sotto...</Text>
+    <Text>{scroll 2}\nNulla di speciale.</Text>
+    <Text>{scroll 2}Una mappa del GIARDINO...\nVuoi prenderla?{branch 0 6 0}</Text>
+    <Text>{scroll 2}Hai preso la mappa\ndel GIARDINO...</Text>
+</Strings>

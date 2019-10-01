@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nA fine grand piano...</Text>
+    <Text>Chris unfortunately can't\nread music...</Text>
+    <Text>{scroll 0}\nIt's me, Chris.{scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\nAre you alright?{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\nIs that you, Rebecca?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Yes, I have decided\nnot to grieve any longer.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ahh, it's the\n"Moonlight Sonata".{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nCan you play?{scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}\nWait, what is that?{scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}My interpretation\nis off a little.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Chris, may I practice\nfor a while?{scroll 2}{timed 85}</Text>
+    <Text>Will you have Rebecca\npractice? {branch 0 6 0}</Text>
+    <Text>{scroll 0}\nSee, just relax and play.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nAlright.{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}Let's go back and \nlook for them at once.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nAlright.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nRebecca.{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}I know, I know,\nbut just a little longer.{scroll 2}{timed 116}</Text>
+    <Text>Rebecca is playing the\npiano...</Text>
+    <Text>{scroll 0}\nChris! Chris!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nYou like it?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nOh, that was great!{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\nWhat is that?{scroll 2}{timed 55}</Text>
+    <Text>\nIt's the "Moonlight Sonata"...</Text>
+    <Text>It's the hollow that an\nemblem was in...</Text>
+    <Text>\nAn emblem is in place...</Text>
+    <Text>\nChris! Be careful!{scroll 0}{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, are you alright?{scroll 2}{timed 85}</Text>
+    <Text>There's no time to play\nthe piano!</Text>
+</Strings>

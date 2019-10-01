@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nThe door is locked.</Text>
+    <Text>{scroll 2}It's a map of the 1ST FLOOR...\nWill you take it? {branch 0 6 0}</Text>
+    <Text>{scroll 2}\nNone of them looks useful...{scroll 10}</Text>
+    <Text>{scroll 2}\nNothing special...{scroll 10}</Text>
+    <Text>{scroll 2}You got the\nmap of the 1ST FLOOR...{scroll 10}</Text>
+</Strings>

@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOoh!{scroll 1}{clear 20}{scroll 0}\nI can't believe it!{scroll 1}{clear 60}{scroll 0}\nAre you okay?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Yeah. So much for him, we\ngot to the root of the problem.{scroll 1}{clear 155}{scroll 0}\nSaved again.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nI... just...{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nReally! Thank you.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}You'd do the same for me,\nwouldn't you?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nI guarantee it.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Well, I think I can make\nanother potion.{scroll 1}{clear 70}{scroll 0}I'll go back to the\npharmaceutical room{scroll 1}{clear 70}{scroll 0}\nI found a little while ago.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Anyway Chris,\nI'm glad you're safe.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Well, Chris,\nthis is Richard's radio.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}We received communication\nfrom Brad at the courtyard{scroll 1}{clear 90}{scroll 0}\na little while ago.{scroll 1}{clear 40}{scroll 0}But he is still flying\naround in the sky.{scroll 1}{clear 60}{scroll 0}He obviously couldn't hear\nour voices.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nMaybe his radio is broken.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}I see. Understood.\nI'll keep it, we should{scroll 1}{clear 100}{scroll 0}somehow let Brad know\nwe're here.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}At the pharmaceutical room\nI found a little while ago,{scroll 1}{clear 100}{scroll 0}I think I will be able to\nmake something.{scroll 1}{timed 80}</Text>
+    <Text>\nIt won't move at all...{clear 0}It seems to be obstructed\nfrom the opposite side...</Text>
+    <Text>{scroll 2}\nI really should keep moving.{scroll 2}</Text>
+    <Text>\nIt's locked...</Text>
+    <Text>The path will open for those\nwho circle the stone.{scroll 2}</Text>
+    <Text>The door is locked.{clear 0}It may have something to do\nwith the stone tablet...{scroll 2}</Text>
+    <Text>\nThe door is locked.{clear 0}All players need a key\nto open the door.{scroll 2}</Text>
+    <Text>You have used\nthe {color 1}DORMITORY KEY{color 0}.</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}\nC'était moins une ! {scroll 1}{clear 140}{scroll 0}\nBon, allons-y ! {scroll 1}{clear 40}{scroll 0}OK, alors je te couvre. \nDépêchons-nous. {scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}C'est un transformateur. Il ne\nsemble pas fonctionner.{scroll 1}</Text>
+</Strings>

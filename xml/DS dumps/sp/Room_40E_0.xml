@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nEstá cerrado...{clear 0}{scroll 2}\nNo hay cerradura...</Text>
+    <Text>{scroll 2}\nEs un gran tanque de agua...</Text>
+    <Text>{scroll 2}El tanque parece tener\nuna fuga...</Text>
+</Strings>

@@ -1,0 +1,66 @@
+﻿<Strings>
+    <Text>Vuoi prendere:\n{color 1}{string 0}{color 0}?{branch 0 0 72}ai preso:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Hai preso:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Non puoi trasportare altri\noggetti.</Text>
+    <Text>Hai utilizzato:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Vuoi deporre:\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>Vuoi usare:\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>Hai raccolto:\n{color 1}{string 0}{color 0}.{clear 0}{timed 1}</Text>
+    <Text>Ormai questa chiave è inutile.\nVuoi gettarla?{branch 2 9 2}</Text>
+    <Text>\nChiusa.{clear 0}\nUna spada incisa.</Text>
+    <Text>\nChiusa.{clear 0}\nUna corazza incisa.</Text>
+    <Text>\nChiusa.{clear 0}\nUno scudo inciso.</Text>
+    <Text>\nChiusa.{clear 0}\nUn elmo inciso.</Text>
+    <Text>Questa porta è chiusa\na chiave.{clear 0}Sul lato destro c'è una\ntarghetta.</Text>
+    <Text>\nChiusa.{clear 0}\nC'è scritto "Ripostiglio".</Text>
+    <Text>\nChiusa.{clear 0}Sulla targhetta\nc'è scritto 002.</Text>
+    <Text>\nChiusa.{clear 0}Sulla targhetta\nc'è scritto 003.</Text>
+    <Text>\nChiusa.{clear 0}Sulla targhetta c'è scritto\n"Sala comandi".</Text>
+    <Text>\n"Centrale energetica"{clear 0}\nLa porta è chiusa a chiave.</Text>
+    <Text>\nChiusa.</Text>
+    <Text>\nÈ chiusa dall'interno.</Text>
+    <Text>\nOra è aperta.</Text>
+    <Text>\nÈ chiusa.{clear 0}Devi usare il grimaldello per\naprire la porta.</Text>
+    <Text>\nDevo fare in fretta!</Text>
+    <Text>\nNon c'è tempo per controllare.</Text>
+    <Text>\nLa scrivania è chiusa.</Text>
+    <Text>\nLa scrivania è chiusa.{clear 0}Vuoi usare:\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>\n{scroll 0}Chris...{clear 40}{timed 52}\n{scroll 0}Chris...{timed 50}</Text>
+    <Text>{scroll 2}Sono fuggiti nella\nmagione,{clear 48}dove si illudevano di essere\nal sicuro.{clear 48}\nMa...{timed 48}</Text>
+    <Text>{scroll 2}Ti trovi nuovamente\n{scroll 2}nel mondo dell'orrore{clear 48}{scroll 2}e ora dovrai cercare\n{scroll 2}di sopravvivere.{clear 48}\n{scroll 2}Buona fortuna!{timed 48}</Text>
+    <Text>{scroll 2}Usa l'astuzia!\n{scroll 2}Battersi{clear 48}{scroll 2}non è l'unico modo\n{scroll 2}per sopravvivere a{clear 48}\n{scroll 2}quest'orrore.{timed 64}</Text>
+    <Text>Una vecchia macchina da\nscrivere.{clear 0}Se avessi un {color 1}NASTRO{color 0},\npotrei salvare la partita.</Text>
+    <Text>Grazie a quest'oggetto puoi\nsalvare la partita.{clear 0}Vuoi usare il\n{color 1}NASTRO{color 0}?{branch 0 6 0}</Text>
+    <Text>Una spada incisa.</Text>
+    <Text>Una corazza incisa.</Text>
+    <Text>Uno scudo inciso.</Text>
+    <Text>Un elmo inciso.</Text>
+    <Text>C'è inciso il numero 002.</Text>
+    <Text>C'è inciso il numero 003.</Text>
+    <Text>La chiave di una scrivania.</Text>
+    <Text>Qui è inciso uno strano\nsimbolo.</Text>
+    <Text>Il rivestimento è molto curato,\nsembra importante...</Text>
+    <Text>Dev'esserci un ripostiglio da\nqualche parte.</Text>
+    <Text>L'estremità è quadrata.</Text>
+    <Text>L'estremità è esagonale.</Text>
+    <Text>Le pagine sono tutte bianche.\nA che cosa servirà?</Text>
+    <Text>Nel libro c'era una medaglia.</Text>
+    <Text>Una sostanza chimica contro\nle erbe infestanti.</Text>
+    <Text>Hai caricato: {color 1}{string 0}{color 0}</Text>
+    <Text>Non ne ho più bisogno.</Text>
+    <Text>Sarebbe troppo pericoloso\npreparare qui la miscela.</Text>
+    <Text>Il gas venefico si diffonde.</Text>
+    <Text>Sembra che la miscela non sia\nriuscita... È scomparso tutto.</Text>
+    <Text>Vuoi miscelare le erbe?{branch 0 32 6}</Text>
+    <Text>Non sembra che questa miscela\npossa funzionare.</Text>
+    <Text>Serve qualcos'altro perché si\npossa usare.</Text>
+    <Text>Qui non si può usare.</Text>
+    <Text>Questa sostanza si può\nmiscelare con altre.</Text>
+    <Text>Qui non si può usare.</Text>
+    <Text>Qui non si può usare.</Text>
+    <Text>Qui non si può usare.</Text>
+    <Text>Qui non si può usare.</Text>
+    <Text>Ora non c'è bisogno di usare\nquest'oggetto.</Text>
+    <Text>Vuoi prendere:\n{color 2}{string 0}{color 0}?{branch 0 0 79}ggetto finto</Text>
+    <Text>Oggetto finto</Text>
+</Strings>

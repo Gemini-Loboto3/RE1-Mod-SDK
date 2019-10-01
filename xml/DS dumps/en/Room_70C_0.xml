@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>Someone has moved this\ntombstone...{scroll 2}</Text>
+    <Text>It's too dark to see \nanything...{scroll 2}</Text>
+    <Text>It's too dark to see...\nWill you jump down?{scroll 1}{branch 0 6 0}</Text>
+    <Text>There's a rope...\nWill you descend it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Jill, have you found\nanything interesting?{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Yes,\nbut I can't see very well.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}How about going down to\ncheck by yourself?{scroll 2}{clear 87}{scroll 0}\nI have a rope here.{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}Oh do you? Well, then I'll try\nto go down using the rope.{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\nWait.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Yeah, Richard gave this\nto me.{scroll 2}{clear 55}{scroll 0}The radio is a keepsake\nfrom him.{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nRichard!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}This is more useful to you\nthan me.{scroll 2}{clear 70}{scroll 0}\nReady to go?{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nHey! What's going on?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Now I've done it.\nSorry, Jill.{scroll 2}{clear 85}{scroll 0}Wait, I'll go and\nget another rope.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nHey! Are you there, Jill?{scroll 2}{clear 80}{scroll 0}\nGrab the rope!{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nI'm sorry, Jill.{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}I didn't know that was\ngoing to happen.{scroll 2}{clear 95}{scroll 0}Sorry, I was really\ncareless.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nAre you okay, Barry?{scroll 2}{clear 65}{scroll 0}\nMaybe you're getting tired.{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}No, I'm alright,\ndon't worry.{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\nJill, I found something.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Thank you,\nI'll take this then.{scroll 2}{timed 90}</Text>
+    <Text>{branch 2 8 22}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 22}</Text>
+    <Text>There's a switch below...\nWill you push it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{branch 2 8 25}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 25}</Text>
+    <Text>There's a rope...\nWill you climb it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>There's a ladder...\nWill you descend it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>A hole opens in the\nfireplace...{scroll 2}</Text>
+    <Text>{scroll 2}Touch the grave, take up\nthe sword, and be brave!{clear 0}{scroll 2}Touch the gravestone? {branch 0 6 1}</Text>
+    <Text>{scroll 2}An old phonograph.\nThe handle is broken.{clear 0}{scroll 2}Spin record by hand?{branch 0 6 1}</Text>
+</Strings>

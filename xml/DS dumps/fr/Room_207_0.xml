@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Il y a quelque chose \nd'écrit sur le mur.{clear 0}Je ne...peux pas respirer...\nAu secours, j'ai mal...</Text>
+    <Text>{scroll 2}\nLa poignée est cassée.</Text>
+</Strings>

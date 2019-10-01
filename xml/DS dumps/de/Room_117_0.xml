@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Was ist das?\nMonster¼{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nIst sie immer noch im Haus?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWas sind das für welche¼{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es ist Rebecca!\nSie muss oben sein!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}Der Titel ist\n"Gib mir friedlichen Schlaf".{scroll 2}</Text>
+    <Text>{scroll 2}Das Bildnis eines müden\nMannes mittleren Alters.{scroll 2}</Text>
+    <Text>{scroll 2}Das Bild\neines neugeborenen Babys.{scroll 2}</Text>
+    <Text>{scroll 2}Ein Bild eines jungen\nMannes.{scroll 2}</Text>
+    <Text>{scroll 2}Ein Bild von einem\nKleinkind.{scroll 2}</Text>
+    <Text>{scroll 2}Das Bild zeigt\neinen lebhaften Jungen.{scroll 2}</Text>
+    <Text>{scroll 2}Das Bild eines verwegen\naussehenden, alten Mannes.{scroll 2}</Text>
+    <Text>{scroll 2}\nDa ist eine Nachricht.{clear 0}\n"Gib mir den Frieden{clear 0}des Todes und ich werde dir\ndie Freude des Lebens geben..."{scroll 2}</Text>
+    <Text>{scroll 2}Da unten ist ein Schalter. Möch-\nten Sie draufdrücken?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Das Bild trägt den Titel:\n"Von der Wiege zum Grab"{scroll 2}</Text>
+    <Text>{scroll 2}Das Bild trägt den Titel:\n"Das Ende des Lebens"{scroll 2}</Text>
+</Strings>

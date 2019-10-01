@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¿Qué ha pasado?{scroll 1}{clear 70}{scroll 0}Uhh, qué vergüenza.\nHe estado muy torpe.{scroll 1}{clear 220}{scroll 0}No debes hablar,\nte curaré.{scroll 1}{clear 150}{scroll 0}\nPuede que sea mi hora.{scroll 1}{clear 90}{scroll 0}\nJill,{scroll 1}{clear 50}{scroll 0}\ncoge esto.{scroll 1}{clear 100}{scroll 0}\nOs he estado engañando{scroll 1}{clear 100}{scroll 0}\na todos, desde el principio.{scroll 1}{clear 75}{scroll 0}\nSi puedes perdonarme,{scroll 1}{clear 100}{scroll 0}lleva esto a mi familia,\npor favor.{scroll 1}{clear 120}{scroll 0}\nY si puedes protegerlos,{scroll 1}{clear 75}{scroll 0}\npor favor, hazlo.{scroll 1}{clear 165}{scroll 0}¿Qué quieres decir, Barry?\n¡No te rindas!{scroll 1}{clear 120}{scroll 0}\nJill,{scroll 1}{clear 100}{scroll 0}\ncuidado con ese tipo.{scroll 1}{clear 170}{scroll 0}\nSigue viva, por favor, uhhh...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 2}\nBarry...{scroll 1}</Text>
+    <Text>{scroll 2}Hay una escalera...\n¿quieres subir?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nHay un agujero hexagonal...{scroll 1}</Text>
+    <Text>{scroll 2}Hay un agujero en el suelo,\nno puedo saltarlo.{scroll 1}</Text>
+</Strings>

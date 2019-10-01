@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nSoy Brad.{scroll 1}{clear 53}{scroll 0}Equipo Alfa de ＳＴＡＲＳ,\nrespondan.{scroll 1}{clear 97}{scroll 0}¿Pero qué diantres?\n¿Es que no hay nadie?{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n¡Aquí Chris!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Soy Brad.\nＳＴＡＲＳ Equipo Alfa,{scroll 1}{clear 103}{scroll 0}Equipo Bravo, no importa,\nque alguien me conteste...{scroll 1}{clear 120}{scroll 0}\nAquí Brad...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n¡Maldita sea! Está rota.{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nSoy Brad.{scroll 1}{clear 56}{scroll 0}Equipo Alfa de ＳＴＡＲＳ,\nrespondan.{scroll 1}{clear 91}{scroll 0}¿Pero qué diantres?\n¿Es que no hay nadie?{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\nBrad, soy Jill.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Soy Brad.\nEquipo Alfa de ＳＴＡＲＳ,{scroll 1}{clear 106}{scroll 0}Equipo Bravo, no importa,\nque alguien me conteste...{scroll 1}{clear 160}{scroll 0}\nAquí Brad...{scroll 1}{timed 162}</Text>
+    <Text>{scroll 2}Un torno para el ascensor...\nEl ascensor está abajo...</Text>
+    <Text>{scroll 2}\nNada especial.</Text>
+    <Text>{scroll 2}Es un mapa del JARDÍN...\n¿Te lo llevas?{branch 0 6 0}</Text>
+    <Text>{scroll 2}Ahora tienes el mapa\ndel JARDÍN...</Text>
+</Strings>

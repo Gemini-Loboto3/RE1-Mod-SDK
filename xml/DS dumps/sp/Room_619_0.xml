@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>Hay un interruptor...\n¿Quieres pulsarlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nNada fuera de lo común...{scroll 2}</Text>
+    <Text>Está demasiado oscuro,\nno se ve nada...{scroll 2}</Text>
+    <Text>Solo se ve la luz de la luna\ny un bosque denso...{scroll 2}</Text>
+    <Text>{scroll 0}¿Q-Qué son?\n¿Monstruos?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}¡Rebecca!\n¿Sigue estando en la casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Qué son?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es Rebecca, \n¡debe estar arriba!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nUna vela...</Text>
+    <Text>{scroll 2}\nLa vela está encendida...</Text>
+    <Text>{scroll 2}Está demasiado oscuro,\nno se ve nada...</Text>
+</Strings>

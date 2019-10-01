@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Hay una mesa de\noperaciones...{scroll 10}</Text>
+    <Text>{scroll 2}Instrumental para operaciones.\nAlgunos tienen sangre...{scroll 10}</Text>
+    <Text>{scroll 2}Hay un conducto de aire...\n¿Quieres entrar? {branch 0 6 0}</Text>
+    <Text>{scroll 2}\n¡Sale gas venenoso...!{scroll 10}</Text>
+    <Text>{scroll 2}Hay cadáveres colocados\nsobre los catres...{scroll 10}</Text>
+    <Text>{scroll 2}Este sitio parece un\ndepósito de cadáveres...{scroll 10}</Text>
+    <Text>{scroll 2}Es una máquina de\ncontraseñas...{scroll 10}{clear 0}{scroll 2}Si tuviera un DISCO MO podría\nconseguir la contraseña...{scroll 10}</Text>
+    <Text>{scroll 2}Ya tengo el\npase...{scroll 10}</Text>
+    <Text>{scroll 2}Has conseguido el\npase...{scroll 10}</Text>
+    <Text>{scroll 2}La puerta está cerrada.\n¿Quieres examinarla?{branch 0 6 1}</Text>
+</Strings>

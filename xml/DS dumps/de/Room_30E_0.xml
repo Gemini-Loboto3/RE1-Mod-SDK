@@ -1,0 +1,3 @@
+﻿<Strings>
+    <Text>{scroll 2}Sie ist fest verschlossen.\nUntersuchen?{branch 0 6 1}</Text>
+</Strings>

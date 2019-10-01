@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Un panel para\nintroducir la contraseña...</Text>
+    <Text>\nNo conoces la contraseña...</Text>
+    <Text>\nHas introducido la contraseña...</Text>
+    <Text>{scroll 0}\nPongámonos en movimiento.{scroll 1}{timed 65}</Text>
+    <Text>Está cerrado\nelectrónicamente...</Text>
+    <Text>\nEstá cerrado...</Text>
+</Strings>

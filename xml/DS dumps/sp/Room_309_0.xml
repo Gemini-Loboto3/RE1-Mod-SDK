@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}Ha estado demasiado cerca. \nVayamos juntos.{scroll 1}{clear 140}{scroll 0}\nVale, vamos.{scroll 1}{clear 60}{scroll 0}De acuerdo, te cubro.\n¡Vamos!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}Es un generador de electricidad, \npero parece que no funciona...{scroll 1}</Text>
+</Strings>

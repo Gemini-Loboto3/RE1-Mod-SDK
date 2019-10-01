@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nIci Brad ! Il ne me reste  {scroll 1}{clear 40}{scroll 0}presque plus de carburant...\nOK, dernier appel !  {scroll 1}{clear 60}{scroll 0}Si quelqu'un est encore\nen vie,{scroll 1}{clear 50}{scroll 0}faites-moi signe ! \nDernier appel... {scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}\nLa batterie a été arrachée.{scroll 1}</Text>
+    <Text>{scroll 0}\nOh, non ! Ce n'est pas vrai !{scroll 1}{clear 80}{scroll 0}Après tout ce que nous avons \nenduré ici...! {scroll 1}{clear 52}{scroll 0}Les dames d'abord. Après toi, \nJill !{scroll 1}{clear 70}{scroll 0}\nMais Chris !{scroll 1}{clear 35}{scroll 0}\nLaisse-moi être galant !{scroll 1}{clear 90}{scroll 0}OK. C'est toi qui décide !\nRendez-vous à l'Héliport !{scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}Bon sang ! \nEncore un petit effort...{scroll 1}{clear 110}{scroll 0}\nOK, j'y vais !{scroll 1}{clear 50}{scroll 0}Jill, essaie de\ncontacter Brad ! {scroll 1}{clear 90}{scroll 0}\nOK ! {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}J'y suis arrivée ! Le compte \nà rebours est déclenché ! {scroll 1}{clear 120}{scroll 0}Super ! Rebecca. \nBrad dans son hélicoptère... {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n...Regardez ces monstres !{scroll 1}{clear 100}{scroll 0}\nJe m'en occupe ! {scroll 1}{clear 60}{scroll 0}\nMais... {scroll 1}{clear 40}{scroll 0}Chris, prends contact avec \nBrad tout de suite ! {scroll 1}{clear 80}{scroll 0}\nOK ! {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nJe m'en occupe ! {scroll 1}{clear 60}{scroll 0}\nMais... {scroll 1}{clear 40}{scroll 0}Chris, prends contact avec \nBrad tout de suite ! {scroll 1}{clear 80}{scroll 0}\nOK ! {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n...Regardez ces monstres !{scroll 1}{clear 70}{scroll 0}Chris ! Si Brad est dans cet \nhélicoptère,{scroll 1}{clear 84}{scroll 0}entrez en contact avec lui\npar tous les moyens !{scroll 1}{clear 85}{scroll 0}\nMais ! {scroll 1}{clear 40}{scroll 0}\nJe vais retenir les monstres !{scroll 1}{clear 84}{scroll 0}\nOK ! Je vous fais confiance !{scroll 1}{clear 84}{scroll 0}\nFaites-moi confiance ! {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nIci Brad ! Il ne me reste  {scroll 1}{clear 76}{scroll 0}presque plus de carburant...\nOK, dernier appel !  {scroll 1}{clear 90}{scroll 0}Si quelqu'un est encore\nen vie,  {scroll 1}{clear 50}{scroll 0}faites-moi signe ! \nDernier appel... {scroll 1}{timed 60}</Text>
+    <Text>{scroll 1}Pas de réaction. \nCa n'est pas branché.{scroll 1}</Text>
+    <Text>{scroll 0}Il reste 3 minutes avant \nl'explosion. {scroll 1}{timed 100}</Text>
+</Strings>

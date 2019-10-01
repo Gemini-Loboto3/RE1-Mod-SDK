@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nC'è un foro esagonale...</Text>
+    <Text>{scroll 2}Una mappa del SOTTERRANEO.\nVuoi prenderla?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Hai preso la mappa\ndel SOTTERRANEO...</Text>
+    <Text>{scroll 2}\nNiente di strano...</Text>
+</Strings>

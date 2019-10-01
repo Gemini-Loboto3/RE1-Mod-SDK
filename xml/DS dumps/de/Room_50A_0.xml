@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}Da ist ein Schalter.\nMöchten Sie ihn betätigen?{branch 0 6 1}</Text>
+    <Text>{scroll 4}\nJohn. Ada...{scroll 2}</Text>
+    <Text>{scroll 2}Auf das Bild wurde etwas\ngeschrieben...{scroll 2}</Text>
+    <Text>{scroll 2}Es ist viel zu dunkel,\num etwas zu sehen.{scroll 2}</Text>
+    <Text>{scroll 2}Es scheint, als ob jemand\ndas kürzlich benutzt hat.{scroll 2}</Text>
+    <Text>{scroll 2}Ein Schalter für die Lüftung,\naber er ist defekt.{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,3 @@
+﻿<Strings>
+    <Text>{scroll 2}El cofre está cerrado.\n¿Quieres examinarlo?{branch 0 6 1}</Text>
+</Strings>

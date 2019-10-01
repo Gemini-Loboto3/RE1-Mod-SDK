@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Vaya! ¿Qué es eso?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\n¿Qué? ¡OH! ¡OH, NO!{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}Lo siento, no era mi\nintención.{scroll 1}{clear 90}{scroll 0}Ja, ja, debes de ser\ndel equipo Bravo.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Sí, soy Rebecca. \nRebecca Chambers. {scroll 1}{clear 100}{scroll 0}Soy nueva, llegué{scroll 1}{clear 45}{scroll 0}al equipo de\nＳＴＡＲＳ Bravo el mes pasado.{scroll 1}{clear 130}{scroll 0}Bueno, lo siento de verdad, \n¿estás bien? {scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Sí, soy Chris Redfield,\ndel equipo Alfa. {scroll 1}{clear 120}{scroll 0}¿Eres la única del equipo\nBravo que está aquí?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}El helicóptero tuvo que hacer\nun aterrizaje de emergencia.{scroll 1}{clear 115}{scroll 0}Yo corrí hacia la casa.\nPero, yo, eh... eh...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nYa veo...{scroll 1}{clear 50}{scroll 0}No podías hacer más.\nPero me alegro de{scroll 1}{clear 43}{scroll 0}\ntenerte aquí. {scroll 2}{timed 57}</Text>
+    <Text>{scroll 0}\nSí, señor.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nPero... es extraño.{scroll 1}{clear 67}{scroll 0}\nRevisé el helicóptero hace\npoco, pero algo falló con{scroll 1}{clear 75}el motor.{scroll 1}{clear 74}{scroll 0}\nHa sido un vuelo corto.{scroll 2}{timed 38}</Text>
+    <Text>{scroll 0}\nMe pregunto si todos habrán...{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nBueno, ¿qué debería hacer?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Si vas a buscar a los\ndemás miembros,{scroll 1}{clear 95}{scroll 0}¿por qué no me dejas\nir contigo?{scroll 2}{timed 47}</Text>
+    <Text>{scroll 0}\nVale, hagámoslo.{scroll 1}{clear 70}{scroll 0}\n¡Sí, señor! Lo daré todo.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Hay mucho peligro fuera,\nyo me encargo.{scroll 1}{clear 120}{scroll 0} Entiendo. \nPor ahora, esperaré aquí. {scroll 1}{clear 100}{scroll 0}En esta sala hay productos{scroll 1}{clear 90}{scroll 0}\nque pueden ser útiles.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Bueno, echaré un vistazo\na los productos.{scroll 2}{timed 100}</Text>
+    <Text>¿Quieres que Rebecca\nvaya contigo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}¡Ah, Chris! La sala\nestá llena de suministros{scroll 2}{clear 70}{scroll 0}médicos. Te puedo curar\nsi la herida es grave.{scroll 2}{clear 100}{scroll 0}\n¿Quieres que lo haga?{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}Sí, échame una mano,\npara aguantar más tiempo. {scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}La mayoría de las medicinas\nson de Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n¿Qué es Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¿No lo sabes?{scroll 2}{clear 42}{scroll 0}\nEs una gran compañía{scroll 2}{clear 40}{scroll 0}farmacéutica \nde Raccoon City.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}Ah, ya veo, ¿y sabes\ncuánta medicina se{scroll 2}{clear 100}{scroll 0}\npuede usar?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Bueno, probablemente\nhabrá para 2 dosis.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\n¿Estás bien?{scroll 2}{clear 60}{scroll 0}\n¿Quieres que te cure?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¡Chris! ¡Cuidado!{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nEstoy bien,{scroll 2}{clear 50}{scroll 0}pero si me pasa algo,\ncúrame.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nVale, puedes contar conmigo.{scroll 2}{clear 80}{scroll 0}Pero solo tenemos medicina\npara 3 dosis más.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Lo siento, pero no te has\nenfadado conmigo, ¿verdad?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\nOh, claro que no.{scroll 2}{clear 80}{scroll 0}Pero estabas preocupada,\n¿verdad?{scroll 2}{clear 80}{scroll 0}Oye, somos socios, ¿no? \nTrabajemos juntos.{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\n¡Sí, señor! ¡Lo daré todo!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\n¡Chris! ¡Encárgate!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nEs la última dosis.{scroll 2}{clear 75}{scroll 0}No vuelvas a hacer \nel loco.{scroll 2}{timed 95}</Text>
+    <Text>¿Quieres que te cure\nlas heridas?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nRebecca, ¿eres tú?{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, ¿estás bien?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nSí... ¿Q-Qué ha pasado?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Te ha mordido una\nserpiente. ¿Estás bien?{scroll 2}{timed 135}</Text>
+    <Text>{scroll 0}\nAhh, la cabeza, me mata.{scroll 2}{timed 145}</Text>
+    <Text>{scroll 0}Creo que te pondrás bien, \nte he puesto una dosis.{scroll 2}{clear 100}{scroll 0}Pero, por favor, ¡no te\nmetas en problemas!{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Me has salvado la vida.\nTe debo una.{scroll 2}{timed 125}</Text>
+    <Text>{scroll 0}\nMe pregunto si todos habrán...{scroll 2}{timed 115}</Text>
+    <Text>\nVitaminas y sueros...{scroll 2}</Text>
+    <Text>\nUna dosis debería...{scroll 2}</Text>
+    <Text>\nRebecca cura a Chris...{scroll 2}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}</Text>
+    <Text>{scroll 2}El cofre está cerrado.\n¿Quieres examinarlo?{branch 0 6 1}</Text>
+</Strings>

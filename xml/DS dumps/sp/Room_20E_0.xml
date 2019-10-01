@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}¿Estoy envenenado?\nMaldita sea, quiero suero.{scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}\n¡Chris!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Seguro que el suero\nestá allí, {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nno tardaré.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n¿Estás bien?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nSí... ¿Qué ha pasado?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Te ha mordido una\nserpiente venenosa.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n¿Estás bien?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Ahh, este dolor de cabeza\nme va a matar.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}Creo que te pondrás bien,\nte he inyectado una dosis.{scroll 1}{clear 90}{scroll 0}\nPero ten cuidado, por favor.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Me has salvado la vida.\nTe debo una.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nMe alegro de haberte ayudado.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}¿Estoy envenenado?\nPonme el suero.{scroll 1}{timed 150}</Text>
+</Strings>

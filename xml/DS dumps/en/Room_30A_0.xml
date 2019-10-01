@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nDon't come any closer, Chris.{scroll 1}{clear 70}{scroll 0}\nWait, what happened?{scroll 1}{clear 65}{scroll 0}\nDouble crosser!!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nDON'T!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Who is it?\nI-Is someone there?{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nUhhh-ahhh hell... Umbrella...{scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}Double crosser?\nWhat did he mean by that?{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}He couldn't have moved\nbecause of this injury...{scroll 1}{clear 0}{scroll 2}\nHe's holding something...{scroll 1}</Text>
+    <Text>{scroll 0}\nIs that Jill?{scroll 1}{clear 45}{scroll 0}\nIs that voice, Enrico's?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nYeah?{scroll 1}{clear 30}{scroll 0}\nYou're alive!{scroll 1}{clear 30}{scroll 0}Wait there!\nAre you with anybody, Jill?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Wh-What? Oh no, I'm alone,\nbut why are you asking?{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}Listen! The ＳＴＡＲＳ are going\nto be finished soon.{scroll 1}{clear 144}{scroll 0}\nSomeone is a traitor.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Everything was plotted from\nthe start by Umbrella,{scroll 1}{clear 180}{scroll 0}\nAHH.... Ohhhh... cough... uhh{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWho killed him, I wonder?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWhat? Oh yes!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nSo, Barry and Jill together.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nAre you alright, Enrico?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}The ＳＴＡＲＳ are doomed.\nSomeone is a traitor.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Everything was plotted from\nthe start by Umbrella,{scroll 1}{clear 175}{scroll 0}\nAHH.... Ohhhh... cough... uhh{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 1}\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}\n{scroll 1}{timed 30}</Text>
+    <Text>{scroll 2}He couldn't have moved\nbecause of this injury...{scroll 1}{clear 0}{scroll 2}\nHe's holding something...{scroll 1}</Text>
+    <Text>{scroll 2}\nBarry is investigating...{scroll 1}</Text>
+</Strings>

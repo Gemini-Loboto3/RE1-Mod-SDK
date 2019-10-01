@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}C'est une machine pour\ncodes d'accès.{clear 0}Si j'avais un DISQUE MO, je\npourrais avoir le code...{scroll 2}</Text>
+    <Text>{scroll 2}\nJ'ai déjà le code d'accès.{scroll 2}</Text>
+    <Text>{scroll 2}\nRien de spécial.\n{scroll 2}</Text>
+    <Text>{scroll 2}La plupart des livres sont\ndes romans.{scroll 2}</Text>
+    <Text>{scroll 2}Des cartons et des posters.\nRien d'utile.{scroll 2}</Text>
+    <Text>{scroll 2}L'interrupteur de \nl'air conditionné.{scroll 2}</Text>
+    <Text>{scroll 2}Il y a des capteurs.\nExaminer ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Le volet est\nverrouillé.</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>The water is running from\nthe upper water passage...{clear 0}There's something in the\nback...</Text>
+    <Text>\nThe battery is pulled out...</Text>
+    <Text>\nNothing major...</Text>
+    <Text>There's a ladder...\nWill you descend it?{branch 0 6 0}</Text>
+    <Text>I've got to get power to\nthe elevator...</Text>
+</Strings>

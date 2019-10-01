@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nChris! Sei vivo?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nStavo per dirlo io.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Dov'è Jill?\nNon sei con lei?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nMi dispiace,{scroll 1}{clear 45}{scroll 0}siamo stati assaliti da\nuno strano mostro.{scroll 1}{clear 65}{scroll 0}L'ho persa di vista mentre\nesploravamo la zona.{scroll 1}{clear 90}{scroll 0}\nSpero che stia bene.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Capisco... Coraggio, non\nè stata colpa tua.{scroll 1}{clear 80}{scroll 0}\nÈ questo posto!{scroll 1}{clear 43}{scroll 0}Se restiamo qui, finiremo\nper farci ammazzare tutti!{scroll 1}{clear 86}{scroll 0}\nChe cosa facciamo, Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Dobbiamo portare a termine\nla missione.{scroll 1}{clear 50}{scroll 0}Possiamo fuggire o restare\na cercare Jill,{scroll 1}{clear 60}{scroll 0}ma non abbiamo molte munizioni\ne non possiamo neppure difenderci.{scroll 1}{clear 125}{scroll 0}\nSiamo nei guai.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChris,{scroll 1}{clear 30}{scroll 0}in quella casa ci sono\nmolte porte chiuse.{scroll 1}{clear 75}{scroll 0}Controllale ancora una\nvolta.{scroll 1}{clear 70}{scroll 0}Deve esserci un posto\nsicuro dove nascondersi.{scroll 1}{clear 75}{scroll 0}Andrò a dare un'altra\nocchiata alla casa.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOK.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nDiamoci una mossa.{scroll 1}{timed 60}</Text>
+</Strings>

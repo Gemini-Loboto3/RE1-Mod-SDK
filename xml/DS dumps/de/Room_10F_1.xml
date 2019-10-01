@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nEin großer Konzertflügel.</Text>
+    <Text>Chris kann leider keine\nNoten lesen.</Text>
+    <Text>{scroll 0}\nIch bin es, Chris.{scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\nGeht es dir gut?{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\nBist du das, Rebecca?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Ja, ich habe beschlossen,\nnicht mehr zu trauern.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ah, das ist\ndie "Mondscheinsonate".{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nKannst du spielen?{scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}\nWarte mal, was ist das?{scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}Meine Darbietung hört sich\netwas schief an.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Chris,\ndarf ich ein Weilchen üben?{scroll 2}{timed 85}</Text>
+    <Text>Soll Rebecca üben?\n{branch 0 6 0}</Text>
+    <Text>{scroll 0}Weißt du, entspann dich\nund spiel einfach.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nIn Ordnung...{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}Lass uns zurückgehen\nund nach den anderen suchen.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nAlles klar.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nRebecca!{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Ich weiß, ich weiß, bitte\nnoch einen kleinen Moment.{scroll 2}{timed 116}</Text>
+    <Text>Rebecca spielt auf dem\nFlügel.</Text>
+    <Text>{scroll 0}\nChris, Chris!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nGefällt es dir?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nJa, es war super!{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\nWas ist das!{scroll 2}{timed 55}</Text>
+    <Text>Das ist die\n"Mondscheinsonate".</Text>
+    <Text>Das ist der Hohlraum,\nin dem sich ein Emblem befand.</Text>
+    <Text>\nEin Emblem wurde eingepasst.</Text>
+    <Text>{scroll 0}\nPass auf.{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nBist du okay?{scroll 2}{timed 85}</Text>
+    <Text>Wir haben keine Zeit zum\nKlavierspielen!</Text>
+</Strings>

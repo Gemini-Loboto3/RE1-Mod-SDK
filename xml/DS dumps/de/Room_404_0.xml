@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>\nEine Kugel mit einer "3".{scroll 2}</Text>
+    <Text>\nEine Kugel mit einer "6".{scroll 2}</Text>
+    <Text>\nEine Kugel mit einer "9".{scroll 2}</Text>
+    <Text>Das sieht aus\nwie ein Zifferblatt.{scroll 2}{clear 0}\nIrgendeine Art Code...{scroll 2}</Text>
+    <Text>\nEine Dartscheibe.{scroll 2}</Text>
+    <Text>\nEr ist kaputt.{scroll 2}</Text>
+    <Text>Es ist keine Zeit,\ndas zu überprüfen.{scroll 2}</Text>
+    <Text>Das sieht aus\nwie ein Zifferblatt.{scroll 2}{clear 0}\n1·2···4·5···{scroll 2}{clear 0}\nIrgendeine Art Code...{scroll 2}</Text>
+    <Text>Das sieht aus\nwie ein Zifferblatt.{scroll 2}{clear 0}\n2···1·5···{scroll 2}{clear 0}\nIrgendeine Art Code...{scroll 2}</Text>
+    <Text>Das sieht aus\nwie ein Zifferblatt.{scroll 2}{clear 0}\n3···4·5···{scroll 2}{clear 0}\nIrgendeine Art Code...{scroll 2}</Text>
+    <Text>Das sieht aus\nwie ein Zifferblatt.{scroll 2}{clear 0}\n9···5·8···{scroll 2}{clear 0}\nIrgendeine Art Code...{scroll 2}</Text>
+</Strings>

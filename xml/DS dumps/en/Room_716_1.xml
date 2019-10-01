@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Most of them are on\nbiology and chemistry...{scroll 2}</Text>
+    <Text>{scroll 2}\nVarious books...{scroll 2}</Text>
+    <Text>{scroll 2}It has not been used for a\nlong time and is dusty...{scroll 2}</Text>
+    <Text>{scroll 2}\nThere's a sword in the door.{clear 0}{scroll 2}Something's held up by it.\nRemove the sword?{branch 0 6 1}</Text>
+</Strings>

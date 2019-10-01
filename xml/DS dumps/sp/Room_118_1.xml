@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>\nHerramientas de jardinería...{scroll 2}{clear 0}\nNada útil...{scroll 2}</Text>
+    <Text>{scroll 2}El cofre está cerrado.\n¿Quieres examinarlo?{branch 0 6 1}</Text>
+</Strings>

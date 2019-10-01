@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHallo, Jill, du bist es...{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nBarry...{scroll 1}{clear 60}{scroll 0}Es macht mich jetzt richtig\nbetroffen, dich zu sehen.{scroll 1}{clear 115}{scroll 0}Lass mich lieber allein\nGeh schnell.{scroll 1}{clear 81}{scroll 0}Es ist jetzt vorbei, Barry.\nWesker ist tot.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Ist das wahr? Jill, würdest du\nmir einen Gefallen tun?{scroll 1}{clear 200}{scroll 0}\nDas ist mein letzter Wunsch.{scroll 1}{clear 110}{scroll 0}Bitte gib meiner Familie\ndieses Foto, machst du das?{scroll 1}{clear 230}{scroll 0}\nBestimmt.{scroll 1}{clear 50}{scroll 0}\nVergib mir, Jill...{scroll 1}{timed 199}</Text>
+    <Text>{scroll 0}\nLass uns weitergehen, Chris.{scroll 1}{clear 50}{scroll 0}Wir dürfen uns nicht\naufhalten lassen.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nSchnell!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nAlso los!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nMein Gott!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nTempo!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nSchnell!{scroll 1}{timed 60}</Text>
+    <Text>\n{scroll 2}Da ist eine Leiter.{clear 0}Möchten Sie hinaufklettern?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Er muss von diesen Monstern\nangegriffen worden sein.{scroll 1}</Text>
+    <Text>{scroll 2}Sie ist fest verschlossen.\nUntersuchen?{branch 0 6 1}</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Una macchina generatrice\ndi codici.{clear 0}Se avessi un DISCO MO,\npotrei ottenere il codice...{scroll 2}</Text>
+    <Text>{scroll 2}\nHo già il codice...{scroll 2}</Text>
+</Strings>

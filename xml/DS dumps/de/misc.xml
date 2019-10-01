@@ -1,0 +1,66 @@
+﻿<Strings>
+    <Text>Möchten Sie dies nehmen:\n{color 1}{string 0}{color 0}?{branch 0 0 83}ie haben folgendes genommen:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Sie haben folgendes genommen:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Sie können nicht noch mehr \nTeile tragen.</Text>
+    <Text>Sie haben dies gerade benutzt:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>Möchten Sie dies ablegen:\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>Möchten Sie dies benutzen: \n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>{color 1}{string 0}{color 0}\nwurde gespeichert.{clear 0}{timed 1}</Text>
+    <Text>Dieser Schlüssel ist jetzt\nnutzlos. Wegwerfen?{branch 2 9 2}</Text>
+    <Text>\nSie ist fest verschlossen.{clear 0}\nEin Schwert ist eingraviert.</Text>
+    <Text>  \nSie ist fest verschlossen.{clear 0}  \nEine Rüstung ist eingraviert.</Text>
+    <Text>  \nSie ist fest verschlossen.{clear 0}  \nEin Schild ist eingraviert.</Text>
+    <Text>  \nSie ist fest verschlossen.{clear 0}  \nEin Helm ist eingraviert.</Text>
+    <Text>  \nDie Tür ist fest verschlossen.{clear 0}\nRechts befindet sich eine Tafel.</Text>
+    <Text>  \nSie ist fest verschlossen.{clear 0}  \nAuf der Tür steht "Wandschrank".</Text>
+    <Text>  \nSie ist fest verschlossen.{clear 0}  \nAuf dem Schild steht 002.</Text>
+    <Text>  \nSie ist fest verschlossen.{clear 0}  \nAuf dem Schild steht 003.</Text>
+    <Text>\nSie ist fest verschlossen.{clear 0}Auf der Tür steht\n"Kontrollraum".</Text>
+    <Text>\n"Energie-Raum"{clear 0}\nDie Tür ist fest verschlossen.</Text>
+    <Text>\nSie ist fest verschlossen.</Text>
+    <Text>\nSie ist von innen verriegelt.</Text>
+    <Text>\nSie haben sie geöffnet.</Text>
+    <Text>\nSie ist fest verschlossen.{clear 0}Versuchen Sie, die Tür mit\ndem Dietrich zu öffnen.</Text>
+    <Text>\nIch muß mich beeilen!</Text>
+    <Text>Ich kann Chris nicht allein\nlassen!</Text>
+    <Text>Der Schreibtisch ist\nverschlossen.</Text>
+    <Text>Der Schreibtisch ist\nverschlossen.{clear 0}Möchten Sie dies benutzen:\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>\n{scroll 0}Chris...{clear 40}{timed 50}\n{scroll 0}Chris...{timed 50}</Text>
+    <Text>{scroll 2}Sie konnten ins\nHerrenhaus entkommen{clear 48}wo sie sich\nsicher glaubten.{clear 48}\nDoch...{timed 48}</Text>
+    <Text>{scroll 2}Und wieder haben Sie die\nWelt des Horrors betreten{clear 48}{scroll 2}in der nur das\nüberleben zählt.{clear 48}\n{scroll 2}Viel Glück!{timed 48}</Text>
+    <Text>{scroll 2}Seien Sie clever!\nGegen die Feinde zu kämpfen{clear 48}{scroll 2}ist nicht der einzige\nWeg, diesen Horror{clear 48}\n{scroll 2}zu überleben.{timed 64}</Text>
+    <Text>Das ist eine alte\nSchreibmaschine.{clear 0}Hätte ich ein {color 1}Farbband{color 0},\nkönnte ich abspeichern...</Text>
+    <Text>Damit können Sie Ihre\nFortschritte speichern.{clear 0}Möchten Sie das {color 1}Farbband{color 0}\nbenutzen?{branch 0 6 0}</Text>
+    <Text>Ein Schwert ist eingraviert.</Text>
+    <Text>Eine Rüstung ist eingraviert.</Text>
+    <Text>Ein Schild ist eingraviert.</Text>
+    <Text>Ein Helm ist eingraviert.</Text>
+    <Text>Die Zahl "002" ist eingraviert.</Text>
+    <Text>Die Zahl "003" ist eingraviert.</Text>
+    <Text>Ein Schreibtischschlüssel.</Text>
+    <Text>Hier ist ein seltsames Zeichen.</Text>
+    <Text>Er hat einen Spezialüberzug und\nsieht bedeutungsvoll aus...</Text>
+    <Text>Hier muß irgendwo ein\nWandschrank sein.</Text>
+    <Text>Das Ende ist viereckig.</Text>
+    <Text>Das Ende ist sechseckig.</Text>
+    <Text>Alle Seiten sind leer.\nWozu dient es...?</Text>
+    <Text>In dem Buch lag eine Medaille.</Text>
+    <Text>Ein Unkrautvernichtungsmittel.</Text>
+    <Text>{color 1}{string 0}{color 0} geladen.</Text>
+    <Text>Das brauche ich nicht mehr.</Text>
+    <Text>Es ist zu gefährlich, das hier\nzu vermischen.</Text>
+    <Text>Das Giftgas umgibt Sie.</Text>
+    <Text>Das Mischen ist fehlgeschlagen.\nEs verflüchtigt sich.</Text>
+    <Text>Möchten Sie die Kräuter\nmischen?{branch 0 32 6}</Text>
+    <Text>Eine solche Mischung scheint\nkeine Wirkung zu haben.</Text>
+    <Text>Das ist allein wirkungslos.</Text>
+    <Text>Sie können das hier nicht\nbenutzen.</Text>
+    <Text>Diese Chemikalie kann mit ander-\nen Chemikalien gemischt werden.</Text>
+    <Text>Sie können das hier nicht\nbenutzen.</Text>
+    <Text>Sie können das hier nicht\nbenutzen.</Text>
+    <Text>Sie können das hier nicht\nbenutzen.</Text>
+    <Text>Sie können das hier nicht\nbenutzen.</Text>
+    <Text>Sie sollten diesen Gegenstand\njetzt nicht benutzen.</Text>
+    <Text>Möchten Sie dies nehmen:\n{color 2}{string 0}{color 0}?{branch 0 0 1}\n           BOTANIK BUCH\n\n-Über medizinische Kräuter-</Text>
+    <Text>Sie können das hier nicht\nbenutzen.</Text>
+</Strings>

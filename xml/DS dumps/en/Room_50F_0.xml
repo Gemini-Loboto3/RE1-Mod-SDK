@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>A power panel...  Some areas\ndo not have power...{scroll 2}{clear 0}Will you activate the\nblacked-out areas?{scroll 1}{branch 0 6 0}</Text>
+    <Text>It shows the power supply\nstatus...{scroll 2}</Text>
+    <Text>{scroll 2}\nA power regulator.{clear 0}{scroll 2}The voltage is incorrect.\nAdjust the wiring?{branch 0 6 1}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Place 2 wires. When all\ngraphs extend into the red...{clear 0}{scroll 2}...the electricity\nwill be powered on.</Text>
+</Strings>

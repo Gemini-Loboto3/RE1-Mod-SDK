@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}C'è mancato poco.\nAndiamo insieme.{scroll 1}{clear 140}{scroll 0}\nOK, andiamo.{scroll 1}{clear 60}{scroll 0}Bene, allora io ti copro.\nFacciamo presto!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}È un generatore, ma non\npare in grado di funzionare.{scroll 1}</Text>
+</Strings>

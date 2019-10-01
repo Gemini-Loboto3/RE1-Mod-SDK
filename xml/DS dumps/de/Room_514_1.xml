@@ -1,0 +1,42 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker...{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Du hast das sehr gut gemacht,\nBarry.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nDas kann man so sagen...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Ich glaube, Du solltest besser\nvon Barry weg bleiben, Jill.{scroll 1}{clear 75}{scroll 0}\nIch habe gehört, dass seine{scroll 1}{clear 40}{scroll 0}Frau und zwei Töchter\nin große Gefahr geraten,{scroll 1}{clear 40}{scroll 0}wenn er nicht alles tut,\nwas ich ihm sage.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nDu bist ein Schwein...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nAlso,{scroll 1}{clear 30}{scroll 0}du brauchst dir keinerlei\nSorgen mehr zu machen,{scroll 1}{clear 75}{scroll 0}denn du bist bald erlöst\nvon dieser Welt, Jill.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Warum musst du die ＳＴＡＲＳ\nUnbedingt vernichten?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nDas war Umbrellas Idee.{scroll 1}{clear 60}{scroll 0}Das Laboratorium betrieb\ngefährliche Experimente,{scroll 1}{clear 60}{scroll 0}und vor Kurzem passierte ein\nUnfall. So eine Katastrophe{scroll 1}{clear 88}{scroll 0}darf auf keinen Fall an\ndie Öffentlichkeit gelangen.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Ach so,\ndeshalb war man nicht erfreut,{scroll 1}{clear 56}{scroll 0}dass die ＳＴＡＲＳ die Nase\nüberall hineinsteckte.{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}Du bist also genauso\nein Sklave von Umbrella, wie{scroll 1}{clear 60}{scroll 0}\ndiese netten Virus-Monster.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Da hast du mich wohl falsch\nverstanden, Jill.{scroll 1}{clear 70}{scroll 0}Die Monster, die du erwähnstt,\nbedeuten mir rein gar nichts.{scroll 1}{clear 75}{scroll 0}Ich werde sie alle zusammen\nmit dem ganzen Labor{scroll 1}{clear 82}{scroll 0}\nin Flammen aufgehen lassen.{scroll 1}{clear 45}{scroll 0}Ich muss die Mission erfüllen,\nwie von Umbrella befohlen.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Barry, geh jetzt nach oben\nund warte dort!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nBarry so ein Narr!{scroll 1}{clear 40}{scroll 0}Er wird ewig unter Umbrellas\nKontrolle stehen.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nWie kommt es nur,{scroll 1}{clear 40}{scroll 0}dass sowohl Umbrella als auch\ndu ihn einschüchtern können,{scroll 1}{clear 50}{scroll 0}indem Sie seine Familie als\nGeiseln nehmen!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Umbrella? Nun, ich habe ihn\neingeschüchtert,{scroll 1}{clear 105}{scroll 0}aber das hat überhaupt nichts\nmit Umbrella zu tun.{scroll 1}{clear 65}{scroll 0}Ich benutzte ihn einfach für\nmeine eigenen Zwecke,{scroll 1}{clear 90}{scroll 0}obwohl es scheint,\ndass ihr beide glaubt,{scroll 1}{clear 75}{scroll 0}ich würde Befehle von Umbrella\nbefolgen.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Du planst also irgendwas,\nmmh?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nFalls es dir gelungen wäre,{scroll 1}{clear 50}{scroll 0}die mächtigste Biowaffe\nder Welt zu entwickeln, was{scroll 1}{clear 96}{scroll 0}würdest du tun? Was, wenn du\nverantwortlich gewesen wärst?{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Du musst sofort damit \naufhören!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Du bist ein tapferes Mädchen!\nDoch wenn ich du wäre, würde{scroll 1}{clear 120}{scroll 0}ich eine solch großartige\nEntdeckung nicht aufgeben.{scroll 1}{clear 55}{scroll 0}\nIhr Leute seid alles Idioten.{scroll 1}{clear 56}{scroll 0}Keiner begreift den\ntatsächlichen Wert!{scroll 1}{timed 89}</Text>
+    <Text>{scroll 0}Das heißt, du wirst die ganzen\nForschungen beiseite schaffen?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Besser noch, ich werde dir\njetzt den Tyrant zeigen...{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nTut mir Leid, Jill...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Und was ist mit deiner\nFamilie?{scroll 1}{clear 50}{scroll 0}Ach..., ich habe dein Gespräch\nmit Wesker gehört.{scroll 1}{clear 100}{scroll 0}Ich wünschte, ich hätte sowas\nschon eher geschafft.{scroll 1}{clear 115}{scroll 0}Ich dachte immer, es muss\nirgendwas mit Umbrella{scroll 1}{clear 50}{scroll 0}\nzu tun haben, weißt du.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Also steckt er hinter\nder ganzen Sache.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Aber es ist gut,\ndass du das jetzt weißt.{scroll 1}{clear 76}{scroll 0}Wir müssen erst mal irgendwie\naus diesem Haus herauskommen.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\nJa, was ist?{scroll 1}{clear 50}{scroll 0}\nHast du eine Vorstellung,{scroll 1}{clear 60}{scroll 0}was Wesker dir dort in der\nhinteren Ecke zeigen wollte?{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nNun,{scroll 1}{clear 60}{scroll 0}er redete von der mächtigsten\nbiologischen Waffe der Welt,{scroll 1}{clear 90}{scroll 0}die er Tyrant oder so ähnlich\nnannte, glaube ich...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Meinst du, wir könnten Tyrant\njetzt ansehen?{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Barry,\ndu bist aber optimistisch!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Für die ＳＴＡＲＳ würde es\nschlecht aussehen,{scroll 1}{clear 60}{scroll 0}wenn wir eine so gefährliche\nKreatur frei laufen ließen.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Vielleicht hast du Recht...\nDann wollen wir mal!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Barry ist jetzt nicht länger\nvon Nutzen.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nGenau wie ich es mir dachte...{scroll 1}{clear 50}{scroll 0}Du bist der Mann, der hinter\ndieser ganzen Sache steckt.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nWas ist mit Wesker geschehen?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Der Auslöserm wurde\ngerade aktiviert.{scroll 1}{clear 90}{scroll 0}\nAlle Wissenschaftler und das{scroll 1}{clear 40}{scroll 0}gesamte Wachpersonal sollten\nsofort das Gelände verlassen.{scroll 1}{clear 30}{scroll 0}Alle Fluchtwege werden zur\nEvakuierung entriegelt.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Wesker muss es aktiviert\nhaben.{scroll 1}{clear 62}{scroll 0}Uns bleibt nicht mehr\nviel Zeit übrig.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nWas ist mit Wesker geschehen?{scroll 1}{timed 40}</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}The bathtub is filled with\nmuddy water...{clear 0}{scroll 2}Will you unplug it?{branch 0 6 1}</Text>
+    <Text>\nNothing special...</Text>
+    <Text>\nNothing major...</Text>
+</Strings>

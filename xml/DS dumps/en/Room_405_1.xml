@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJill... so you're safe.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}That's what I was going\nto say.{scroll 1}{clear 80}{scroll 0}Where on earth have you\nbeen?{scroll 1}{clear 50}{scroll 0}You disappeared from the\nhall all of a sudden.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}I'm sorry,\nbut I have my reasons.{scroll 1}{clear 108}{scroll 0}Perhaps you guys have met\nthem. It was all I could do {scroll 1}{clear 80}{scroll 0}to protect myself against\nthose strange creatures.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nIs that right?{scroll 1}{clear 40}{scroll 0}Anyway, it's good to see\nyou're safe.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nI met Barry too, a while ago.{scroll 1}{clear 65}{scroll 0}I think there's something\nwrong with him.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}Yes, I agree with you.\nSure was strange, wasn't he?{scroll 1}{clear 135}{scroll 0}\nHe looked so tired.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nWell, maybe it's quite{scroll 1}{clear 40}{scroll 0}natural under these\ncircumstances.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Jill, our first priority\nis to get out of here!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nYes, you're right!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Now there are a lot of rooms\nin that mansion,{scroll 1}{clear 80}{scroll 0}that we can't get into\nbecause they are locked up.{scroll 1}{clear 79}{scroll 0}I have been looking around\nfor clues.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Okay, I'll go to the other house\nand see if I can find any clues.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Will you do that?\nI'm counting on you.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nIt can't true.{scroll 1}{clear 40}{scroll 0}I've been told a different\nstory.{scroll 1}{clear 67}{scroll 0}\n{scroll 1}{clear 109}{scroll 0}But it's not necessary\nfor you to destroy ＳＴＡＲＳ{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{clear 145}{scroll 0}\nWhat about my family!?{scroll 1}{clear 70}{scroll 0}\n{scroll 1}{clear 109}{scroll 0}So everything depends\non me, huh?{scroll 1}{timed 100}</Text>
+    <Text>Voices are heard from the\nother side of the door...</Text>
+</Strings>

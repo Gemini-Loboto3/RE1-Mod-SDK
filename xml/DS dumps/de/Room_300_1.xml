@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHier spricht Brad.{scroll 1}{clear 53}{scroll 0}ＳＴＡＲＳ Alpha-Team...\nbitte antwortet.{scroll 1}{clear 97}{scroll 0}Warum zum Teufel ist bloß\nniemand da draußen?{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nHier ist Chris...{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Hier spricht Brad,\nＳＴＡＲＳ Alpha-Team,{scroll 1}{clear 103}{scroll 0}Bravo-Team, ist doch egal!\nIrgendjemand!{scroll 1}{clear 120}{scroll 0}Antwortet mir!\nIch bin's Brad...{scroll 1}{timed 166}</Text>
+    <Text>{scroll 0}Verdammt!\nEs ist kaputt!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nHier spricht Brad.{scroll 1}{clear 56}{scroll 0}ＳＴＡＲＳ Alpha-Team...\nbitte antwortet.{scroll 1}{clear 91}{scroll 0}Warum zum Teufel ist bloß\nniemand da draußen?{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}Brad!\nHier ist Jill...{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Hier spricht Brad,\nＳＴＡＲＳ Alpha-Team,{scroll 1}{clear 106}{scroll 0}Bravo-Team, ist doch egal!\nIrgendjemand! Antwortet mir!{scroll 1}{clear 150}{scroll 0}\nIch bin Brad...{scroll 1}{timed 35}</Text>
+    <Text>{scroll 2}Eine Winde für den Aufzug.\nDer Aufzug ist unten.</Text>
+    <Text>{scroll 2}\nNichts Besonderes.</Text>
+    <Text>{scroll 2}Das ist ein Plan\ndes {color 1}GARTENANLAGE{color 0}.{clear 0}{scroll 2}Möchten Sie sie mitnehmen?\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}Sie besitzen jetzt\nden Plan des {color 1}GARTENANLAGE{color 0}.</Text>
+</Strings>

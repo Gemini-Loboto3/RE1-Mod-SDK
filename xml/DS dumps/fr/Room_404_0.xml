@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>\nUne boule "3".{scroll 2}</Text>
+    <Text>\nUne boule "6".{scroll 2}</Text>
+    <Text>\nUne boule "9".{scroll 2}</Text>
+    <Text>On dirait un cadran de \nmontre.{scroll 2}{clear 0}\nUne sorte de code...{scroll 2}</Text>
+    <Text>\nUne cible.{scroll 2}</Text>
+    <Text>\nC'est cassé.{scroll 2}</Text>
+    <Text>\nPas de temps pour vérifier.{scroll 2}</Text>
+    <Text>On dirait un cadran de \nmontre.{scroll 2}{clear 0}\n1·2···4·5···{scroll 2}{clear 0}\nUne sorte de code...{scroll 2}</Text>
+    <Text>On dirait un cadran de \nmontre.{scroll 2}{clear 0}\n2···1·5···{scroll 2}{clear 0}\nUne sorte de code...{scroll 2}</Text>
+    <Text>On dirait un cadran de \nmontre.{scroll 2}{clear 0}\n3···4·5···{scroll 2}{clear 0}\nUne sorte de code...{scroll 2}</Text>
+    <Text>On dirait un cadran de \nmontre.{scroll 2}{clear 0}\n9···5·8···{scroll 2}{clear 0}\nUne sorte de code...{scroll 2}</Text>
+</Strings>

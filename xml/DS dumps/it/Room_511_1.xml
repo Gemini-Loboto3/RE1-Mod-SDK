@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}"Attivazione del sistema\ndi innesco consentita"{clear 0}"Dichiarata emergenza di\nprimo livello"{clear 0}\n"Annullare tutti i blocchi"{clear 0}"Impossibile disattivare\nil sistema di innesco"{scroll 2}</Text>
+    <Text>{scroll 2}L'attivatore di un sistema\ndi innesco.{clear 0}\nPiuttosto grande...{scroll 2}</Text>
+    <Text>{scroll 2}\nChe morte miserevole...{scroll 2}</Text>
+    <Text>{scroll 2}Un interruttore elettrico.\nL'ascensore è senza corrente.{clear 0}Vuoi alimentarlo?{branch 0 6 1}</Text>
+    <Text>{scroll 2}La corrente non arriva\nall'ascensore...{scroll 2}</Text>
+    <Text>{scroll 2}Devo dare energia\nall'ascensore...{scroll 2}</Text>
+    <Text>{scroll 2}Ora l'ascensore riceve\ncorrente, dato che hai collegato{clear 0}l'alimentazione e il\ncircuito.{scroll 2}</Text>
+    <Text>{scroll 2}Rebecca sta attivando il\ndispositivo di innesco...{scroll 2}</Text>
+    <Text>{scroll 2}Un interruttore elettrico.\nCi sono zone senza corrente.{clear 0}{scroll 2}La tensione è errata. Vuoi\nsistemare il cablaggio?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Un regolatore energetico...\nMa devo proseguire.{scroll 2}</Text>
+    <Text>{scroll 2}Posiziona 2 fili. Quando{clear 0}{scroll 2}le barre saranno sul rosso,\nla corrente sarà attivata.</Text>
+</Strings>

@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}Jill, sorry for making you\nwait.{scroll 1}{clear 85}{scroll 0}\nChris!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nI knew I could trust you.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Let's go!\nThere's no need to stay.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nJill? Are you there?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nJill, you're alright.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Ahh, yes.\nWesker is here, he's...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Oh, I know. Anyway,\nlet's get out of here.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nOh Jill!{scroll 1}{clear 40}{scroll 0}Sorry for keeping\nyou waiting.{scroll 1}{clear 60}{scroll 0}\nSo everything is done?{scroll 1}{clear 65}{scroll 0}Well, almost yes.\nNow let's go.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nOh Jill!{scroll 1}{clear 40}{scroll 0}\nOh Chris! So you're okay?{scroll 1}{clear 70}{scroll 0}Yeah! You too!\nWhat happened to Wesker?{scroll 1}{clear 130}{scroll 0}Let's talk about it later.\nLet's get out of here!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}Nothing important around \nhere...{scroll 1}</Text>
+    <Text>{scroll 2}Nothing important around \nhere...{scroll 1}</Text>
+    <Text>{scroll 2}Nothing important around \nhere...{scroll 1}</Text>
+</Strings>

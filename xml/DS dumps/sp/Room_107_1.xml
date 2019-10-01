@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>No hay tiempo para\nexaminarlo...{scroll 2}</Text>
+    <Text>\nNada fuera de lo normal...{scroll 2}</Text>
+    <Text>Un cuadro de una hermosa\nmujer...{scroll 2}{clear 0}\nNada de qué preocuparse...{scroll 2}</Text>
+    <Text>Un cuadro de un\nacantilado.{scroll 2}{clear 0}\nNada fuera de lo normal...{scroll 2}</Text>
+    <Text>\nUn bonito óleo...{scroll 2}</Text>
+    <Text>Un cuadro de un bonito\npaisaje...{scroll 2}</Text>
+    <Text>\nVarios cuadros...{scroll 2}</Text>
+    <Text>\n"Mujer achicando agua"{scroll 2}</Text>
+    <Text>Un cuadro de una mujer\noronda...{scroll 2}</Text>
+    <Text>Es un mapa de la planta baja...\n¿Te lo llevas?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Ahora tienes el mapa\nde la planta baja...{scroll 2}</Text>
+</Strings>

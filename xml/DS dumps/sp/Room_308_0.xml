@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOh, Jill, muy oportuna.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Hace un momento oí\nla voz de alguien saliendo{scroll 1}{clear 75}{scroll 0}\nde ese agujero.{timed 30}</Text>
+    <Text>{scroll 0}\nVayamos juntos. Está{scroll 1}{clear 90}{scroll 0}oscuro y no se ve\nbien.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}\nVale, vamos.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}De acuerdo, te cubro.\n¡Vamos!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}¡Oye! ¿Estás bien? Puedo\nir delante si quieres.{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}¡Oh, sí, por favor!\nEstoy algo nerviosa.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nLo entiendo.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}Puede ser más peligroso\nsi vas detrás de mí.{scroll 1}{clear 114}{scroll 0}\n¡Ten cuidado!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nVale, vamos, Barry.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nDependo de ti.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nBarry, yo...{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nSeguro que es peligroso.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Iré incluso si tengo \nque ir solo.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Jill, ¿quieres quedarte\naquí?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nLo siento.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nNo pasa nada. Ahora voy.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}Barry, creo que iré\npor otro lado.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Ya veo... Vale, puede\nser lo mejor.{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}\n¡Ten cuidado!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 1}¿Quieres ir con él?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}¿Quieres que vaya delante?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}¿Quieres quedarte aquí?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}¿Ya has perdido el valor?\nNo es propio de ti.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n¡¿Barry?!{scroll 1}{timed 55}</Text>
+</Strings>

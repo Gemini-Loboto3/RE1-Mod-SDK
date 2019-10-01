@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}Chris, utilise-ça pour\ndétruire les monstres !{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}\nIl arrive, Jill ! {scroll 1}{clear 50}{scroll 0}Tue ce monstre ! \nTu es notre Amazone, Jill !{scroll 1}{timed 90}</Text>
+    <Text>{scroll 2}Inutile d'aller en bas\nmaintenant.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'est soudé et ne peut\nêtre ouvert.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}{color 1}Il reste 3 minutes \navant l'explosion.{color 0}{scroll 1}{timed 108}</Text>
+</Strings>

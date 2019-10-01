@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}Whaao!\nWas soll das¼{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Was?\nOh! Oh, nein!{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}Tut mir leid!\nDas wollte ich nicht!{scroll 1}{clear 90}{scroll 0}Du musst zum Bravo-Team\ngehen.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Ja, ich bin Rebecca!\nRebecca Chambers!{scroll 1}{clear 100}{scroll 0}Ich bin noch neu - ich wurde\ndem ＳＴＡＲＳ-Bravo-Team{scroll 1}{clear 45}{scroll 0}erst letzten Monat\nzugeteilt!{scroll 1}{clear 130}{scroll 0}Das eben tut mir wirklich\nLeid. Bist du in Ordnung?{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Ja, ich bin Chris Redfield\nvom Alpha-Team.{scroll 1}{clear 120}{scroll 0}Bist du hier die einzige\nPerson aus dem Bravo-Team?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Nun, als der Hubschrauber\neine Notlandung hinlegte{scroll 1}{clear 115}{scroll 0}rannte ich einfach auf\ndieses Haus zu, aber ich...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nIch verstehe.{scroll 1}{clear 50}{scroll 0}Du hättest auch nichts\nVernüftigeres tun können.{scroll 2}{clear 43}{scroll 0}Auf jeden Fall ist es gut,\ndass du hier bist.{scroll 2}{timed 57}</Text>
+    <Text>{scroll 0}\nJa, Sir{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Aber, es ist irgendwie\neigenartig.{scroll 1}{clear 67}{scroll 0}Ich habe den Hubschrauber\nerst vor kurzem gewartet,{scroll 1}{clear 75}{scroll 0}aber irgendwas passierte mit\ndem Motor.{scroll 1}{clear 74}{scroll 0}Dabei war es doch nur\nein kurzer Flug.{scroll 2}{timed 38}</Text>
+    <Text>{scroll 0}Ich wüsste zu gerne,\nwo die anderen sind{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Nun,\nwas soll ich jetzt machen?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Wenn du jetzt die anderen\nsuchen gehst,{scroll 2}{clear 95}{scroll 0}\ndarf ich dich dann begleiten?{scroll 2}{timed 47}</Text>
+    <Text>{scroll 0}\nNa gut, lasst uns gehen.{scroll 1}{clear 70}{scroll 0}Ja, Sir!\nIch werde mein Bestes tun.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Ich muss noch was vorberei-\nten, willst du schon vorgehen?{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Da draußen ist es sehr gefähr-\nlich. Lass mich das machen.{scroll 1}{clear 120}{scroll 0}Ich verstehe. Also werde ich\nerstmal hier warten.{scroll 1}{clear 100}{scroll 0}Und hier im Raum gibt es eine\nMenge Chemikalien,{scroll 1}{clear 70}{scroll 0}die vielleicht zu etwas \nnützlichesind.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}Dann werde ich mir mal die-\nse Chemikalien näher ansehen.{scroll 2}{timed 100}</Text>
+    <Text>Werden Sie Rebecca mit sich\nnehmen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Dieser Raum hat einekomplette\nmedizinische Ausrüstung.{scroll 2}{clear 70}{scroll 0}\nIch kann dich behandeln,{scroll 2}{clear 50}{scroll 0}mal abgesehen von deiner\ngroßen Verletzung.{scroll 2}{clear 50}{scroll 0}\nSoll ich dich verarzten?{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}Ja, bitte, hilf' mir - wenigstens\nfür eine Zeitlang.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Die meisten dieserMedi-\nkamente sind von Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nWas ist denn Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nWeißt du das nicht?{scroll 2}{clear 42}{scroll 0}Das ist ein großes Pharma\nUnternehmen,{scroll 2}{clear 40}{scroll 0}das in Raccoon City seinen\nSitz hat.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}Oh,\nich verstehe, und weißt du,{scroll 2}{clear 100}{scroll 0}wofür die ganzen Medikamente\ngut sind?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Tja, wahrscheinlich ist genug\nda für eine zweite Dosis.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\nBist du in Ordnung?{scroll 2}{clear 60}{scroll 0}Möchtest du,\ndass ich das behandle?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris, pass' auf!{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nIch bin OK.{scroll 2}{clear 50}{scroll 0}Aber wenn mir irgend etwas\nzustößt, dann{scroll 2}{clear 50}{scroll 0}\nnimm' dich bitte meiner an.{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}OK, du kannst dich auf mich\nverlassen.{scroll 2}{clear 80}{scroll 0}Wir haben allerdings nur für\ndrei weitere Dosen{scroll 2}{clear 80}{scroll 0}\nausreichend Medikamente.{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}Sei mal ehrlich, du bist mir\ndoch nicht böse deswegen,{scroll 2}{clear 140}{scroll 0}\nnicht wahr?{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nOh nein, bestimmt nicht!{scroll 2}{clear 80}{scroll 0}Und du warst ziemlich\nfassungslos, stimmt's?{scroll 2}{clear 80}{scroll 0}Hey! Wir sind jetzt Partner,\nnicht wahr?{scroll 2}{clear 70}{scroll 0}\nLass' uns zusammenarbeiten!{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Ja, Sir!\nIch werde mein Bestes tun!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris, gib' acht!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nDas hier ist die letzte Dosis.{scroll 2}{clear 75}{scroll 0}Unternimm' bloß nicht wieder\nirgendwas Leichtsinniges.{scroll 2}{timed 95}</Text>
+    <Text>Möchtest du, daß ich deine\nWunden heile?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nBist du da, Rebecca?{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, alles in Ordnung?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Ja,\nwas ist passiert?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Eine giftige Schlange hat \ndich gebissen. Bist du OK?{scroll 2}{timed 135}</Text>
+    <Text>{scroll 0}Aua. Mein Kopf bringt\nmich noch um.{scroll 2}{timed 145}</Text>
+    <Text>{scroll 0}Ich glaube,\ndu kommst wieder in Ordnung,{scroll 2}{clear 50}{scroll 0}denn ich habe dir eine\nInjektion gegeben.{scroll 2}{clear 50}{scroll 0}Doch halte dich aus weiteren\nSchwierigkeiten raus.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Du hast mein das Leben\ngerettet, ich schulde dir was.{scroll 2}{timed 125}</Text>
+    <Text>{scroll 0}Ich wüsste gerne,\nob es den anderen gut geht.{scroll 2}{timed 115}</Text>
+    <Text>\nVitamine und Seren.{scroll 2}</Text>
+    <Text>\nEine Dosis würde reichen.{scroll 2}</Text>
+    <Text>\nRebecca versorgt Chris.{scroll 2}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}</Text>
+    <Text>{scroll 2}Sie ist fest verschlossen.\nUntersuchen?{branch 0 6 1}</Text>
+</Strings>

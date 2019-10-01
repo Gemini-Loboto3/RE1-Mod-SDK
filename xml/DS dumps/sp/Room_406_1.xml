@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHola, Jill.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Hola, Barry, he oído\nhablar a alguien.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Así que me has oído.\nCreo que me estoy haciendo viejo.{scroll 1}{clear 110}{scroll 0}Parece que hablar solo\nse convierte en costumbre.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}¿Hablar solo?\nBarry, te ha pasado algo,{scroll 1}{clear 125}{scroll 0}¿verdad?\nEstás raro.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Bueno, parece que te he hecho\npreocuparte, pero no hace falta.{scroll 1}{clear 90}{scroll 0}Puede que haya estado algo\nnervioso desde que empezaron{scroll 1}{clear 80}{scroll 0}a pasar todas esas cosas\nraras.{scroll 1}{clear 80}{scroll 0}\nBueno, creo que voy a salir{scroll 1}{clear 50}{scroll 0}a tomar un poco el aire,\npara variar.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Hazme caso, no te preocupes.\nSólo voy a tomar{scroll 1}{clear 90}{scroll 0}un poco el fresco y a que me\ncoma un monstruo.{scroll 1}{timed 110}</Text>
+    <Text>Un boceto de la garita...\n¿Te lo llevas?{branch 0 6 0}</Text>
+    <Text>Hay una escalera...\n¿quieres bajar?{branch 0 6 0}</Text>
+    <Text>No hay tiempo para\nexaminarlo...</Text>
+    <Text>Ahora tienes el mapa\nde la GARITA.</Text>
+    <Text>{scroll 2}\nNo hace falta bajar ahí.</Text>
+</Strings>

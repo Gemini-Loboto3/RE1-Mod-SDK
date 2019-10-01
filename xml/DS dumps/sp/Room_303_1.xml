@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris, ¡úsalo!{scroll 1}{clear 48}{scroll 0}\nDestruye los monstruos. {scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}¡Ahí tienes!\n¡Jill, revienta a ese monstruo!{scroll 1}{clear 90}{scroll 0}\n¡Eres nuestra amazona, Jill!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}Ahora no hay\npor qué bajar.</Text>
+    <Text>{scroll 2}\nLa puerta está cerrada.</Text>
+    <Text>{scroll 2}Está soldada, no\nse abre...</Text>
+    <Text>{scroll 2}\nNada especial.</Text>
+    <Text>{scroll 0}{color 1}Quedan 3 minutos antes\nde la explosión.{color 0}{scroll 1}{timed 108}</Text>
+</Strings>

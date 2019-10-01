@@ -1,0 +1,24 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris, vous êtes mon{scroll 1}{clear 56}{scroll 0}subordonné mais vous avez \nbeaucoup de talent. {scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}Je ne travaillerais jamais \npour une société comme{scroll 1}{clear 100}{scroll 0}Umbrella.\nMais Wesker, n'étiez-vous{scroll 1}{clear 30}{scroll 0}pas employé auparavant \nchez Umbrella ? {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nQue voulez-vous dire ? {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Depuis quand êtes-vous\nun agent{scroll 1}{clear 50}{scroll 0}de Umbrella et un traître\npour les ＳＴＡＲＳ ?{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}Là, vous vous trompez. \nJ'ai effectivement travaillé  {scroll 1}{clear 140}{scroll 0}pour Umbrella. Aujourd'hui, \nje suis prêt à tout pour me  {scroll 1}{clear 88}{scroll 0}débarrasser de ces fouineurs \nde ＳＴＡＲＳ. {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}La pire des situations vient \nmaintenant de se produire !  {scroll 1}{clear 120}{scroll 0}L'échec de l'expérience a\ndébouché sur un virus, une{scroll 1}{clear 95}{scroll 0}arme biologique - qui a pollué\nle laboratoire tout entier.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nLe pire, c'est le virus Tyran...  {scroll 1}{clear 90}{scroll 0}J'ai perdu une partie de mon\néquipe des ＳＴＡＲＳ à cause de lui. {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Vous les avez tués de vos \npropres mains !  {scroll 1}{clear 85}{scroll 0}\nAvez-vous tué Enrico ? {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nOui, comme ceci. {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nNe bougez pas !  {scroll 1}{clear 40}{scroll 0}Si vous faites un geste, \nje vous tue ! {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Chris, je dois vous montrer \nquelque chose. {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nMaintenant, avancez ! {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nEnrico ?  {scroll 1}{clear 40}{scroll 0}Je compte détruire les ＳＴＡＲＳ \nmoi-même - y compris vous.{scroll 1}{clear 110}{scroll 0}\nLa vérité, c'est qu'Umbrella ne{scroll 1}{clear 90}{scroll 0}sait pas trop quoi faire avec \nson virus Tyran.{scroll 1}{clear 90}{scroll 0}Nos ordres sont de détruire\nle laboratoire.  {scroll 1}{clear 55}{scroll 0}Ce n'est pas une mauvaise\nidée,  {scroll 1}{clear 60}{scroll 0}mais je crois que nous devrions \nconserver cette importante{scroll 1}{clear 72}{scroll 0}découverte pour l'utiliser \nplus tard. {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Vous, vous pensez vraiment \npouvoir disparaître avec une{scroll 1}{clear 90}{scroll 0}\n"chose aussi importante !" {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nVoulez-vous le voir ?{scroll 1}{clear 60}{scroll 0}\nVenez avec moi. {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Pardonnez mes mauvaises \nmanières,  {scroll 1}{clear 65}{scroll 0}mais je n'ai pas l'habitude\nde courtiser les hommes !{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nMaintenant, avancez ! {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ah ! Ce gilet pare-balles est \nplutôt solide. {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nJe vois. {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Qu'est-il arrivé au \ncapitaine Wesker ? {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Il dort avec ce \n"magistral échec".{scroll 1}{clear 100}{scroll 0}Dépêchez-vous ! \nJe veux sortir d'ici !{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}</Text>
+</Strings>

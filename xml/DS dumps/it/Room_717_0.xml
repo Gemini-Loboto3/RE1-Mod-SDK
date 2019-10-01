@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Si tratta più che altro di\nchimica...{scroll 2}</Text>
+    <Text>\nDiversi libri...{scroll 2}</Text>
+    <Text>È da molto tempo che non\nsi usa...{scroll 2}</Text>
+    <Text>\nC'è un interruttore...{scroll 2}{clear 0}\nVuoi premerlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nQui è stato messo qualcosa...{scroll 2}</Text>
+    <Text>C'è un interruttore...\nVuoi premerlo?{scroll 1}{branch 0 6 0}</Text>
+</Strings>

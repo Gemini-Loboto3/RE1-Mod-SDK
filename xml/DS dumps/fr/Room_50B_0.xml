@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris ! {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nJill ! {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nChris, Wesker, il est...{scroll 1}{clear 50}{scroll 0}\nJe sais. {scroll 1}{clear 35}{scroll 0}Zut ! Ça ne s'ouvre pas !\nEcoute,{scroll 1}{clear 70}{scroll 0}Jill. Attends-moi ici,\nje te sauverai !{scroll 1}{clear 100}{scroll 0}\nOK, je t'attends.{scroll 1}{timed 60}</Text>
+    <Text>La porte est fermée \nhermétiquement.</Text>
+</Strings>

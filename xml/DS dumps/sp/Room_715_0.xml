@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Hay un interruptor... \n¿Quieres apretarlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\n... Nada importante...{scroll 1}</Text>
+    <Text>{scroll 2}¿Quieres intentar sacar\nel ojo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nParece que estuviera vivo...{scroll 1}</Text>
+    <Text>{scroll 2}Parece a punto de\nmoverse...{scroll 1}</Text>
+    <Text>{scroll 2}\nUna mecedora...{scroll 1}</Text>
+    <Text>{scroll 2}\nNada útil...{scroll 1}</Text>
+    <Text>{scroll 2}\nAquí hay velas...</Text>
+    <Text>{scroll 2}\nVendría bien un mechero.</Text>
+    <Text>{scroll 2}¿Quieres encender \nlas velas?{branch 0 6 1}</Text>
+</Strings>

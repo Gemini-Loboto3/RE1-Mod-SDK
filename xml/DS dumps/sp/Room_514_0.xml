@@ -1,0 +1,24 @@
+﻿<Strings>
+    <Text>{scroll 0}Chris, como subordinado mío,\ntienes mucho talento.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Yo nunca trabajaría para una\ncompañía como Umbrella, y Wesker,{scroll 1}{clear 100}{scroll 0}tú trabajas\npara Umbrella.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n¿Qué quieres decir?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n¿Desde cuándo eres {scroll 1}{clear 50}{scroll 0}un agente de Umbrella y\nun traidor a ＳＴＡＲＳ?{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}¡Te equivocas!\nSí que estaba con Umbrella, sí.{scroll 1}{clear 140}{scroll 0}Pero ahora estoy listo para\nenfrentarme a lo que sea, incluso {scroll 1}{clear 88}{scroll 0}librarme de vosotros ＳＴＡＲＳ,\npandilla de policías aficionados.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Estamos en la peor\nsituación imaginable.{scroll 1}{clear 120}{scroll 0}El fallo en el experimento ha\ncreado un virus, un arma biológica{scroll 1}{clear 95}{scroll 0}que ha contaminado\ntodo el laboratorio.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}No, lo peor es el\nvirus Tyrant.{scroll 1}{clear 90}{scroll 0}Por culpa suya he perdido\nparte de mi equipo ＳＴＡＲＳ{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}¡Los has matado con \ntus propias manos!{scroll 1}{clear 85}{scroll 0}\n¿Has matado a Enrico?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nSí, así.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n¡No te muevas!{scroll 1}{clear 40}{scroll 0}\nSi lo haces, te mato.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Chris, te quiero\nenseñar algo.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nAhora, camina.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n¿Enrico?{scroll 1}{clear 40}{scroll 0}Yo mismo acabaré con los ＳＴＡＲＳ\nincluyéndote a ti.{scroll 1}{clear 110}{scroll 0}El hecho es que Umbrella\nno sabe qué hacer con{scroll 1}{clear 100}{scroll 0}el virus Tyrant.\nTenemos órdenes de volar{scroll 1}{clear 100}{scroll 0}este laboratorio y\nno es mala idea.{scroll 1}{clear 95}{scroll 0}Pero creo que deberíamos\nsalvar la investigación{scroll 1}{clear 72}{scroll 0}\npara el futuro.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}¿Te-te crees que puedes\ndesaparecer con este{scroll 1}{clear 90}{scroll 0}\n"material" tan importante?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n¿Quieres verlo?{scroll 1}{clear 60}{scroll 0}\nVen conmigo.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Siento mi falta de\neducación,{scroll 1}{clear 65}{scroll 0}pero no estoy acostumbrado\na escoltar hombres.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nAhora, camina.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}¡Ja! Parece que esta chaqueta\nantibalas es resistente.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n¡Ya veo!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n¿Y qué hay del capitán Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Está durmiendo junto\nal fiasco definitivo.{scroll 1}{clear 100}{scroll 0}¡Rápido!\nQuiero salir de aquí.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nBeeilung!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n"Notausgang"{scroll 1}{clear 0}{scroll 2}\nWird nur im Notfall geöffnet.{scroll 1}</Text>
+    <Text>{scroll 2}\nDer Aufzug funktioniert nicht.{scroll 1}</Text>
+    <Text>\nDa ist eine Leiter.{clear 0}Möchten Sie hinuntersteigen?{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nEs gibt kein Zurück!{scroll 1}</Text>
+</Strings>

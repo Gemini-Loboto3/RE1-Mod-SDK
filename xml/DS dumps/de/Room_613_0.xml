@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Die Badewanne ist voll mit\ndreckigem Wasser.{clear 0}{scroll 2}Möchen Sie den Stöpsel ziehen?{branch 0 6 1}</Text>
+    <Text>\nNichts von Interesse.</Text>
+</Strings>

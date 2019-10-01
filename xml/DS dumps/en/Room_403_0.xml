@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>\nNothing special...</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

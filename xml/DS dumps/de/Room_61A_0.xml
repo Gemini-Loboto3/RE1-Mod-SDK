@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}In allen Hohlräumen\n wurden Wappen platziert.</Text>
+    <Text>{scroll 0}\nWas?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Das muß...\nein ＳＴＡＲＳ Funkgerät sein...!{scroll 1}{clear 84}{scroll 0}\nEs ist ein bißchen kaputt,{scroll 1}{clear 55}{scroll 0}könnte aber immer noch\nbrauchbar sein.{scroll 1}{clear 60}{scroll 0}\nIch werde es mitnehmen.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Was sind das?\nMonster¼{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nIst sie immer noch im Haus?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWas sind das für welche¼{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es ist Rebecca!\nSie muß oben sein!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}Wenn die Sonne im Westen unterge-\nht und der Mond im Osten aufgeht,{clear 0}{scroll 2}werden nach und nach Sterne am\nHimmel erscheinen und{clear 0}{scroll 2}der Wind wird dem Boden\nentgegenwehen.{clear 0}{scroll 2}Dann öffnet sich das Tor des\nneuen Lebens.</Text>
+</Strings>

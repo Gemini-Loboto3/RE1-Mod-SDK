@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Da liegt ein Schlüssel\nin der Schale.{scroll 2}</Text>
+    <Text>{scroll 2}\nDie Tür ist verschlossen.{clear 0}{scroll 2}Hier ist ein spezieller\nSchlüssel nötig.</Text>
+</Strings>

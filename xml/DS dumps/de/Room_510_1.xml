@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Das ist ein Gerät,\ndas Passcodes ausgibt.{clear 0}Mit einer MO-DISKETTE könnte\nich den Code aufzeichnen...{scroll 2}</Text>
+    <Text>{scroll 2}\nIch habe schon einen Passcode.{scroll 2}</Text>
+</Strings>

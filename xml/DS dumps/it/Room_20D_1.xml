@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nRichard! Cosa è successo?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Oh Jill, questa casa è\npericolosa.{scroll 1}{clear 124}{scroll 0}Ci sono demoni terribili,\naaah!{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Sei ferito! Che tipo di\ndemone ti ha assalito?{scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}Era un enorme serpente\nvelenoso... Uuuh...{scroll 1}{timed 172}</Text>
+    <Text>{scroll 0}Velenoso?\nOh no. Resisti, Richard!{scroll 1}{timed 143}</Text>
+    <Text>{scroll 0}\nC'è il siero.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Oh no! Avrei dovuto portarne\nun po' con me.{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}Non c'è problema.\nAndrò a prenderlo.{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nGrazie.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nEcco il siero!{scroll 1}{clear 83}{scroll 0}Richard, tieni duro, te\nlo inietto subito.{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}Jill, ecco la mia radio.\nTienila tu... Io...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 0}\nJill, stai attenta... Uh... Uuuh...{scroll 1}{timed 156}</Text>
+    <Text>{scroll 2}\nRichard della Squadra Bravo...{scroll 10}</Text>
+    <Text>{scroll 0}\nFai attenzione.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}\nRichard è morto{scroll 10}</Text>
+    <Text>{scroll 2}Devo andare a prendere il\nsiero...{scroll 10}</Text>
+    <Text>{scroll 2}\nRichard è morto{scroll 10}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Non respira più. Vuoi provare a\neseguire la rianimazione?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nHa smesso di respirare.{clear 0}{scroll 2}Morirà, se non gli facciamo\navere dell'ossigeno.</Text>
+    <Text>{scroll 2}\nRichard respira di nuovo.</Text>
+    <Text>{scroll 2}\nTroppo tardi...</Text>
+    <Text>{scroll 0}Sposta l'orologio della\nsala da pranzo sulle 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Sposta l'orologio della\nsala da pranzo sulle 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

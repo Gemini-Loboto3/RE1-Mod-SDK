@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}Soy Brad,\nme queda poco combustible.{scroll 1}{clear 90}{scroll 0}Si queda alguien vivo, que se\nponga en contacto conmigo ahora,{scroll 1}{clear 108}{scroll 0}¿vale?\nEsta es la última...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}\nNo hay batería...{scroll 1}</Text>
+    <Text>{scroll 0}Oh no,\ntiene que ser una broma.{scroll 1}{clear 80}{scroll 0}Después de haber\nllegado hasta aquí.{scroll 1}{clear 52}{scroll 0}\nLas damas primero.{scroll 1}{clear 70}{scroll 0}\n¡Pero, Chris!{scroll 1}{clear 35}{scroll 0}Dame la oportunidad de\nhacer de chico bueno.{scroll 1}{clear 90}{scroll 0}Vale, lo que tú digas.\nNos veremos en el helipuerto.{scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}¡Maldita sea!\nEstamos a un paso.{scroll 1}{clear 110}{scroll 0}\n¡Vale, iré!{scroll 1}{clear 50}{scroll 0}Jill, intenta\ncontactar con Brad.{scroll 1}{clear 90}{scroll 0}\nOK.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Lo conseguí, he activado\nel detonador de la bomba.{scroll 1}{clear 120}{scroll 0}¡Genial! Rebecca, Brad está\nen el helicóptero.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n¡Mira esos monstruos!{scroll 1}{clear 100}{scroll 0}\nYo me encargo de ellos.{scroll 1}{clear 60}{scroll 0}\nPero...{scroll 1}{clear 40}{scroll 0}Chris, ponte en contacto\ncon Brad, ya.{scroll 1}{clear 80}{scroll 0}\nVale.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nDeja que me encargue de ellos.{scroll 1}{clear 60}{scroll 0}\nPero...{scroll 1}{clear 40}{scroll 0}Chris, ponte en contacto\ncon Brad, ¡ya!{scroll 1}{clear 80}{scroll 0}\nVale.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n¡Mira esos monstruos!{scroll 1}{clear 70}{scroll 0}Chris, Brad está\nen el helicóptero,{scroll 1}{clear 84}{scroll 0}¡ponte en contacto con\nél! Como sea.{scroll 1}{clear 85}{scroll 0}\nPero...{scroll 1}{clear 40}{scroll 0}\n¡Yo detendré a los monstruos!{scroll 1}{clear 84}{scroll 0}\nVale, confío en ti.{scroll 1}{clear 84}{scroll 0}\n¡Confía en mí!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Soy Brad, \nme quedo sin combustible.{scroll 1}{clear 90}{scroll 0}Si queda alguien vivo,\nque hable ahora, ¿vale?{scroll 1}{clear 108}{scroll 0}\nEs tu última...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 1}No funciona...  \nNo hay corriente...{scroll 1}</Text>
+    <Text>{scroll 0}"Quedan 3 minutos\npara la explosión."{scroll 1}{timed 100}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Dort stehen Bücher\nüber Experimente.{scroll 2}</Text>
+    <Text>{scroll 2}Es ist keine Zeit,\ndas zu überprüfen.{scroll 2}</Text>
+    <Text>{scroll 2}Ich frage mich,\nwo das fehlende Buch ist...{scroll 2}</Text>
+    <Text>{scroll 2}\nEine Reihe von roten Büchern.{clear 0}Da ist ein weißes Buch dabei.\nMöchten Sie es nehmen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nJetzt fehlt ein Buch.{scroll 2}</Text>
+    <Text>{scroll 2}Es ist keine Zeit,\ndas zu überprüfen.{scroll 1}</Text>
+    <Text>\nSie bewegt sich kein Stück.{clear 0}Scheinbar wird sie von der\nanderen Seite her blockiert.</Text>
+</Strings>

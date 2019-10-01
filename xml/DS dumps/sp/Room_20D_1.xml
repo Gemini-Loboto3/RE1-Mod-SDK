@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Richard! ¿Qué ha pasado?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Oh, Jill, esta casa\nes peligrosa.{scroll 1}{clear 124}{scroll 0}Hay demonios terribles,\n¡ay!{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}¡Estás herido! ¿Qué tipo\nde demonio te ha atacado?{scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}Era una serpiente enorme\ny venenosa... uhh.{scroll 1}{timed 172}</Text>
+    <Text>{scroll 0}¿Venenosa?\nOh no, Richard, ¡aguanta!{scroll 1}{timed 143}</Text>
+    <Text>{scroll 0}\nHay suero.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}¡Oh, no! ¡Debería haberlo\ntraído conmigo!{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}No pasa nada.\nIré a buscarlo.{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nGracias.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n¡Aquí está el suero!{scroll 1}{clear 83}{scroll 0}Richard, aguanta, te voy\na inyectar una dosis.{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}Jill, toma mi radio.\nQuédatela. Yo...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 0}\nJill, ten cuidado... uhhh...{scroll 1}{timed 156}</Text>
+    <Text>{scroll 2}\nRichard, del equipo Bravo...{scroll 10}</Text>
+    <Text>{scroll 0}\nTen cuidado.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}\nRichard está muerto...{scroll 10}</Text>
+    <Text>{scroll 2}Tengo que ir\na por el suero...{scroll 10}</Text>
+    <Text>{scroll 2}\nRichard está muerto...{scroll 10}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Ha dejado de respirar.\n¿Intentas el boca a boca?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Ha dejado de respirar,\ncompletamente.{clear 0}{scroll 2}Morirá si no le llega\noxígeno.</Text>
+    <Text>{scroll 2}\nRichard vuelve a respirar.</Text>
+    <Text>{scroll 2}\nHas llegado demasiado tarde...</Text>
+    <Text>{scroll 0}Pon el reloj del comedor\nen las 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Pon el reloj del comedor\nen las 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

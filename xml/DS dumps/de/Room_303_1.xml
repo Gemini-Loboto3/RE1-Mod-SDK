@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris, setz das hier ein!{scroll 1}{clear 48}{scroll 0}\nZerstöre damit das Monster!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}Es kommt jetzt, Jill!\nBring das Ungeheuer um!{scroll 1}{clear 90}{scroll 0}\nDu bist unsere Amazone, Jill!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}Es gibt keinen Grund\njetzt nach unten zu gehen.</Text>
+    <Text>{scroll 2}\nSie ist verschlossen.</Text>
+    <Text>{scroll 2}Sie ist zugeschweißt\nund läßt sich nicht öffnen.</Text>
+    <Text>{scroll 2}\nNichts von Bedeutung.</Text>
+    <Text>{scroll 0}{color 1}Es verbleiben noch 3 Minuten\nbis zur Detonation.{color 0}{scroll 1}{timed 108}</Text>
+</Strings>

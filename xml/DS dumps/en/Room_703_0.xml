@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}I've got to search this\nhall first!</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Jill! What's going on?\nAny clues?{scroll 1}{clear 116}{scroll 0}No, but something's\nwrong with this house.{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}Woah!\nThis hall is dangerous.{scroll 1}{clear 115}{scroll 0}Maybe it's better to secure\nour escape route first. {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}There must be\na backdoor somewhere.{scroll 1}{clear 120}{scroll 0}Let's try to find it\nfirst, shall we?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nOkay, let's separate again.{scroll 1}{clear 96}{scroll 0}Just a moment!\nI found something.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nWhat is it?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nIt's a weapon.{scroll 1}{clear 65}{scroll 0}It's really powerful,\nespecially against{scroll 1}{clear 70}{scroll 0}living things.\nBetter take it with you.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nBut how about you, Barry?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nI have this!{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Thank you,\nI'll take this then.{scroll 1}{timed 87}</Text>
+</Strings>

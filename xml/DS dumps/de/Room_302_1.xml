@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>Das Wasser fließt vom\noberen Wasserlauf herunter.{clear 0}\nDa ist etwas dahinter.</Text>
+    <Text>\nDie Batterie wurde entfernt.</Text>
+    <Text>\nNichts von Bedeutung.</Text>
+    <Text>\nDa ist eine Leiter.{clear 0}Möchten Sie hinuntersteigen?{branch 0 6 0}</Text>
+    <Text>Ich muss irgendwoher Strom\nfür den Aufzug bekommen.</Text>
+</Strings>

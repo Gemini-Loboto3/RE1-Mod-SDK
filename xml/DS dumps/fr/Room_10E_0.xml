@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'est un plan DU RdC.\nLe prendre ?{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nRien d'utile.{scroll 10}</Text>
+    <Text>{scroll 2}\nRien de spécial.{scroll 10}</Text>
+    <Text>{scroll 2}\nVous avez le plan DU RdC{scroll 10}</Text>
+</Strings>

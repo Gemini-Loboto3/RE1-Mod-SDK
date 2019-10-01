@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nSie ist verschlossen.{clear 0}{scroll 2}Da gibt es gar kein\nSchlüsselloch.</Text>
+    <Text>{scroll 2}Das ist ein großer\nWasserbehälter.</Text>
+    <Text>{scroll 2}\nEin kaputter Tank.</Text>
+</Strings>

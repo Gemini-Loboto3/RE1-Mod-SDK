@@ -1,0 +1,66 @@
+﻿<Strings>
+    <Text>Prendre  \n{color 1}{string 0}{color 0} ?{branch 0 0 86}ous avez {color 1}{string 0}{color 0}.</Text>
+    <Text>Vous avez {color 1}{string 0}{color 0}.</Text>
+    <Text>Vous ne pouvez plus prendre \nd'objets.</Text>
+    <Text>Vous avez utilisé \n{color 1}{string 0}{color 0}.</Text>
+    <Text>Poser \n{color 1}{string 0}{color 0} ?{branch 2 9 1}</Text>
+    <Text>Utiliser  \n{color 1}{string 0}{color 0} ?{branch 2 9 1}</Text>
+    <Text>{color 1}{string 0}{color 0}\nrangé(e/s).{clear 0}{timed 1}</Text>
+    <Text>Cette clé est inutile.\nLa jeter ?{branch 2 9 2}</Text>
+    <Text>\nC'est fermé.{clear 0}\nUne épée gravée.</Text>
+    <Text>\nC'est fermé.{clear 0}\nUne armure gravée.</Text>
+    <Text>\nC'est fermé.{clear 0}\nUn bouclier gravé.</Text>
+    <Text>\nC'est fermé.{clear 0}\nUn casque gravé.</Text>
+    <Text>La porte est fermée   \nhermétiquement.{clear 0}Il y a une plaque\nsur le côté droit.</Text>
+    <Text>\nC'est fermé.{clear 0}Sur la porte, on peut lire \n"Penderie".</Text>
+    <Text>\nC'est fermé.{clear 0}Sur la plaque, on peut \nlire 002.</Text>
+    <Text>\nC'est fermé.{clear 0}Sur la plaque, on peut \nlire 003.</Text>
+    <Text>\nC'est fermé.{clear 0}Sur la porte, on peut lire \n"Salle de Contrôle".</Text>
+    <Text>\n"Central Electrique"{clear 0}La porte est fermée \nhermétiquement.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>\nFermée de l'intérieur.</Text>
+    <Text>\nVous l'avez déverrouillée.</Text>
+    <Text>\nC'est fermé.{clear 0}Utiliser le passe-partout\npour ouvrir la porte.</Text>
+    <Text>\nJe dois me dépêcher !</Text>
+    <Text>\nPas de temps pour vérifier.</Text>
+    <Text>\nLe bureau est fermé.</Text>
+    <Text>\nLe bureau est fermé.{clear 0}Utiliser  \n{color 1}{string 0}{color 0} ?{branch 2 9 1}</Text>
+    <Text>\n{scroll 0}Chris...{scroll 16}{clear 48}\n{scroll 0}Chris...{scroll 2}{timed 48}</Text>
+    <Text>{scroll 2}Ils se sont réfugiés\ndans cette maison{clear 48}où ils pensaient\nêtre à l'abri.{clear 48}\nPourtant...{timed 48}</Text>
+    <Text>{scroll 2}Vous venez de\n{scroll 2}pénétrer de nouveau{clear 48}{scroll 2}dans un monde\n{scroll 2}d'horreur.{clear 48}\n{scroll 2}Bonne chance !{timed 48}</Text>
+    <Text>{scroll 2}Soyez débrouillard !\n{scroll 2}Combattre vos adversaires{clear 48}{scroll 2}\n{scroll 2}ne suffit pas à survivre {clear 48}\n{scroll 2}à l'horreur.{timed 64}</Text>
+    <Text>C'est une vieille machine à \nécrire.{clear 0}Si j'avais un ruban de \nmachine, je sauvegarderais.</Text>
+    <Text>Vous pouvez sauvegarder \navec ceci.{clear 0}Utiliser le \nruban de machine ?{branch 0 6 0}</Text>
+    <Text>Une épée gravée.</Text>
+    <Text>Une armure gravée.</Text>
+    <Text>Un bouclier gravé.</Text>
+    <Text>Un casque gravé.</Text>
+    <Text>Le nombre 002 est gravé.</Text>
+    <Text>Le nombre 003 est gravé.</Text>
+    <Text>Une clé de bureau.</Text>
+    <Text>Un signe étrange est\ngravé ici.</Text>
+    <Text>C'est bizarrement recouvert\net ça semble important...</Text>
+    <Text>Il doit y avoir une penderie\nquelque part.</Text>
+    <Text>Son extrêmité est en angle.</Text>
+    <Text>Son extrêmité est en croix.</Text>
+    <Text>Toutes les pages sont blanches.\nA quoi cela sert-il...?</Text>
+    <Text>Il y avait une médaille \ndans le livre.</Text>
+    <Text>Un désherbant.</Text>
+    <Text>{color 1}{string 0}{color 0} chargées.</Text>
+    <Text>Je n'en ai plus besoin.</Text>
+    <Text>Trop dangereux de faire\nle mélange ici.</Text>
+    <Text>Le gaz nocif s'est échappé.</Text>
+    <Text>Le mélange n'a pas marché.\nIl a disparu.</Text>
+    <Text>Mélanger les \nherbes ? {branch 0 32 6}</Text>
+    <Text>Ce mélange semble ne pas \nmarcher.</Text>
+    <Text>Impossible à utiliser seul.</Text>
+    <Text>Impossible à utiliser ici.</Text>
+    <Text>Ce produit chimique ne peut\nêtre mélangé à d'autres.</Text>
+    <Text>Impossible à utiliser ici.</Text>
+    <Text>Impossible à utiliser ici.</Text>
+    <Text>Impossible à utiliser ici.</Text>
+    <Text>Impossible à utiliser ici.</Text>
+    <Text>Inutile d'utiliser cet \nobjet maintenant.</Text>
+    <Text>Prendre  \n{color 2}{string 0}{color 0} ?{branch 0 0 1}\nOUVRAGE DE BOTANIQUE\n -A propos des \n plantes médicinales- </Text>
+    <Text>Inutile d'utiliser cet \nobjet maintenant.</Text>
+</Strings>

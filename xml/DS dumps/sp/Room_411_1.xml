@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Hay una palanca...\n¿Quieres empujarla?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Hay un botón...\n¿Quieres pulsarlo?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Se ha oído algo en\nla habitación de al lado...{scroll 2}</Text>
+    <Text>{scroll 2}\nNada especial...{scroll 2}</Text>
+    <Text>{scroll 2}Una cerradura electrónica.\n¿Quieres examinarla?{branch 0 6 1}</Text>
+    <Text>{scroll 0}¡Se ha activado el \nriego por aspersión!{scroll 2}{timed 90}</Text>
+    <Text>{scroll 2}El agua cambia de color...{scroll 0}{timed 20}\n{scroll 0}¡Es venenosa!{timed 40}</Text>
+    <Text>{scroll 2}¡Tengo que cortar el agua venenosa\nde algún modo!{scroll 2}</Text>
+    <Text>{scroll 2}\nAquí hay una válvula.{clear 0}{scroll 2}\n¿Quieres girar la válvula? {branch 0 6 1}</Text>
+    <Text>{scroll 2}La válvula está atascada\ny no se mueve.</Text>
+</Strings>

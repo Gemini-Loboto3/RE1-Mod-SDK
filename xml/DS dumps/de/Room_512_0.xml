@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}Jill! Tut mir leid,\ndass du warten musstest.{scroll 1}{clear 85}{scroll 0}\nChris...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ich wusste, dass ich\ndir vertrauen konnte.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Lass uns verschwinden! Es gibt\nkeinen Grund mehr, zu bleiben.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Jill!\nBist du hier?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Jill...\nDu bist in Ordnung...!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nJa, Wesker ist hier, er ist...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Oh, ich weiß. Egal,\nwir sollten endlich abhauen.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nOh, Jill!{scroll 1}{clear 40}{scroll 0}Tut mir Leid,\ndass ich dich warten ließ!{scroll 1}{clear 60}{scroll 0}\nDas heißt, alles ist erledigt?{scroll 1}{clear 65}{scroll 0}Nun, fast, ja.\nLass uns jetzt gehen!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nOh, Jill!{scroll 1}{clear 40}{scroll 0}Oh, Chris!\nBist du auch okay¼{scroll 1}{clear 70}{scroll 0}Ja! Du ja auch!\nWas ist mit Wesker passiert?{scroll 1}{clear 60}{scroll 0}Darüber können wir\nspäter sprechen!{scroll 1}{clear 70}{scroll 0}\nLass uns bloß abhauen.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}\nHier gibt's nichts Wichtiges.{scroll 1}</Text>
+    <Text>{scroll 2}\nHier gibt's nichts Wichtiges.{scroll 1}</Text>
+    <Text>{scroll 2}\nHier gibt's nichts Wichtiges.{scroll 1}</Text>
+</Strings>

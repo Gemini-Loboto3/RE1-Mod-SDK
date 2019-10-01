@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nHay una llave en la taza...{scroll 1}</Text>
+    <Text>{scroll 2}Afuera está oscuro y\nno se ve nada...{scroll 1}</Text>
+    <Text>{scroll 2}\nNada fuera de lo normal...{scroll 1}</Text>
+</Strings>

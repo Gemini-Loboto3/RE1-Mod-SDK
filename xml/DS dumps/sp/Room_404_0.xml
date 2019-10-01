@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>\nLa bola del 3...{scroll 2}</Text>
+    <Text>\nLa bola del 6...{scroll 2}</Text>
+    <Text>\nLa bola del 9...{scroll 2}</Text>
+    <Text>Parece el dial\nde un reloj...{scroll 2}{clear 0}\nEs una especie de código...{scroll 2}</Text>
+    <Text>\nUn diana para dardos...{scroll 2}</Text>
+    <Text>\nEstá roto...{scroll 2}</Text>
+    <Text>No hay tiempo para\nexaminarlo...{scroll 2}</Text>
+    <Text>\nParece un reloj...{scroll 2}{clear 0}\n1, 2... 4, 5...{scroll 2}{clear 0}\nEs una especie de código...{scroll 2}</Text>
+    <Text>\nParece un reloj...{scroll 2}{clear 0}\n2... 1, 5...{scroll 2}{clear 0}\nEs una especie de código...{scroll 2}</Text>
+    <Text>\nParece un reloj...{scroll 2}{clear 0}\n3... 4, 5...{scroll 2}{clear 0}\nEs una especie de código...{scroll 2}</Text>
+    <Text>\nParece un reloj...{scroll 2}{clear 0}\n9... 5, 8...{scroll 2}{clear 0}\nEs una especie de código...{scroll 2}</Text>
+</Strings>

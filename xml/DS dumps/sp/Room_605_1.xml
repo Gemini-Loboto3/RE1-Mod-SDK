@@ -1,0 +1,32 @@
+﻿<Strings>
+    <Text>{scroll 0}\nUn comedor.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n¿Qué? ¿Qué es esto?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 1}{clear 51}{scroll 0}\nSangre.{scroll 1}{clear 62}{scroll 0}Jill, a ver si encuentras\nmás pistas.{scroll 1}{clear 96}{scroll 0}\nExaminaré esto.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Espero que no sea\nla sangre de Chris.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n¿Ya has perdido el valor?{scroll 1}{clear 52}{scroll 0}\nNo es propio de ti.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n¿Quién va?{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\n¡Eh, tú! ¡Alto!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\n¡Corre, Jill! ¡Está loco!{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\n¿Pero qué diantres?{scroll 1}{clear 51}{scroll 0}\nVamos a informar a Wesker.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n¡Barry!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 1}{clear 41}{scroll 0}\n¡Cuidado! ¡Un monstruo!{scroll 1}{clear 76}{scroll 0}\nDéja que me encargue.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}También han matado a Kenneth.\nPuede que haya sido la criatura.{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}De cualquier forma,\ninformemos a Wesker.{scroll 1}{timed 89}</Text>
+    <Text>Puede que aquí haya\nmás que investigar...</Text>
+    <Text>Tengo que informar a\nWesker...</Text>
+    <Text>Es el hueco en el que\nhabía un emblema...</Text>
+    <Text>\nAhí hay un emblema...</Text>
+    <Text>\nBarry está investigando...</Text>
+    <Text>No hay tiempo para\nexaminarlo...</Text>
+    <Text>\nNada útil...</Text>
+    <Text>\nUn cuadro de una mujer...</Text>
+    <Text>Un cuadro de un bonito\npaisaje...</Text>
+    <Text>Un antiguo\nreloj de péndulo...</Text>
+    <Text>\nYa no funciona...</Text>
+    <Text>\nPlatos y cubiertos.</Text>
+    <Text>Afuera está oscuro,\nno puedo ver demasiado lejos...</Text>
+    <Text>\nDentro no hay nada...</Text>
+    <Text>Hay un hueco\ndetrás del escudo...</Text>
+    <Text>{scroll 2}El reloj ha dado\ntres campanadas.</Text>
+</Strings>

@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWer bist du?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Ich bin Chris vom Alpha-Team.\nIch werde dich retten...{scroll 1}{clear 120}{scroll 0}Richard...\nWas ist passiert?{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Chris, dieses Haus ist\nzu gefährlich...{scroll 1}{clear 123}{scroll 0}Es gibt hier schreckliche\nDämonen...!{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}\nRichard, sprich nicht!{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}Er scheint von einer giftigen\nSchlange gebissen worden zu sein.{scroll 1}{clear 90}{scroll 0}Aber die Wunde ist\naußergewöhnlich groß...{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}Das war nicht nur\neine einfache Giftschlange...{scroll 1}{clear 90}{scroll 0}\nDas ist ein Monster!{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Richard!\nEr braucht ein Serum.{scroll 1}{clear 70}{scroll 0}Aber das haben wir in einem\nanderen Raum gelassen...{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\nOkay, ich werde es holen.{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nBeeil dich, bitte!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}Wartet hier!\nIch werde bald zurück sein!{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Hier ist das Gegengift!\nGeht es ihm gut?{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nJa, das ist es, danke!{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Richard, halt still! Ich gebe\ndir eine Spritze geben!{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Chris, Chris, hier ist ein\nFunkgerät, nimm du es!{scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}Rebecca...\nsei vorsichtig!{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 92}{scroll 0}Rebecca? Hier draußen ist es\nsehr gefährlich...{scroll 1}{clear 100}{scroll 0}\nWirst du mit mir kommen?{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}Ich .. ich würde lieber noch\netwas länger hier bleiben.{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Okay, Rebecca. kannst du mit\neiner Waffe umgehen?{scroll 1}{clear 93}{scroll 0}Ich werde die anderen suchen.\nSchütz dich selbst.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Chris!\nBitte, sei vorsichtig.{scroll 1}{timed 77}</Text>
+    <Text>{scroll 2}\nRichard vom Bravo-Team.{scroll 10}</Text>
+    <Text>{scroll 2}Ich muss unbedingt gehen\nund das Serum holen...{scroll 10}</Text>
+    <Text>{scroll 0}\nPass auf...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nSei vorsichtig, bitte.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 2}\nRichard ist tot.{scroll 10}</Text>
+    <Text>{scroll 0}\nBeeil dich, bitte!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 2}Er hat aufgehört zu atmen.\nErste Hilfe versuchen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Er atmet nicht mehr. \nEr stirbt ohne Sauerstoff.</Text>
+    <Text>{scroll 2}\nRichard atmet wieder.</Text>
+    <Text>{scroll 2}\nDu warst zu spät...</Text>
+    <Text>{scroll 0}Uhr im Speisesaal\nauf 8:12 stellen.{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Uhr im Speisesaal\nauf 6:15 stellen.{scroll 2}{timed 159}</Text>
+</Strings>

@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}\nI... Jill... it's you.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nBarry!?{scroll 1}{clear 60}{scroll 0}I'm really embarrassed to\nsee you now.{scroll 1}{clear 115}{scroll 0}Jus-just leave me,\ngo-go quickly.{scroll 1}{clear 81}{scroll 0}It's over Barry.\nWesker's dead!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Is that so? Jill,\nwill you do me a favor?{scroll 1}{clear 200}{scroll 0}\nThis is my last... wish.{scroll 1}{clear 110}{scroll 0}P-Please, give this photo\nto my family... will you?{scroll 1}{clear 230}{scroll 0}\nSure.{scroll 1}{clear 50}{scroll 0}\nForgive me... Jill... uhh{scroll 1}{timed 199}</Text>
+    <Text>{scroll 0}Let's get going, Chris.\nWe can't stop.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nLet's go!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nLet's get going.{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nMY GOD!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nLet's go!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nLet's get going.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 2}There's a ladder...\nWill you climb it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}He must have been attacked\nby those monsters...{scroll 1}</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

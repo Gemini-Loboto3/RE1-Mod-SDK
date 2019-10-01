@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nÈ troppo pesante da muovere...</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Sembra che qualcuno abbia\ngià guardato qui...{clear 0}{scroll 2}C'è un interruttore...\nVuoi premerlo?{branch 0 6 0}</Text>
+    <Text>{scroll 2}C'è qualcosa dietro lo\nscaffale...</Text>
+    <Text>{scroll 2}\nTutto ben organizzato...</Text>
+    <Text>{scroll 2}\nNiente di che...</Text>
+    <Text>{scroll 2}\n{clear 0}\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}\n{clear 0}\n?{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nSei tu, Jill?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\nChe cosa sta succedendo?{scroll 1}{clear 60}{scroll 0}\nPerché sei così spaventato?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nGuarda qui!{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nChe cosa ne dici?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Me lo sentivo che in questa\ncasa c'era qualcosa di brutto.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nGiusto.{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Ehi, e questo cos'è?\nQui manca una pagina.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Già, lo avevo notato\nanche io.{scroll 1}{clear 85}{scroll 0}Forse quella era la\nparte più importante.{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Credo che resterò qui per\nguardarmi meglio intorno.{scroll 1}{timed 94}</Text>
+</Strings>

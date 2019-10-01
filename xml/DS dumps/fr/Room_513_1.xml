@@ -1,0 +1,39 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nIl y a une clé par terre.</Text>
+    <Text>{scroll 2}\nQuelle triste mort...</Text>
+    <Text>{scroll 2}Je ne peux pas laisser \nBarry tout seul !</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nEst-ce...!?{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}C'est exact, voici la\nforme de vie suprême - {scroll 1}{clear 115}{scroll 0}\nTyran !{scroll 1}{timed 64}</Text>
+    <Text>{scroll 1}{clear 50}{scroll 0}\nChris...{scroll 1}{clear 40}{scroll 1}{clear 30}{scroll 0}\nArrêtez !{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\nWesker, vous faites pitié.{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nC'est ça votre sauveur ? {scroll 1}{clear 75}{scroll 0}Vous pensez donc que cet \n"ECHEC" est votre sauveur ?{scroll 1}{timed 168}</Text>
+    <Text>{scroll 0}Voyez par vous-même si Tyran \nest un échec ou non !{scroll 1}{timed 175}</Text>
+    <Text>{scroll 0}Allez au diable ! Jill va vous \ny rejoindre aussi !{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nQuoi !?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nPas par ici !{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}\nVous ne pouvez pas me tuer !{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Le Virus Tyran" est un\nsuper virus qui permet de {scroll 1}{clear 120}{scroll 0}créer un monstre bien plus\nfort que l'homme. {scroll 1}{clear 110}{scroll 0}Tyran est l'arme biologique \nla plus puissante au monde."{scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}Ne me dites pas que vous avez \ndes cobayes humains...???!!!{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}\nC'est vraiment splendide. {scroll 1}{clear 95}{scroll 0}Toute cette puissante va être \nà moi !{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Pour l'amour d'une affreuse \ncréature...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nNe vous en faites pas. {scroll 1}{clear 45}{scroll 0}Une créature faible n'existe \nque pour être mangée.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Il ne contrôle pas ce\nqu'il fait.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nUne telle créature peut-elle {scroll 1}{clear 45}{scroll 0}vraiment être l'arme\nbiologique absolue ?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nWesker est complètement fou.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Tyran n'a pas encore fini sa \ncroissance .{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Mais nous ne pouvons pas le \nlaisser vivre.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Voilà surement l'ordinateur\nqui contrôle cette créature.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 1}{clear 20}{scroll 0}\nSaleté...!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 2}On dirait l'appareil de \ncontrôle de cette pièce.{clear 0}{scroll 2}Mais pas de temps pour \nl'utiliser !</Text>
+    <Text>{scroll 2}C'est fermé \nélectroniquement !?</Text>
+    <Text>{scroll 2}On dirait l'appareil de \ncontrôle de cette pièce.{clear 0}{scroll 2}Un système d'ouverture de\nporte. L'utiliser ?{branch 0 6 0}</Text>
+    <Text>{scroll 2}On dirait l'appareil de \ncontrôle de cette pièce.{clear 0}{scroll 2}Un système d'ouverture de\nporte. L'utiliser ?{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nFermée électroniquement.</Text>
+    <Text>{scroll 2}On dirait l'appareil de \ncontrôle de cette pièce.</Text>
+    <Text>{scroll 0}\nBarry ? Barry !{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nTu es vivant !{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nHuh ! Je suis vraiment embêté. {scroll 1}{clear 165}{scroll 0}\nJ'ai été maladroit.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\nPartons !{scroll 1}{timed 90}</Text>
+</Strings>

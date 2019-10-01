@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEh, que se passe-t'il ?{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Jill ? C'est toi, Jill ? \nQue s'est-il passé ?{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}Barry ! Aide-moi ! La porte ne \nveux pas s'ouvrir. Vite !{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}Eloigne-toi de la porte, Jill.\nJe vais défoncer cette porte !{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nDépêche-toi ! Par là !{scroll 2}{timed 60}</Text>
+</Strings>

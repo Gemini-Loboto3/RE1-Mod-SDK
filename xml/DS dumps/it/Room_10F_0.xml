@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nUn bel pianoforte a coda...</Text>
+    <Text>Chris purtroppo non sa leggere\nla musica...</Text>
+    <Text>{scroll 0}\nSono io, Chris.{scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\nStai bene?{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\nAh... sei tu, Rebecca.{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Sì, ho deciso di non\naffliggermi più.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ah, è la Serenata al\nchiar di Luna.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nSai suonare?{scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}\nAspetta, che cos'era quello?{scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}La mia interpretazione è\nun tantino personale.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Chris, posso esercitarmi\nper un po'?{scroll 2}{timed 85}</Text>
+    <Text>Rebecca può esercitarsi?\n{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nCerto, rilassati e suona.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nVa bene.{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}Torniamo indietro e\ncerchiamoli subito.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nD'accordo.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nRebecca.{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Lo so, lo so...\nSolo un altro po'.{scroll 2}{timed 116}</Text>
+    <Text>Rebecca sta suonando il\npianoforte...</Text>
+    <Text>{scroll 0}\nChris! Chris!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nTi piace?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nOh, è stato fantastico!{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\nChe cos'è?{scroll 2}{timed 55}</Text>
+    <Text>\nLa Serenata al chiar di Luna.</Text>
+    <Text>È la cavità nella quale era\ninserito un emblema...</Text>
+    <Text>\nL' emblema è al suo posto...</Text>
+    <Text>\nChris! Stai attento!{scroll 0}{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, stai bene?{scroll 2}{timed 85}</Text>
+    <Text>Non c'è tempo per suonare il\npianoforte!</Text>
+</Strings>

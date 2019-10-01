@@ -1,0 +1,42 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nHas hecho un buen trabajo, Barry.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJusto lo que me temía.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Jill, deberías alejarte\nde Barry.{scroll 1}{clear 75}{scroll 0}Creo que su esposa y sus dos\nhijas estarán en peligro si no{scroll 1}{clear 80}{scroll 0}\nhace todo lo que le diga.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n¡Eres tan cruel!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Bueno, no tienes que\npreocuparte por nada,{scroll 1}{clear 60}{scroll 0}porque pronto te habrás liberado\nde este mundo, Jill.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n¿Por qué acabar con ＳＴＡＲＳ?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEs lo que quiere Umbrella.{scroll 1}{clear 60}{scroll 0}Este laboratorio ha estado\nmetido en experimentos{scroll 1}{clear 60}{scroll 0}peligrosos y hace poco se\nprodujo un accidente.{scroll 1}{clear 88}{scroll 0}Pero el desastre no puede\nhacerse público.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nAhh, y por eso el que{scroll 1}{clear 56}{scroll 0}ＳＴＡＲＳ meta las narices\nes tan molesto.{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}¿Así que ahora eres un\nesclavo de Umbrella?{scroll 1}{clear 60}{scroll 0}Como esos monstruos\ndel virus.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Creo que no me comprendes,\nJill.{scroll 1}{clear 70}{scroll 0}Los monstruos que mencionas\nno son nada para mí.{scroll 1}{clear 75}{scroll 0}\nLos voy a quemar a todos junto con{scroll 1}{clear 82}{scroll 0}\ntodo este laboratorio.{scroll 1}{clear 45}{scroll 0}Tengo que completar mi\nmisión, como ordena Umbrella.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Barry, sube a la superficie\ny espera allí.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n¡Barry!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nBarry es un idiota.{scroll 1}{clear 40}{scroll 0}Umbrella lo controlará\npara siempre.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}¿Cómo es que Umbrella\ny tú lo chantajeáis{scroll 1}{clear 90}{scroll 0}tomando su familia\ncomo rehenes?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}¿Umbrella?\nBueno, yo lo hago,{scroll 1}{clear 105}{scroll 0}pero no tiene nada que\nver con Umbrella.{scroll 1}{clear 65}{scroll 0}Lo he usado para mis\npropios fines.{scroll 1}{clear 90}{scroll 0}Pensé que tanto tú como\nBarry creeríais que seguía{scroll 1}{clear 75}{scroll 0}\nórdenes de Umbrella.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}¿Así que tienes\notros planes?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Si consiguieras desarrollar el\narma biológica más{scroll 1}{clear 50}{scroll 0}poderosa del mundo,\n¿qué es lo que{scroll 1}{clear 96}{scroll 0}\nharías?{scroll 1}{clear 48}{scroll 0}\n¿Y si estuvieras al mando?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n¡Tienes que parar, ya!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Eres una chica valiente, \npero si yo fuera tú,{scroll 1}{clear 120}{scroll 0}no renunciaría a un\ndescubrimiento como éste.{scroll 1}{clear 55}{scroll 0}\n¡Sois idiotas!{scroll 1}{clear 56}{scroll 0}Nadie entiende lo que\nvale de verdad.{scroll 1}{timed 89}</Text>
+    <Text>{scroll 0}¿Así que vas a robar toda\nla investigación?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}¡Mejor aún!\n¡Te voy a mostrar el Tyrant!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n¡Barry!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nLo siento, Jill.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nPero ¿y tu familia?{scroll 1}{clear 50}{scroll 0}Ahh, estaba escuchando lo\nque hablabas con Wesker.{scroll 1}{clear 100}{scroll 0}Ojalá me hubiera dado\ncuenta antes.{scroll 1}{clear 115}{scroll 0}Creí que tendría que\nver con Umbrella.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}¡Pero todo lo había\nplaneado él!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Ahora lo sabes todo,\nme alegro.{scroll 1}{clear 76}{scroll 0}De cualquier forma,\nsalgamos de esta casa.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n¡Jill!{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\nSí, ¿qué?{scroll 1}{clear 50}{scroll 0}¿Sabes lo que te iba\na enseñar Wesker en{scroll 1}{clear 110}{scroll 0}\nla parte de atrás?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nBueno, hablaba del{scroll 1}{clear 60}{scroll 0}arma biológica más\npoderosa del mundo.{scroll 1}{clear 90}{scroll 0}Algo llamado Tyrant,\ncreo.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}¿Podríamos ver ese\nTyrant ahora?{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Barry, \neres tan optimista.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nLas ＳＴＡＲＳ quedaríamos mal{scroll 1}{clear 60}{scroll 0}si dejásemos escapar\nuna criatura tan peligrosa.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Puede que tengas razón.\n¡Vamos entonces!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry ya no es útil.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}¡Lo sabía! ¡Estás detrás de\ntodo esto!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n¿Qué le ha pasado a Wesker?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}El sistema de detonación\nestá activado...{scroll 1}{clear 120}{scroll 0}Todos los investigadores\ny guardias deben ponerse{scroll 1}{clear 180}{scroll 0}a cubierto de inmediato. Se abren\ntodas las rutas de evacuación.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nWesker ha debido activarlo.{scroll 1}{clear 62}{scroll 0}\nNo nos queda mucho tiempo.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\n¿Qué ha pasado con Wesker?{scroll 1}{timed 40}</Text>
+</Strings>

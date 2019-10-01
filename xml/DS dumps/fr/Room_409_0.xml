@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}Il y a quelque chose\nd'écrit sur le mur.{clear 0}Eau=1 Rouge=2\nViolet=3 Vert=4{scroll 2}</Text>
+    <Text>{scroll 2}Il y a quelque chose\nd'écrit sur le mur.{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nDu UMB No. 2{scroll 2}</Text>
+    <Text>{scroll 2}\nDu UMB No. 4{scroll 2}</Text>
+    <Text>{scroll 2}\nUn robinet.{scroll 2}</Text>
+    <Text>{scroll 2}Mettre  L'EAU dans \nla bouteille vide ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nDu UMB No. 2{clear 0}Mettre UMB No. 2 dans \nla bouteille vide ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nDu UMB No. 4{clear 0}Mettre UMB No. 4 dans \nla bouteille vide ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}UMB No. 2 Vous avez\nbesoin d'un récipient.{scroll 2}</Text>
+    <Text>{scroll 2}UMB No. 4 Vous avez\nbesoin d'un récipient.{scroll 2}</Text>
+    <Text>\nC'est un gaz nocif !{scroll 2}</Text>
+    <Text>{scroll 2}Peut-être devrais-je \nsortir un moment.{scroll 2}</Text>
+    <Text>{scroll 0}Cette pièce est un véritable \nhôpital. Je peux tout soigner {scroll 2}{clear 90}{scroll 0}sauf votre blessure principale.\nVoulez-vous que je le fasse ?{scroll 2}{timed 150}</Text>
+    <Text>Voulez-vous que je vous \nsoigne ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}S'il vous plaît, faites \nquelque chose en attendant.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}La plupart de ces médicaments \nproviennent d'Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nUmbrella ?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nÇa ne vous dit rien ?{scroll 2}{clear 55}{scroll 0}\nC'est un énorme laboratoire {scroll 2}{clear 45}{scroll 0}pharmaceutique basé à \nRacoon City.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nOh, je vois.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nTout va bien. {scroll 2}{clear 50}{scroll 0}Mais s'il m'arrive quelque \nchose, prenez soin de moi.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nEst-ce que ça va ? {scroll 2}{clear 60}{scroll 0}Vous voulez que je\nm'en occupe ?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris, faites attention !{scroll 2}{timed 75}</Text>
+    <Text>\nRebecca soigne Chris.{scroll 2}</Text>
+    <Text>{scroll 0}\nChris, faites attention !{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}Du UMB No. 2... Mais il ne connait\npas les produits chimiques.{scroll 2}</Text>
+    <Text>{scroll 2}Du UMB No. 4... Mais il ne connait\npas les produits chimiques.{scroll 2}</Text>
+    <Text>{scroll 2}C'est inutile. Chris ne connait \npas les produits chimiques.{scroll 2}</Text>
+</Strings>

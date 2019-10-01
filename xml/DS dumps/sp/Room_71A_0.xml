@@ -1,0 +1,3 @@
+﻿<Strings>
+    <Text>Hay una escalera...\n¿quieres subir?{scroll 1}{branch 0 6 0}</Text>
+</Strings>

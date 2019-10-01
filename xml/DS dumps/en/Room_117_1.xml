@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Wh-What are they?\nM-Monsters?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca! \nIs she still in the house?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWhat are they?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}It's Rebecca,\nshe must be upstairs!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}The title is "Give Me\nPeaceful Sleep..."{scroll 2}</Text>
+    <Text>{scroll 2}A picture of a tired\nmiddle-aged man...{scroll 2}</Text>
+    <Text>{scroll 2}A picture of a newborn\nbaby...{scroll 2}</Text>
+    <Text>{scroll 2}\nA picture of a young man...{scroll 2}</Text>
+    <Text>{scroll 2}\nA picture of an infant...{scroll 2}</Text>
+    <Text>{scroll 2}\nA picture of a lively boy...{scroll 2}</Text>
+    <Text>{scroll 2}A picture of a\nbold-looking old man...{scroll 2}</Text>
+    <Text>{scroll 2}\nThere's a message...{clear 0}"Give me the peace of\ndeath, and I'll give you{clear 0}\nthe joy of life..."{scroll 2}</Text>
+    <Text>{scroll 2}There's a switch below...\nWill you push it?{branch 0 6 1}</Text>
+    <Text>{scroll 2}The picture is entitled...\n"From cradle to grave..."{scroll 2}</Text>
+    <Text>{scroll 2}The picture is entitled...\n"The end of life..."{scroll 2}</Text>
+</Strings>

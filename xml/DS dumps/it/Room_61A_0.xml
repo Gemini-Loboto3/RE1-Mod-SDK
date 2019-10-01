@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}In tutte le cavità si\ntrovano dei simboli...</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nDev'essere una radio ＳＴＡＲＳ.{scroll 1}{clear 84}{scroll 0}Sembra danneggiata, ma\npotrebbe essere utile.{scroll 1}{clear 115}{scroll 0}\nLa porterò con me.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}C-Che cosa sono?\nM-Mostri?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nÈ ancora nella casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nChe cosa sono?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}È Rebecca,\ndev'essere di sopra!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}Quando il Sole tramonta a\novest e la Luna sorge a{clear 0}{scroll 2}est, le stelle compaiono\nnel cielo e il vento prende{clear 0}{scroll 2}a soffiare verso la\nterra...{clear 0}{scroll 2}Allora la porta della nuova\nvita si spalancherà...</Text>
+</Strings>

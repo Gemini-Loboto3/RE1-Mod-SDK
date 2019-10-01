@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}La mayoría son de biología\ny química...{scroll 2}</Text>
+    <Text>{scroll 2}\nLibros varios...{scroll 2}</Text>
+    <Text>{scroll 2}Se nota que llevan mucho tiempo sin\nusarse por todo el polvo que tienen....{scroll 2}</Text>
+    <Text>{scroll 2}\nEn la puerta hay una espada.{clear 0}{scroll 2}Parece clavada a algo del otro lado.\n¿Quieres sacarla?{branch 0 6 1}</Text>
+</Strings>

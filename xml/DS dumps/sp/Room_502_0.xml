@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}\nYo... Jilll... Eres tú.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n¡¿Barry?!{scroll 1}{clear 60}{scroll 0}Me avergüenza verte\nahora.{scroll 1}{clear 115}{scroll 0}Dé-Déjame,\nve-vete, rápido.{scroll 1}{clear 115}{scroll 0}Barry, ya ha terminado.\n¡Wesker ha muerto!{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}¿De verdad? Jill,\n¿me puedes hacer un favor?{scroll 1}{clear 90}{scroll 0}\nEs mi última... voluntad.{scroll 1}{clear 249}{scroll 0}Lleva esta foto a mi\nfamilia... ¿Lo harás?{scroll 1}{clear 220}{scroll 0}\nClaro.{scroll 1}{clear 70}{scroll 0}\nPerdóname... Jill... uhh{scroll 1}{timed 199}</Text>
+    <Text>{scroll 0}Chris, sigamos.\nNo podemos parar.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n¡Vamos!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nSigamos.{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n¡Jill!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n¡DIOS MÍO!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n¡Vamos!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nVenga, sigamos.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 2}Hay una escalera...\n¿quieres subir?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Lo tienen que haber\natacado los monstruos.{scroll 1}</Text>
+    <Text>{scroll 2}El cofre está cerrado.\n¿Quieres examinarlo?{branch 0 6 1}</Text>
+</Strings>

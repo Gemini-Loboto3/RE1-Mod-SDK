@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nRichard! What happened?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Jill, this house is\ndangerous.{scroll 1}{clear 124}{scroll 0}There are terrible demons,\nouch!{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}You're wounded! What kind of\ndemon attacked you?{scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}It was a huge snake,\nand also poisonous... uhh{scroll 1}{timed 172}</Text>
+    <Text>{scroll 0}Poisonous?\nOh no. Richard, hold on!{scroll 1}{timed 143}</Text>
+    <Text>{scroll 0}\nThere is serum.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Oh no! I should have\nbrought some with me.{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}No problem.\nI'll go and get it.{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nThanks.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nHere's the serum!{scroll 1}{clear 83}{scroll 0}Richard, hold on, I'll give\nyou a shot now.{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}Jill, here's my radio.\nYou should keep it. I'm...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 0}\nJill, be careful... uh... uhhh...{scroll 1}{timed 156}</Text>
+    <Text>{scroll 2}\nRichard from Bravo team...{scroll 10}</Text>
+    <Text>{scroll 0}\nBe careful.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}\nRichard is dead...{scroll 10}</Text>
+    <Text>{scroll 2}I've got to go to get the\nserum...{scroll 10}</Text>
+    <Text>{scroll 2}\nRichard is dead...{scroll 10}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}His breathing has stopped. \nTry mouth to mouth?{branch 0 6 1}</Text>
+    <Text>{scroll 2}His breathing has completely\nstopped.{clear 0}{scroll 2}He will die if he doesn't\nget some oxygen soon.</Text>
+    <Text>{scroll 2}\nRichard is breathing again.</Text>
+    <Text>{scroll 2}\nYou were too late...</Text>
+    <Text>{scroll 0}Set the dining room\nclock to 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Set the dining room\nclock to 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nUn beau piano à queue.</Text>
+    <Text>Chris ne sait hélas pas \ndéchiffrer la musique.</Text>
+    <Text>{scroll 0}\nC'est moi Chris. {scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\nÇa va ? {scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\nC'est vous, Rebecca ? {scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Oui, j'ai décidé de ne plus \npleurer. {scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ah, c'est la Sonate au \nClair de Lune. {scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nVous savez jouer du piano ? {scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}Attendez, qu'est-ce que c'est \nque ça ? {scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}\nJe joue plutôt mal. {scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Chris, est-ce que je peux \nrépéter un moment ? {scroll 2}{timed 85}</Text>
+    <Text>Voulez-vous que Rebecca \nrépète ?{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nBon, détendez-vous et jouez. {scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nD'accord. {scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}Repartons tout de suite\nà leur recherche. {scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nD'accord. {scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nRebecca !{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Je sais, je sais, \nquelques instants encore. {scroll 2}{timed 116}</Text>
+    <Text>\nRebecca joue du piano.</Text>
+    <Text>{scroll 0}\nChris, Chris !{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nÇa vous a plu ? {scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nC'était super ! {scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ? {scroll 2}{timed 55}</Text>
+    <Text>\nLa Sonate au Clair de Lune. </Text>
+    <Text>C'est la cavité où il y \navait un blason.</Text>
+    <Text>\nIl y a un blason.</Text>
+    <Text>{scroll 0}\nFaites attention. {scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nÇa va ? {scroll 2}{timed 85}</Text>
+    <Text>Ce n'est pas le moment \nde jouer du piano !</Text>
+</Strings>

@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nIl y a une médaille.{scroll 2}</Text>
+    <Text>{scroll 2}Un aigle est gravé dans\nla cavité ronde.{scroll 2}</Text>
+    <Text>{scroll 2}Un loup est gravé dans\nla cavité ronde.{scroll 2}</Text>
+    <Text>{scroll 2}C'est soudé et ne peut\nêtre ouvert.{scroll 2}</Text>
+</Strings>

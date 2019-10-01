@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\nSono Brad,{scroll 1}{clear 52}{scroll 0}\nSo che non puoi rispondere,{scroll 1}{clear 55}{scroll 0}\nma cerca di darmi un segno...{scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\nSono Chris!{scroll 1}{clear 45}{scroll 0}\nBrad, mi senti? Dannazione!{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nSono Brad,{scroll 1}{clear 51}{scroll 0}\nSo che non puoi rispondere,{scroll 1}{clear 53}{scroll 0}\nma cerca di darmi un segno...{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}Parla Jill!\nBrad? Oh, è rotta!{scroll 1}{timed 170}</Text>
+</Strings>

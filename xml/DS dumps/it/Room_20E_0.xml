@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}Sono avvelenato?\nMaledizione, dammi il siero.{scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Sono certo che il siero\nsia qui. {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nTorno subito.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nTutto a posto?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nSì... Cos'è successo?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Sei stato morso da un\nserpente velenoso. Come va?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nTi senti bene?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}La testa mi fa male da\nmorire.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}Dovresti riprenderti, ti \nho curato.{scroll 1}{clear 90}{scroll 0}\nPerò fai attenzione!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Mi hai salvato la vita.\nTi sono debitore.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nSono felice di essere d'aiuto.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Sono avvelenato?\nDammi il siero.{scroll 1}{timed 150}</Text>
+</Strings>

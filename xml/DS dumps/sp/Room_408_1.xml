@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Ooh!{scroll 1}{clear 20}{scroll 0}\n¡No puedo creerlo!{scroll 1}{clear 60}{scroll 0}\n¿Estás bien?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nSí. Él ya no, hemos llegado{scroll 1}{clear 155}{scroll 0}a la raíz del problema.\nOtra vez me has salvado.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nYo... Sólo...{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n¡De veras! Gracias.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Tú harías lo mismo por\nmí, ¿no?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nTe lo aseguro.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Bueno, creo que puedo\ncrear otra poción.{scroll 1}{clear 70}{scroll 0}Volveré a la sala\nfarmacéutica{scroll 1}{clear 70}{scroll 0}\nque encontré antes.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}De todas formas, Chris,\nme alegro de que estés bien.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Bueno, Chris,\nes la radio de Richard.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Hemos recibido comunicaciones\nde Brad desde el patio,{scroll 1}{clear 90}{scroll 0}\nhace un rato.{scroll 1}{clear 40}{scroll 0}Pero todavía está\nvolando.{scroll 1}{clear 60}{scroll 0}Está claro que no\nnos puede oír.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nQuizá su radio está rota.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Ya veo. Entendido.\nMe lo quedaré, tenemos {scroll 1}{clear 100}{scroll 0}que conseguir que Brad\nsepa que estamos aquí.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Creo que en la sala\nfarmacéutica de antes{scroll 1}{clear 100}{scroll 0}podré hacer\nalgo.{scroll 1}{timed 80}</Text>
+    <Text>\nNo se puede mover...{clear 0}Parece atrancado desde\nel otro lado...</Text>
+    <Text>{scroll 2}\nDebería seguir moviéndome.{scroll 2}</Text>
+    <Text>\nEstá cerrado...</Text>
+    <Text>El camino se abrirá para\nlos que rodeen la piedra.{scroll 2}</Text>
+    <Text>\nLa puerta está cerrada.{clear 0}Debe tener algo que ver\ncon la tablilla de piedra...{scroll 2}</Text>
+    <Text>\nLa puerta está cerrada.{clear 0}Para abrir la puerta, los\njugadores necesitan una llave.{scroll 2}</Text>
+    <Text>\nHas usado la {color 1}LLAVE DE LA GARITA{color 0}.</Text>
+</Strings>

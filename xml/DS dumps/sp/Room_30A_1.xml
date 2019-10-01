@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Enrico!{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChris, no te acerques más.{scroll 1}{clear 70}{scroll 0}\nEspera, ¿qué ha pasado?{scroll 1}{clear 65}{scroll 0}\n¡Traidor!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n¡NO LO HAGAS!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}¿Quién es?\n¿H-Hay alguien ahí?{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nUhhh-ahhh, demonios... Umbrella...{scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}¿Traidor?\n¿Qué ha querido decir con eso?{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}No podría moverse\ncon esa herida...{scroll 1}{clear 0}{scroll 2}\nEstá sujetando algo...{scroll 1}</Text>
+    <Text>{scroll 0}\n¿Eres Jill?{scroll 1}{clear 45}{scroll 0}\nEsa voz, ¿Enrico?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n¿Sí?{scroll 1}{clear 30}{scroll 0}\n¡Estás vivo!{scroll 1}{clear 30}{scroll 0}¡Quédate ahí!\n¿Estás con alguien, Jill?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}¿Qué? Oh no, estoy sola pero,\n¿por qué lo preguntas?{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}¡Escucha! Los ＳＴＡＲＳ\nestamos acabados.{scroll 1}{clear 90}{scroll 0}\nHay un traidor.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Umbrella lo planeó todo\ndesde el principio,{scroll 1}{clear 80}{scroll 0}\nAhh.... Ohhhh... Cof... Uhh{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n¡Enrico!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n¿Qué lo habrá matado?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n¿Qué? ¡Oh, sí!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n¡Enrico!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nAsí que Barry y Jill juntos.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n¿Estás bien, Enrico?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Los ＳＴＡＲＳ estamos acabados. \nHay un traidor.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Umbrella lo planeó todo\ndesde el principio,{scroll 1}{clear 75}{scroll 0}\nAhh.... Ohhhh... Cof... Uhh.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n¡Enrico!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 1}\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}\n{scroll 1}{timed 30}</Text>
+    <Text>{scroll 2}No podría moverse\ncon esa herida...{scroll 1}{clear 0}{scroll 2}\nSujeta algo...{scroll 1}</Text>
+    <Text>{scroll 2}\nBarry está examinandole...{scroll 1}</Text>
+</Strings>

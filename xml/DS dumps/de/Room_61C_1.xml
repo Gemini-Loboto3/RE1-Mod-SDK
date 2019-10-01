@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}\nAlte Klamotten.{scroll 2}</Text>
+    <Text>{scroll 2}\nScheint dir zu passen.{clear 0}Kleidung wechseln?{branch 0 6 1}</Text>
+    <Text>{scroll 0}\nEinen Moment, bitte.{scroll 50} {scroll 2}{timed 255}</Text>
+    <Text>{scroll 2}\nEs passt nicht.{scroll 2}</Text>
+    <Text>{scroll 2}Zurück zur vorigen Kleidung?{branch 0 6 1}</Text>
+    <Text>°{scroll 0}</Text>
+    <Text>°{scroll 0}</Text>
+    <Text>°{scroll 0}</Text>
+    <Text>°{scroll 0}</Text>
+    <Text>°{scroll 0}</Text>
+    <Text>\n</Text>
+</Strings>

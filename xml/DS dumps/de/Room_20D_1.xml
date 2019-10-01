@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}Richard!\nWas ist geschehen?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Oh, Jill!\nDieses Haus ist so gefährlich...{scroll 1}{clear 124}{scroll 0}Es gibt hier fürchterliche\nDämonen!{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Du bist verletzt! Was für eine\nArt Dämon hat dich angegriffen?{scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}Es war eine riesige Schlange,\ndie dazu noch giftig war!{scroll 1}{timed 172}</Text>
+    <Text>{scroll 0}Giftig? Oh, je...\nRichard, halt durch!{scroll 1}{timed 143}</Text>
+    <Text>{scroll 0}\nEs gibt da ein Serum!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Oh, nein... ich hätte welches\nmitnehmen sollen{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}Kein Problem!\nIch gehe und hole es!{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nDanke.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Hier ist das Serum!\nRichard, halt still!{scroll 1}{clear 83}{scroll 0}Ich werde dir\neine Injektion geben!{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}Jill,\nhier hast du mein Funkgerät,{scroll 1}{clear 100}{scroll 0}du solltest es behalten.\nIch bin...!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Jill,\nsei vorsichtig!{scroll 1}{timed 156}</Text>
+    <Text>{scroll 2}\nRichard vom Bravo-Team.{scroll 10}</Text>
+    <Text>{scroll 0}\nGib Acht...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}\nRichard ist tot.{scroll 10}</Text>
+    <Text>{scroll 2}Ich muß unbedingt gehen\nund das Serum holen...{scroll 10}</Text>
+    <Text>{scroll 2}\nRichard ist tot.{scroll 10}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Er hat aufgehört zu atmen.\nErste Hilfe versuchen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Er atmet nicht mehr. \nEr stirbt ohne Sauerstoff.</Text>
+    <Text>{scroll 2}\nRichard atmet wieder.</Text>
+    <Text>{scroll 2}\nDu warst zu spät...</Text>
+    <Text>{scroll 0}Uhr im Speisesaal\nauf 8:12 stellen.{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Uhr im Speisesaal\nauf 6:15 stellen.{scroll 2}{timed 159}</Text>
+</Strings>

@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\nJill !{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nNe me fais pas peur ! {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}J'allais te dire la\nmême chose.{scroll 1}{clear 60}{scroll 0}\nTu n'étais pas censé faire{scroll 1}{clear 40}{scroll 0}des recherches au\nrez-de-chaussée, Barry ?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Oui, tu as raison. Mais jette \ndonc un coup d'oeil à ça. {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}C'est Forest...\nOh, mon Dieu.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nC'est affreux.... {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Je vais découvrir ce qui a \nprovoqué la mort de Forest.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nOn dirait qu'il a été tué par{scroll 1}{clear 40}{scroll 0}un corbeau ou quelque chose\ncomme ça.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Tu peux faire un tour au \nrez-de-chaussée, Jill ? {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\n...OK.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Eh, Jill. \nCa devait être à Forest.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nTu n'as pas d'arme, prends-la !{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nJe n'arrive pas à y croire !{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}\nForest...{scroll 1}</Text>
+    <Text>{scroll 2}C'est Forest...! Il a été\nattaqué par des corbeaux.{scroll 1}</Text>
+</Strings>

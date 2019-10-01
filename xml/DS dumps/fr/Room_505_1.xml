@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Il fait trop sombre pour\nvoir quoi que ce soit.{scroll 1}</Text>
+    <Text>{scroll 0}Le compte à rebours a été \ndéclenché.  {scroll 1}{clear 120}{scroll 0}Ordre est donné à tous les \nchercheurs et à tous les{scroll 1}{clear 90}{scroll 0}gardes de se mettre\nimmédiatement en lieu sûr.{scroll 1}{clear 90}{scroll 0}Dégagez toutes les issues\npour l'évacuation. {scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}Inutile de prendre\nl'échelle...</Text>
+</Strings>

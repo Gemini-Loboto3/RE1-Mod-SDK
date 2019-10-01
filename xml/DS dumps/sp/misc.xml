@@ -1,0 +1,66 @@
+﻿<Strings>
+    <Text>¿Quieres coger ésto?\n{color 1}{string 0}{color 0}{branch 0 0 79}bjeto conseguido:\n{color 1}{string 0}{color 0}</Text>
+    <Text>Objeto conseguido:\n{color 1}{string 0}{color 0}</Text>
+    <Text>No puedes llevar más\nobjetos.</Text>
+    <Text>Objeto usado:\n{color 1}{string 0}{color 0}.</Text>
+    <Text>¿Quieres dejar ésto?\n{color 1}{string 0}{color 0}{branch 2 9 1}</Text>
+    <Text>¿Quieres usar ésto?\n{color 1}{string 0}{color 0}{branch 2 9 1}</Text>
+    <Text>{color 1}{string 0}{color 0}:\ndocumento añadido al archivo.{clear 0}{timed 1}</Text>
+    <Text>Esta llave ahora es inútil.\n¿Quieres dejarla?{branch 2 9 2}</Text>
+    <Text>\nEstá cerrado.{clear 0}\nHay un grabado de una espada.</Text>
+    <Text>\nEstá cerrado.{clear 0}\nHay un grabado de una armadura.</Text>
+    <Text>\nEstá cerrado.{clear 0}\nHay un grabado de un escudo.</Text>
+    <Text>\nEstá cerrado.{clear 0}\nHay un grabado de un casco.</Text>
+    <Text>\nLa puerta está bien cerrada.{clear 0}\nHay una placa a la derecha.</Text>
+    <Text>\nEstá cerrado.{clear 0}\nEn la puerta pone "Armario".</Text>
+    <Text>\nEstá cerrado.{clear 0}\nEn la placa pone 002.</Text>
+    <Text>\nEstá cerrado.{clear 0}\nEn la placa pone 003.</Text>
+    <Text>\nEstá cerrado.{clear 0}En la puerta pone\n"Sala de Control".</Text>
+    <Text>\n"Sala del Generador"{clear 0}\nLa puerta está bien cerrada.</Text>
+    <Text>\nEstá cerrado.</Text>
+    <Text>\nEstá cerrado desde dentro.</Text>
+    <Text>\nHas abierto.</Text>
+    <Text>\nEstá cerrado.{clear 0}Usa la ganzúa para\nabrir la puerta.</Text>
+    <Text>\n¡Tengo que darme prisa!</Text>
+    <Text>\nNo hay tiempo para comprobarlo.</Text>
+    <Text>\nEl escritorio está cerrado.</Text>
+    <Text>\nEl escritorio está cerrado.{clear 0}¿Quieres usar la\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>\n{scroll 0}Chris...{clear 40}{timed 52}\n{scroll 0}Chris...{timed 50}</Text>
+    <Text>{scroll 2}Han escapado a\nla mansión,{clear 48}donde creían\nestar a salvo.{clear 48}\nPero...{timed 48}</Text>
+    <Text>{scroll 2}Has vuelto a\n{scroll 2}entrar en un{clear 48}{scroll 2}mundo de\n{scroll 2}terror y supervivencia.{clear 48}\n{scroll 2}¡Buena suerte!{timed 48}</Text>
+    <Text>{scroll 2}¡Sé inteligente!\n{scroll 2}Luchar no es{clear 48}{scroll 2}la única manera\n{scroll 2}de sobrevivir{clear 48}\n{scroll 2}a este horror.{timed 64}</Text>
+    <Text>\nEs una máquina de escribir.{clear 0}Si tuviera una {color 1}CINTA DE TINTA{color 0},\npodría guardar mis avances...</Text>
+    <Text>Con esto podré guardar\nmis avances.{clear 0}¿Quieres usar\nla {color 1}CINTA DE TINTA{color 0}?{branch 0 6 0}</Text>
+    <Text>Un grabado de una espada.</Text>
+    <Text>Un grabado de una armadura.</Text>
+    <Text>Un grabado de un escudo.</Text>
+    <Text>Un grabado de un casco.</Text>
+    <Text>Está grabado el número 002.</Text>
+    <Text>Está grabado el número 003.</Text>
+    <Text>Una llave de escritorio.</Text>
+    <Text>Tiene grabada\nuna extraña marca.</Text>
+    <Text>Está recubierto y\nparece importante...</Text>
+    <Text>Tiene que haber un\narmario cerca.</Text>
+    <Text>La punta tiene forma cuadrada.</Text>
+    <Text>La punta tiene forma hexagonal.</Text>
+    <Text>Las páginas están en blanco.\n¿Para qué servirá...?</Text>
+    <Text>Había una medalla en el libro.</Text>
+    <Text>Producto químico para\nmatar maleza.</Text>
+    <Text>{color 1}{string 0}{color 0} cargada.</Text>
+    <Text>Ya no necesito esto.</Text>
+    <Text>Demasiado peligroso mezclarlo aquí.</Text>
+    <Text>¡La mezcla ha desprendido\ngas venenoso!</Text>
+    <Text>La mezcla parece haber\nfallado. Ha desaparecido.</Text>
+    <Text>¿Quieres mezclar las hierbas?{branch 0 32 6}</Text>
+    <Text>Esta mezcla no parece\nfuncionar.</Text>
+    <Text>Esto no se puede usar solo.</Text>
+    <Text>No puedo usar ésto aquí.</Text>
+    <Text>Este producto se puede\nmezclar con otros.</Text>
+    <Text>No puedo usarlo aquí.</Text>
+    <Text>No puedo usarlo aquí.</Text>
+    <Text>No puedo usarlo aquí.</Text>
+    <Text>No puedo usarlo aquí.</Text>
+    <Text>No necesito usar esto ahora.</Text>
+    <Text>¿Quieres coger ésto?\n{color 2}{string 0}{color 0}{branch 0 0 68}ummy(Ç{scroll 18}·3)</Text>
+    <Text>Dummy(Ç{scroll 18}·3)</Text>
+</Strings>

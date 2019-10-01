@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}Irgendwas steht dort\nauf der Wand.{clear 0}Wasser=1 Rot=2\nLila=3 Grün=4{scroll 2}</Text>
+    <Text>{scroll 2}Irgendwas steht dort\nauf der Wand.{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nDort ist ein UMB Nr. 2.{scroll 2}</Text>
+    <Text>{scroll 2}\nDort ist ein UMB Nr. 4.{scroll 2}</Text>
+    <Text>{scroll 2}\nEin Wasserhahn.{scroll 2}</Text>
+    <Text>{scroll 2}Möchten Sie Wasser in die\nleere Flasche füllen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nDort ist ein UMB Nr. 2.{clear 0}Möchten Sie UMB Nr. 2 in die\nleere Flasche füllen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nDort ist ein UMB Nr. 4.{clear 0}Möchten Sie UMB Nr. 4 in die\nleere Flasche füllen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Dort gibt es UMB Nr. 2.\nIch benötige einen Behälter.{scroll 2}</Text>
+    <Text>{scroll 2}Dort gibt es UMB Nr. 4.\nIch benötige einen Behälter.{scroll 2}</Text>
+    <Text>\nDas ist Giftgas!{scroll 2}</Text>
+    <Text>{scroll 2}Vielleicht sollte ich mal\neinen Augenblick verschwinden.{scroll 2}</Text>
+    <Text>{scroll 0}Dieser Raum verfügt über eine\nkomplette Medizinausrüstung.{scroll 2}{clear 90}{scroll 0}\nIch kann dich behandeln,{scroll 2}{clear 45}{scroll 0}mal abgesehen\nvon deiner großen Verletzung.{scroll 2}{clear 45}{scroll 0}\nSoll ich dich verarzten...?{scroll 2}{timed 60}</Text>
+    <Text>Möchtest du, dass ich\ndeine Wunden heile?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Ja, bitte, hilf mir\n-wenigstens für eine Zeitlang.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Die meisten dieser Medikamente\nsind von Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nWas ist Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nWeißt du das nicht?{scroll 2}{clear 55}{scroll 0}Das ist ein großes\nPharma-Unternehmen,{scroll 2}{clear 60}{scroll 0}das in Raccoon City\nseinen Sitz hat.{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}\n...Oh, ich verstehe.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nIch bin okay.{scroll 2}{clear 50}{scroll 0}Aber wenn mir irgend etwas\nzustößt, dann{scroll 2}{clear 50}{scroll 0}\nkümmer dich bitte um mich.{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\nBist du in Ordnung?{scroll 2}{clear 60}{scroll 0}Möchtest du,\ndass ich das behandle?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris, pass auf!{scroll 2}{timed 75}</Text>
+    <Text>\nRebecca versorgt Chris.{scroll 2}</Text>
+    <Text>{scroll 0}\nChris, pass auf!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}\nDa steht UMB Nr. 2.{scroll 2}{clear 0}{scroll 2}Aber von Chemie hat er\nüberhaupt keine Ahnung.{scroll 2}</Text>
+    <Text>{scroll 2}\nDa steht UMB Nr. 4.{scroll 2}{clear 0}{scroll 2}Aber von Chemie hat er\nüberhaupt keine Ahnung.{scroll 2}</Text>
+    <Text>{scroll 2}Es ist sinnlos. Chris kann\nnicht mit Chemikalien umgehen.{scroll 2}</Text>
+</Strings>

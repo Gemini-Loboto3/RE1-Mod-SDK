@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}Am I poisoned?\nDamnit, give me serum.{scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}I'm sure the serum\nmust be there, {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nI'll be right back.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nYou alright?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nYeah... what happened?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}You were bitten by\na poisonous snake.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nAre you okay?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nAhh, my head is killing me.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}I think you will be alright,\nbecause I gave you a shot.{scroll 1}{clear 90}{scroll 0}\nBut please, be careful!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}You... saved my life.\nI owe you one.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nI'm glad I could help.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Am I poisoned?\nGive me the serum.{scroll 1}{timed 150}</Text>
+</Strings>

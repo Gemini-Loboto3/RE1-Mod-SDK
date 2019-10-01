@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Qu'est-ce que c'est ? \nDes monstres ?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca ! Est-elle encore dans \nla maison ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}C'est Rebecca ! Elle doit être \nà l'étage !{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}\nSon titre : {clear 0}{scroll 2}"Donne-moi un sommeil\npaisible."{scroll 2}</Text>
+    <Text>{scroll 2}Le tableau d'un homme \nentre 2 âges fatigué.{scroll 2}</Text>
+    <Text>{scroll 2}\nLe tableau d'un nouveau-né.{scroll 2}</Text>
+    <Text>{scroll 2}\nLe tableau d'un jeune homme.{scroll 2}</Text>
+    <Text>{scroll 2}\nLe tableau d'un bébé.{scroll 2}</Text>
+    <Text>{scroll 2}Le tableau d'un garçon \njoyeux.{scroll 2}</Text>
+    <Text>{scroll 2}Le tableau d'un vieil \nhomme chauve.{scroll 2}</Text>
+    <Text>{scroll 2}\nIl y a un message.{clear 0}"Donne-moi la paix de la \nmort, et je te donnerai la{clear 0}\njoie de la vie..."{scroll 2}</Text>
+    <Text>{scroll 2}Il y a un bouton dessous.\nAppuyer dessus ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nLe tableau est intitulé:{clear 0}\nDu berceau à la tombe.{scroll 2}</Text>
+    <Text>{scroll 2}\nLe tableau est intitulé:{clear 0}\nLa fin de la vie.{scroll 2}</Text>
+</Strings>

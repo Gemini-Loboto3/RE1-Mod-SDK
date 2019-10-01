@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Re-Rebecca...\nno, it's no use...{scroll 2}{clear 120}{scroll 0}the roots of it are in the\nbasement...{scroll 2}{clear 80}{scroll 0}\nyou can... woah!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nTake this file with you...{scroll 2}{clear 70}{scroll 0}\nuse the information in it...{scroll 2}{clear 60}{scroll 0}in order to make the potion,\nthen kill the root.{scroll 2}{clear 95}{scroll 0}\nR-Rebecca please!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris! Don't die!{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\nWhat the hell is this?{scroll 2}{clear 60}{scroll 0}\nBarry!{scroll 2}{clear 25}{scroll 0}\nJill!{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\nYou saved me!{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nYeah...{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}That was close!\nThanks Barry.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Don't mention it. \nWhat a monster.{scroll 2}{clear 110}{scroll 0}I can't believe. What the\nhell is this place anyway?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Okay, I'm going to stay\nin the soldier's area{scroll 0}{clear 90}{scroll 0}and take a look around.\nThough I'm sure there are{scroll 2}{clear 90}{scroll 0}still things in that other\nmansion as well.{scroll 2}{clear 65}{scroll 0}Anyway, let's start \nsearching separately.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nOkay.{scroll 2}{timed 40}</Text>
+    <Text>There's something shining\nhere but I can't reach it...{scroll 2}</Text>
+    <Text>It's locked again...\nThe door won't open...{scroll 2}</Text>
+    <Text>{scroll 2}It's welded and does not\nopen...</Text>
+    <Text>{scroll 2}\nI really should keep moving.{scroll 2}</Text>
+</Strings>

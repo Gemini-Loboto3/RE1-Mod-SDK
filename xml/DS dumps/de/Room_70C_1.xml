@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>Irgendjemand hat diesen\nGrabstein verschoben.{scroll 2}</Text>
+    <Text>Es ist zu dunkel,\num irgendetwas zu erkennen.{scroll 2}</Text>
+    <Text>Es ist so dunkel, man sieht nichts.\nHinunterspringen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nDa hängt ein Seil.{clear 0}Möchten Sie hinunterklettern?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Jill! Hast du irgend etwas\nInteressantes gefunden?{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Ja. Aber ich kann hier\nkaum etwas sehen...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Warum gehst du nicht hinunter\nund überprüfst es selbst?{scroll 2}{clear 70}{scroll 0}\nIch habe hier ein Seil.{scroll 2}{timed 61}</Text>
+    <Text>{scroll 0}\nOh, hast du?{scroll 2}{clear 40}{scroll 0}Gut, dann werde ich am Seil\nden Abstieg versuchen.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nWarte noch!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Ach ja.\nRichard gab mir das hier.{scroll 2}{clear 80}{scroll 0}Dieses Funkgerät ist\nein Andenken von ihm.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nRichard...{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Das wird für dich viel\nnützlicher sein als für mich-{scroll 2}{clear 70}{scroll 0}\nbereit zu gehen?{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Hey!\nWas ist jetzt los?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Ach, ich hab's verpatzt!\nTut mir leid, Jill.{scroll 2}{clear 77}{scroll 0}Warte! Ich werde gehen\nund ein anderes Seil holen!{scroll 2}{timed 98}</Text>
+    <Text>{scroll 0}Hey!\nBist du da, Jill?{scroll 2}{clear 80}{scroll 0}\nSchnapp dir das Seil!{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nTut mir Leid, Jill.{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}Ich habe nicht erwartet,\ndass das passieren würde!{scroll 2}{clear 95}{scroll 0}Pardon.\nIch hab nicht aufgepasst.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nBist du okay, Barry?{scroll 2}{clear 65}{scroll 0}Vielleicht wirst du\nlangsam müde.{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}Nein, Ich bin schon okay.\nKeine Sorge.{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Jill,\nIch habe etwas gefunden.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Ich danke dir.\nIch werde es nehmen.{scroll 2}{timed 90}</Text>
+    <Text>{branch 2 8 22}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 22}</Text>
+    <Text>Darunter ist ein Schalter.\nMöchten Sie ihn betätigen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{branch 2 8 25}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 25}</Text>
+    <Text>\nDa hängt ein Seil.{clear 0}Möchten Sie hinaufklettern?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nDa ist eine Leiter.{clear 0}Möchten Sie hinuntersteigen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nIm Kamin ist eine Öffnung.{scroll 2}</Text>
+    <Text>{scroll 2}Berühr Grab, nimm Schwert,\nsei tapfer!{clear 0}{scroll 2}Grabstein berühren?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Ein alter Plattenspieler.\nDer Arm ist hin.{clear 0}{scroll 2}Platte mit der Hand drehen?{branch 0 6 1}</Text>
+</Strings>

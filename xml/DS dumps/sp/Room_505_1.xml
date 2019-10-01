@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Está demasiado oscuro, \nno veo nada...{scroll 1}</Text>
+    <Text>{scroll 0}El sistema de detonación\nestá activado...{scroll 1}{clear 120}{scroll 0}Todos los investigadores\ny guardias deben ponerse{scroll 1}{clear 180}{scroll 0}a cubierto de inmediato. Se abren\ntodas las rutas de evacuación.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}\nNo es por aquí...</Text>
+</Strings>

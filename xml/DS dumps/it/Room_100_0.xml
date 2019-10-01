@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}\nAccidenti! Che cos'è?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nCosa? Oh no, no!{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\nMi spiace, non volevo.{scroll 1}{clear 90}{scroll 0}Ah, tu devi essere\ndella Squadra Bravo.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Sì, sono Rebecca, \nRebecca Chambers. {scroll 1}{clear 100}{scroll 0}Sono entrata a far parte della\nSquadra Bravo ＳＴＡＲＳ da poco.{scroll 1}{clear 130}{scroll 0}Beh, mi dispiace molto,\nti senti bene?{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Sì. Sono Chris Redfield,\ndella Squadra Alfa. {scroll 1}{clear 120}{scroll 0}Ci sei soltanto tu\ndella Squadra Bravo?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}L'elicottero ha fatto un\natterraggio d'emergenza e io,{scroll 1}{clear 115}{scroll 0}sono corsa in questa casa.\nMa io, uh... Uh...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nCapisco...{scroll 1}{clear 60}{scroll 0}Non avresti potuto fare nulla,\nè un bene che ti sia salvata. {scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\nSignorsí.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nPerò è strano.{scroll 1}{clear 80}{scroll 0}\nAvevo revisionato il velivolo,{scroll 1}{clear 65}{scroll 0}ma c'è stato un guasto\nal motore.{scroll 1}{clear 80}{scroll 0}\nStrano, in un volo così breve.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nChissà se sono tutti...{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nE adesso cosa devo fare?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Se andrai in cerca degli\naltri membri della squadra,{scroll 2}{clear 80}{scroll 0}che ne dici di portarmi\ncon te?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nD'accordo, andiamo.{scroll 1}{clear 70}{scroll 0}\nSignorsí! Farò del mio meglio.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Devo preparare una cosa,\nvuoi andare avanti?\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Fuori è molto pericoloso,\nme ne occuperò io.{scroll 1}{clear 120}{scroll 0}D'accordo. Per ora\naspetterò qui. {scroll 1}{clear 100}{scroll 0}Ci sono sostanze chimiche\nqui, potrebbero essere utili.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Beh, mi occuperò io delle\nsostanze chimiche.{scroll 2}{timed 100}</Text>
+    <Text>Vuoi portare con te Rebecca?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nAh, Chris! \n{scroll 2}{clear 70}{scroll 0}In questa stanza ci sono\nmolti medicinali.{scroll 2}{clear 80}{scroll 0}Potrò curarti, a parte\nle ferite più gravi.{scroll 2}{clear 90}{scroll 0}\nVuoi che lo faccia?{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Sì, per favore, cerca\ndi curarmi. {scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Molti di quei medicinali\nvengono dalla Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nChe cos'è la Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nNon lo sai?{scroll 2}{clear 30}{scroll 0}Un'industria farmaceutica\nche ha sede a Raccoon City.{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Oh, capisco. E sai\nquanto medicinale si{scroll 2}{clear 100}{scroll 0}\npuò usare?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Credo che ce ne sia a\nsufficienza per due dosi.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\nTi senti bene?{scroll 2}{clear 60}{scroll 0}\nVuoi che ti curi?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris! Fai attenzione!{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nSto bene, ma se dovesse{scroll 2}{clear 50}{scroll 0}capitarmi qualcosa, cerca\ndi rimettermi in sesto.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nOK, puoi contare su di me.{scroll 2}{clear 80}{scroll 0}Ma il medicinale basterà\nsolo per altre tre dosi.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Scusa, ma... Non ce l'hai\ncon me, vero?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\nOh, certo che no.{scroll 2}{clear 80}{scroll 0}Però eri molto preoccupato,\nvero?{scroll 2}{clear 80}{scroll 0}Ehi, siamo partner, giusto?\nDobbiamo collaborare.{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\nSignorsí, farò del mio meglio!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris! Stai attento!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nQuesta è l'ultima dose.{scroll 2}{clear 75}{scroll 0}Adesso cerca di fare\npiù attenzione.{scroll 2}{timed 95}</Text>
+    <Text>Vuoi che curi le tue ferite?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nSei tu, Rebecca?{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, va tutto bene?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nSì. Che... Che cosa è successo?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Sei stato morso da un\nserpente velenoso. Come va?{scroll 2}{timed 135}</Text>
+    <Text>{scroll 0}\nLa testa mi fa male da morire.{scroll 2}{timed 145}</Text>
+    <Text>{scroll 0}Dovresti riprenderti, ti \nho curato.{scroll 2}{clear 100}{scroll 0}Però cerca di restare\nlontano dai guai!{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Mi hai salvato la vita.\nTi sono debitore.{scroll 2}{timed 125}</Text>
+    <Text>{scroll 0}\nChissà se sono tutti...{scroll 2}{timed 115}</Text>
+    <Text>\nVitamine e siero...{scroll 2}</Text>
+    <Text>\nUna dose basterà...{scroll 2}</Text>
+    <Text>\nRebecca cura Chris...{scroll 2}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}</Text>
+    <Text>{scroll 2}Il baule è chiuso.\nVuoi esaminarlo?{branch 0 6 1}</Text>
+</Strings>

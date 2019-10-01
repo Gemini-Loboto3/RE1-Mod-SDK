@@ -1,0 +1,32 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEin Esszimmer.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Was?\nWas ist das?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nWas ist es denn?{scroll 1}{clear 51}{scroll 0}\nBlut.{scroll 1}{clear 62}{scroll 0}Jill,\nschau dich um,{scroll 1}{clear 40}{scroll 0}ob es irgendwelche weiteren\nAnhaltspunkte gibt.{scroll 1}{clear 56}{scroll 0}\nIch untersuche das hier.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Ich hoffe,es ist nicht\ndas Blut von Chris.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nHast du den Mut verloren?{scroll 1}{clear 52}{scroll 0}\nDas sieht dir nicht ähnlich.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nWer ist es¼{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\nHey, halt dich zurück!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}Lauf, Jill!\nEr ist wahnsinnig!{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nWas zum Teufel...?{scroll 1}{clear 51}{scroll 0}Wir müssen es Wesker\nberichten.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nBarry...!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nWas ist das¼{scroll 1}{clear 41}{scroll 0}Pass auf!\nEs ist ein Monster!{scroll 1}{clear 76}{scroll 0}\nIch kümmere mich darum!{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nWas ist das...?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Kenneth wurde umgebracht.\nVielleicht von diesem Biest.{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}Wir müssen Wesker auf jeden\nFall darüber informieren.{scroll 1}{timed 89}</Text>
+    <Text>Die Untersuchung hier ist\nnoch nicht beendet.</Text>
+    <Text>Das muss ich Wesker\nberichten.</Text>
+    <Text>Das ist der Hohlraum, in dem\nsich ein Emblem befand.</Text>
+    <Text>\nEin Emblem sitzt drin.</Text>
+    <Text>\nBarry untersucht etwas...</Text>
+    <Text>Es ist keine Zeit,\ndas zu überprüfen.</Text>
+    <Text>\n </Text>
+    <Text>\nDas Bildnis einer Frau.</Text>
+    <Text>Ein hübsches\nLandschaftsbild.</Text>
+    <Text>Eine verstaubt aussehende\nUhr aus Großvaters Zeiten.</Text>
+    <Text>\nSie geht nicht mehr.</Text>
+    <Text>\nGeschirr und Besteck.</Text>
+    <Text>Draußen ist es dunkel und ich\nkann nicht sehr weit sehen.</Text>
+    <Text>\nDa ist nichts drin.</Text>
+    <Text>Neben dem Schild befindet\nsich ein Hohlraum...</Text>
+    <Text>{scroll 2}\nUhr hat 3 Mal geklingelt.</Text>
+</Strings>

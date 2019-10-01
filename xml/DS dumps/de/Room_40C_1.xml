@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Rebecca! Nein!\nDas hat keinen Zweck!{scroll 2}{clear 120}{scroll 0}\nDie Wurzeln sind im Keller.{scroll 2}{clear 80}{scroll 0}\nDu kannst..., brrr!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nNimm diese Akte mit!{scroll 2}{clear 70}{scroll 0}Verwende die Informationen\ndarin,{scroll 2}{clear 60}{scroll 0}um die Lösung zu erhalten und\ndann bring dieses Viech um...{scroll 2}{clear 95}{scroll 0}\nRebecca, bitte!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris, stirb nicht!{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\nWas zur Hölle ist das!{scroll 2}{clear 60}{scroll 0}\nBarry!{scroll 2}{clear 25}{scroll 0}\nJill!{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\nDu hast mich gerettet!{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nJa.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Das war knapp.\nDanke, Barry.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nNicht der Rede wert.{scroll 2}{clear 50}{scroll 0}War das ein Ungeheuer!\nIch kann es kaum glauben...{scroll 2}{clear 60}{scroll 0}Was zum Teufel ist das hier\nbloß für ein Ort...?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Okay! Ich werde\nin den Wachbereich gehen{scroll 2}{clear 90}{scroll 0}\nund mich dort mal umsehen...{scroll 2}{clear 30}{scroll 0}obwohl ich sicher bin, dass es\nauch in dem Landhaus noch{scroll 2}{clear 60}{scroll 0}\nwichtige Dinge gibt.{scroll 2}{clear 65}{scroll 0}Wir sollten auf jeden Fall\nunsere Nachforschungen{scroll 2}{clear 50}{scroll 0}\neinzeln durchführen.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nOkay!{scroll 2}{timed 40}</Text>
+    <Text>Da ist irgendwas Glänzendes,\naber ich komme nicht dran.{scroll 2}</Text>
+    <Text>Sie ist auch verschlossen.\nDie Tür geht nicht auf.{scroll 2}</Text>
+    <Text>{scroll 2}Sie ist zugeschweißt\nund läßt sich nicht öffnen.</Text>
+    <Text>{scroll 2}\nIch muss wirklich weitergehen.{scroll 2}</Text>
+</Strings>

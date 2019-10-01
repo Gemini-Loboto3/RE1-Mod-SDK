@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>Un quadro energetico. Ci sono\ndelle zone senza energia...{scroll 2}{clear 0}Vuoi dare energia alle\nzone in black out?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Il quadro mostra lo stato della\nfornitura energetica.{scroll 2}</Text>
+    <Text>{scroll 2}\nUn regolatore energetico.{clear 0}{scroll 2}La tensione è errata. Vuoi\nsistemare il cablaggio?{branch 0 6 1}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Posiziona 2 fili. Quando{clear 0}{scroll 2}le barre saranno sul rosso,\nla corrente sarà attivata.</Text>
+</Strings>

@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris !{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Rebecca ! \nNon ! Ça ne sert à rien...!{scroll 2}{clear 120}{scroll 0}Les racines de cette chose \nsont au sous-sol. {scroll 2}{clear 80}{scroll 0}\nVous pouvez..., ah !{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nPrenez ce dossier avec vous ! {scroll 2}{clear 70}{scroll 0}\nUtilisez les informations {scroll 2}{clear 60}{scroll 0}qu'il contient pour préparer \nla potion, et éliminez les {scroll 2}{clear 55}{scroll 0}\net éliminez les racines...{scroll 2}{clear 40}{scroll 0}\nS'il vous plaît, Rebecca !{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris, ne mourez pas !{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Bon sang, qu'est-ce que \nc'est que ça !{scroll 2}{clear 60}{scroll 0}\nBarry !{scroll 2}{clear 25}{scroll 0}\nJill !{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\nTu m'as sauvée !{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nOuais.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}C'était moins une. \nMerci, Barry.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}C'est bon. Quel monstre ! \nJe n'en crois pas mes yeux... {scroll 2}{clear 110}{scroll 0}Bon sang, qu'est-ce que c'est \nque cet endroit...?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}OK ! Je vais rester dans la\nmaison des gardes et continuer{scroll 2}{clear 90}{scroll 0}à jeter un coup d'oeil...\nmalgré le fait que je sois{scroll 2}{clear 90}{scroll 0}sure qu'il y a également des\nchoses dans l'autre maison.{scroll 2}{clear 65}{scroll 0}\nQuoi qu'il en soit, {scroll 2}{clear 30}{scroll 0}séparons-nous pour continuer\nles recherches.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nOK !{scroll 2}{timed 40}</Text>
+    <Text>Il y a quelque chose qui brille\nmais je ne peux pas l'atteindre.{scroll 2}</Text>
+    <Text>C'est refermé. La porte \nne s'ouvre pas.{scroll 2}</Text>
+    <Text>{scroll 2}C'est soudé et ne peut\nêtre ouvert.</Text>
+    <Text>{scroll 2}Je dois continuer\nd'avancer.{scroll 2}</Text>
+</Strings>

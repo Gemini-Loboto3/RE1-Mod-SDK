@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}That was too close. \nLet's go together.{scroll 1}{clear 140}{scroll 0}\nOkay, let's go.{scroll 1}{clear 60}{scroll 0}Okay, then I'm going to\ncover you. Let's hurry!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}It's a power generator, \nbut does not seem to work...{scroll 1}</Text>
+</Strings>

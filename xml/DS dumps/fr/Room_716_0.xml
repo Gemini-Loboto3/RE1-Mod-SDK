@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Ils traitent presque tous\nde biologie et de chimie.{scroll 2}</Text>
+    <Text>{scroll 2}\nDifférents livres.{scroll 2}</Text>
+    <Text>{scroll 2}Voilà longtemps que ça n'a pas\nété utilisé. C'est poussiéreux.{scroll 2}</Text>
+    <Text>{scroll 2}\nIl y a une épée dans la porte.{clear 0}{scroll 2}Elle retient quelque chose.\nRetirer l'épée ?{branch 0 6 1}</Text>
+</Strings>

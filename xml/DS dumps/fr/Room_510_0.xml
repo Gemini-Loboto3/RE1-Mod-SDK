@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}C'est une machine pour\ncodes d'accès.{clear 0}Si j'avais un DISQUE MO, je\npourrais avoir le code...{scroll 2}</Text>
+    <Text>{scroll 2}\nJ'ai déjà le code d'accès.{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Da ist ein Hebel.\nMöchten Sie ihn bewegen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Dort ist ein Schaltknopf.\nMöchten Sie draufdrücken?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Aus dem Nebenraum\nwar ein Geräusch zu hören.{scroll 2}</Text>
+    <Text>{scroll 2}\nNichts Besonderes.{scroll 2}</Text>
+    <Text>{scroll 2}Elektronisches Schloss.\nUnters.?{branch 0 6 1}</Text>
+    <Text>{scroll 0}\nDie Sprinkler sind an!{scroll 2}{timed 90}</Text>
+    <Text>{scroll 2}Das Wasser verfärbt sich...{scroll 0}{timed 20}\n{scroll 0}Es ist giftig!{timed 40}</Text>
+    <Text>{scroll 2}Ich muss wirklich\nweitergehen.{scroll 2}</Text>
+    <Text>{scroll 2}\nDa ist ein Ventil.{clear 0}{scroll 2}\nVentil drehen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Der Ventilhebel klemmt\nund bewegt sich nicht.</Text>
+</Strings>

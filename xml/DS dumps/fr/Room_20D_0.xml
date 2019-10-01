@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nQui êtes-vous ?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Je suis Chris de l'Equipe Alpha.\nJe suis venu vous secourir.{scroll 1}{clear 120}{scroll 0}\nRichard, que s'est-il passé ?{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Chris, cette maison est trop \ndangereuse. {scroll 1}{clear 123}{scroll 0}Il y a d'horribles démons !\nAïe !{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}\nRichard, ne parlez pas !{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}On dirait qu'il a été mordu\npar un serpent venimeux. {scroll 1}{clear 90}{scroll 0}Mais la plaie est\nanormalement grande.{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}Ce n'est pas un quelconque \nserpent venimeux. {scroll 1}{clear 100}{scroll 0}\nC'est un monstre !{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nIl a besoin de sérum. {scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}\nOK, j'y vais.{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}Dépêchez-vous,\nje vous en prie !{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}Je vous attends ici !\nJe reviens vite !{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Voilà le sérum ! \nComment va-t-il ?{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nBien, merci ! {scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Richard, tenez bon ! Je vous\nfais une piqûre tout de suite !{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Chris, Chris, voici une\nradio, prenez-la !{scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\nRebecca, soyez prudente !{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 92}{scroll 0}Rebecca ? C'est très dangereux. \nVous venez avec moi ?{scroll 1}{timed 163}</Text>
+    <Text>{scroll 0}Je préfèrerais rester ici un \npeu plus longtemps.{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}OK, Rebecca. \nVous savez utiliser une arme ? {scroll 1}{clear 93}{scroll 0}Je vais à la recherche des \nautres. Faites attention à vous.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Chris ! \nSoyez prudent s'il vous plaît.{scroll 1}{timed 77}</Text>
+    <Text>{scroll 2}\nRichard de l'Equipe Bravo.{scroll 10}</Text>
+    <Text>{scroll 2}Il faut que j'aille chercher \ndu sérum...{scroll 10}</Text>
+    <Text>{scroll 0}\nFaites attention...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nSoyez prudent, Chris.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 2}\nRichard est mort.{scroll 10}</Text>
+    <Text>{scroll 0}\nVite, je vous en prie.{scroll 1}{timed 53}</Text>
+    <Text>{scroll 2}Il ne respire plus.\nEssayer de réanimer ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Il ne respire plus.\nIl lui faut de l'air.</Text>
+    <Text>{scroll 2}Richard respire\nà nouveau.</Text>
+    <Text>{scroll 2}\nTrop tard...</Text>
+    <Text>{scroll 0}\nRégler l'horloge sur 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}\nRégler l'horloge sur 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>\nNulla di importante.</Text>
+    <Text>{scroll 2}Il baule è chiuso.\nVuoi esaminarlo?{branch 0 6 1}</Text>
+</Strings>

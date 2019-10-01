@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nNon avvicinarti oltre, Chris.{scroll 1}{clear 70}{scroll 0}\nAspetta, cos'è successo?{scroll 1}{clear 65}{scroll 0}\nTraditore!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nNO!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Chi è?\nC-C'è qualcuno?{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Uuuh... Aaah, maledizione...\nUmbrella...{scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}Traditore?\nChe cosa vuole dire?{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}Non avrebbe potuto muoversi\ncon questa ferita...{scroll 1}{clear 0}{scroll 2}\nHa qualcosa...{scroll 1}</Text>
+    <Text>{scroll 0}\nSei tu Jill?{scroll 1}{clear 45}{scroll 0}\nEnrico?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nSì?{scroll 1}{clear 30}{scroll 0}\nSei vivo!{scroll 1}{clear 30}{scroll 0}Aspetta lì!\nC'è qualcuno con te, Jill?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}C-Cosa? Oh no, sono sola,\nperché me lo chiedi?{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}Ascolta! Gli agenti ＳＴＡＲＳ\nsaranno uccisi tutti.{scroll 1}{clear 90}{scroll 0}\nC'è un traditore fra noi.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Tutto è stato programmato\ndalla Umbrella.{scroll 1}{clear 80}{scroll 0}\nAaah... Oooh... Uuugh...{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nChi l'avrà ucciso?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nCosa? Oh sì!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nE così, Barry e Jill, insieme.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nTi senti bene, Enrico?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Gli ＳＴＡＲＳ sono finiti.\nC'è un traditore.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Tutto è stato programmato\ndalla Umbrella.{scroll 1}{clear 75}{scroll 0}\nAaah... Oooh... Uuugh...{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nEnrico!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 1}\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 2}Non avrebbe potuto muoversi\ncon questa ferita...{scroll 1}{clear 0}{scroll 2}\nHa qualcosa...{scroll 1}</Text>
+    <Text>{scroll 2}\nBarry sta controllando...{scroll 1}</Text>
+</Strings>

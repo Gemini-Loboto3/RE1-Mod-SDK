@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nThis is Brad.{scroll 1}{clear 53}{scroll 0}ＳＴＡＲＳ Alpha Team,\nplease respond.{scroll 1}{clear 97}{scroll 0}What the hell?\nIs nobody out there?{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nThis is Chris!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}This is Brad.\nＳＴＡＲＳ Alpha Team,{scroll 1}{clear 103}{scroll 0}Bravo team, it doesn't\nmatter, anybody, answer me...{scroll 1}{clear 120}{scroll 0}\nthis is Brad...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nDamn! It's broken.{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nThis is Brad.{scroll 1}{clear 56}{scroll 0}ＳＴＡＲＳ Alpha Team,\nplease respond.{scroll 1}{clear 91}{scroll 0}What the hell?\nIs nobody out there?{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\nBrad, this is Jill.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}This is Brad.\nＳＴＡＲＳ Alpha Team,{scroll 1}{clear 106}{scroll 0}Bravo team, it doesn't\nmatter, anybody, answer me...{scroll 1}{clear 160}{scroll 0}\nthis is Brad...{scroll 1}{timed 162}</Text>
+    <Text>{scroll 2}A winch for the elevator...\nThe elevator is down...</Text>
+    <Text>{scroll 2}\nNothing special.</Text>
+    <Text>{scroll 2}It's a map of the GARDEN...\nWill you take it?{branch 0 6 0}</Text>
+    <Text>{scroll 2}You got the\nmap of the GARDEN...</Text>
+</Strings>

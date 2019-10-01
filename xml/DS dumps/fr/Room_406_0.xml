@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nSalut, Jill. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Salut. Barry, j'ai cru\nentendre quelqu'un parler...{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nTu m'as donc entendu ?{scroll 1}{clear 50}{scroll 0}\nJe me fais vieux.{scroll 1}{clear 60}{scroll 0}On dirait que je prends \nl'habitude de parler tout seul. {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nParler tout seul ?  {scroll 1}{clear 60}{scroll 0}Barry, je me trompe ou il \nt'est arrivé quelque chose ?  {scroll 1}{clear 105}{scroll 0}\nTu as l'air bizarre. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Eh bien, il semble que\nje t'inquiète.{scroll 1}{clear 60}{scroll 0}\nMais ne t'inquiète pas.{scroll 1}{clear 30}{scroll 0}\nMes nerfs sont en pelote à{scroll 1}{clear 80}{scroll 0}cause de toutes ces\névénements bizarres.{scroll 1}{clear 80}{scroll 0}Bon, je crois que je\nvais aller{scroll 1}{clear 50}{scroll 0}faire un tour, histoire de\nme rafraîchir les idées.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Je t'ai dit de ne pas \nt'inquiéter.{scroll 1}{clear 60}{scroll 0}Je vais juste faire un tour,\nhistoire de me rafraîchir les{scroll 1}{clear 70}{scroll 0}idées et de me faire dévorer \npar un monstre !{scroll 1}{timed 70}</Text>
+    <Text>Le croquis DU DORTOIR.\nLe prenez-vous ?{branch 0 6 0}</Text>
+    <Text>Il y a une échelle.\nDescendre ?{branch 0 6 0}</Text>
+    <Text>\nPas de temps pour vérifier.</Text>
+    <Text>Vous avez le plan \nDU DORTOIR.</Text>
+    <Text>{scroll 2}\nInutile de descendre.</Text>
+</Strings>

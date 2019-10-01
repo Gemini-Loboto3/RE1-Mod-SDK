@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWoah! What is it?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nWhat? OH! OH NO!{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\nSorry, I didn't mean to do that.{scroll 1}{clear 90}{scroll 0}Ha, ha, you must be from\nthe Bravo team.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Yes, I'm Rebecca, \nRebecca Chambers. {scroll 1}{clear 100}{scroll 0}I'm a newcomer, I just joined the\nＳＴＡＲＳ Bravo Team last month.{scroll 1}{clear 130}{scroll 0}Well, I'm really sorry, \nare you alright? {scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Yes, I'm Chris Redfield\nfrom the Alpha Team. {scroll 1}{clear 120}{scroll 0}Are you the only person here\nfrom the Bravo Team?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}Well, because the helicopter\nmade a forced landing,{scroll 1}{clear 115}{scroll 0}I just ran into this house\nanyway. But I, uh...uh...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nI see...{scroll 1}{clear 60}{scroll 0}There's nothing else you could have\ndone anyway, it's good you're here. {scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\nYes, Sir.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nBut... it's strange.{scroll 1}{clear 80}{scroll 0}\nI serviced the helicopter recently,{scroll 1}{clear 65}{scroll 0}but something went wrong \nwith the engine.{scroll 1}{clear 80}{scroll 0}\nIt was such a short flight.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nI wonder if everybody is...{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWell, what should I do now?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}If you go out to search for\nthe other members,{scroll 2}{clear 80}{scroll 0}how about letting me\ncome with you?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nAlright, let's do it.{scroll 1}{clear 70}{scroll 0}\nYes, Sir! I'll do my best.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}I have to prepare something,\nwould you like to go ahead?\n{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}It's pretty dangerous\noutside, let me take care of it.{scroll 1}{clear 120}{scroll 0}I understand. \nFor now, I'll wait here. {scroll 1}{clear 100}{scroll 0}Since there are a lot of chemicals\nin this room and they might be useful.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Well, I'll look over the\nchemicals.{scroll 2}{timed 100}</Text>
+    <Text>Will you take Rebecca with\nyou?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nAh Chris! \n{scroll 2}{clear 70}{scroll 0}This room is fully\nequipped with medical supplies.{scroll 2}{clear 80}{scroll 0} I can treat you,\nexcept for your major injury.{scroll 2}{clear 90}{scroll 0}\nWould you like me to?{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Yes, please do something\nfor me, temporarily. {scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Most of these medicines\nare from Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nWhat's Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nDon't you know?{scroll 2}{clear 30}{scroll 0}It's a large scale pharmaceutical\ncompany based in Raccoon City.{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Ooh I see, and do you\nknow how much of the{scroll 2}{clear 100}{scroll 0}\nmedicine is usable?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Well, probably there\nis enough for 2 doses.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}\nAre you alright?{scroll 2}{clear 60}{scroll 0}\nWant me to treat it?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris! Be careful!{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nI'm okay,{scroll 2}{clear 50}{scroll 0}but if something happens to\nme, please take care of me.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nOkay, you can depend on me.{scroll 2}{clear 80}{scroll 0}But, we only have enough\nmedicine for 3 more doses.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Excuse me, but you aren't mad\nat me about all that, are you?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\nOh, of course not.{scroll 2}{clear 80}{scroll 0}You were pretty worried\nthough, weren't you?{scroll 2}{clear 80}{scroll 0}Hey, we're partners, aren't\nwe? Let's work together.{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}\nYes, Sir! I'll do my best!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris! Take care!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nThis is the last dose.{scroll 2}{clear 75}{scroll 0}Don't go doing \nreckless things anymore.{scroll 2}{timed 95}</Text>
+    <Text>Do you want me to heal\nyour wounds?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nIs that you, Rebecca?{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nChris, are you alright?{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nYeah... w-what happened?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}You were bitten by a\npoisonous snake. Are you okay?{scroll 2}{timed 135}</Text>
+    <Text>{scroll 0}\nAhh, my head is killing me.{scroll 2}{timed 145}</Text>
+    <Text>{scroll 0}I think you'll be alright, \nbecause I gave you a shot.{scroll 2}{clear 100}{scroll 0}But please, stay out of\ntrouble!{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}You... saved my life.\nI owe you one.{scroll 2}{timed 125}</Text>
+    <Text>{scroll 0}\nI wonder if everybody is...{scroll 2}{timed 115}</Text>
+    <Text>\nVitamins and serums...{scroll 2}</Text>
+    <Text>\nOne dose would do...{scroll 2}</Text>
+    <Text>\nRebecca treats Chris...{scroll 2}</Text>
+    <Text>\ndummy</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

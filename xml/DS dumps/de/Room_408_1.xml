@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOhh!{scroll 1}{clear 20}{scroll 0}\nIch kann es kaum glauben!{scroll 1}{clear 60}{scroll 0}\nAlles in Ordnung mit dir¼{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ja. So weit dazu. Wir sind an\ndie Wurzel des Übels gelangt.{scroll 1}{clear 155}{scroll 0}\nUnd noch am Leben.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nAlso ich...{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nWirklich, ich danke dir.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Du würdest für mich\ndas Gleiche tun, nicht wahr?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nDas garantiere ich dir.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Gut, ich denke, ich kann eine\nweitere Lösung herstellen.{scroll 1}{clear 70}{scroll 0}Ich werde in den\nPharmazie-Raum zurückgehen,{scroll 1}{clear 70}{scroll 0}\nden ich vorhin entdeckt habe.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Wie dem auch sei, Chris, ich bin\nfroh, dass du wohlauf bist...{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Hier, Chris,\ndas ist Richards Sender...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Vor Kurzem empfingen wir auf\ndem Hof Funksprüche von Brad,{scroll 1}{clear 90}{scroll 0}aber er fliegt immer noch\nin der Luft herum.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Vielleicht ist seine Anlage\ndefekt...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Ach so... verstehe.\nIch werde es mitnehmen.{scroll 1}{clear 100}{scroll 0}Wir sollten Brad irgendwie\nmitteilen, dass wir hier sind.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Ich glaube, dass ich\nin dem Pharmazie-Raum,{scroll 1}{clear 100}{scroll 0}den ich vorhin entdeckt\nhabe, etwas herstellen kann.{scroll 1}{timed 80}</Text>
+    <Text>\nSie bewegt sich kein Stück.{clear 0}Scheinbar wird sie von der\nanderen Seite her blockiert.</Text>
+    <Text>{scroll 2}\nIch muss wirklich weitergehen.{scroll 2}</Text>
+    <Text>\nSie ist verschlossen.</Text>
+    <Text>Der Weg öffnet sich jenen,\ndie den Stein umkreisen.{scroll 2}</Text>
+    <Text>Das hat was mit der\nSteintafel zu tun...{scroll 2}</Text>
+    <Text>Zum Öffnen ist\nSchlüssel nötig.{scroll 2}</Text>
+    <Text>Vous avez utilisé \n{color 1}SCHLAFR.SCHLÜS.{color 0}.</Text>
+</Strings>

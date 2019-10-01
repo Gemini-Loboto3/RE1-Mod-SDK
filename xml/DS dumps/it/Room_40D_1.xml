@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>C'è una scala... Vuoi salire?{scroll 1}{branch 0 6 0}</Text>
+    <Text>L'acqua ristagna qui, non\nposso superarla...{scroll 2}</Text>
+</Strings>

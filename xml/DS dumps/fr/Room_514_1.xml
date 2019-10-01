@@ -1,0 +1,42 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker... {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nBeau boulot, Barry. {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}C'est bien ce que je\npensais... {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Je pense que vous devriez vous\néloigner de Barry, Jill.{scroll 1}{clear 75}{scroll 0}Il paraît que s'il ne fait pas\ntout ce que je lui ordonne,{scroll 1}{clear 80}{scroll 0}sa femme et ses deux filles\nseront en danger.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nVous êtes si cruel... {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nOh, ne vous inquiétez pas car{scroll 1}{clear 60}{scroll 0}vous allez quitter ce monde\ntrès bientôt, Jill. {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Pourquoi voulez-vous détruire \nles ＳＴＡＲＳ ? {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nAinsi en a décidé Umbrella.{scroll 1}{clear 60}{scroll 0}Ce laboratoire s'est lancé dans\ndes recherches très dangereuses{scroll 1}{clear 60}{scroll 0}et il s'est produit un accident\ndernièrement.  {scroll 1}{clear 88}{scroll 0}Quoi qu'il en soit, il faut à\ntout prix étouffer l'affaire.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nAh, c'est la raison pour{scroll 1}{clear 56}{scroll 0}laquelle il ne faut pas que \nles ＳＴＡＲＳ y mettent leur nez. {scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}\nAlors comme ça, vous êtes à  {scroll 1}{clear 60}{scroll 0}la botte d'Umbrella, tout \ncomme ces monstres. {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Vous ne m'avez pas bien \ncompris, Jill.  {scroll 1}{clear 70}{scroll 0}A mes yeux, ces monstres dont \nvous parlez, ne sont rien.{scroll 1}{clear 75}{scroll 0}Je vais tous les faire rôtir \navec ce laboratoire. Je dois{scroll 1}{clear 127}{scroll 0}remplir la mission qui m'a \nété confiée par Umbrella. {scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Barry, montez et attendez-moi \nlà-bas ! {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nBarry ! {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nBarry est un crétin !{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nComment pouvez-vous, vous et{scroll 1}{clear 90}{scroll 0}Umbrella, le menacer de\nprendre sa famille en otage !{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nUmbrella ? C'est vrai que je{scroll 1}{clear 105}{scroll 0}l'ai menacé de ça mais Umbrella\nn'avait rien à y voir.{scroll 1}{clear 65}{scroll 0}Je n'ai agi que dans mon propre\nintérêt bien que Barry et vous  {scroll 1}{clear 165}{scroll 0}soyiez convaincus que je suis\nles ordres d'Umbrella. {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Vous avez donc quelque chose\nderrière la tête, n'est-ce pas ?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nSi vous aviez réussi à mettre{scroll 1}{clear 50}{scroll 0}au point l'arme biologique la\nplus puissante au monde,{scroll 1}{clear 96}{scroll 0}\nque feriez-vous ?{scroll 1}{clear 48}{scroll 0}Si vous en aviez la\nresponsabilité ? {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Il faut tout arrêter \nmaintenant ! {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Vous êtes courageuse !\nMais à votre place,  {scroll 1}{clear 120}{scroll 0}je ne renoncerais pas à\nune telle découverte.{scroll 1}{clear 55}{scroll 0}\nVous êtes tous des imbéciles.{scroll 1}{clear 56}{scroll 0}Nul ne comprend sa réelle\nvaleur ! {scroll 1}{timed 89}</Text>
+    <Text>{scroll 0}Vous allez donc dérober \nl'ensemble des recherches ? {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Mieux que ça, je vais vous \nmontrer Tyran... {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nBarry ! {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nDésolé, Jill... {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nComment va ta famille ? {scroll 1}{clear 50}{scroll 0}Euh...j'ai écouté ce que\nvous vous disiez.{scroll 1}{clear 100}{scroll 0}J'aurai préféré m'en rendre\ncompte avant.  {scroll 1}{clear 115}{scroll 0}J'étais persuadé que tout cela\nétait lié à Umbrella, tu sais.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}...Tout avait donc été \nmanigancé par lui. {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Mais c'est bien que tu saches \ntoute la vérité à présent.{scroll 1}{clear 76}{scroll 0}Mais tout d'abord, \nsortons d'ici. {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nJill ! {scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}\nOui ? {scroll 1}{clear 50}{scroll 0}As-tu une idée de ce que \nWesker allait te montrer ? {scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}\nEh bien, il était en train de  {scroll 1}{clear 60}{scroll 0}me parler de l'arme biologique \nla plus puissante au monde,  {scroll 1}{clear 90}{scroll 0}Tyran ou quelque chose comme \nça je crois... {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Tu crois que ce\nTyran existe ? {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Barry, \ntu es tellement optimiste ! {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nCe serait une catastrophe pour{scroll 1}{clear 60}{scroll 0}ＳＴＡＲＳ si une telle créature\nétait laissée en liberté.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Tu as sans doute raison...\nAllons-y alors ! {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBeau boulot, Barry. {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}C'est bien ce que je pensais...\nvous avez tout manigancé.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nQu'est-il arrivé à Wesker ? {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Le compte à rebours a été\ndéclenché.{scroll 1}{clear 60}{scroll 0}Ordre est donné à tous les\nchercheurs et à tous les gardes{scroll 1}{clear 50}{scroll 0}de se mettre immédiatement en\nlieu sûr.  {scroll 1}{clear 50}{scroll 0}Dégagez toutes les issues pour\nl'évacuation. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWesker a dû la déclencher.  {scroll 1}{clear 62}{scroll 0}Il ne nous reste plus \nbeaucoup de temps. {scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nQu'est-il arrivé à Wesker ? {scroll 1}{timed 40}</Text>
+</Strings>

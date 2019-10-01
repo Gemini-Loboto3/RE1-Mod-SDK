@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}C-Che cosa sono?\nM-Mostri?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nÈ ancora nella casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nChe cosa sono?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}È Rebecca, dev'essere\ndi sopra!{scroll 2}{timed 110}</Text>
+</Strings>

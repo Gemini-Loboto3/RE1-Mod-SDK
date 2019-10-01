@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris, use it!{scroll 1}{clear 48}{scroll 0}\nDestroy the monsters with it. {scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}It's coming! Jill, kill that \nmonster!{scroll 1}{clear 90}{scroll 0}\nYou're our amazon, Jill!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}There's no need to go\ndownstairs now...</Text>
+    <Text>{scroll 2}\nThe door is locked.</Text>
+    <Text>{scroll 2}It's welded and does not\nopen...</Text>
+    <Text>{scroll 2}\nNothing special.</Text>
+    <Text>{scroll 0}{color 1}There is 3 minutes until\nexplosion.{color 0}{scroll 1}{timed 108}</Text>
+</Strings>

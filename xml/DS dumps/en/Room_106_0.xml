@@ -1,0 +1,51 @@
+﻿<Strings>
+    <Text>{scroll 0}\nI don't know what happened.{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\nBarry! Where's Barry?{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Well, I'm sorry \nbut he's probably...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nNo!{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\nWhat is that?{scroll 1}{clear 35}{scroll 0}\nI'll go and check.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Okay, Jill and I will stay\nin the hall in case of{scroll 1}{clear 85}{scroll 0}\nan emergency.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nChris.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nTake care.{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Investigate if you hear\nany gunfire.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nWesker? Jill?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}What happened to Jill and\nWesker?{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}\nWhat is this?{scroll 1}{clear 52}{scroll 0}\nWow! What a mansion!{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Captain Wesker, \nwhere's Chris?{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Stop it!\nDon't open that door!{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\nBut Chris is...{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nWhat is it?{scroll 1}{clear 38}{scroll 0}\nMaybe it's Chris.{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\nNow Jill, can you go?{scroll 1}{clear 72}{scroll 0}I'm going with you, Chris is\nour old partner you know.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\nOkay, let me handle this.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nStay alert!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nWesker!!!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nHelp me look for him Jill, {scroll 1}{clear 37}{scroll 0}and don't leave this hall\nfor the time being.{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nFind anything, Jill?{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nNothing.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}What is this all about?\nI can't figure it out at all.{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}\nBeats me too.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Now it's Wesker's \ntime to disappear.{scroll 1}{clear 56}{scroll 0}I don't know what's\ngoing on.{scroll 1}{clear 56}{scroll 0}\nWell, it can't be helped.{scroll 1}{clear 60}{scroll 0}Let's search\nfor him separately.{scroll 1}{clear 52}{scroll 0}I'll check the \ndining room again.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Okay, I'll try the door\non the opposite side.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\nThis mansion is gigantic.{scroll 1}{clear 82}{scroll 0}We could get into trouble\nif we get lost.{scroll 1}{clear 75}{scroll 0}We should start from\nthe first floor, okay?{scroll 1}{clear 75}{scroll 0}\nAnd,{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nJill, here's a lock pick.{scroll 1}{clear 62}{scroll 0}It might be handy if you,\nthe master of unlocking,{clear 85}{scroll 0}\ntake it with you.{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}Thanks!\nMaybe I'll need it.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}No, I'll take care of\nthat direction.{scroll 1}{clear 75}{scroll 0}I told you to start \nfrom the other side Jill.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Listen, if something happens,\nlet's meet up in this hall.{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}\nThis time, I'll be there.{scroll 1}{timed 53}</Text>
+    <Text>{scroll 2}It's too dangerous to go\noutside!</Text>
+    <Text>{scroll 2}I've got to search this\nhall first!</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Jill! What's going on?\nAny clues?{scroll 1}{clear 116}{scroll 0}No, but something's\nwrong with this house.{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}Woah!\nThis hall is dangerous.{scroll 1}{clear 115}{scroll 0}Maybe it's better to secure\nour escape route first. {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}There must be\na backdoor somewhere.{scroll 1}{clear 120}{scroll 0}Let's try to find it\nfirst, shall we?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nOkay, let's separate again.{scroll 1}{clear 96}{scroll 0}Just a moment!\nI found something.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nWhat is it?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nIt's a weapon.{scroll 1}{clear 65}{scroll 0}It's really powerful,\nespecially against{scroll 1}{clear 70}{scroll 0}living things.\nBetter take it with you.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nBut how about you, Barry?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nI have this!{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Thank you,\nI'll take this then.{scroll 1}{timed 87}</Text>
+    <Text>{scroll 2}\nIt's Jill's gun...!{clear 0}{scroll 2}\n{timed 1}</Text>
+    <Text>{scroll 2}There is no time to check\nit...</Text>
+    <Text>{scroll 2}The stairs look unsafe.\nBetter not chance it.</Text>
+    <Text>{scroll 2}I cannot leave until\nI kill the Tyrant.</Text>
+</Strings>

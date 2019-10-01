@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nCosa è successo?{scroll 1}{clear 70}{scroll 0}Uh, che vergogna,\nsono un disastro.{scroll 1}{clear 220}{scroll 0}Non parlare. Adesso\nti curerò.{scroll 1}{clear 150}{scroll 0}\nForse è giunta la mia ora.{scroll 1}{clear 90}{scroll 0}\nJill,{scroll 1}{clear 50}{scroll 0}\nprendi questo.{scroll 1}{clear 100}{scroll 0}\nVi ho ingannato,{scroll 1}{clear 100}{scroll 0}\nfin dall'inizio.{scroll 1}{clear 75}{scroll 0}\nSe puoi perdonarmi, dai{scroll 1}{clear 100}{scroll 0}questo alla mia\nfamiglia.{scroll 1}{clear 120}{scroll 0}\nE, se puoi,{scroll 1}{clear 75}{scroll 0}\ncerca di proteggerli.{scroll 1}{clear 165}{scroll 0}Che cosa vuoi dire,\nBarry? Non arrenderti!{scroll 1}{clear 120}{scroll 0}\nJill,{scroll 1}{clear 100}{scroll 0}\nstai attenta a quell'uomo.{scroll 1}{clear 170}{scroll 0}\nTi prego, non morire. Uuuh...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 2}\nBarry...{scroll 1}</Text>
+    <Text>{scroll 2}C'è una scala...\nVuoi salire?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nC'è un foro esagonale...{scroll 1}</Text>
+    <Text>{scroll 2}Si è aperto un buco, non\nposso superarlo con un salto.{scroll 1}</Text>
+</Strings>

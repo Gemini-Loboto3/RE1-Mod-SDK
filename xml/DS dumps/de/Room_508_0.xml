@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>\nEin Eingabefeld für Passcodes.</Text>
+    <Text>\nSie kennen den Passcode nicht.</Text>
+    <Text>Sie haben den Passcode\neingegeben.</Text>
+    <Text>{scroll 0}\nLass uns weitergehen.{scroll 1}{timed 65}</Text>
+    <Text>\nSie ist elektrisch verriegelt.</Text>
+    <Text>\nSie ist verschlossen.</Text>
+</Strings>

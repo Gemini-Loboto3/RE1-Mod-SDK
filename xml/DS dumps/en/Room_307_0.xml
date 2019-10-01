@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWhat happened?{scroll 1}{clear 70}{scroll 0}Uhhh, I'm really\nembarrassed. I was clumsy.{scroll 1}{clear 220}{scroll 0}You don't have to talk, I'm\ngoing to give you first-aid.{scroll 1}{clear 150}{scroll 0}\nMaybe my time has come.{scroll 1}{clear 90}{scroll 0}\nJill,{scroll 1}{clear 50}{scroll 0}\ntake this.{scroll 1}{clear 100}{scroll 0}\nI've been cheating you all,{scroll 1}{clear 100}{scroll 0}\nfrom the start.{scroll 1}{clear 75}{scroll 0}\nIf you can forgive me,{scroll 1}{clear 100}{scroll 0}could you please give\nthis to my family.{scroll 1}{clear 120}{scroll 0}\nAnd if you can,{scroll 1}{clear 75}{scroll 0}\nplease try to protect them.{scroll 1}{clear 165}{scroll 0}What do you mean by that\nBarry? Don't give up!{scroll 1}{clear 120}{scroll 0}\nJill,{scroll 1}{clear 100}{scroll 0}\nbe careful of that guy.{scroll 1}{clear 170}{scroll 0}\nPlease, stay alive, uhhh...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 2}\nBarry...{scroll 1}</Text>
+    <Text>{scroll 2}There's a ladder...\nWill you climb it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nThere's a hexagonal hole...{scroll 1}</Text>
+    <Text>{scroll 2}A hole has opened, and I\ncan't jump over it...{scroll 1}</Text>
+</Strings>

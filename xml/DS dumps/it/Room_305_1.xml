@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\nLa medaglia è al suo posto...{scroll 2}</Text>
+    <Text>{scroll 2}In una cavità tonda è incisa\nla figura di un'aquila...{scroll 2}</Text>
+    <Text>{scroll 2}In una cavità tonda è incisa\nla figura di un lupo...{scroll 2}</Text>
+    <Text>{scroll 2}C'è una saldatura, non si\napre...{scroll 2}</Text>
+    <Text>{scroll 2}\nHai inserito la\nMEDAGLIA DELL'AQUILA.{scroll 2}{timed 60}</Text>
+    <Text>{scroll 2}\nHai inserito la\nMEDAGLIA DEL LUPO.{scroll 2}{timed 60}</Text>
+</Strings>

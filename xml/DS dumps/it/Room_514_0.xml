@@ -1,0 +1,24 @@
+﻿<Strings>
+    <Text>{scroll 0}Chris, per essere un mio\nsottoposto, ci sai fare.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Non lavorerei mai per una\nsocietà come la Umbrella. E tu,{scroll 1}{clear 100}{scroll 0}Wesker, eri alle sue\ndipendenze.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nChe cosa vuoi dire?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nDa quando lavori come agente {scroll 1}{clear 53}{scroll 0}della Umbrella, da quando\nhai tradito la ＳＴＡＲＳ?{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}Ti sbagli! Ero al soldo\ndella Umbrella, sì.{scroll 1}{clear 140}{scroll 0}Ma ora sono pronto ad\naffrontare tutto e tutti. {scroll 1}{clear 100}{scroll 0}Anche a liberarmi di tutti\ngli agenti della ＳＴＡＲＳ.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Si è verificata la situazione\npeggiore immaginabile.{scroll 1}{clear 120}{scroll 0}Il fallimento dell'esperimento\nha generato un virus,{scroll 1}{clear 105}{scroll 0}un'arma biologica che ha\navvelenato il laboratorio.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}No, il peggio è il\nvirus Tyrant.{scroll 1}{clear 90}{scroll 0}Ho perso degli agenti ＳＴＡＲＳ\na causa sua.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Li hai uccisi con le\ntue mani!{scroll 1}{clear 85}{scroll 0}\nHai ammazzato Enrico?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nSì, così.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nNon ti muovere!{scroll 1}{clear 40}{scroll 0}\nSe ti muovi, ti ammazzo.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Chris, devo mostrarti\nqualcosa.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nCammina, ora.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nEnrico?{scroll 1}{clear 40}{scroll 0}Distruggerò di persona la\nＳＴＡＲＳ, te compreso.{scroll 1}{clear 90}{scroll 0}Il fatto è che la Umbrella\nnon sa che cosa fare con{scroll 1}{clear 70}{scroll 0}il virus Tyrant.\nCi è stato ordinato di far{scroll 1}{clear 150}{scroll 0}saltare il laboratorio:\nnon è una cattiva idea.{scroll 1}{clear 95}{scroll 0}Però credo che dovremmo\nsalvare i dati relativi alla{scroll 1}{clear 100}{scroll 0}\nricerca, per il futuro.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}P-Pensi di poter\ntrafugare del materiale{scroll 1}{clear 70}{scroll 0}\ncosì importante?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nVuoi vedere di cosa si tratta?{scroll 1}{clear 60}{scroll 0}\nVieni con me.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Mi scuso per le mie\ncattive maniere,{scroll 1}{clear 65}{scroll 0}ma non sono abituato a\nfare da accompagnatore.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nCammina, ora.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Il giubbetto antiproiettile\nsembra molto resistente.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nGià!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nChe ne è del capitano Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Sta dormendo con il\nfallimento supremo.{scroll 1}{clear 65}{scroll 0}Presto! Voglio\nandarmene da qui.{scroll 1}{timed 190}</Text>
+    <Text>{scroll 0}</Text>
+</Strings>

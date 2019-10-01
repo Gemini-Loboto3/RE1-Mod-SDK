@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 0}\nUna sala da pranzo.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nCosa? Cos'è questo?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nChe cos'è?{scroll 1}{clear 51}{scroll 0}\nSangue.{scroll 1}{clear 62}{scroll 0}Jill, vedi se trovi qualche\naltro indizio.{scroll 1}{clear 96}{scroll 0}\nIo esaminerò questo.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Spero che non sia\nil sangue di Chris.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nGià esaurito il coraggio?{scroll 1}{clear 52}{scroll 0}\nNon è da te.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nChi è?{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\nEhi tu! Fermo!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nScappa Jill! È pazzo!{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nMa che diavolo?{scroll 1}{clear 51}{scroll 0}\nFacciamo rapporto a Wesker.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nChe cos'è?{scroll 1}{clear 41}{scroll 0}\nAttenzione! È un mostro!{scroll 1}{clear 76}{scroll 0}\nCi penso io.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChe cos'è?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Anche Kenneth è stato ucciso.\nForse da questa creatura.{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}Comunque, facciamo\nrapporto a Wesker.{scroll 1}{timed 89}</Text>
+    <Text>Potrebbero esserci altre cose\nda esaminare, qui...</Text>
+    <Text>Dovrò segnalare l'accaduto\na Wesker...</Text>
+    <Text>È la cavità nella quale era\ninserito un emblema...</Text>
+    <Text>\nL' emblema è al suo posto...</Text>
+    <Text>\nBarry sta controllando...</Text>
+    <Text>Non c'è tempo per controllare.</Text>
+    <Text>\nNulla di utile...</Text>
+    <Text>\nL'immagine di una donna...</Text>
+    <Text>L'immagine di un panorama\nmeraviglioso...</Text>
+    <Text>Un vecchio orologio dall'aria\npolverosa...</Text>
+    <Text>\nNon funziona più...</Text>
+    <Text>\nPosate e stoviglie...</Text>
+    <Text>Fuori è buio, non riesco\na vedere molto lontano...</Text>
+    <Text>\nDentro non c'è niente...</Text>
+    <Text>C'è una cavità sotto lo\nscudo...</Text>
+</Strings>

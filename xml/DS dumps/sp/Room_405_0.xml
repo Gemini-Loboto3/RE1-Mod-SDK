@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Wesker!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n¡Chris! ¡Estás vivo!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nLo mismo te iba a decir yo.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}¿Dónde está Jill?\n¿No estás con Jill?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Lo siento, nos atacó\nun extraño monstruo.{scroll 1}{clear 100}{scroll 0}Le perdí el rastro\ncuando huíamos.{scroll 1}{clear 80}{scroll 0}\nEspero que esté bien.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Ya veo.\nBueno, no es culpa tuya.{scroll 1}{clear 80}{scroll 0}\n¡Este lugar es de locos!{scroll 1}{clear 43}{scroll 0}Si nos quedamos aquí,\n¡todos acabaremos muertos!{scroll 1}{clear 86}{scroll 0}\n¿Qué hacemos, Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Tenemos que completar\nla misión.{scroll 1}{clear 50}{scroll 0}Tanto si escapamos como\nsi nos quedamos buscando a Jill,{scroll 1}{clear 60}{scroll 0}no nos quedan muchas balas\ny no podemos ni {scroll 1}{clear 125}{scroll 0}protegernos nosotros mismos.\nSeguimos con problemas.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChris, en la{scroll 1}{clear 30}{scroll 0}mansión hay muchas\nhabitaciones cerradas.{scroll 1}{clear 75}{scroll 0}Comprobémoslas una\nvez más.{scroll 1}{clear 70}{scroll 0}Tiene que haber un lugar\nseguro donde esconderse.{scroll 1}{clear 75}{scroll 0}Miraré algo más\npor la casa.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nVale.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nPongámonos en movimiento.{scroll 1}{timed 60}</Text>
+</Strings>

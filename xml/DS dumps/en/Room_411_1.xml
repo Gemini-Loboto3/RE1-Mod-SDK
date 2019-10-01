@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}There's a lever...\nWill you pull it?{branch 0 6 1}</Text>
+    <Text>{scroll 2}There's a button...\nWill you push it?{branch 0 6 1}</Text>
+    <Text>{scroll 2}There was a sound from the\nroom next door...{scroll 2}</Text>
+    <Text>{scroll 2}\nNothing special...{scroll 2}</Text>
+    <Text>{scroll 2}An electro-lock panel\nExamine it?{branch 0 6 1}</Text>
+    <Text>{scroll 0}The sprinkler system has \nbeen activated!{scroll 2}{timed 90}</Text>
+    <Text>{scroll 2}The water's changing color...{scroll 0}{timed 20}\n{scroll 0}It's poisonous!{timed 40}</Text>
+    <Text>{scroll 2}\n I've gotta stop this water somehow!{scroll 2}</Text>
+    <Text>{scroll 2}\nThere is a valve here.{clear 0}{scroll 2}\nTurn the valve? {branch 0 6 1}</Text>
+    <Text>{scroll 2}The value handle is stuck\nand will not move.</Text>
+</Strings>

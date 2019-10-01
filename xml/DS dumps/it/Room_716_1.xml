@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Per lo più si tratta di\nchimica e biologia...{scroll 2}</Text>
+    <Text>{scroll 2}\nDiversi libri...{scroll 2}</Text>
+    <Text>{scroll 2}C'è molta polvere, è da\nmolto che non si usa...{scroll 2}</Text>
+    <Text>{scroll 2}\nC'è una spada nella porta.{clear 0}{scroll 2}Regge qualcosa.\nVuoi rimuoverla?{branch 0 6 1}</Text>
+</Strings>

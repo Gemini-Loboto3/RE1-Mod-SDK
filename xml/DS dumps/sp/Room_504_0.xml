@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Umbrella Inc.\nInfo. de armas biológicas.{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nMA-39 Cerberus{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nFi-3 Neptune{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nMA-121 Hunter{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nT-002 Tyrant{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}Instituto de investigación de\narmas biológicas. I+D.{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Algo ha sido arrastrado \ncontra el muro...{scroll 1}</Text>
+    <Text>{scroll 2}Hay un panel... \n¿Quieres abrirlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Hay un interruptor... \n¿Quieres pulsarlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nUn proyector...{scroll 1}</Text>
+    <Text>{scroll 2}\nUna pantalla...{scroll 1}</Text>
+    <Text>{scroll 2}Un comunicador...\nNo parece funcionar...{scroll 1}</Text>
+    <Text>{scroll 2}Aquí hay símbolos de física\nque no conoces...{scroll 1}</Text>
+    <Text>{scroll 2}Instrucciones:\npara activar, enciende las luces{clear 0}{scroll 2}azules. Las rojas desactivan\nlos botones azules de debajo.</Text>
+</Strings>

@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>\nDie meisten sind über Chemie.{scroll 2}</Text>
+    <Text>\nViele Bücher.{scroll 2}</Text>
+    <Text>Sie wurden schon lang\nnicht mehr benutzt.{scroll 2}</Text>
+    <Text>Da ist ein Schalter.\nMöchten Sie ihn betätigen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nHier hat was gelegen.{scroll 2}</Text>
+    <Text>Da ist ein Schalter.\nMöchten Sie ihn betätigen?{scroll 1}{branch 0 6 0}</Text>
+</Strings>

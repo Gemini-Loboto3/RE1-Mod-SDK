@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nQue s'est-il passé ? {scroll 1}{clear 70}{scroll 0}Huh ! Je suis très embêté.\nJ'ai été maladroit. {scroll 1}{clear 220}{scroll 0}Oh, ne te force pas\n à parler.{scroll 1}{clear 120}{scroll 0}Je vais t'administrer \nles premiers soins. {scroll 1}{clear 60}{scroll 0}Peut-être que mon heure\nest venue.  {scroll 1}{clear 60}{scroll 0}\nJill,  {scroll 1}{clear 50}{scroll 0}\nprends ça... {scroll 1}{clear 100}{scroll 0}Je vous ai tous trompés\ndepuis le début. {scroll 1}{clear 100}{scroll 0}\nSi tu peux me pardonner,  {scroll 1}{clear 100}{scroll 0}peux tu faire parvenir ceci\nà ma famille ?  {scroll 1}{clear 120}{scroll 0}\nEt si tu peux,  {scroll 1}{clear 75}{scroll 0}essaie de les protéger \ns'il te plaît. {scroll 1}{clear 165}{scroll 0}Qu'est-ce que tu veux\ndire...? Barry, tiens bon. {scroll 1}{clear 120}{scroll 0}\nAh, Jill.  {scroll 1}{clear 100}{scroll 0}\nFais attention à ce type, {scroll 1}{clear 170}{scroll 0}\nje t'en prie, reste en vie...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 2}\nBarry...{scroll 1}</Text>
+    <Text>{scroll 2}Il y a une échelle.\nMonter ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nIl y a un trou hexagonal.{scroll 1}</Text>
+    <Text>{scroll 2}Un trou s'ouvre et je ne\npeux pas y accéder.{scroll 1}</Text>
+</Strings>

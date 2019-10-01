@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWho are you?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}I'm Chris, of Alpha Team,\nI've come to rescue you.{scroll 1}{clear 120}{scroll 0}\nRichard, what happened?{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Chris, this house is\ntoo dangerous,{scroll 1}{clear 123}{scroll 0}there are terrible demons,\nouch!{scroll 1}{timed 107}</Text>
+    <Text>{scroll 0}\nRichard, don't talk.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}He seems to have been bitten\nby a poisonous snake,{scroll 1}{clear 90}{scroll 0}but the size of the wound\nis abnormally large.{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}It's not just a poisonous\nsnake, it's a monster!{scroll 1}{timed 151}</Text>
+    <Text>{scroll 0}Richard! He needs serum, but\nwe left it in another room.{scroll 1}{timed 138}</Text>
+    <Text>{scroll 0}\nOkay, I'll go!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nHurry, please!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}I will. Wait here,\nI'll be back soon.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Here's the serum!\nIs he alright?{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nYes he is, thanks.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Richard, hold on I'll give\nyou a shot now.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Chris... Chris,\nhere's a radio, take it.{scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}\nRebecca... be careful, uhh.{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}\nRichard... Richard, are you?{scroll 1}{clear 92}{scroll 0}Rebecca, it's very dangerous out\nhere. Will you come with me?{scroll 1}{timed 163}</Text>
+    <Text>{scroll 0}I-I'd like to stay here\na little bit longer.{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Okay, Rebecca.\nCan you use a gun?{scroll 1}{clear 93}{scroll 0}I'll look for the others,\nprotect yourself.{timed 110}</Text>
+    <Text>{scroll 0}\nChris! Be careful please!{scroll 1}{timed 77}</Text>
+    <Text>{scroll 2}\nRichard from Bravo team...{scroll 10}</Text>
+    <Text>{scroll 2}I've got to go to get the\nserum...{scroll 10}</Text>
+    <Text>{scroll 0}\nBe careful...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nBe careful please!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 2}\nRichard is dead...{scroll 10}</Text>
+    <Text>{scroll 0}\nHurry, please!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 2}His breathing has stopped. \nTry mouth to mouth?{branch 0 6 1}</Text>
+    <Text>{scroll 2}His breathing has completely\nstopped.{clear 0}{scroll 2}He will die if he doesn't\nget some oxygen soon.</Text>
+    <Text>{scroll 2}\nRichard is breathing again.</Text>
+    <Text>{scroll 2}\nYou were too late...</Text>
+    <Text>{scroll 0}Set the dining room\nclock to 8:12...{scroll 2}{timed 181}</Text>
+    <Text>{scroll 0}Set the dining room\nclock to 6:15...{scroll 2}{timed 159}</Text>
+</Strings>

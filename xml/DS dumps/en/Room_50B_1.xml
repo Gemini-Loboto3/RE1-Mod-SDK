@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}\nJill? Is that you, Jill?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOh Chris, you're alive!!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Of course. Damnit, we're\nin quite a predicament, Jill.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}I know Chris. Anyway, \nI have to open this room.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nUhh, it doesn't work!{scroll 1}{clear 70}{scroll 0}Well, Chris, I'll be sure to\ncome back and help you soon.{scroll 1}{clear 80}{scroll 0}\nWill you wait here?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Thanks! I'll be waiting\nhere for you.{scroll 1}{timed 80}</Text>
+    <Text>The door is tightly\nlocked...</Text>
+</Strings>

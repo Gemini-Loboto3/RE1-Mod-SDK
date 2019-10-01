@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Rebecca!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\n¡Chris!{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\n¡Gracias a Dios estás bien!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Siento que estuvieras\npreocupado por mí.{scroll 2}{clear 75}{scroll 0}\n¡Corremos un gran peligro!{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\n¡Tenemos que buscar a los{scroll 2}{clear 45}{scroll 0}otros y salir de aquí\nechando leches!{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Comprendido?{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}\n¡Sí, señor!{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}¡Vale, iré primero!\nActúa según tu criterio.{scroll 2}{clear 135}{scroll 0}\n¿Vale? ¿Puedes hacerlo?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nSí, ¡puedo hacerlo!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¡Buena suerte!{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}¡Sí, señor!\n¡Lo haré lo mejor que pueda!{scroll 2}{timed 95}</Text>
+    <Text>\n... ... ...{scroll 2}</Text>
+</Strings>

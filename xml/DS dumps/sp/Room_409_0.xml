@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}Hay algo escrito en\nla pared...{clear 0}Agua=1, rojo=2,\npúrpura=3, verde=4.{scroll 2}</Text>
+    <Text>{scroll 2}Hay algo escrito en\nla pared...{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nHay un UMB Nº... 2...{scroll 2}</Text>
+    <Text>{scroll 2}\nHay un UMB Nº... 4...{scroll 2}</Text>
+    <Text>{scroll 2}\nUn grifo...{scroll 2}</Text>
+    <Text>{scroll 2}¿Quieres poner agua\nen la botella vacía?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nHay un UMB Nº... 2...{clear 0}¿Quieres poner UMB Nº2\nen la botella vacía?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nHay un UMB Nº... 4...{clear 0}¿Quieres poner UMB Nº4\nen la botella vacía?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Hay UMB Nº...2...\nNecesitarás un recipiente...{scroll 2}</Text>
+    <Text>{scroll 2}Hay UMB Nº...4...\nNecesitarás un recipiente...{scroll 2}</Text>
+    <Text>{scroll 2}\n¡Es gas venenoso!{scroll 2}</Text>
+    <Text>{scroll 2}Será mejor que salga de este cuarto\nhasta que se disipe el gas...{scroll 2}</Text>
+    <Text>{scroll 0}Esta sala está bien equipada\ncon suministros médicos.{scroll 2}{clear 90}{scroll 0}Te puedo curar, excepto\nsi es una herida grave.{scroll 2}{clear 90}{scroll 0}\n¿Quieres que lo haga?{scroll 2}{timed 60}</Text>
+    <Text>¿Quieres que te cure\nlas heridas?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Sí, por favor échame una mano\nde momento.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}La mayoría de las medicinas\nson de Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\n¿Qué es Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}¿No lo sabes?\nEs una gran empresa{scroll 2}{clear 55}{scroll 0}farmacéutica con sede\nen Raccoon City.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}\nAh, ya veo.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nEstoy bien,{scroll 2}{clear 50}{scroll 0}pero si me pasa algo,\ncúrame.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Estás bien?{scroll 2}{clear 60}{scroll 0}\n¿Quieres que te cure?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\n¡Chris! ¡Cuidado!{scroll 2}{timed 75}</Text>
+    <Text>\nRebecca cura a Chris...{scroll 2}</Text>
+    <Text>{scroll 0}\n¡Chris! ¡Ten cuidado!{timed 80}</Text>
+    <Text>{scroll 2}Hay UMB Nº2... Pero no sabe\nusar productos químicos...{scroll 2}</Text>
+    <Text>{scroll 2}Hay UMB Nº4... Pero no sabe\nusar productos químicos...{scroll 2}</Text>
+    <Text>{scroll 2}No sirve de nada... Chris\nno sabe usar productos químicos...{scroll 2}</Text>
+</Strings>

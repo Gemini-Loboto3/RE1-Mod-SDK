@@ -224,7 +224,15 @@ std::string DecodeStringDS(u8* data)
 			str += "\\n";
 			break;
 		case 3:
-			sprintf_s(temp, 32, "{scroll %x}", *data++);
+			sprintf_s(temp, 32, "{scroll %d}", *data++);
+			str += temp;
+			break;
+		case 4:
+			sprintf_s(temp, 32, "{color %d}", *data++);
+			str += temp;
+			break;
+		case 5:
+			sprintf_s(temp, 32, "{string %d}", *data++);
 			str += temp;
 			break;
 		case 6:
@@ -243,10 +251,10 @@ std::string DecodeStringDS(u8* data)
 			break;
 			//return str;
 		case 7:
-			//sprintf_s(temp, 32, "{07 %x}", *data++);
-			//str += temp;
-			data++;
-			str += "{branch 0 1 0}";
+			sprintf_s(temp, 32, "{branch %d %d %d}", data[0], data[1], data[2]);
+			str += temp;
+			data += 3;
+			//str += "{branch 0 1 0}";
 			break;
 		case 0x11:	// long characters
 			switch (*data)
@@ -268,8 +276,14 @@ std::string DecodeStringDS(u8* data)
 				str += ucs32;
 				break;
 			default:
-				printf("What the deuce?\n");
+				printf("What the deuce? %X\n", *data);
 			}
+			data++;
+			break;
+		case 0x12:	// more long characters
+			if (*data == 0x36) str += '\'';
+			else
+				printf("What the re-deuce? %X\n", *data);
 			data++;
 			break;
 		default:

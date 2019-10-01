@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHier spricht Brad.{scroll 1}{clear 52}{scroll 0}Ich weiß,\nihr könnt mir nicht antworten!{scroll 1}{clear 55}{scroll 0}Aber gebt mir doch\nirgendein Zeichen...{scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\nHier spricht Chris.{scroll 1}{clear 45}{scroll 0}Brad, kannst du mich hören?\n...Mist!{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nHier ist Brad.{scroll 1}{clear 51}{scroll 0}Ich weiß,\nihr könnt mir nicht antworten!{scroll 1}{clear 53}{scroll 0}Aber gebt mir doch\nirgendwie ein Zeichen...{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Hier spricht Jill, Brad!\nOh... es ist hin!{scroll 1}{timed 170}</Text>
+</Strings>

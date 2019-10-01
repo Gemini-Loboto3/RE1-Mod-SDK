@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\nSoy Brad,{scroll 1}{clear 52}{scroll 0}\nsé que no me podéis contestar{scroll 1}{clear 55}{scroll 0}\npero hacedme una señal...{scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\n¡Es Chris!{scroll 1}{clear 45}{scroll 0}\nBrad, ¿me oyes? ¡Maldita sea!{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nAquí Brad,{scroll 1}{clear 51}{scroll 0}\nsé que no me podéis contestar,{scroll 1}{clear 53}{scroll 0}\npero hacedme una señal...{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}¡Aquí Jill!\n¿Brad? ¡Ohh, está rota!{scroll 1}{timed 170}</Text>
+</Strings>

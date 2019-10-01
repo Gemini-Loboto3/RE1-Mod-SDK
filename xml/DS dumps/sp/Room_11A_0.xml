@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Hay blasones en todos\nlos huecos...</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nDebe de ser una radio de ＳＴＡＲＳ.{scroll 1}{clear 84}{scroll 0}Está algo rota, pero\ntodavía podría funcionar.{scroll 1}{clear 127}{scroll 0}\nMe la llevaré.{scroll 1}{timed 41}</Text>
+    <Text>{scroll 0}¿Q-Qué son?\n¿M-Monstruos?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}¡Rebecca!\n¿Sigue estando en la casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Qué son?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es Rebecca,\n¡tiene que estar arriba!{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}Cuando el sol se pone por\nel oeste y la luna sale{clear 0}{scroll 2}por el este, aparecen\nestrellas en el cielo y el{clear 0}{scroll 2}viento sopla hacia el\nsuelo...{clear 0}{scroll 2}Entonces se abrirá\nla puerta de la nueva vida...</Text>
+</Strings>

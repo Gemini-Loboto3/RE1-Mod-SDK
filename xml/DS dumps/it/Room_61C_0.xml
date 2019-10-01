@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\nDei vecchi abiti...{scroll 2}</Text>
+    <Text>{scroll 2}\nSembrano della tua misura.{clear 0}Vuoi cambiarti?{branch 0 6 1}</Text>
+    <Text>{scroll 0}\nUn istante, per favore...{scroll 50} {scroll 2}{timed 255}</Text>
+    <Text>{scroll 2}\nNon ti sta bene.{scroll 2}</Text>
+    <Text>{scroll 2}Vuoi tornare all'abito\nprecedente?{branch 0 6 1}</Text>
+</Strings>

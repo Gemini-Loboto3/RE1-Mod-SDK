@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>It's dusty...  It has not \nbeen used for a long time...{scroll 2}</Text>
+    <Text>A freezer...  It has not\nbeen used for a long time...{scroll 2}</Text>
+    <Text>\nAn oven...{clear 0}It's badly rusted and does\nnot seem to work...{scroll 2}</Text>
+    <Text>A gas cooking stove... The\ngas is not supplied...{scroll 2}</Text>
+    <Text>\nWater is not supplied...{scroll 2}</Text>
+    <Text>Dark blood sticks to it...\nWhat did they cook here?{scroll 2}</Text>
+</Strings>

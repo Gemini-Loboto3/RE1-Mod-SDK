@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}\nNo entiendo qué ha pasado.{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\n¡Barry! ¿Dónde está Barry?{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Bueno, lo siento pero \nprobablemente esté...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n¡No!{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\n¿Qué ha sido eso?{scroll 1}{clear 35}{scroll 0}\nIré a mirar.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Vale, Jill y yo nos quedamos\nen el vestíbulo por si hay{scroll 1}{clear 85}{scroll 0}\nuna emergencia.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nChris.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nTen cuidado.{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Si escuchas disparos,\ninvestiga en esa dirección.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n¿Wesker? ¿Jill?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}¿Qué les ha pasado a\nJill y Wesker?{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}\n¿Qué es esto?{scroll 1}{clear 52}{scroll 0}\n¡Vaya! ¡Menuda mansión!{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Capitán Wesker, \n¿dónde está Chris?{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}¡Detente!\n¡No abras esa puerta!{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\nPero Chris está...{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 1}{clear 38}{scroll 0}\nPuede que sea Chris.{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\nBueno, Jill, ¿puedes ir?{scroll 1}{clear 72}{scroll 0}Voy contigo, Chris es un\nantiguo socio, ¿sabes?{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\nVale, déjame que me encargue.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n¡No te distraigas!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\n¡Wesker!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nJill, ayúdame a buscarlo y {scroll 1}{clear 37}{scroll 0}no te vayas del hall\npor ahora.{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nJill, ¿has encontrado algo?{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nNada.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}¿De qué va todo esto?\nYo no tengo ni idea.{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}\nYo tampoco lo sé.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Ahora le ha tocado\ndesaparecer a Wesker.{scroll 1}{clear 56}{scroll 0}No sé qué está\npasando.{scroll 1}{clear 56}{scroll 0}\nBueno, no se le puede ayudar.{scroll 1}{clear 30}{scroll 0}Vamos a buscarlo\nseparados.{scroll 1}{clear 32}{scroll 0}Yo volveré a mirar\nen el comedor.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Vale, yo probaré en la puerta\ndel otro lado.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\nEsta mansión es inmensa.{scroll 1}{clear 92}{scroll 0}Si nos perdemos, podríamos\ntener problemas.{scroll 1}{clear 170}{scroll 0}Deberíamos empezar por\nel primer piso, ¿no?{scroll 1}{clear 40}{scroll 0}\nY, Jill,{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}\ntoma una ganzúa.{scroll 1}{clear 62}{scroll 1}Te puede venir bien\npara abrir las cosas.{clear 75}{scroll 0}\nLlévatela.{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}¡Gracias!\nPuede que la necesite.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}No, yo iré por\nahí.{scroll 1}{clear 75}{scroll 0}Jill, te dije que empezaras \npor el otro lado.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Escucha, si pasa algo,\nnos encontraremos en el hall.{scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}\nEsta vez estaré allí.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\n¡Salir fuera es demasiado peligroso!</Text>
+    <Text>{scroll 2}¡Primero tengo que\nbuscar en el hall!</Text>
+    <Text>{scroll 0}\n¡Barry!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}¡Jill! ¿Qué pasa?\n¿Alguna pista?{scroll 1}{clear 116}{scroll 0}No, pero en esta casa\nhay algo que no encaja.{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}¡Vaya!\nEste hall es peligroso.{scroll 1}{clear 115}{scroll 0}Quizá lo mejor sea asegurar\nprimero una ruta de escape. {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Tiene que haber una puerta\ntrasera en alguna parte.{scroll 1}{clear 120}{scroll 0}Primero, busquémosla,\n¿vale?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nVale, separémonos.{scroll 1}{clear 96}{scroll 0}¡Solo un momento!\nHe encontrado algo.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nEs un arma.{scroll 1}{clear 65}{scroll 0}Es muy potente, \nsobre todo contra{scroll 1}{clear 70}{scroll 0}las cosas vivientes.\nSerá mejor que la lleves.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nPero, Barry, ¿y tú?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n¡Tengo esto!{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Gracias,\nentonces me llevaré esto.{scroll 1}{timed 87}</Text>
+    <Text>{scroll 2}\n¡Es el arma de Jill...!{clear 0}{scroll 2}\n{timed 1}</Text>
+    <Text>{scroll 2}No hay tiempo para\nexaminarlo...</Text>
+</Strings>

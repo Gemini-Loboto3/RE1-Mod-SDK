@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 0}\nRebecca!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris!{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\nGott sei Dank bist du wohlauf.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Es tut mir Leid, dass du dir\nwegen mir Sorgen gemacht hast.{scroll 2}{clear 75}{scroll 0}\nWir sind in höchster Gefahr.{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}Wir müssen die Suche nach den\nanderen organisieren und dann{scroll 2}{clear 50}{scroll 0}verdammt noch mal zusehen,\ndass wir hier rauskommen!{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nKapiert?{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}\nJa, Sir!{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}Okay, ich werde vorausgehen,\nob du nachkommst,{scroll 2}{clear 67}{scroll 0}überlass ich deiner\nEntscheidung.{scroll 2}{clear 68}{scroll 0}Alles klar?\nSchaffst du es?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nJa, tu ich!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nViel Glück.{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}Ja, Sir!\nIch werde mein Bestes tun!{scroll 2}{timed 45}</Text>
+    <Text>Ich brauche nichts mehr\nvon dem Serum.{scroll 2}</Text>
+    <Text>\nVitamine und Seren.{scroll 2}</Text>
+    <Text>{scroll 2}Sie ist fest verschlossen.\nUntersuchen?{scroll 2}{branch 0 6 1}</Text>
+</Strings>

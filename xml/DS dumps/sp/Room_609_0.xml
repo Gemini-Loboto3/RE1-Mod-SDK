@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Ha estado cerca!{scroll 2}{clear 68}{scroll 0}Casi te conviertes en\nun bocadillo, Jill.{scroll 2}{clear 69}{scroll 0}¡Tienes razón! Barry, gracias\npor salvarme la vida.{scroll 2}{timed 112}</Text>
+    <Text>{scroll 0}Pero, Barry, ¿no decías\nque ibas a volver al{scroll 2}{clear 73}{scroll 0}comedor para\ninvestigar algo?{scroll 2}{clear 70}{scroll 0}\n¿Qué haces aquí?{scroll 2}{timed 48}</Text>
+    <Text>{scroll 0}Ehh... Quería comprobar\nuna cosa. {scroll 2}{clear 112}{scroll 0}Ahora sigamos\nbuscando al capitán {scroll 2}{clear 60}{scroll 0}\ny a Chris, ¿vale?{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\nGracias, Barry.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}¿Q-Qué son?\n¿Monstruos?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}¡Rebecca! \n¿Sigue estando en la casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Qué son?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es Rebecca,\n¡debe estar arriba!{scroll 2}{timed 110}</Text>
+</Strings>

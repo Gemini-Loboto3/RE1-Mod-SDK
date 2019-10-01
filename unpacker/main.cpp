@@ -261,7 +261,7 @@ void StringsToXml(std::vector<std::string> &str, LPCSTR out_name)
 int Extract_text(LPCSTR rdt_name, LPCSTR xml_name)
 {
 	CBufferFile rdt(rdt_name);
-	if (rdt.data == nullptr) return 0;
+	if (rdt.data == nullptr || rdt.GetSize() == 4) return 0;
 	RE1::RDT_HEADER *h = (RE1::RDT_HEADER*)rdt.GetBuffer();
 	if (h->pMessage == 0) return 0;
 
@@ -279,24 +279,32 @@ std::vector<std::pair<u8,u8>> room_tbl;
 void Extract_messages(LPCSTR in_folder, LPCSTR out_folder)
 {
 	char path[MAX_PATH], xml[MAX_PATH];
+	FILE* log = fopen("room.log", "wt+");
+	int k = 0;
 	for (int Stage = 1; Stage < 8; Stage++)
 	{
 		for (int Room = 0; Room < 49; Room++)
 		{
-			//for (int i = 0; i < 2; i++)
+			for (int i = 0; i < 2; i++)
 			{
 				//if (Stage == 4 && Room == 5)
 				//	Stage = 4;
-				sprintf_s(path, MAX_PATH, "%s\\STAGE%d\\ROOM%x%02x0.RDT", in_folder, Stage, Stage, Room);
+				sprintf_s(path, MAX_PATH, "%s\\STAGE%d\\ROOM%x%02x%d.RDT", in_folder, Stage, Stage, Room, i);
 				sprintf_s(xml, MAX_PATH, "%s\\ROOM_%x%02x.xml", out_folder, Stage, Room);
 				if (Extract_text(path, xml))
 				{
-					room_tbl.push_back(std::make_pair(Stage, Room));
+					fprintf(log, "{%d, 0x%02X}, ", Stage, Room);
+					//fprintf(log, "{%d, 0x%02X}, ", Stage, Room);
+					if (k > 0 && k % 8 == 7)
+						fprintf(log, "\n");
+					k++;
+					//room_tbl.push_back(std::make_pair(Stage, Room));
 					//room_tbl.push_back(Room);
 				}
 			}
 		}
 	}
+	fclose(log);
 }
 
 ///////////////////////////////////////////////////
@@ -1422,28 +1430,62 @@ void DumpDsMessages(LPCSTR in_file, LPCSTR out_folder)
 	char path[MAX_PATH];
 	CreateDirectoryA(out_folder, nullptr);
 
-	static std::pair<u8, u8> tbl[] =
+	static u8 tbl[2][7][32] =
 	{
-		{ 1, 1 }, {-1, -1},	// 100
-		{1, 4},	// 104
+		0, 0, 0, 0, 2, 4, 6, 8, 9, 0xB, 0, 0xD, 0xE, 0x10, 0x12, 0x14, 0, 0x16, 0x17, 0x19, 0x1A, 0x1B, 0x1D, 0x1E, 0x20, 0, 0x21, 0x22, 0x24, 0, 0, 0, 0x26, 0x27, 0, 0x28, 0, 0x2A, 0x2C, 0x2E, 0, 0, 0x30, 0x32, 0, 0x33, 0x35, 0x37, 0x39, 0x3A, 0x3B, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0x3D, 0x3F, 0x41, 0x42, 0x43, 0x45, 0x47, 0x49, 0x4B, 0x4D, 0x4F, 0x51, 0, 0x52, 0x53, 0x54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0x56, 0x57, 0x59, 0x5A, 0x5B, 0x5C, 0x5E, 0x60, 0x61, 0x63, 0x65, 0x67, 0x69, 0x6B, 0x6D, 0x6F, 0x71, 0x72, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0x74, 0x76, 0x78, 0x7A, 0x7C, 0x7E, 0x80, 0x81, 0x83, 0x85, 0x86, 0x88, 0x8A, 0, 0x8C, 0x8D, 0x8F, 0x90, 0x92, 0x94, 0x96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0x98, 0x9A, 0, 0, 0x9B, 0x9D, 0x9F, 0xA1, 0xA3, 0xA5, 0xA7, 0xA8, 0xAA, 0xAC, 0xAE, 0xB0, 0xB2, 0xB4, 0xB5, 0xB6, 0xB7, 0xB8, 0xBA, 0xBB, 0x20, 0xBE, 0xC0, 0xC2, 0x24, 0, 0, 0,
+		0, 0xC6, 0, 0xC8, 0, 0xCA, 0xCC, 0xCE, 0, 0, 0xD0, 0xD2, 0xD3, 0, 0, 0xD5, 0xD7, 0xD8, 0, 0, 0xD9, 0xDB, 0xDD, 0xDF, 0xE1, 0xE2, 0xE4, 0, 0xE5, 0, 0, 0, 1, 0, 0, 0, 3, 5, 7, 8, 0xA, 0xC, 0, 0xD, 0xF, 0x11, 0x13, 0x15, 0, 0x16, 0x18, 0x19, 0x1A, 0x1C, 0x1D, 0x1F, 0x20, 0, 0x21, 0x23, 0x24, 0, 0, 0,
+		0x26, 0x27, 0, 0x29, 0, 0x2B, 0x2D, 0x2F, 0, 0, 0x31, 0x32, 0, 0x34, 0x36, 0x38, 0x39, 0x3A, 0x3C, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0x3E, 0x40, 0x41, 0x42, 0x44, 0x46, 0x48, 0x4A, 0x4C, 0x4E, 0x50, 0x51, 0, 0x52, 0x53, 0x55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0x56, 0x58, 0x59, 0x5A, 0x5B, 0x5D, 0x5F, 0x60, 0x62, 0x64, 0x66, 0x68, 0x6A, 0x6C, 0x6E, 0x70, 0x71, 0x73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0x75, 0x77, 0x79, 0x7B, 0x7D, 0x7F, 0x80, 0x82, 0x84, 0x85, 0x87, 0x89, 0x8B, 0, 0x8C, 0x8E, 0x8F, 0x91, 0x93, 0x95, 0x97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0x99, 0x9A, 0, 0, 0x9C, 0x9E, 0xA0, 0xA2, 0xA4, 0xA6, 0xA7, 0xA9, 0xAB, 0xAD, 0xAF, 0xB1, 0xB3, 0xB4, 0xB5, 0xB6, 0xB7, 0xB9, 0xBA, 0xBC, 0x20, 0xBF, 0xC1, 0xC3, 0x24, 0, 0, 0, 0, 0xC7, 0, 0xC9, 0, 0xCB, 0xCD, 0xCF, 0, 0, 0xD1, 0xD2, 0xD4, 0, 0, 0xD6, 0xD7, 0xD8, 0, 0, 0xDA, 0xDC, 0xDE, 0xE0, 0xE1, 0xE3, 0xE4, 0, 0xE6, 0, 0, 0
 	};
 
 	u32* ptr = (u32*)f.GetBuffer();
 	int count = ptr[0] / 4;
 
-	// banks
-	for (int i = 0; i < count - 1; i++)
+	for (int Stage = 0, i = 0; Stage < 7; Stage++)
 	{
-		if (i % 2 == 0) continue;
+		for (int Room = 0; Room < 32; Room++, i++)
+		{
+			for (int Pl = 0; Pl < 2; Pl++)
+			{
+				int id = tbl[Pl][Stage][Room];
+				// skip dummy entries
+				if (id == 0 && i > 0) continue;
 
+				u32* pptr = (u32*)(&f.GetBuffer()[ptr[id]]);
+				int scount = (ptr[id + 1] - ptr[id]) / 4;
+
+				std::vector<std::string> sstr;
+				for (int j = 0; j < scount; j++)
+					sstr.push_back(DecodeStringDS(&f.GetBuffer()[pptr[j]]));
+
+				sprintf(path, "%s\\Room_%d%02X_%d.xml", out_folder, Stage + 1, Room, Pl);
+				StringsToXml(sstr, path);
+			}
+		}
+	}
+
+	static LPCSTR names[] =
+	{
+		"system",
+		"item_desc",
+		"item_simple",
+		"misc",
+		"files"
+	};
+
+	// banks
+	for (int i = 231; i < count; i++)
+	{
 		u32* pptr = (u32*)(&f.GetBuffer()[ptr[i]]);
-		//if (i < 230)
-			//sprintf(path, "%s\\Room_%d%02X.xml", out_folder, room_tbl[i / 2].first, room_tbl[i / 2].second);
-		//else
-			sprintf(path, "%s\\%03d.xml", out_folder, i);
+		sprintf(path, "%s\\%s.xml", out_folder, names[i - 231]);
 		std::vector<std::string> sstr;
 
 		int scount = (ptr[i + 1] - ptr[i]) / 4;
+		if (i == count - 1)
+			scount = 246;
 		// bank
 		for (int j = 0; j < scount; j++)
 			sstr.push_back(DecodeStringDS(&f.GetBuffer()[pptr[j]]));
@@ -1457,23 +1499,27 @@ int main()
 	exe.Open("BIOHAZARD.EXE");
 
 	//Extract_messages("D:\\Program Files\\RESIDENT EVIL\\USA", "dialog");
-	DumpDsMessages("DS\\msgdat.en", "DS Dumps");
+	DumpDsMessages("DS\\msgdat.en", "DS Dumps en");
+	DumpDsMessages("DS\\msgdat.fr", "DS Dumps fr");
+	DumpDsMessages("DS\\msgdat.gr", "DS Dumps de");
+	DumpDsMessages("DS\\msgdat.it", "DS Dumps it");
+	DumpDsMessages("DS\\msgdat.sp", "DS Dumps sp");
 
-	ListAndDump();
+	//ListAndDump();
 
 	//SpotPCSoundDupes();
-	DumpSounds();
+	//DumpSounds();
 	//ListAndDump();
 	//
 	//DumpMiscSounds();
 
 	Set_color_mode(1);
 
-	DumpSoundTables(exe.GetBuffer());
-	DumpPlayerTables(exe.GetBuffer());
-	DumpCoreTables(exe.GetBuffer());
-	DumpDoorTables(exe.GetBuffer());
-	DumpBgmTables(exe.GetBuffer());
+	//DumpSoundTables(exe.GetBuffer());
+	//DumpPlayerTables(exe.GetBuffer());
+	//DumpCoreTables(exe.GetBuffer());
+	//DumpDoorTables(exe.GetBuffer());
+	//DumpBgmTables(exe.GetBuffer());
 
 	//for (int i = 0; i < 80; i++)
 	//{
@@ -1487,14 +1533,14 @@ int main()
 
 	//Extract_icons("D:\\Program Files\\RESIDENT EVIL\\JPN\\DATA", "item_all", exe.GetBuffer());
 
-	//Extract_files("file", "file_png");
+	Extract_files("PSX\\FILEM.PIX", "file_png");
 
 	//CBufferFile exe("NEWEUR.EXE");
 	//Extract_strings(exe.GetBuffer(), 0x4BFC70, 63, "misc.xml");
 	//Extract_strings(exe.GetBuffer(), 0x4C6170, 79, "desc.xml");
 
 	//ExtractItems(exe.GetBuffer());
-	Extract_weapon_tbl(exe.GetBuffer(), 0xAD308, "damage_tbl.xml");
+	//Extract_weapon_tbl(exe.GetBuffer(), 0xAD308, "damage_tbl.xml");
 	//Extract_esp_tbl(exe.GetBuffer(), "esp.xml");
 	//Extract_weapon_tbl(exe.GetBuffer(), 0xADC68, "damage_tbl_1.xml");
 

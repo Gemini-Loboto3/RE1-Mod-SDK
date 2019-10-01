@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}¡Primero tengo que\nbuscar en el pasillo!</Text>
+    <Text>{scroll 0}\n¡Barry!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}¡Jill! ¿Qué pasa?\n¿Alguna pista?{scroll 1}{clear 116}{scroll 0}No, pero en esta casa\nhay algo que no encaja.{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}¡Vaya!\nEste hall es peligroso.{scroll 1}{clear 115}{scroll 0}Quizá lo mejor sea asegurar\nprimero una ruta de escape. {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Tiene que haber una puerta\ntrasera en alguna parte.{scroll 1}{clear 100}{scroll 0}Primero, busquémosla,\n¿te parece?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nVale, separémonos.{scroll 1}{clear 80}{scroll 0}¡Espera un momento!\nHe encontrado algo.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\n¿Qué es eso?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nEs un arma.{scroll 1}{clear 45}{scroll 0}Es muy potente, \nsobre todo contra{scroll 1}{clear 125}{scroll 0}criaturas vivientes.\nSerá mejor que la lleves.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nPero, Barry, ¿y tú?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\n¡Tengo esto!{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Gracias,\nentonces me lo llevaré.{scroll 1}{timed 87}</Text>
+</Strings>

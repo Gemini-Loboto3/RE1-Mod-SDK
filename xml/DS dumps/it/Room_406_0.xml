@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nCiao, Jill.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ciao Barry, ho sentito\nqualcuno parlare.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Anche tu, allora. Credo\ndi stare invecchiando.{scroll 1}{clear 110}{scroll 0}Sembra che parlare da solo\nstia diventando un'abitudine.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Parlare da solo?\nBarry, ti è successo{scroll 1}{clear 125}{scroll 0}qualcosa, vero?\nMi sembri strano.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Tranquilla, non ti devi\npreoccupare.{scroll 1}{clear 90}{scroll 0}Forse sono solo nervoso\nper tutto questo caos{scroll 1}{clear 80}{scroll 0}che sta succedendo intorno\na noi.{scroll 1}{clear 80}{scroll 0}\nOra credo che uscirò{scroll 1}{clear 50}{scroll 0}a prendermi una bella\nboccata d'aria fresca.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Te l'ho detto, non ti\npreoccupare. Vado a prendere{scroll 1}{clear 90}{scroll 0}una boccata d'aria e a farmi\ndivorare da un mostro.{scroll 1}{timed 110}</Text>
+    <Text>Uno schizzo della guardiola.\nVuoi prenderlo?{branch 0 6 0}</Text>
+    <Text>C'è una scala...\nVuoi scendere?{branch 0 6 0}</Text>
+    <Text>\nNon c'è tempo per controllare.</Text>
+    <Text>Hai preso la mappa\ndella guardiola...</Text>
+    <Text>{scroll 2}\nNon serve scendere qui.</Text>
+</Strings>

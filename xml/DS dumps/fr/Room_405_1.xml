@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker !{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Jill !\nVous êtes saine et sauve.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}J'allais vous dire la même \nchose !  {scroll 1}{clear 80}{scroll 0}Où est-ce que vous étiez bon \nsang ?  {scroll 1}{clear 50}{scroll 0}Vous avez disparu du hall \ntout d'un coup. {scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Désolé, mais j'avais mes \nraisons.  {scroll 1}{clear 108}{scroll 0}Vous deux, vous les avez \npeut-être vus.  {scroll 1}{clear 80}{scroll 0}Je n'avais pas le\nchoix si je{scroll 1}{clear 45}{scroll 0}voulais me protéger de ces \ncréatures. {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}C'est bien vrai ? Quoi qu'il \nen soit,  {scroll 1}{clear 40}{scroll 0}je suis contente de vous voir \nsain et sauf. {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}J'ai rencontré Barry tout à \nl'heure. J'ai l'impression{scroll 1}{clear 65}{scroll 0}que quelque chose ne tourne\npas rond chez lui. {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nOui, vous avez raison...{scroll 1}{clear 60}{scroll 0}Il est bizarre, n'est-ce pas ?\nIl a l'air si fatigué.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Et bien, peut-être\nest-ce normal compte-tenu{clear 60}{scroll 0}\ndes circonstances. {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}...Jill, notre objectif est \navant tout de sortir d'ici ! {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nOui, vous avez raison ! {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Nombreuses sont les pièces dans \ncette maison auxquelles nous ne{scroll 1}{clear 80}{scroll 0}pouvons avoir accès parce \nqu'elles sont fermées à clé.  {scroll 1}{clear 79}{scroll 0}J'ai essayé de trouver des \nindices... {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nOK, je vais aller voir dans  {scroll 1}{clear 50}{scroll 0}l'autre maison si je peux \ntrouver quelque chose. {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Oui, vous feriez ça ? \nJe compte sur vous ! {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nÇa ne peut pas être vrai.{scroll 1}{clear 33}{scroll 0}Ce qu'on m'a dit était tout\nà fait différent.{scroll 1}{clear 67}{scroll 0}\n {scroll 1}{clear 91}{scroll 0}Mais il n'est pas nécessaire\nde détruire les ＳＴＡＲＳ ! {scroll 1}{clear 120}{scroll 0}\n {scroll 1}{clear 145}{scroll 0}\nEt ma famille dans tout ça ? {scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 109}{scroll 0}Alors comme ça, tout dépend\nde moi, hein ? {scroll 1}{timed 100}</Text>
+    <Text>On entend des voix de \nl'autre côté de la porte.</Text>
+</Strings>

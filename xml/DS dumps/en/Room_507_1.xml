@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}There's an operating\ntable...{scroll 10}</Text>
+    <Text>{scroll 2}Instruments for operation...\nSome are bloodstained...{scroll 10}</Text>
+    <Text>{scroll 2}There's an air shaft...\nWill you enter it? {branch 0 6 0}</Text>
+    <Text>{scroll 2}\nPoison gas is escaping...!{scroll 10}</Text>
+    <Text>{scroll 2}\nA corpse is laid here...{scroll 10}</Text>
+    <Text>{scroll 2}This place seems to be a\nmorgue...{scroll 10}</Text>
+    <Text>{scroll 2}It's a pass code output\nmachine...{scroll 10}{clear 0}{scroll 2}If I had a MO DISK,\nI could get the code...{scroll 10}</Text>
+    <Text>{scroll 2}I already have the pass\ncode...{scroll 10}</Text>
+    <Text>{scroll 2}You've obtained the pass\ncode...{scroll 10}</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nPresto!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n"Uscita d'emergenza"{scroll 1}</Text>
+    <Text>{scroll 2}\nL'ascensore non funziona...{scroll 1}</Text>
+    <Text>{scroll 2}C'è una scala...\nVuoi scendere?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nNon si può tornare indietro!{scroll 1}</Text>
+</Strings>

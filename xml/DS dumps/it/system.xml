@@ -1,0 +1,248 @@
+﻿<Strings>
+    <Text>Questo gioco contiene scene di \nviolenza esplicita e sangue.</Text>
+    <Text>{color 1}Normale</Text>
+    <Text>{color 1}Difficile</Text>
+    <Text>Scegli / Azione</Text>
+    <Text>Annulla / Scatto</Text>
+    <Text>Tipo comandi</Text>
+    <Text>Tipo A</Text>
+    <Text>Tipo B</Text>
+    <Text>Colore sangue</Text>
+    <Text>Rosso</Text>
+    <Text>Verde</Text>
+    <Text>Sensibilità microfono</Text>
+    <Text>Elevata</Text>
+    <Text>Normale</Text>
+    <Text>Ridotta</Text>
+    <Text>Svolta rapida / Ricarica</Text>
+    <Text>Stanza m.</Text>
+    <Text>Sala mag.</Text>
+    <Text>S. giardino</Text>
+    <Text>Dormitorio</Text>
+    <Text>Laboratorio</Text>
+    <Text>Ripostiglio</Text>
+    <Text>Sentiero</Text>
+    <Text>Nessun dato</Text>
+    <Text>SALVA</Text>
+    <Text>CARICA</Text>
+    <Text></Text>
+    <Text>Dati di sistema</Text>
+    <Text></Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Modo Classico</Text>
+    <Text>Modo Rinascita</Text>
+    <Text>Sovrascrivere?{branch 0 6 0}</Text>
+    <Text>Nessun file</Text>
+    <Text>Salvataggio fallito</Text>
+    <Text>Dati di sistema danneggiati\ne non recuperabili.</Text>
+    <Text>Quale salvataggio eliminare?</Text>
+    <Text>Eliminare il salvataggio?{branch 0 6 0}</Text>
+    <Text>Confermi l'eliminazione?{branch 0 6 0}</Text>
+    <Text>Salvataggio eliminato.</Text>
+    <Text>Ora puoi selezionare\nMaster of Knifing</Text>
+    <Text></Text>
+    <Text>Lanciarazzi con munizioni\nillimitate sbloccato.</Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Barry</Text>
+    <Text>Rebecca</Text>
+    <Text>Wesker</Text>
+    <Text>Kenneth</Text>
+    <Text>Forest</Text>
+    <Text>Richard</Text>
+    <Text>Enrico</Text>
+    <Text>Magione</Text>
+    <Text>Cortile</Text>
+    <Text>Guardiola</Text>
+    <Text>Laborat.</Text>
+    <Text>PP</Text>
+    <Text>PT</Text>
+    <Text>S1</Text>
+    <Text>S2</Text>
+    <Text>S3</Text>
+    <Text>S4</Text>
+    <Text>S5</Text>
+    <Text>Attendere...</Text>
+    <Text>{color 1}SEI FUGGITO!</Text>
+    <Text>Qualcuno ha già preso\nquell'oggetto!</Text>
+    <Text>Tempo residuo</Text>
+    <Text>Nemici uccisi</Text>
+    <Text>Nessuna cura</Text>
+    <Text>Cecchino</Text>
+    <Text>Maestro coltello</Text>
+    <Text>Totale</Text>
+    <Text>{color 1}PUNT. SQUADRA</Text>
+    <Text>{color 1}IL TUO PUNTEGGIO</Text>
+    <Text>Punteggio</Text>
+    <Text>Calcolo punti di squadra...</Text>
+    <Text>GRADO</Text>
+    <Text>Rigioca</Text>
+    <Text>Esci</Text>
+    <Text>1° bonus</Text>
+    <Text>2° bonus</Text>
+    <Text>1°</Text>
+    <Text>2°</Text>
+    <Text>3°</Text>
+    <Text>4°</Text>
+    <Text>{color 1}CLASSIFICA</Text>
+    <Text>Crea nuova partita</Text>
+    <Text>Ricerca partite...</Text>
+    <Text>Scegli la modalità</Text>
+    <Text>Scontro</Text>
+    <Text>Cooperativa</Text>
+    <Text>Scegli il luogo</Text>
+    <Text>Inizia</Text>
+    <Text>Obiettivo</Text>
+    <Text>Limite di Tempo</Text>
+    <Text>Scegli un personaggio</Text>
+    <Text>In attesa di giocatori...</Text>
+    <Text>Interrompere wireless?</Text>
+    <Text>DISCONNESSO</Text>
+    <Text>Buona fortuna!</Text>
+    <Text>Inizio fase 1</Text>
+    <Text>Inizio fase 2</Text>
+    <Text>Inizio fase 3</Text>
+    <Text>Inizio fase 4</Text>
+    <Text>Ultima fase</Text>
+    <Text>Inizio partita</Text>
+    <Text>Fase 1 superata</Text>
+    <Text>Fase 2 superata</Text>
+    <Text>Fase 3 superata</Text>
+    <Text>Fase 4 superata</Text>
+    <Text>Non potrai sostenere\nl'orrore che ti attende...</Text>
+    <Text>Tempo sup.</Text>
+    <Text>Combo max</Text>
+    <Text>Precisione</Text>
+    <Text>Danni subiti</Text>
+    <Text>Punti</Text>
+    <Text>Totale</Text>
+    <Text>PAUSA</Text>
+    <Text>TORNA AL GIOCO</Text>
+    <Text>ESCI</Text>
+    <Text></Text>
+    <Text>La Squadra Alfa sta volando\nsulla foresta nei pressi della</Text>
+    <Text>zona nord-ovest di\nRaccoon City.</Text>
+    <Text>Stiamo cercando l'elicottero\ndisperso della Squadra Bravo,</Text>
+    <Text>scomparso durante lo\nsvolgimento della nostra</Text>
+    <Text>missione.</Text>
+    <Text>A Raccoon City sono avvenuti\nstrani omicidi, di recente.</Text>
+    <Text></Text>
+    <Text>Ci sono strani rapporti su\nfamiglie assalite da un gruppo</Text>
+    <Text>di circa dieci persone.</Text>
+    <Text>Le vittime, apparentemente,\nsono state sbranate.</Text>
+    <Text>La Squadra Bravo ha raggiunto\nil nascondiglio del gruppo...</Text>
+    <Text>Ed è scomparsa.</Text>
+    <Text>Guarda, Chris!</Text>
+    <Text>Era l'elicottero della Squadra\nBravo, ma non c'era nessuno.</Text>
+    <Text>Stranamente, però, le\nattrezzature erano ancora lì.</Text>
+    <Text>Non ci mettemmo molto, però,\na scoprire perché.</Text>
+    <Text>Ehi! Qui, presto!</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{color 1}Allenamento</Text>
+    <Text> </Text>
+    <Text>Sei stanca, Rebecca?</Text>
+    <Text>Sì Chris, mi dispiace.</Text>
+    <Text>Hai fatto davvero un\nottimo lavoro.</Text>
+    <Text>Questo caso era davvero\ntroppo strano.</Text>
+    <Text>Questo caso era...</Text>
+    <Text>Tua moglie?</Text>
+    <Text>Sì. Mia moglie e i miei figli.</Text>
+    <Text>Aspettano il mio ritorno.</Text>
+    <Text>Anche oggi, la mia figlia\nmaggiore...</Text>
+    <Text>Aaah, mi dispiace.</Text>
+    <Text>Non ti preoccupare.</Text>
+    <Text>So che è ancora vivo.</Text>
+    <Text>Sì</Text>
+    <Text>No</Text>
+    <Text>COLPI!</Text>
+    <Text>{color 0}CONNESSO</Text>
+    <Text>ERRORE</Text>
+    <Text>Punti</Text>
+    <Text>Combo max</Text>
+    <Text>VITA</Text>
+    <Text>Punti bonus</Text>
+    <Text>{color 1}Scontro</Text>
+    <Text>{color 1}Cooperativa</Text>
+    <Text>{color 0}\n\n\n\n\n\n</Text>
+    <Text>{color 0}\n\n\n\n\n\n\n\n</Text>
+    <Text>Sconfiggi i nemici gialli.\nGli avversari del tuo\nnemico si rafforzano.\nSconfiggi i nemici viola!\nI tuoi avversari non\npotranno correre.\nSolo una persona può prendere\noggetti dalle casse blu.</Text>
+    <Text>Tu e i tuoi alleati usate\nla stessa barra vitale!\nLo stesso discorso vale\nanche per i nemici!\nSe tutti sono nella stessa\nstanza, ottieni un bonus!\nSposta gli oggetti usand\nle casse. \nSolo una persona puó\nprenderli da quelle blu.</Text>
+    <Text>{color 2}Attesa fine partita...\n\nSei morto! Usa questo\ntempo per osservare\ngli altri e fare progressi !</Text>
+    <Text>{color 1}CE L'HAI FATTA!</Text>
+    <Text>Tempo Totale</Text>
+    <Text>Num. salvataggi</Text>
+    <Text>SEI UN VERO DURO!</Text>
+    <Text>Hai risolto il caso.</Text>
+    <Text>Hai la {color 1}CHIAVE SPECIALE{color 0}.</Text>
+    <Text>Hai il {color 1}LANCIARAZZI{color 0}.</Text>
+    <Text>Nome</Text>
+    <Text>Data</Text>
+    <Text>Chris Redfield</Text>
+    <Text>Jill Valentine</Text>
+    <Text>Barry Burton</Text>
+    <Text>Rebecca Chambers</Text>
+    <Text>Albert Wesker</Text>
+    <Text>Kenneth J. Sullivan</Text>
+    <Text>Forest Speyer</Text>
+    <Text>Richard Aiken</Text>
+    <Text>Enrico Marini</Text>
+    <Text>Fase 1</Text>
+    <Text>Fase 2</Text>
+    <Text>Fase 3</Text>
+    <Text>Fase 4</Text>
+    <Text>Inizio ultima fase</Text>
+    <Text>Inizia</Text>
+    <Text>Tutte le fasi superate!</Text>
+    <Text>Congratulazioni!</Text>
+    <Text>Abile con le pistole.</Text>
+    <Text>Puó possed. molti oggetti.</Text>
+    <Text>Abile con la Magnum.</Text>
+    <Text>Abile nel curare.</Text>
+    <Text>Abile con le armi da fuoco.</Text>
+    <Text>Esperto del coltello.</Text>
+    <Text>Abile con le armi pesanti.</Text>
+    <Text>Cecchino con la doppietta.</Text>
+    <Text>Statistiche ottime.</Text>
+    <Text>Tempo totale</Text>
+    <Text>Punti totali</Text>
+    <Text>Magione PT</Text>
+    <Text>Magione PP</Text>
+    <Text>Magione S1</Text>
+    <Text>Cortile PT</Text>
+    <Text>Cortile S1</Text>
+    <Text>Guardiola PT</Text>
+    <Text>Guardiola S1</Text>
+    <Text>Laborat. S1</Text>
+    <Text>Laborat. S2</Text>
+    <Text>Laborat. S3</Text>
+    <Text>Laborat. S4</Text>
+    <Text>Tempo</Text>
+    <Text>Dati di sistema danneggiati.\nFile precedente caricato.</Text>
+    <Text>Salvataggio 1 danneggiato.\nFile eliminato.</Text>
+    <Text>Salvataggio 2 danneggiato.\nFile eliminato.</Text>
+    <Text>Salvataggio 3 danneggiato.\nFile eliminato.</Text>
+    <Text>Salvataggio 4 danneggiato.\nFile eliminato.</Text>
+    <Text>Salvataggio 5 danneggiato.\nFile eliminato.</Text>
+    <Text>Salvataggio 1 danneggiato.\nFile precedente caricato.</Text>
+    <Text>Salvataggio 2 danneggiato.\nFile precedente caricato.</Text>
+    <Text>Salvataggio 3 danneggiato.\nFile precedente caricato.</Text>
+    <Text>Salvataggio 4 danneggiato.\nFile precedente caricato.</Text>
+    <Text>Salvataggio 5 danneggiato.\nFile precedente caricato.</Text>
+    <Text>Ora puoi selezionare Chris\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Jill\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Barry\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Rebecca\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Wesker\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Kenneth\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Forest\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Richard\nnel gioco con più schede!</Text>
+    <Text>Ora puoi selezionare Enrico\nnel gioco con più schede!</Text>
+    <Text>No! Non andare!</Text>
+    <Text>Jill, raggiungi quella casa!</Text>
+    <Text>Ora rimangono solo tre\nmembri ＳＴＡＲＳ.</Text>
+    <Text>Io, il capitano Wesker e\nJill.</Text>
+    <Text>Non sappiamo dove si trovi\nBarry.</Text>
+    <Text>Vuoi tornare al menú\ndel gioco con piú shede?{branch 0 0 0}</Text>
+</Strings>

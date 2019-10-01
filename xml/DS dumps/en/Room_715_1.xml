@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}There's a switch...\nWill you push it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\n...Nothing important...{scroll 1}</Text>
+    <Text>{scroll 2}Will you try and take out\nthe eyeball?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nIt looks as if it's alive...{scroll 1}</Text>
+    <Text>{scroll 2}It looks like it's about\nto move...{scroll 1}</Text>
+    <Text>{scroll 2}\nA rocking chair...{scroll 1}</Text>
+    <Text>{scroll 2}\nNothing useful...{scroll 1}</Text>
+    <Text>{scroll 2}\nThere are candles here...</Text>
+    <Text>{scroll 2}\nA lighter might help.</Text>
+    <Text>{scroll 2}\nLight the candles?{branch 0 6 1}</Text>
+</Strings>

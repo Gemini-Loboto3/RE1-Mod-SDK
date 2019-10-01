@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Umbrella Corp.\nBio-Weapon Materials{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nMA-39 Cerberus{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nFi-3 Neptune{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nMA-121 Hunter{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nT-002 Tyrant{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}Bio-Weapon Research \nInstitute. R &amp; D staff{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Something has been dragged \naround the wall...{scroll 1}</Text>
+    <Text>{scroll 2}There's a panel...\nWill you  open it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}There's a switch...\nWill you push it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nA projector...{scroll 1}</Text>
+    <Text>{scroll 2}\nA screen...{scroll 1}</Text>
+    <Text>{scroll 2}An intercom...  It does not \nseem to be operative...{scroll 1}</Text>
+    <Text>{scroll 2}Unfamiliar physics symbols\nare written here...{scroll 1}</Text>
+    <Text>{scroll 2}Operating Instructions:\nLight all blue buttons to activate.{clear 0}{scroll 2}Red lamps deactive\nblue buttons directly below.</Text>
+</Strings>

@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 2}There's a switch...\nWill you push it?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}There's no reaction...  \nIt has no power...{scroll 1}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nExcuse me, Chris.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWhat, Rebecca?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}I saw a research file in\nthis lab. It said that a{scroll 1}{clear 110}{scroll 0}great deal of research\non the Tyrant Virus exists{scroll 1}{clear 95}{scroll 0}right here.\nWe should blow this place up!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}We are already into it\nover our heads. {scroll 1}{clear 90}{scroll 0}\nRebecca, can you do it?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Yes, Sir! I'll set off a\ntriggering system for a bomb.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Okay! Now we have a chance\nto escape.{scroll 1}{clear 102}{scroll 0}\nSee you outside the house.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nRebecca, you're safe!{scroll 1}{clear 85}{scroll 0}I saw you in the garden. I've\ncaught up with you at last.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nRebecca, you're safe!{scroll 1}{clear 80}{scroll 0}\nI'm sorry.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Well, I'm glad you're\nalright. Don't go out alone.{scroll 1}{clear 140}{scroll 0}\nYes, Sir!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nI was looking for you.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Jill, don't be angry.\nI wanted you to wait for me.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}Barry,\ndon't screw up again,{scroll 1}{clear 50}{scroll 0}like you did when you\ndropped that rope.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nJill! You're here too!{scroll 1}{clear 70}{scroll 0}\nYes! You're here too?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nLook... uhh, I lost my way.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\nLet's get going!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n"Power Room"{scroll 1}</Text>
+</Strings>

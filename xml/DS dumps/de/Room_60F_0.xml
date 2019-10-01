@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\nEin großer Konzertflügel.</Text>
+    <Text>Chris kann leider keine Noten\nlesen.</Text>
+    <Text>{scroll 0}\nIch bin es, Chris.{scroll 2}{timed 52}</Text>
+    <Text>{scroll 0}\nGeht es dir gut?{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}\nBist du das, Rebecca...?{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Ja, ich habe beschlossen,\nnicht mehr länger zu trauern.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ah, das ist die\n"Mondschein-Sonate."{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nKannst du spielen?{scroll 2}{timed 46}</Text>
+    <Text>{scroll 0}\nWarte mal, was ist das?{scroll 2}{timed 64}</Text>
+    <Text>{scroll 0}Meine Darbietung hört sich\netwas schief an.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Chris,\ndarf ich ein Weilchen üben?{scroll 2}{timed 85}</Text>
+    <Text>Möchten Sie, daß Rebecca übt?\n{branch 0 6 0}</Text>
+    <Text>{scroll 0}Weißt du, entspann dich und\nspiel einfach.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nIn Ordnung...{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}Laß' uns zurück gehen und sofort\nnach den anderen suchen.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n...Alles klar.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nRebecca!{scroll 2}{timed 55}</Text>
+    <Text>{scroll 0}Ich weiß, ich weiß, bitte\nnoch einen kleinen Moment.{scroll 2}{timed 116}</Text>
+    <Text>\nRebecca spielt auf dem Flügel.</Text>
+    <Text>{scroll 0}\nChris, Chris!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nGefällt es dir?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nJa, es war super!{scroll 2}{timed 67}</Text>
+    <Text>{scroll 0}\nWas ist das!{scroll 2}{timed 55}</Text>
+    <Text>Das ist die\n"Mondschein-Sonate."</Text>
+    <Text>Das ist der Hohlraum,\nin dem sich ein Emblem befand.</Text>
+    <Text>\nEin Emblem wurde eingepasst.</Text>
+    <Text>{scroll 0}\nPaß' auf.{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nBist du ok?{scroll 2}{timed 85}</Text>
+    <Text>Wir haben keine Zeit zum\nKlavierspielen!</Text>
+</Strings>

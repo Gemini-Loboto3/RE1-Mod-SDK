@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è una leva...\nVuoi tirarla?{branch 0 6 1}</Text>
+    <Text>{scroll 2}C'è un pulsante...\nVuoi premerlo?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Nella stanza accanto si è\nsentito un rumore...{scroll 2}</Text>
+    <Text>{scroll 2}\nNiente di importante...{scroll 2}</Text>
+    <Text>{scroll 2}Un pannello a chiusura\nelettrica. Vuoi esaminarlo?{branch 0 6 1}</Text>
+    <Text>{scroll 0}L'impianto di nebulizzazione\nè stato attivato!{scroll 2}{timed 90}</Text>
+    <Text>{scroll 2}L'acqua sta cambiando colore.{scroll 0}{timed 20}\n{scroll 0}È un veleno!{timed 40}</Text>
+    <Text>{scroll 2}Devo fermare quest' acqua\nin qualche modo.{scroll 2}</Text>
+    <Text>{scroll 2}\nC'è una valvola.{clear 0}{scroll 2}\nVuoi aprirla? {branch 0 6 1}</Text>
+    <Text>{scroll 2}La valvola della portata è\nbloccata e non si muoverà.</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}It's too dark to see \nanything...{scroll 1}</Text>
+    <Text>{scroll 0}The triggering system has\nnow been activated.{scroll 1}{clear 120}{scroll 0}All researchers and guards should \ntake cover immediately.{scroll 1}{clear 180}{scroll 0}Unlock all routes \nfor evacuation.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}\nNo need to go this way...</Text>
+</Strings>

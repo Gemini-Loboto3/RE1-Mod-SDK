@@ -1,0 +1,29 @@
+﻿<Strings>
+    <Text>{scroll 2}Something is written on\nthe wall...{clear 0}Water=1, Red=2,\nPurple=3, Green=4{scroll 2}</Text>
+    <Text>{scroll 2}Something is written on\nthe wall...{clear 0}1+2=3, 3+4=7, 2+4=6\n6+7=13, 13+3=16{scroll 2}</Text>
+    <Text>{scroll 2}\nThere's a UMB No. 2...{scroll 2}</Text>
+    <Text>{scroll 2}\nThere's a UMB No. 4...{scroll 2}</Text>
+    <Text>{scroll 2}\nA faucet...{scroll 2}</Text>
+    <Text>{scroll 2}Will you put water in the\nempty bottle?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nThere's a UMB No. 2...{clear 0}Will you put UMB No. 2 in the\nempty bottle?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nThere's a UMB No. 4...{clear 0}Will you put UMB No. 4 in the\nempty bottle?{branch 0 6 1}</Text>
+    <Text>{scroll 2}There's UMB No. 2... You need\na container to obtain it...{scroll 2}</Text>
+    <Text>{scroll 2}There's UMB No. 4... You need\na container to obtain it...{scroll 2}</Text>
+    <Text>{scroll 2}\nIt's poison gas!{scroll 2}</Text>
+    <Text>{scroll 2}Perhaps I should leave for\na moment...{scroll 2}</Text>
+    <Text>{scroll 0}This room is fully equipped\nwith medical supplies.{scroll 2}{clear 90}{scroll 0}I can treat you, except for\nyour major injury.{scroll 2}{clear 90}{scroll 0}\nWould you like me to?{scroll 2}{timed 60}</Text>
+    <Text>Do you want me to heal\nyour wounds?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Yes! Please do something\nfor me, temporarily.{scroll 2}{timed 130}</Text>
+    <Text>{scroll 0}Most of these medicines\nare from Umbrella.{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}\nWhat's Umbrella?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}Don't you know?\nIt's a large scale{scroll 2}{clear 55}{scroll 0}pharmaceutical company\nbased in Raccoon City.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}\nOh I see.{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nI'm okay,{scroll 2}{clear 50}{scroll 0}but if something happens to\nme, please take care of me.{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nAre you alright?{scroll 2}{clear 60}{scroll 0}\nWant me to treat it?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris! Be careful!{scroll 2}{timed 75}</Text>
+    <Text>\nRebecca treats Chris...{scroll 2}</Text>
+    <Text>{scroll 0}\nChris, take care!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 2}There's UMB No. 2...  But he\ncan't handle chemicals...{scroll 2}</Text>
+    <Text>{scroll 2}There's UMB No. 4...  But he\ncan't handle chemicals...{scroll 2}</Text>
+    <Text>{scroll 2}It's useless...  Chris can't\nhandle chemicals...{scroll 2}</Text>
+</Strings>

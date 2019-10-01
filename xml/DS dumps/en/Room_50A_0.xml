@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}There's a switch...\nWill you push it?{branch 0 6 1}</Text>
+    <Text>{scroll 4}\nJohn... Ada...{scroll 2}</Text>
+    <Text>{scroll 2}Something is written on\nthe picture...{scroll 2}</Text>
+    <Text>{scroll 2}It's too dark to see\nanything...{scroll 2}</Text>
+    <Text>{scroll 2}It seems someone used this\nonly recently...{scroll 2}</Text>
+    <Text>{scroll 2}It's an air conditioner\nswitch but is broken...{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Il y a un levier.\nL'actionner ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Il y a un bouton.\nAppuyer dessus ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}On entend un bruit de l'autre\npièce.{scroll 2}</Text>
+    <Text>{scroll 2}\nRien de spécial.{scroll 2}</Text>
+    <Text>{scroll 2}Un verrou électronique\nExaminer ?{branch 0 6 1}</Text>
+    <Text>{scroll 0}Le système d'arrosage\na été activé !{scroll 2}{timed 90}</Text>
+    <Text>{scroll 2}L'eau change de couleur.\n{scroll 0}{timed 20}{scroll 0}Elle est empoisonnée !{timed 40}</Text>
+    <Text>{scroll 2}Je dois continuer\nd'avancer.{scroll 2}</Text>
+    <Text>{scroll 2}\nIl y a une valve.{clear 0}{scroll 2}\nLa tourner ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nLa valve est bloquée.</Text>
+</Strings>

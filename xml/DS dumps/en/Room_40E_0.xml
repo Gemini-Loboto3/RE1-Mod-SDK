@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nIt's locked...{clear 0}{scroll 2}\nThere's no key hole...</Text>
+    <Text>{scroll 2}\nIt's a large watertank...</Text>
+    <Text>{scroll 2}The tank appears to have\ncracked...</Text>
+</Strings>

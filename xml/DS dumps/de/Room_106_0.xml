@@ -1,0 +1,51 @@
+﻿<Strings>
+    <Text>{scroll 0}Ich hab keine Ahnung,\nwas passiert ist!{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}...Barry,\nwo ist Barry?{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Also, es tut mir leid,\naber er ist wahrscheinlich...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nNein!{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\nWas war das¼{scroll 1}{clear 35}{scroll 0}\nIch werde es mir mal ansehen.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}OK, Jill und ich bleiben\nin der Halle,{scroll 1}{clear 65}{scroll 0}falls es Probleme geben\nsollte.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nPass auf!{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Sei aufmerksam, falls du\nirgendwo Schüsse hörst.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nWesker, Jill...?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Was ist mit Jill und\nWesker passiert?{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}\nWas ist das?{scroll 1}{clear 52}{scroll 0}Wow!\nWas für ein Anwesen!{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Captain Wesker,\nwo ist Chris?{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nHalt! Nicht die Tür öffnen!{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\nAber Chris ist...!{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nWas war denn das?{scroll 1}{clear 38}{scroll 0}\nVielleicht ist es Chris?{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}Jill!\nKannst Du gehen?{scroll 1}{clear 72}{scroll 0}\nIch komme mit dir!{scroll 1}{clear 65}{scroll 0}Chris ist ein alter Partner\nvon uns, musst du wissen.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}OK!\nLasst mich das übernehmen.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nHaltet die Augen offen!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nWesker¼{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Hilf mir,\nihn zu suchen,Jill,{scroll 1}{clear 37}{scroll 0}und verlass vorerst\ndie Halle nicht!{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}Hast du irgendwas gefunden,\nJill¼{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nNein, nichts.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nWas bedeutet das hier alles?{scroll 1}{clear 55}{scroll 0}Ich kann damit\nüberhaupt nichts anfangen.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nIch bin genauso ratlos.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Diesmal ist Wesker einfach\nverschwunden.{scroll 1}{clear 56}{scroll 0}Ich hab' keine Ahnung,\nwas hier vor sich geht!{scroll 1}{clear 56}{scroll 0}Nun - wir können es nicht\nändern.{scroll 1}{clear 60}{scroll 0}Wir sollten ihn suchen,\njeder für sich.{scroll 1}{clear 52}{scroll 0}Ich werde das Esszimmer\nnoch mal durchstöbern.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nOK!{scroll 1}{clear 30}{scroll 0}Und ich versuche es mit der Tür\nauf der gegenüberliegenden Seite.{scroll 1}{timed 79}</Text>
+    <Text>{scroll 0}\nDieses Anwesen ist riesig!{scroll 1}{clear 82}{scroll 0}Wenn wir uns verlieren, könnten\nwir in Schwierigkeiten kommen.{scroll 1}{clear 75}{scroll 0}Wir sollten auf der ersten\nEtage{scroll 1}{clear 75}{scroll 0}anfangen, einverstanden?\nUnd...{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nJill, hier ein Dietrich.{scroll 1}{clear 62}{scroll 0}Es wäre gut, wenn du\n- die Meisterin im Schlösser-{scroll 1}{clear 85}{scroll 0}\nknacken - ihn mitnimmst.{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}Danke.\nDen brauche ich bestimmt.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}Nein, in dieser Richtung\nwerde ich es versuchen.{scroll 1}{clear 75}{scroll 0}Ich sagte doch, fang auf\nder anderen Seite an, Jill!{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Und noch was, falls etwas\npassiert, treffen{scroll 1}{clear 75}{scroll 0}\nwir uns in dieser Halle.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nIch bin dann zur Stelle.{scroll 1}{timed 53}</Text>
+    <Text>{scroll 2}Es ist einfach zu gefährlich,\nnach draußen zu gehen!</Text>
+    <Text>{scroll 2}Ich muss erst diese Halle\ndurchsuchen!</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Jill! Wie sieht es aus?\nIrgendwelche Hinweise?{scroll 1}{clear 116}{scroll 0}Nein, aber... mit diesem Haus\nstimmt etwas nicht!{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}Mann!\nDiese Halle ist gefährlich.{scroll 1}{clear 115}{scroll 0}\nVielleicht wäre es besser,{scroll 1}{clear 59}{scroll 0}zuerst einmal unseren\nFluchtweg zu sichern.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Da muss es noch irgendwo eine\nHintertür geben.{scroll 1}{clear 120}{scroll 0}Die sollten wir finden,\nwas meinst du dazu?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}OK, dann sollten wir uns\nwieder trennen.{scroll 1}{clear 96}{scroll 0}Warte einen Moment.\nIch habe etwas gefunden.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nWas ist das?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nDas ist eine Waffe.{scroll 1}{clear 65}{scroll 0}Die ist wirkt bestimmt gut\ngegen Lebewesen aller Art.{scroll 1}{clear 70}{scroll 0}\nNimm sie lieber mit.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nUnd was ist mit dir, Barry?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nIch habe das hier.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Ich danke dir.\nIch werde es nehmen.{scroll 1}{timed 87}</Text>
+    <Text>{scroll 2}\nDas ist Jills Waffe!{clear 0}{scroll 2}\n{timed 1}</Text>
+    <Text>{scroll 2}Es ist keine Zeit,\ndas zu überprüfen.</Text>
+    <Text>{scroll 2}\nDer Boden sieht unsicher aus.</Text>
+    <Text>{scroll 2}Ich kann nicht gehen,\nbis der Tyrann tot ist.</Text>
+</Strings>

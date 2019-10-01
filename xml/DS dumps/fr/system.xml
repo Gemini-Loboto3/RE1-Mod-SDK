@@ -1,0 +1,248 @@
+﻿<Strings>
+    <Text>Ce jeu contient des scènes\nde violence et de sang.</Text>
+    <Text>{color 1}Normal</Text>
+    <Text>{color 1}Difficile</Text>
+    <Text>Valider / Action</Text>
+    <Text>Annuler / Courir</Text>
+    <Text>Configuration</Text>
+    <Text>Type A</Text>
+    <Text>Type B</Text>
+    <Text>Couleur du sang</Text>
+    <Text>Rouge</Text>
+    <Text>Vert</Text>
+    <Text>Sensibilité microphone</Text>
+    <Text>Elevée</Text>
+    <Text>Normale</Text>
+    <Text>Faible</Text>
+    <Text>Rotation / Rech.</Text>
+    <Text>Chambre</Text>
+    <Text>Hall</Text>
+    <Text>Cour</Text>
+    <Text>Poste Garde</Text>
+    <Text>Labo</Text>
+    <Text>Debarras</Text>
+    <Text>Passage Cour</Text>
+    <Text>Pas de Donnees</Text>
+    <Text>SAUVEGARDER</Text>
+    <Text>CHARGER.</Text>
+    <Text></Text>
+    <Text>Données système</Text>
+    <Text></Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Mode Classique</Text>
+    <Text>Mode Renaissance</Text>
+    <Text>Ecraser ?{branch 0 6 0}</Text>
+    <Text>Pas de fichier.</Text>
+    <Text>L sauvegarde a echoue</Text>
+    <Text>Données système \ncorrompues et perdues.</Text>
+    <Text>Effacer les données</Text>
+    <Text>Effacer les données ?{branch 0 6 0}</Text>
+    <Text>Vraiment effacer ?{branch 0 6 0}</Text>
+    <Text>Données effacées.</Text>
+    <Text>Master of Knifing est\nmaintenant sélectionnable.</Text>
+    <Text> est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Lance-missile illimité\ndéverrouillé.</Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Barry</Text>
+    <Text>Rebecca</Text>
+    <Text>Wesker</Text>
+    <Text>Kenneth</Text>
+    <Text>Forest</Text>
+    <Text>Richard</Text>
+    <Text>Enrico</Text>
+    <Text>Maison</Text>
+    <Text>Cour</Text>
+    <Text>Poste garde</Text>
+    <Text>Labo</Text>
+    <Text>1F</Text>
+    <Text>RC</Text>
+    <Text>SS1</Text>
+    <Text>SS2</Text>
+    <Text>SS3</Text>
+    <Text>SS4</Text>
+    <Text>SS5</Text>
+    <Text>Patientez...</Text>
+    <Text>{color 1}REUSSITE !</Text>
+    <Text>Cet objet a déjà été pris !</Text>
+    <Text>Temps restant</Text>
+    <Text>Ennemis tués</Text>
+    <Text>Pas de soins</Text>
+    <Text>Tireur d'élite</Text>
+    <Text>Commando</Text>
+    <Text>Total</Text>
+    <Text>{color 1}SCORE ÉQU.</Text>
+    <Text>{color 1}SCORE PER.</Text>
+    <Text>Score</Text>
+    <Text>Calcul du Score équipe</Text>
+    <Text>RANG</Text>
+    <Text>Rej.</Text>
+    <Text>Quit.</Text>
+    <Text>Bonus 1er</Text>
+    <Text>Bonus 2nd</Text>
+    <Text>1er</Text>
+    <Text>2nd</Text>
+    <Text>3e</Text>
+    <Text>4e</Text>
+    <Text>{color 1}CLASSEMENT</Text>
+    <Text>Inviter</Text>
+    <Text>Recherche de parties...</Text>
+    <Text>Choix du mode</Text>
+    <Text>Compétitif</Text>
+    <Text>Coopératif</Text>
+    <Text>Choix d'un niveau</Text>
+    <Text>Début</Text>
+    <Text>Fin</Text>
+    <Text>LIMITE TPS</Text>
+    <Text>Choix du personnage</Text>
+    <Text>En attente...</Text>
+    <Text>Pas communication sans fil</Text>
+    <Text>ÉCONNECTÉ</Text>
+    <Text>Allez !</Text>
+    <Text>Niveau 1 début</Text>
+    <Text>Niveau 2 début</Text>
+    <Text>Niveau 3 début</Text>
+    <Text>Niveau 4 début</Text>
+    <Text>Niveau fin.</Text>
+    <Text>Début</Text>
+    <Text>Niveau 1 fini</Text>
+    <Text>Niveau 2 fini</Text>
+    <Text>Niveau 3 fini</Text>
+    <Text>Niveau 4 fini</Text>
+    <Text>Vous ne pouvez affronter\nl'horreur qui attend...</Text>
+    <Text>Temps mis</Text>
+    <Text>Combo max</Text>
+    <Text>Précision</Text>
+    <Text>Dégâts</Text>
+    <Text>Score</Text>
+    <Text>Total</Text>
+    <Text>PAUSE</Text>
+    <Text>RETOUR AU JEU</Text>
+    <Text>QUITTER</Text>
+    <Text></Text>
+    <Text>L' Equipe Alpha survole\nla forêt située au</Text>
+    <Text>nord-ouest de Raccoon City</Text>
+    <Text>à la recherche de l'hélicoptère </Text>
+    <Text>de nos compatriotes\nde l'Equipe Bravo,</Text>
+    <Text>disparu au cours\nde notre mission.</Text>
+    <Text>D'étranges meurtres ont eu\nrécemment lieu à Raccoon City.</Text>
+    <Text></Text>
+    <Text>D'étranges rapports affirment que\ndes familles ont été attaquées par</Text>
+    <Text>un groupe d'une dizaine\nd'individus.</Text>
+    <Text>Les victimes ont été\napparemment dévorées.</Text>
+    <Text>L'Equipe Bravo est allée inspecter\nle refuge du groupe</Text>
+    <Text>et a disparu depuis.</Text>
+    <Text>C'était l'hélicoptère de\nl'Equipe Bravo.</Text>
+    <Text>Il était vide, mais aussi etrange\nque cela puisse paraítre,</Text>
+    <Text>la plus grande partie du\nmatériel était encore là.</Text>
+    <Text>Cependant, nous avons\nvite découvert pourquri.</Text>
+    <Text>Eh, venez voir !</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{color 1}Entraînment</Text>
+    <Text> </Text>
+    <Text>Vous êtes fatiguée, Rebecca ?</Text>
+    <Text>Désolée, Chris. Je suis...</Text>
+    <Text>Vous avez fait du bon boulot.</Text>
+    <Text>Cette histoire était tout\nsimplement trop étrange.</Text>
+    <Text>Cette histoire était...</Text>
+    <Text>Ta femme ?</Text>
+    <Text>Oui, ma femme et mes enfants...</Text>
+    <Text>ils m'ont toujours soutenu.</Text>
+    <Text>Même aujourd'hui... mon aînée...</Text>
+    <Text>Ah... je suis désolé,</Text>
+    <Text>Ne t'en fais pas.</Text>
+    <Text>Je sais qu'il\nest encore vivant.</Text>
+    <Text>Oui</Text>
+    <Text>Non</Text>
+    <Text>IMPACTS!</Text>
+    <Text>{color 0}RELIÉ</Text>
+    <Text>ECHEC</Text>
+    <Text>Score</Text>
+    <Text>Combo Max</Text>
+    <Text>VIE</Text>
+    <Text>Score Bonus</Text>
+    <Text>{color 1}Compétitif</Text>
+    <Text>{color 1}Coopératif</Text>
+    <Text>{color 0}\n\n\n\n\n\n\n\n</Text>
+    <Text>{color 0}\n\n\n\n\n\n\n</Text>
+    <Text>Vaincre les "jaunes"\nVos alliés deviennent plus\nforts.\n\nVaincre les "violets" ! \nVos adversaires ne peuvent\nplus fuir.\n\nUne seule personne peut\nprendre les caisses bleues.</Text>
+    <Text>Vous et vos alliés partagez\nla même barre de vie !\nLes ennemis partagent aussi\nla même barre de vie !\nBonus d'attaque si tout le monde\nest dans la pièce !\nBoîtes : échange objets.\nUne seule personne peut\nprendre les caisses bleues.</Text>
+    <Text>{color 2}Attendez la fin...\n\nVous êtes mort ! Regardez\nles autres et apprenez\nen les observant !</Text>
+    <Text>{color 1}DU HAST ÜBERLEBT !</Text>
+    <Text>Temps Total</Text>
+    <Text>Nombre de sauvegardes</Text>
+    <Text>QUEL DUR A CUIRE !</Text>
+    <Text>Vous avez fini cette mission.</Text>
+    <Text>Vous avez {color 1}CSPECIALE{color 0}.</Text>
+    <Text>Vous avez {color 1}LANCE-MISSILE{color 0}.</Text>
+    <Text>Nom</Text>
+    <Text>Date</Text>
+    <Text>Chris Redfield</Text>
+    <Text>Jill Valentine</Text>
+    <Text>Barry Burton</Text>
+    <Text>Rebecca Chambers</Text>
+    <Text>Albert Wesker</Text>
+    <Text>Kenneth J. Sullivan</Text>
+    <Text>Forest Speyer</Text>
+    <Text>Richard Aiken</Text>
+    <Text>Enrico Marini</Text>
+    <Text>Niveau 1</Text>
+    <Text>Niveau 2</Text>
+    <Text>Niveau 3</Text>
+    <Text>Niveau 4</Text>
+    <Text>Niveau fin.</Text>
+    <Text>Début</Text>
+    <Text>Niveaux tous finis !</Text>
+    <Text>Félicitations !</Text>
+    <Text>Habile au pistolet</Text>
+    <Text>Grand sac à objets</Text>
+    <Text>Adore le magnum</Text>
+    <Text>Expert en soins</Text>
+    <Text>Expert en armes à feu</Text>
+    <Text>Pro du couteau</Text>
+    <Text>Expert en armes lourdes</Text>
+    <Text>Maîtrise le fusil</Text>
+    <Text>Supérieur à la moyenne</Text>
+    <Text>Temps Total</Text>
+    <Text>Score Total</Text>
+    <Text>Maison RC</Text>
+    <Text>Maison 1F</Text>
+    <Text>Maison SS1</Text>
+    <Text>Cour RC</Text>
+    <Text>Cour SS1</Text>
+    <Text>Poste garde RC</Text>
+    <Text>Poste garde SS1</Text>
+    <Text>Labo SS1</Text>
+    <Text>Labo SS2</Text>
+    <Text>Labo SS3</Text>
+    <Text>Labo SS4</Text>
+    <Text>Temps</Text>
+    <Text>Données système corrompues.\nDonnées restaurées.</Text>
+    <Text>Sauvegarde 1 corrompue.\nDonnées effacées.</Text>
+    <Text>Sauvegarde 2 corrompue.\nDonnées effacées.</Text>
+    <Text>Sauvegarde 3 corrompue.\nDonnées effacées.</Text>
+    <Text>Sauvegarde 4 corrompue.\nDonnées effacées.</Text>
+    <Text>Sauvegarde 5 corrompue.\nDonnées effacées.</Text>
+    <Text>Sauvegarde 1 corrompue.\nDonnées restaurées.</Text>
+    <Text>Sauvegarde 2 corrompue.\nDonnées restaurées.</Text>
+    <Text>Sauvegarde 3 corrompue.\nDonnées restaurées.</Text>
+    <Text>Sauvegarde 4 corrompue.\nDonnées restaurées.</Text>
+    <Text>Sauvegarde 5 corrompue.\nDonnées restaurées.</Text>
+    <Text>Chris est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Jill est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Barry est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Rebecca est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Wesker est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Kenneth est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Forest est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Richard est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Enrico est sélectionnable\nen jeu multi-cartes !</Text>
+    <Text>Non, n'y va pas !</Text>
+    <Text>Jill, cours vers la maison !</Text>
+    <Text>ll ne reste plus que trois\nmembres des S.T.A.R.S. :</Text>
+    <Text>le Capitain Wesker,\nJill et moi.</Text>
+    <Text>Nous ne savons pas\noù se trouve Barry.</Text>
+    <Text>Continuer la communication sans fil ?{branch 0 0 0}</Text>
+</Strings>

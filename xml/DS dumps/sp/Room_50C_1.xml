@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 2}Hay un interruptor... \n¿Quieres pulsarlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}No reacciona...  \nNo hay corriente...{scroll 1}</Text>
+    <Text>{scroll 0}\n¡Chris!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\n¡Jill!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nPerdona, Chris.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n¿Qué, Rebecca?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}He visto un archivo de\ninvestigación en el labo.{scroll 1}{clear 100}{scroll 0}Dice que aquí está buena\nparte de la investigación{scroll 1}{clear 130}{scroll 0}del virus Tyrant.\n¡Deberíamos volar este sitio!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Ya estamos en ello,\nencima de nosotros. {scroll 1}{clear 90}{scroll 0}\nRebecca, ¿puedes hacerlo?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}¡Sí, señor! Prepararé un\ndetonador para una bomba.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}¡Vale! ahora tenemos una\nopción de escapar.{scroll 1}{clear 102}{scroll 0}\nNos vamos fuera.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n¡Rebecca, estás a salvo!{scroll 1}{clear 85}{scroll 0}Te vi en el jardín. Por fin\nte alcanzo.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n¡Rebecca, estás a salvo!{scroll 1}{clear 80}{scroll 0}\nLo siento.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Bueno, me alegro de que\nestés bien. Pero no salgas.{scroll 1}{clear 140}{scroll 0}\n¡Sí, señor!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nTe estaba buscando.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n¡Barry!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Jill, no te enfades.\nQuería que me esperaras.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}Barry,\nno la vuelvas a fastidiar{scroll 1}{clear 65}{scroll 0}como antes, cuando soltaste\nla cuerda.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n¡Jill! ¡Tú también estás aquí!{scroll 1}{clear 70}{scroll 0}\n¡Sí! ¡Tú también!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nMira... ehh, me he perdido.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\n¡En marcha!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n"Sala del generador"{scroll 1}</Text>
+</Strings>

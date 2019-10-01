@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOh !{scroll 1}{clear 20}{scroll 0}\nJe n'arrive pas à y croire !{scroll 1}{clear 60}{scroll 0}\nVous allez bien !?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nOuais. Désolé pour lui...{scroll 1}{clear 55}{scroll 0}Nous avons trouvé la\nsolution du problème.{scroll 1}{clear 100}{scroll 0}Sains et saufs une fois de\nplus.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nJe... {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nMerci du fond du coeur. {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\nVous en auriez fait de même.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nBien entendu. {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\nBon, je pense pouvoir faire{scroll 1}{clear 60}{scroll 0}une autre potion, je retourne\ndans la salle des médicaments{scroll 1}{clear 70}{scroll 0}que j'ai découverte il y a un\ninstant. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Je suis heureuse que vous \nsoyez sain et sauf... {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Bon, Chris, voici la radio de \nRichard... {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Nous avons reçu un appel de\nBrad dans la cour il y a {scroll 1}{clear 90}{scroll 0}un instant, mais il survole\nencore la zone.{scroll 1}{clear 100}{scroll 0}Il ne pouvait manifestement\npas nous entendre.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Peut-être que sa radio est \ncassée... {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Je vois...Compris. \nJe la garde.{scroll 1}{clear 80}{scroll 0}\nD'une manière ou d'une autre,{scroll 1}{clear 60}{scroll 0}nous allons faire savoir à\nBrad que nous sommes ici.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Je pense pouvoir faire quelque\nchose dans la salle des{scroll 1}{clear 100}{scroll 0}médicaments que j'ai\ndécouverte il y a un instant.{scroll 1}{timed 80}</Text>
+    <Text>\nÇa ne bouge pas du tout.{clear 0}Il semble que ça bloque\nde l'autre côté.</Text>
+    <Text>{scroll 2}Je dois continuer\nd'avancer.{scroll 2}</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>{scroll 2}Le chemin s'ouvre à ceux\nqui cernent la pierre.{scroll 2}</Text>
+    <Text>Il y a un rapport avec\nla tablette...{scroll 2}</Text>
+    <Text>{scroll 2}Il faut une clé\npour la porte.{scroll 2}</Text>
+    <Text>Vous avez utilisé \n{color 1}CDORTOIR{color 0}.</Text>
+</Strings>

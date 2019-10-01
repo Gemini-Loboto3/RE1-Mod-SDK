@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è un interruttore...\nVuoi premerlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nNulla di importante...{scroll 1}</Text>
+    <Text>{scroll 2}Vuoi provare a estrarre\nil bulbo oculare?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nSembra vivo...{scroll 1}</Text>
+    <Text>{scroll 2}Sembra che stia per\nmuoversi...{scroll 1}</Text>
+    <Text>{scroll 2}\nUna sedia a dondolo...{scroll 1}</Text>
+    <Text>{scroll 2}\nTutto nella norma...{scroll 1}</Text>
+    <Text>{scroll 2}\nQui ci sono delle candele...</Text>
+    <Text>{scroll 2}\nUn accendino sarebbe utile.</Text>
+    <Text>{scroll 2}Vuoi accendere le\ncandele?{branch 0 6 1}</Text>
+</Strings>

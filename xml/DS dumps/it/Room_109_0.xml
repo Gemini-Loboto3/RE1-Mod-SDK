@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 0}\nC'è mancato un pelo!{scroll 2}{clear 68}{scroll 0}Stavi per diventare un\nsandwich di Jill.{scroll 2}{clear 70}{scroll 0}Già! Barry, grazie,\nmi hai salvato la vita.{scroll 2}{timed 115}</Text>
+    <Text>{scroll 0}Ma Barry, non avevi detto\nche saresti tornato nella{scroll 2}{clear 73}{scroll 0}sala da pranzo per\nesplorarla?{scroll 2}{clear 70}{scroll 0}\nPer quale motivo sei qui?{scroll 2}{timed 53}</Text>
+    <Text>{scroll 0}Mh... Dovevo controllare una\ncosa. {scroll 2}{clear 112}{scroll 0}Adesso torniamo a cercare\nil capitano e Chris,{scroll 2}{clear 60}{scroll 0}\nd'accordo?{scroll 2}{timed 83}</Text>
+    <Text>{scroll 0}\nGrazie, Barry.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}C-Che cosa sono?\nM-Mostri?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca! \nÈ ancora nella casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nChe cosa sono?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}È Rebecca,\ndev'essere di sopra!{scroll 2}{timed 110}</Text>
+</Strings>

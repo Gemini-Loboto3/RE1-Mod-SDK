@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>Il y a une échelle.\nMonter ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>L'eau reste ici et je ne\npeux pas passer.{scroll 2}</Text>
+</Strings>

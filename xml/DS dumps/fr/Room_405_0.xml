@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker !{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nChris ! Vous êtes vivant ! {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Vous m'ôtez les mots de la \nbouche ! {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Où est Jill ? \nVous n'êtes pas avec Jill ? {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nDésolé...{scroll 1}{clear 45}{scroll 0}Nous avons été attaqués\npar un monstre étrange...{scroll 1}{clear 65}{scroll 0}J'ai perdu sa trace pendant\nque nous reconnaissions{scroll 1}{clear 90}{scroll 0}le terrain. \nJ'espère qu'elle va bien.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}...Je vois...eh bien, \nce n'est pas votre faute...{scroll 1}{clear 80}{scroll 0}\nCet endroit est dingue !{scroll 1}{clear 43}{scroll 0}Si nous restons ici, nous \nallons tous y rester... {scroll 1}{clear 86}{scroll 0}\nQu'allons-nous faire ? {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Nous devons remplir notre \nmission.  {scroll 1}{clear 50}{scroll 0}Que nous partions ou que\nnous restions pour retrouver{scroll 1}{clear 60}{scroll 0}Jill, il ne nous reste plus\nbeaucoup de munitions et nous ne{scroll 1}{clear 125}{scroll 0}pouvons même pas nous défendre.\nNous sommes encore en danger.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChris, {scroll 1}{clear 30}{scroll 0}beaucoup de pièces doivent être\nfermées à clé dans cette maison.{scroll 1}{clear 75}{scroll 0}\nVérifions-les encore une fois.{scroll 1}{clear 70}{scroll 0}Il doit bien y avoir un endroit\noù nous pourrions être à l'abri. {scroll 1}{clear 75}{scroll 0}\nFaisons encore un tour. {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOK. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nAllons-y. {scroll 1}{timed 60}</Text>
+</Strings>

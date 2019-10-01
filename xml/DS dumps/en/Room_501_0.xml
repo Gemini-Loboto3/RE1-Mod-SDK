@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}This is Brad, \nrunning out of fuel.{scroll 1}{clear 90}{scroll 0}If there is anyone alive,\ncontact me now, okay?{scroll 1}{clear 108}{scroll 0}\nThis is your last...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}\nThe battery is pulled out...{scroll 1}</Text>
+    <Text>{scroll 0}\nOh no, you must be kidding.{scroll 1}{clear 50}{scroll 0}After you've come all the\nway here.{scroll 1}{clear 100} \n{scroll 0}\nLadies first. Go first, Jill!{scroll 1}{clear 70}{scroll 0}\nBut Chris!{scroll 1}{clear 35}{scroll 0}Give me a chance to\nplay nice guy.{scroll 1}{clear 90}{scroll 0}Okay, I'll leave it up to you.\nSee you again at the heliport.{scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}Damnit! We have only one\nmore step to go.{scroll 1}{clear 110}{scroll 0}\nOkay, I'll go!{scroll 1}{clear 50}{scroll 0}Jill, you try to\ncontact Brad.{scroll 1}{clear 80}{scroll 0}\nOkay.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}I made it, I set off the\ntriggering system to the bomb.{scroll 1}{clear 120}{scroll 0}Great! Rebecca, Brad's up\nin the helicopter.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nLook at those monsters!!!!{scroll 1}{clear 100}{scroll 0}\nLet me take care of them.{scroll 1}{clear 60}{scroll 0}\nBut...{scroll 1}{clear 40}{scroll 0}Chris, get in contact\nwith Brad right away.{scroll 1}{clear 80}{scroll 0}\nOkay.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nLet me take care of them.{scroll 1}{clear 60}{scroll 0}\nBut...{scroll 1}{clear 40}{scroll 0}Chris, get in contact\nwith Brad right away.{scroll 1}{clear 80}{scroll 0}\nOkay.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nLook at those monsters!{scroll 1}{clear 70}{scroll 0}Chris, if Brad is in\nthe helicopter,{scroll 1}{clear 84}{scroll 0}get in contact with him\nby any means!{scroll 1}{clear 85}{scroll 0}\nBut...{scroll 1}{clear 40}{scroll 0}\nI'll hold back the monsters!{scroll 1}{clear 84}{scroll 0}\nOkay, I trust you.{scroll 1}{clear 74}{scroll 0}\nTrust me!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}This is Brad,\nI have a fuel shortage.{scroll 1}{clear 90}{scroll 0}\nOkay, this is the last try.{scroll 1}{clear 108}{scroll 0}If somebody's alive,\nplease send a sign...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 1}There's no reaction...  \nIt has no power...{scroll 1}</Text>
+    <Text>{scroll 0}There is 3 minutes\nuntil explosion.{scroll 1}{timed 100}</Text>
+</Strings>

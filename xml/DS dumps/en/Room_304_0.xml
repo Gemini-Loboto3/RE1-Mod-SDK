@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\nThis is Brad,{scroll 1}{clear 52}{scroll 0}\nI know you can't answer me,{scroll 1}{clear 55}{scroll 0}\nbut somehow, give me a sign...{scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\nThis is Chris!{scroll 1}{clear 45}{scroll 0}\nBrad, can you hear me? Damn!{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nThis is Brad,{scroll 1}{clear 51}{scroll 0}\nI know you can't answer me,{scroll 1}{clear 53}{scroll 0}\nbut somehow, give me a sign...{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}This is Jill!\nBrad? Ohh, it's broken!{scroll 1}{timed 170}</Text>
+</Strings>

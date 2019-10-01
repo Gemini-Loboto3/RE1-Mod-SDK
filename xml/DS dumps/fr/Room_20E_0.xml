@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}...Ai-je été empoisonné ? \nZut, donnez-moi du sérum.{scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}\nChris !{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Je suis sûre qu'il y a du \nsérum là-bas !{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJe reviens tout de suite !{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nÇa va ?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nOui, que s'est-il passé ?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Vous avez été mordu par un \nserpent venimeux.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nCa va ?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nAïe. J'ai mal à la tête.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}Je crois que ça va aller avec\nla piqûre que je viens de vous{scroll 1}{clear 90}{scroll 0}faire, mais s'il vous plaît\névitez les ennuis.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Vous m'avez sauvé la vie, \nje vous revaudrai ça.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Je suis heureuse d'avoir pu \naider !{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}...Ai-je été empoisonnée ? \nAh, donne-moi du sérum...{scroll 1}{timed 150}</Text>
+</Strings>

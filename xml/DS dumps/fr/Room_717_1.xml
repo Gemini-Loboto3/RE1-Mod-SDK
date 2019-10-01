@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Ils traitent presque \ntous de chimie.{scroll 2}</Text>
+    <Text>\nDe nombreux livres.{scroll 2}</Text>
+    <Text>Ca n'a pas été utilisé \ndepuis longtemps.{scroll 2}</Text>
+    <Text>\n{scroll 2}{clear 0}Il y a un bouton.\nAppuyer dessus ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>\nOn a mis quelque chose ici.{scroll 2}</Text>
+    <Text>Il y a un bouton.\nAppuyer dessus ?{scroll 1}{branch 0 6 0}</Text>
+</Strings>

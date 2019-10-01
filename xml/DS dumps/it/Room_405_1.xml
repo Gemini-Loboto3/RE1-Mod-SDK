@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJill... Allora sei salva.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Stavo per dire la stessa\ncosa.{scroll 1}{clear 80}{scroll 0}\nMa dove accidenti eri?{scroll 1}{clear 50}{scroll 0}All'improvviso non ti ho visto\npiù nella sala.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Mi spiace, ho dovuto\nallontanarmi.{scroll 1}{clear 108}{scroll 0}Forse li avete\nincontrati. Potevo fare {scroll 1}{clear 80}{scroll 0}solo quello per proteggermi\nda quei mostri.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\nTutto a posto?{scroll 1}{clear 40}{scroll 0}Comunque, sono felice di\nvedere che stai bene.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nPoco fa ho incontrato anche Barry.{scroll 1}{clear 65}{scroll 0}Ho paura che in lui ci\nsia qualcosa che non va.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}Sì, lo credo anche io.\nEra davvero strano!{scroll 1}{clear 135}{scroll 0}\nSembrava così stanco...{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nDirei che la cosa è normale,{scroll 1}{clear 40}{scroll 0}viste le circostanze\nnelle quali ci troviamo.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Jill, la nostra priorità\nè andarcene da qui!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nSì, hai ragione!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}In quella magione ci sono\nmoltissime stanze nelle{scroll 1}{clear 80}{scroll 0}quali non possiamo entrare,\nperché sono chiuse.{scroll 1}{clear 79}{scroll 0}Ho fatto un giro in cerca\ndi qualche traccia.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}OK, io andrò all'altra casa e vedrò\n se riesco a scoprire qualcosa.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Davvero lo farai?\nConto su di te.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nNon può essere.{scroll 1}{clear 40}{scroll 0}Le mie informazioni erano\ndiverse.{scroll 1}{clear 67}{scroll 0}\n{scroll 1}{clear 109}{scroll 0}Ma non è necessario\nche tu distrugga la ＳＴＡＲＳ.{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{clear 145}{scroll 0}\nE la mia famiglia?{scroll 1}{clear 70}{scroll 0}\n{scroll 1}{clear 109}{scroll 0}Allora tutto dipende\nda me, eh?{scroll 1}{timed 100}</Text>
+    <Text>Dall'altro lato della porta\nsi sentono delle voci...</Text>
+</Strings>

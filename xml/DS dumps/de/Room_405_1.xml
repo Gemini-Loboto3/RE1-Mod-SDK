@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Jill!\nDu bist zum Glück wohlauf!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Das wollte ich auch\nvon dir sagen!{scroll 1}{clear 80}{scroll 0}Wo zur Hölle bist du\nbloß gewesen?{scroll 1}{clear 50}{scroll 0}Du bist so plötzlich\naus der Halle verschwunden.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Es tut mir Leid.\nAber ich habe meine Gründe.{scroll 1}{clear 108}{scroll 0}Vielleicht seid ihr ja auch\nauf sie getroffen - alles,{scroll 1}{clear 40}{scroll 0}\nwas ich tun konnte war,{scroll 1}{clear 40}{scroll 0}mich gegen diese seltsamen\nKreaturen zu verteidigen.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Ist das wahr? Egal, es ist gut\nzu wissen, dass du okay bist.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Ich hatte eben auch Barry\ngetroffen.{scroll 1}{clear 65}{scroll 0}Ich glaube, mit ihm ist etwas\nnicht in Ordnung.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nJa, das kann ich bestätigen...{scroll 1}{clear 65}{scroll 0}Er war schon sonderbar, nicht?\nEr sah so müde aus.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}Tja, vielleicht ist das normal\nunter diesen Umständen.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}...Jill,\ndas Allerwichtigste ist,{scroll 1}{clear 50}{scroll 0}dass wir erst einmal hier\nherauskommen!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJa, da hast du Recht!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Es gibt in diesem Landhaus\nso viele Räume,{scroll 1}{clear 80}{scroll 0}in die wir nicht hineinkönnen,\nweil sie abgeschlossen sind.{scroll 1}{clear 79}{scroll 0}Ich habe mich bereits nach\nAnhaltspunkten umgesehen...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Okay, ich gehe rüber zum\nanderen Haus und versuche,{scroll 1}{clear 60}{scroll 0}dort irgendeinen Hinweis\nzu finden.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Ja, willst du das tun?\nIch zähl auf dich!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nDas kann nicht wahr sein.{scroll 1}{clear 40}{scroll 0}Mir wurde eine ganz andere\nGeschichte erzählt.{scroll 1}{clear 67}{scroll 0}\n {scroll 1}{clear 109}{scroll 0}Darum ist es nicht nötig, dass\ndu die ＳＴＡＲＳ beseitigst!{scroll 1}{clear 120}{scroll 0}\n {scroll 1}{clear 145}{scroll 0}\nWas ist mit meiner Familie?{scroll 1}{clear 70}{scroll 0}\n {scroll 1}{clear 109}{scroll 0}Also hängt alles\nvon mir ab, was?{scroll 1}{timed 100}</Text>
+    <Text>Man kann Stimmen\nhinter der Tür hören.</Text>
+</Strings>

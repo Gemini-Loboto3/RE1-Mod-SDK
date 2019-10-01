@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Estos libros están\nbien ordenados...{scroll 2}</Text>
+    <Text>{scroll 2}No hay tiempo para\nexaminarlo...{scroll 2}</Text>
+    <Text>{scroll 2}Me pregunto dónde estará\nel libro ue falta...{scroll 2}</Text>
+    <Text>{scroll 2}\nUna fila de libros rojos...{clear 0}Hay un libro blanco...\n¿Te lo llevas?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nAhora falta un libro...{scroll 2}</Text>
+    <Text>{scroll 2}No hay tiempo para\ncomprobarlo...{scroll 1}</Text>
+    <Text>{scroll 2}Está soldada, no\nse abre...</Text>
+</Strings>

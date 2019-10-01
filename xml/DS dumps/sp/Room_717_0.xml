@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>La mayoría son de\nquímica...{scroll 2}</Text>
+    <Text>\nMuchos libros...{scroll 2}</Text>
+    <Text>Llevan mucho tiempo\nsin usarse...{scroll 2}</Text>
+    <Text>\nHay un interruptor...{scroll 2}{clear 0}\n¿Lo aprietas?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Parece que había algo colocado\ndonde ahora está la marca...{scroll 2}</Text>
+    <Text>Hay un interruptor...\n¿Lo aprietas?{scroll 1}{branch 0 6 0}</Text>
+</Strings>

@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text>{scroll 0}\nEnrico !{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nNe vous approchez pas, Chris.{scroll 1}{clear 70}{scroll 0}Attendez.\nQue s'est-il passé ?{scroll 1}{clear 65}{scroll 0}\nTraître !{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nNon ! {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Qui est-ce...!\nIl y a quelqu'un ? {scroll 1}{timed 110}</Text>
+    <Text>{scroll 40} {scroll 0}\nBon sang, Umbrella... {scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}Traître...? Qu'est-ce qu'il \nveut dire par là ? {scroll 1}{timed 130}</Text>
+    <Text>{scroll 2}Il n'aurait pas pu bouger\nà cause de sa blessure...{scroll 1}{clear 0}{scroll 2}\nIl tient quelque chose.{scroll 1}</Text>
+    <Text>{scroll 0}\nC'est toi Jill ? {scroll 1}{clear 45}{scroll 0}Ce ne serait pas la \nvoix...d'Enrico ? {scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nOui. {scroll 1}{clear 30}{scroll 0}\nTu es vivant ! {scroll 1}{clear 30}{scroll 0}\nAttends ! Tu es seule, Jill ? {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Quoi ?\nOui, je suis seule...mais{scroll 1}{clear 90}{scroll 0}\npourquoi me demandes-tu ça ?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Ecoute ! La destruction des \nＳＴＡＲＳ est proche.{scroll 1}{clear 144}{scroll 0}\nIl y a un traître parmi nous.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Tout a été manigancé depuis\nle départ par Umbrella... {scroll 1}{timed 250}</Text>
+    <Text>{scroll 0}\nEnrico !{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Je me demande qui a bien pu \nle tuer. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nQuoi ? Oh, oui. {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEnrico !{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nBarry et Jill ensemble... {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nEst-que ça va, Enrico ? {scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Les ＳＴＡＲＳ sont perdus... \nIl y a un traître... {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Tout a été manigancé depuis\nle départ par Umbrella...{scroll 1}{timed 240}</Text>
+    <Text>{scroll 0}\nEnrico !{scroll 1}{timed 70}</Text>
+    <Text>{scroll 1}\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}\n {scroll 1}{timed 30}</Text>
+    <Text>{scroll 2}Il n'aurait pas pu bouger\nà cause de sa blessure...{scroll 1}{clear 0}{scroll 2}\nIl tient quelque chose.{scroll 1}</Text>
+    <Text>{scroll 2}\nBarry enquête...{scroll 1}</Text>
+</Strings>

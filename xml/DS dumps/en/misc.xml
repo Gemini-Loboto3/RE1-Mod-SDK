@@ -1,0 +1,66 @@
+﻿<Strings>
+    <Text>Will you take\nthe {color 1}{string 0}{color 0}?{branch 0 0 89}ou got the {color 1}{string 0}{color 0}.</Text>
+    <Text>You got the {color 1}{string 0}{color 0}.</Text>
+    <Text>You can't carry any more\nitems.</Text>
+    <Text>You have used\nthe {color 1}{string 0}{color 0}.</Text>
+    <Text>Will you put down the\n{color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>Will you use\nthe {color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>{color 1}{string 0}{color 0}\nhas been filed.{clear 0}{timed 1}</Text>
+    <Text>This key is useless now.\nDiscard?{branch 2 9 2}</Text>
+    <Text>\nIt's locked.{clear 0}\nA carving of a sword.</Text>
+    <Text>\nIt's locked.{clear 0}\nA carving of armor.</Text>
+    <Text>\nIt's locked.{clear 0}\nA carving of a shield.</Text>
+    <Text>\nIt's locked.{clear 0}\nA carving of a helmet.</Text>
+    <Text>\nThe door is tightly locked.{clear 0}\nThere's a plate on the right.</Text>
+    <Text>\nIt's locked.{clear 0}\nThe door reads "Closet".</Text>
+    <Text>\nIt's locked.{clear 0}\nThe plate reads "002".</Text>
+    <Text>\nIt's locked.{clear 0}\nThe plate reads "003".</Text>
+    <Text>\nIt's locked.{clear 0}The door reads\n"Control Room".</Text>
+    <Text>\n"Power Room"{clear 0}\nThe door is tightly locked.</Text>
+    <Text>\nIt's locked.</Text>
+    <Text>\nIt's locked from inside.</Text>
+    <Text>\nYou unlocked it.</Text>
+    <Text>\nIt's locked.{clear 0}Use a lockpick to open\nthe door.</Text>
+    <Text>\nI've got to hurry!</Text>
+    <Text>\nThere is no time to check it.</Text>
+    <Text>\nThe desk is locked.</Text>
+    <Text>\nThe desk is locked.{clear 0}Will you use\nthe {color 1}{string 0}{color 0}?{branch 2 9 1}</Text>
+    <Text>\n{scroll 0}Chris...{clear 40}{timed 52}\n{scroll 0}Chris...{timed 50}</Text>
+    <Text>{scroll 2}They have escaped\ninto the mansion{clear 48}where they thought\nit was safe.{clear 48}\nYet...{timed 48}</Text>
+    <Text>{scroll 2}You have once\n{scroll 2}again entered{clear 48}{scroll 2}the world of\n{scroll 2}survival horror.{clear 48}\n{scroll 2}Good luck!{timed 48}</Text>
+    <Text>{scroll 2}Be smart!\n{scroll 2}Fighting foes{clear 48}{scroll 2}isn't the only\n{scroll 2}way to survive{clear 48}\n{scroll 2}this horror.{timed 64}</Text>
+    <Text>\nIt's an old typewriter.{clear 0}If I had an {color 1}INK RIBBON{color 0}, I\ncould save my progress...</Text>
+    <Text>You can save your progress\nwith this.{clear 0}Will you use\nthe {color 1}INK RIBBON{color 0}?{branch 0 6 0}</Text>
+    <Text>A carving of a sword.</Text>
+    <Text>A carving of armor.</Text>
+    <Text>A carving of a shield.</Text>
+    <Text>A carving of a helmet.</Text>
+    <Text>The number "002" is engraved.</Text>
+    <Text>The number "003" is engraved.</Text>
+    <Text>A desk key.</Text>
+    <Text>A strange mark is carved here.</Text>
+    <Text>It's specially coated and\nlooks important...</Text>
+    <Text>There must be a closet\nsomewhere.</Text>
+    <Text>Its end is square-shaped.</Text>
+    <Text>Its end is hex.-shaped.</Text>
+    <Text>All pages are blank.\nWhat's it for...?</Text>
+    <Text>There is a medal in the book.</Text>
+    <Text>A chemical to kill the weeds.</Text>
+    <Text>{color 1}{string 0}{color 0} loaded.</Text>
+    <Text>I don't need this any more.</Text>
+    <Text>Too dangerous to mix here.</Text>
+    <Text>The poison gas enveloped.</Text>
+    <Text>The mixing seems to have\nfailed.  It disappeared.</Text>
+    <Text>Will you mix the herbs?{branch 0 32 6}</Text>
+    <Text>Mixing these does not seem\nto work.</Text>
+    <Text>You can't use this alone.</Text>
+    <Text>You can't use it here.</Text>
+    <Text>This chemical can be mixed\nwith other chemicals.</Text>
+    <Text>You can't use it here.</Text>
+    <Text>You can't use it here.</Text>
+    <Text>You can't use it here.</Text>
+    <Text>You can't use it here.</Text>
+    <Text>You don't need to use this\nitem at the moment.</Text>
+    <Text>Will you take\nthe {color 2}{string 0}{color 0}?{branch 0 0 68}ummy(Ç{scroll 18}·3)</Text>
+    <Text>Dummy(Ç{scroll 18}·3)</Text>
+</Strings>

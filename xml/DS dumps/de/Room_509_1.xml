@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}Das ist ein Gerät,\ndas Passcodes ausgibt.{clear 0}Mit einer MO-DISKETTE könnte\nich den Code aufzeichnen...{scroll 2}</Text>
+    <Text>{scroll 2}\nIch habe schon einen Passcode.{scroll 2}</Text>
+    <Text>{scroll 2}\nNichts Besonderes.{scroll 2}</Text>
+    <Text>{scroll 2}Die meisten Bücher dort\nsind Romane.{scroll 2}</Text>
+    <Text>{scroll 2}Kartons und Plakate.\nNichts Brauchbares.{scroll 2}</Text>
+    <Text>{scroll 2}Ein Schalter\nfür die Lüftungsanlage.{scroll 2}</Text>
+    <Text>{scroll 2}Die Darts haben Sensoren.\nAusprobieren?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nDer Verschluss ist fest zu.</Text>
+</Strings>

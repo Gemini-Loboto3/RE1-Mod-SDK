@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nHay un agujero hexagonal...</Text>
+    <Text>{scroll 2}Es un mapa del SUBTERRÁNEO bajo el\njardín... ¿Te lo llevas?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Ahora tienes el mapa\ndel SUBTERRÁNEO...</Text>
+    <Text>{scroll 2}\nNada fuera de lo normal...</Text>
+</Strings>

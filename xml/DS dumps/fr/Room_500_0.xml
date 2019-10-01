@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nVite ! {scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}"Sortie de secours"\nDéverrouillée en cas d'urgence.{scroll 1}</Text>
+    <Text>{scroll 2}\nL'ascenseur ne fonctionne pas.{scroll 1}</Text>
+    <Text>{scroll 2}Il y a une échelle.\nDescendre ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nDemi-tour impossible !{scroll 1}</Text>
+</Strings>

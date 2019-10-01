@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}Il y a un bouton.\nAppuyer dessus ?{branch 0 6 1}</Text>
+    <Text>{scroll 4}\nJohn. Ada...{scroll 2}</Text>
+    <Text>{scroll 2}Il y a quelque chose\nd'écrit sur le tableau...{scroll 2}</Text>
+    <Text>{scroll 2}Il fait trop sombre pour \nvoir quoi que ce soit.{scroll 2}</Text>
+    <Text>{scroll 2}On dirait que quelqu'un \na utilisé ceci récemment.{scroll 2}</Text>
+    <Text>{scroll 2}C'est l'interrupteur de l'air\nconditionné mais il est cassé.{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 2}Da ist ein Schalter.\nMöchten Sie draufdrücken?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Es passiert nichts.\nDie Stromversorgung fehlt.{scroll 1}</Text>
+    <Text>{scroll 0}\nChris!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nWarte mal, Chris!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nWas? Rebecca.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}In einem Forschungsbericht\nin diesem Labor heißt es,{scroll 1}{clear 110}{scroll 0}dass es gerade hier\neine große Menge{scroll 1}{clear 50}{scroll 0}Untersuchungsmaterial über\nden Tyrant-Virus gibt...{scroll 1}{clear 45}{scroll 0}Wir sollten das alles hier\nin die Luft sprengen...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Wir stecken hier bereits\nrein gedanklich schon viel{scroll 1}{clear 50}{scroll 0}\nzu tief drin.{scroll 1}{clear 40}{scroll 0}Rebecca,\nkannst du das übernehmen?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJa, Sir.{scroll 1}{clear 50}{scroll 0}Ich werde den Auslöser\nder Bombe in Gang setzen.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Okay! Jetzt haben wir\ndie Gelegenheit, zu entkommen!{scroll 1}{clear 102}{scroll 0}Ich treffe dich\naußerhalb des Hauses!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Rebecca!\nDu bist unversehrt!{scroll 1}{clear 85}{scroll 0}Ich hab dich im Garten\ngesehen,{scroll 1}{clear 50}{scroll 0}jetzt hab ich dich endlich\neingeholt.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Rebecca!\nDu bist unversehrt!{scroll 1}{clear 80}{scroll 0}\nEs tut mir so Leid.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Gut... ich bin froh,\ndass es dir gut geht.{scroll 1}{clear 90}{scroll 0}\nGeh nicht mehr allein!{scroll 1}{clear 50}{scroll 0}\nJa, Sir.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nHey, ich hab nach dir gesucht.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJill, nun sei nicht ärgerlich!{scroll 1}{clear 70}{scroll 0}Ich wollte,\ndass du auf mich wartest.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Barry, mach dich nicht\nwieder verrückt wie vorhin,{scroll 1}{clear 50}{scroll 0}als du das Seil losgelassen\nhattest!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Jill!\nDu bist auch hier!{scroll 1}{clear 70}{scroll 0}\nJa, und du auch?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Wie das so ist, ich konnte\nmich nicht mehr orientieren.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\nLass uns weitergehen.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n"Energieraum"{scroll 1}</Text>
+</Strings>

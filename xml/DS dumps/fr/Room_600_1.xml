@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 0}\nRebecca !{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris !{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}Dieu merci, \nvous êtes saine et sauve.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Je suis désolée de vous \navoir fait peur.{scroll 2}{clear 75}{scroll 0}\nNous courons un grand danger.{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nIl faut nous organiser pour{scroll 2}{clear 50}{scroll 0}retrouver les autres et\nficher le camp d'ici !{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nCompris ?{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}\nA vos ordres !{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}OK, j'y vais le premier,\nsuivez votre instinct.{scroll 2}{clear 135}{scroll 0}D'accord ? \nVous pouvez le faire ?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nOui !{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nBonne chance.{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}A vos ordres ! \nJe ferai de mon mieux !{scroll 2}{timed 45}</Text>
+    <Text>\nJe n'ai plus besoin de sérum.{scroll 2}</Text>
+    <Text>\nDes vitamines et des sérums.{scroll 2}</Text>
+    <Text>{scroll 2}C'est fermé.\nExaminer ?{branch 0 6 1}</Text>
+</Strings>

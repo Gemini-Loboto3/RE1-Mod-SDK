@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nDa ist ein sechseckiges Loch.</Text>
+    <Text>{scroll 2}Das ist ein Plan des \n{color 1}KELLERS{color 0}.{clear 0}{scroll 2}Möchten Sie ihn mitnehmen?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Sie besitzen jetzt \nden Plan des {color 1}KELLERS{color 0}.</Text>
+    <Text>{scroll 2}\nNichts von Interesse.</Text>
+</Strings>

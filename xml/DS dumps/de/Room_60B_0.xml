@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}Was sind das?\nMonster¼{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nIst sie immer noch im Haus?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWas sind das für welche¼{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es ist Rebecca!\nSie muß oben sein!{scroll 2}{timed 110}</Text>
+    <Text>Ich werde einige Patronen in\ndas hintere Zimmer legen.{scroll 2}{clear 0}Benutze sie, wenn es Ärger\ngibt. Wesker.{scroll 2}</Text>
+    <Text>Ich werde im hinteren Raum\netwas Munition deponieren.{scroll 2}{clear 0}Benutze sie, wenn es Ärger\ngibt. Barry.{scroll 2}</Text>
+    <Text>Ich wünschte, ich hätte Zeit,\ndie Bilder zu betrachten...{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}Parla Brad,\nsono a corto di carburante.{scroll 1}{clear 90}{scroll 0}\nOK, ultimo tentativo.{scroll 1}{clear 108}{scroll 0}Se qualcuno è ancora vivo,\nsi faccia sentire...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}\nLa batteria non è al suo posto.{scroll 1}</Text>
+    <Text>{scroll 0}\nOh no, dimmi che stai scherzando.{scroll 1}{clear 80}{scroll 0}Dopo tutta la strada fatta\nper arrivare qui.{scroll 1}{clear 52}{scroll 0}\nPrima le signore. Vai, Jill!{scroll 1}{clear 70}{scroll 0}\nMa Chris!{scroll 1}{clear 35}{scroll 0}Dai, fammi fare il\ncavaliere.{scroll 1}{clear 90}{scroll 0}OK, pensaci tu allora.\nCi vedremo all'eliporto.{scroll 1}{timed 170}</Text>
+    <Text>{scroll 0}Dannazione! Siamo a un passo\ndalla meta.{scroll 1}{clear 110}{scroll 0}\nOK, andrò io!{scroll 1}{clear 50}{scroll 0}Jill, tu prova a\ncontattare Brad.{scroll 1}{clear 90}{scroll 0}\nOK.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ce l'ho fatta, ho attivato\nl'innesco della bomba.{scroll 1}{clear 120}{scroll 0}Ottimo! Rebecca, Brad è\nnell'elicottero.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nGuarda quei mostri!{scroll 1}{clear 100}{scroll 0}\nMe ne occupo io.{scroll 1}{clear 60}{scroll 0}\nMa...{scroll 1}{clear 40}{scroll 0}Chris, contatta subito\nBrad.{scroll 1}{clear 80}{scroll 0}\nOK.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nMe ne occupo io.{scroll 1}{clear 60}{scroll 0}\nMa...{scroll 1}{clear 40}{scroll 0}Chris, contatta subito\nBrad.{scroll 1}{clear 80}{scroll 0}\nOK.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nGuarda quei mostri!{scroll 1}{clear 70}{scroll 0}Chris, se Brad è\nnell'elicottero,{scroll 1}{clear 84}{scroll 0}devi assolutamente metterti\nin contatto con lui!{scroll 1}{clear 85}{scroll 0}\nMa...{scroll 1}{clear 40}{scroll 0}\nIo terrò a bada i mostri!{scroll 1}{clear 84}{scroll 0}\nOK, mi fido di te.{scroll 1}{clear 84}{scroll 0}\nNon ti deluderò!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Sono Brad, sto\nfinendo il carburante.{scroll 1}{clear 90}{scroll 0}Se qualcuno è ancora vivo,\nche mi contatti subito!{scroll 1}{clear 108}{scroll 0}\nQuesta è l'ultima occasione...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 1}Nessuna reazione...\nNon c'è energia...{scroll 1}</Text>
+    <Text>{scroll 0}Mancano tre minuti\nall'esplosione.{scroll 1}{timed 100}</Text>
+</Strings>

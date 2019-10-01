@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nErschreck mich doch nicht so!{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Das wollte ich\nauch gerade sagen.{scroll 1}{clear 60}{scroll 0}\nHatten wir nicht ausgemacht,{scroll 1}{clear 40}{scroll 0}dass du dir die erste Etage\nvornimmst, Barry?{scroll 1}{timed 45}</Text>
+    <Text></Text>
+    <Text>{scroll 0}Ja ja, stimmt.\nAber schau dir das mal an.{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}Das ist Forest...\nOh, mein Gott.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nDas ist ja furchtbar...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nIch werde schon herausfinden,{scroll 1}{clear 60}{scroll 0}was die Ursache für Forests\nTod war.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nEs sieht aus,{scroll 1}{clear 35}{scroll 0}als ob er von einer Krähe\noder sowas getötet wurde.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Kannst du die erste Etage\ndurchsuchen, Jill?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nkay{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Hey, Jill.\nDas muss Forest gehört haben.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Du hast doch keine Waffen,\nalso nimm das mit!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nIch kann es nicht glauben!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}\nForest...{scroll 1}</Text>
+    <Text>{scroll 2}Es ist Forest...! Er wurde\nvon Krähen zu Tode gehackt.{scroll 1}</Text>
+</Strings>

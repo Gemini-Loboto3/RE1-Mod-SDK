@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}Chris!\nDu lebst noch!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nHab ich ja gesagt!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Wo ist Jill?\nWar Jill nicht bei euch?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nTut mir Leid...{scroll 1}{clear 45}{scroll 0}Wir wurden von einem\nseltsamenMonster angegriffen...{scroll 1}{clear 65}{scroll 0}Ich verlor ihre Spur, als\nwir die Gegend untersuchten.{scroll 1}{clear 90}{scroll 0}\nIch hoffe, dass sie okay ist...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ich verstehe...\nDas ist nicht deine Schuld...{scroll 1}{clear 80}{scroll 0}Dieser ganze Ort ist verrückt!\nWenn wir hier bleiben,{scroll 1}{clear 43}{scroll 0}werden wir über kurz oder lang\nalle tot sein...{scroll 1}{clear 86}{scroll 0}\nWas sollen wir tun, Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Wir müssen unseren Auftrag\nerfüllen.{scroll 1}{clear 50}{scroll 0}Ganz gleich, ob wir weglaufen\noder bleiben und nach Jill{scroll 1}{clear 60}{scroll 0}suchen wir haben kaum noch\nMunition übrig und wir können{scroll 1}{clear 125}{scroll 0}uns kaum selbst schützen.\nWir stecken in der Klemme.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChris,{scroll 1}{clear 30}{scroll 0}es gibt anscheinend noch\nviele Räume in diesem Haus,{scroll 1}{clear 75}{scroll 0}\ndie aber verschlossen sind.{scroll 1}{clear 35}{scroll 0}Überprüfe sie doch bitte\nnoch einmal.{scroll 1}{clear 35}{scroll 0}\nEs muss doch eine Ecke geben,{scroll 1}{clear 35}{scroll 0}in der man sich ungefährdet\nverstecken kann.{scroll 1}{clear 40}{scroll 0}Ich werde mich noch etwas\nintensiver im Haus umsehen.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOkay.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nDann wollen wir mal.{scroll 1}{timed 60}</Text>
+</Strings>

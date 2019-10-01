@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è un tavolo\noperatorio...{scroll 10}</Text>
+    <Text>{scroll 2}Strumenti chirurgici... Alcuni\nsono macchiati di sangue...{scroll 10}</Text>
+    <Text>{scroll 2}C'è un condotto dell'aria...\nVuoi entrarci? {branch 0 6 0}</Text>
+    <Text>{scroll 2}\nIl gas venefico sta uscendo!{scroll 10}</Text>
+    <Text>{scroll 2}\nQui c'è un cadavere...{scroll 10}</Text>
+    <Text>{scroll 2}Questo posto sembra\nun obitorio...{scroll 10}</Text>
+    <Text>{scroll 2}Una macchina generatrice\ndi codici.{scroll 10}{clear 0}{scroll 2}Se avessi un DISCO MO,\npotrei ottenere il codice...{scroll 10}</Text>
+    <Text>{scroll 2}\nHo già il codice...{scroll 10}</Text>
+    <Text>{scroll 2}\nHai ottenuto il codice...{scroll 10}</Text>
+    <Text>{scroll 2}Il baule è chiuso.\nVuoi esaminarlo?{branch 0 6 1}</Text>
+</Strings>

@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>Cette pierre tombale a été\ndéplacée.{scroll 2}</Text>
+    <Text>Il fait trop sombre pour\nvoir quoi que ce soit.{scroll 2}</Text>
+    <Text>Il fait trop sombre.\nDescendre ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Il y a une corde.\nDescendre ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Jill ! Tu as trouvé quelque \nchose d'intéressant ?{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Oui, mais je n'arrive pas à \nbien voir...{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Et si tu descendais pour y \nregarder de plus près ? {scroll 2}{clear 70}{scroll 0}\nJ'ai une corde.{scroll 2}{timed 61}</Text>
+    <Text>{scroll 0}\nOh, c'est vrai...?{scroll 2}{clear 40}{scroll 0}Dans ce cas, je vais \nl'utiliser pour descendre...{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nAttends !{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Ah, oui.\nRichard m'a donné ça.{scroll 2}{clear 80}{scroll 0}Cette radio peut te sortir \nd'un mauvais pas.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nRichard ?{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Elle te sera plus utile à toi \nqu'à moi. {scroll 2}{clear 70}{scroll 0}\nPrête ?{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nEh ! Que se passe-t-il ?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Voilà, c'est malin ! Désolé, \nJill. {scroll 2}{clear 77}{scroll 0}Attends ! Je reviens tout de \nsuite avec une autre corde !{scroll 2}{timed 98}</Text>
+    <Text>{scroll 0}\nEh ! Tu es là, Jill ? {scroll 2}{clear 80}{scroll 0}\nAttrape la corde !{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nDésolé, Jill.{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}Je ne savais pas que ça\nallait m'arriver !{scroll 2}{clear 95}{scroll 0}Désolé. Je n'ai pas fait \nsuffisamment attention.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nEst-ce que ça va, Barry ? {scroll 2}{clear 65}{scroll 0}\nPas trop fatigué ?{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nNon, ça va. Ne t'inquiète pas.{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Jill... \nJ'ai trouvé quelque chose.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nMerci. Je le prends alors.{scroll 2}{timed 90}</Text>
+    <Text>{branch 2 8 22}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 22}</Text>
+    <Text>Il y a un bouton dessous.\nAppuyer dessus ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{branch 2 8 25}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 25}</Text>
+    <Text>Il y a une corde.\nMonter ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Il y a une échelle.\nDescendre ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Un trou s'ouvre dans la\ncheminée.{scroll 2}</Text>
+    <Text>{scroll 2}A la tombe, prenez l'épée\net combattez !{clear 0}{scroll 2}Toucher la tombe ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Un vieux phonographe à la\nmanivelle cassée.{clear 0}{scroll 2}Tourner le disque\nà la main ?{branch 0 6 1}</Text>
+</Strings>

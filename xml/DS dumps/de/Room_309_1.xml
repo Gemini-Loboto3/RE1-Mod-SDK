@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 0}\nDas war ziemlich knapp!{scroll 1}{clear 140}{scroll 0}\nOkay, lass uns gehen!{scroll 1}{clear 40}{scroll 0}Dann gebe ich dir Deckung.\nWir sollten uns beeilen.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}Ein Stromgenerator,\naber er funktioniert nicht.{scroll 1}</Text>
+</Strings>

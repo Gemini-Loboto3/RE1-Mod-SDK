@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}\nSalut, Jill, c'est toi... {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nBarry... {scroll 1}{clear 60}{scroll 0}Je suis vraiment gêné de te \nvoir à présent. Laisse-moi.  {scroll 1}{clear 115}{scroll 0}\nVa-t-en vite. {scroll 1}{clear 115}{scroll 0}C'est fini Barry. \nWesker est mort. {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}C'est vrai ? Jill, peux-tu me\nrendre un service ?  {scroll 1}{clear 90}{scroll 0}\nC'est mon dernier souhait.{scroll 1}{clear 249}{scroll 0}S'il te plaît, donne cette\nphoto à ma famille, d'accord ?{scroll 1}{clear 220}{scroll 0}\nPas de problème. {scroll 1}{clear 70}{scroll 0}\nPardonne-moi, Jill... {scroll 1}{timed 199}</Text>
+    <Text>{scroll 0}Continuons, Chris. Nous ne \npouvons pas nous arrêter. {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nAllons-y. {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nPartons ! {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill ! {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nMon Dieu ! {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\nAllons-y. {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nPartons ! {scroll 1}{timed 60}</Text>
+    <Text>{scroll 2}Il y a une échelle.\nMonter ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Il a dû être attaqué par\nces monstres.{scroll 1}</Text>
+    <Text>{scroll 2}C'est fermé.\nExaminer ?{branch 0 6 1}</Text>
+</Strings>

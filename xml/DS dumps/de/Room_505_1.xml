@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Es ist zu dunkel,\num irgendwas zu erkennen...{scroll 1}</Text>
+    <Text>{scroll 0}Der Auslöser wurde\nsoeben aktiviert.{scroll 1}{clear 120}{scroll 0}Alle Wissenschaftler und das\nWachpersonal müssen{scroll 1}{clear 120}{scroll 0}\ndas Gelände sofort verlassen.{scroll 1}{clear 60}{scroll 0}\nAlle Fluchtwege sind geöffnet.{scroll 1}{clear 60}{scroll 0}Bis zur Detonation\nsind es noch 10 Minuten...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}Kein Grund,\ndie Leiter zu benutzen.</Text>
+</Strings>

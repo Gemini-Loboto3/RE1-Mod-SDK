@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}Umbrella Inc.\nMateriali bio-armamenti{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nMA-39 Cerberus{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nFi-3 Neptune{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nMA-121 Hunter{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}\nT-002 Tyrant{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 0}Istituto di ricerca sui\nbio-armamenti. Reparto R&amp;S.{scroll 30} {clear 0}{timed 1}</Text>
+    <Text>{scroll 2}Qualcosa è stato trascinato\nlungo la parete...{scroll 1}</Text>
+    <Text>{scroll 2}C'è un pannello...\nVuoi aprirlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}C'è un interruttore...\nVuoi premerlo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nUn proiettore...{scroll 1}</Text>
+    <Text>{scroll 2}\nUno schermo...{scroll 1}</Text>
+    <Text>{scroll 2}Un interfono... Sembra\nche non funzioni...{scroll 1}</Text>
+    <Text>{scroll 2}Qui sono scritti dei simboli\nfisici sconosciuti...{scroll 1}</Text>
+    <Text>{scroll 2}Istruzioni operative:\nAccendere tutti i pulsanti blu. {clear 0}{scroll 2}Le luci rosse spengono\nil pulsante blu sottostante.</Text>
+</Strings>

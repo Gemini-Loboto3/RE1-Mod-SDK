@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>Alguien ha movido esta\nlápida...{scroll 2}</Text>
+    <Text>Está demasiado oscuro, \nno se ve nada...{scroll 2}</Text>
+    <Text>Está oscuro... ¿Quieres\nsaltar abajo?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Hay una cuerda... ¿Quieres\nbajar por ella?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Jill, ¿has encontrado\nalgo interesante?{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}Sí, pero no puedo\nver demasiado bien.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}¿Qué te parece bajar\na verlo tú misma?{scroll 2}{clear 70}{scroll 0}\nTengo una cuerda.{scroll 2}{timed 61}</Text>
+    <Text>{scroll 0}¿De verdad? Bueno, intentaré\nbajar con la cuerda.{scroll 2}{timed 120}</Text>
+    <Text>{scroll 0}\nEspera.{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\nSí, Richard me dio ésto.{scroll 2}{clear 80}{scroll 0}\nLe estaba guardando su radio.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\n¡Richard!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Te será más útil a\nti que a mí.{scroll 2}{clear 70}{scroll 0}\n¿Lista?{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}\n¡Eh! ¿Qué pasa?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Ahora sí que la he liado.\nLo siento, Jill.{scroll 2}{clear 77}{scroll 0}Espera, iré a conseguir\notra cuerda.{scroll 2}{timed 98}</Text>
+    <Text>{scroll 0}\n¡Oye! Jill, ¿estás ahí?{scroll 2}{clear 80}{scroll 0}\n¡Coge la cuerda!{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}\nLo siento, Jill.{scroll 2}{timed 43}</Text>
+    <Text>{scroll 0}No sabía que fuera\na pasar eso.{scroll 2}{clear 95}{scroll 0}Lo siento, he sido\nmuy descuidado.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry, ¿estás bien?{scroll 2}{clear 65}{scroll 0}\nQuizás estas cansando.{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}No, estoy bien,\nno te preocupes.{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\nJill, he encontrado algo.{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Gracias,\nme lo llevaré.{scroll 2}{timed 90}</Text>
+    <Text>{branch 2 8 22}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 22}</Text>
+    <Text>Abajo hay un interruptor...\n¿Lo aprietas?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{branch 2 8 25}</Text>
+    <Text>\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}\n{scroll 2}{clear 0}{branch 2 8 25}</Text>
+    <Text>Hay una cuerda... ¿Quieres\nsubir por ella?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Hay una escalera...\n¿quieres bajar?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Se abre un agujero\nen la chimenea...{scroll 2}</Text>
+    <Text>{scroll 2}¡Pon la mano en la tumba,\ncoge el cuchillo y prueba tu valor!{clear 0}{scroll 2}\n¿Pones la mano? {branch 0 6 1}</Text>
+    <Text>{scroll 2}Un antiguo gramófono.\nLa manivela está rota.{clear 0}{scroll 2}¿Quieres girarlo a mano?{branch 0 6 1}</Text>
+</Strings>

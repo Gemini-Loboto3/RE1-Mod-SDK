@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}\nOld clothes...{scroll 2}</Text>
+    <Text>{scroll 2}\nLooks like it's your size.{clear 0}Change costumes?{branch 0 6 1}</Text>
+    <Text>{scroll 0}\nJust a moment please...{scroll 50} {scroll 2}{timed 255}</Text>
+    <Text>{scroll 2}\nIt doesn't fit you.{scroll 2}</Text>
+    <Text>{scroll 2}Revert to previous costume?{branch 0 6 1}</Text>
+    <Text>°{scroll 0}</Text>
+    <Text>\n</Text>
+</Strings>

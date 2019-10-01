@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOh Jill, proprio al momento\ngiusto.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Pochi istanti fa ho sentito\nuna voce provenire da{scroll 1}{clear 75}{scroll 0}\nquesto foro.{timed 30}</Text>
+    <Text>{scroll 0}\nAndiamo insieme, è buio e{scroll 1}{clear 90}{scroll 0}non si vede molto\nbene.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}\nOK, andiamo.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}OK, allora io ti copro!\nFacciamo presto!{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Ehi, tutto a posto? Se vuoi\nposso andare davanti io.{scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Oh sì, per favore!\nSono un po' a disagio.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nHo capito.{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}Potrebbe essere più pericoloso\nse tu fossi dietro di me.{scroll 1}{clear 114}{scroll 0}\nFai attenzione!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nOK, andiamo, Barry.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nConto su di te.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nBarry, Io...{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nPotrebbe essere pericoloso.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Io ci andrò, anche se\nnon verrai con me.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Tu aspetterai qui,\nJill?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nMi spiace.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nNon preoccuparti. Ora vado.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}Barry, credo che cercherò\nun'altra strada.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Ho capito. Sì, mi sa\nche dovresti farlo.{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}\nFai attenzione!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 1}Vuoi andare con lui?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Vuoi andare avanti tu?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 1}Vuoi restare qui?\n{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 0}Già esaurito il coraggio?\nNon è da te.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBarry?!{scroll 1}{timed 55}</Text>
+</Strings>

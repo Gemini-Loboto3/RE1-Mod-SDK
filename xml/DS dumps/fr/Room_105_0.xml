@@ -1,0 +1,32 @@
+﻿<Strings>
+    <Text>{scroll 0}\nUne salle à manger... {scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nQuoi ? Qu'est-ce que c'est...? {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est que ça ? {scroll 1}{clear 51}{scroll 0}\nDu sang... {scroll 1}{clear 62}{scroll 0}Jill, vois si tu peux trouver \nd'autres indices,  {scroll 1}{clear 96}{scroll 0}\nje regarde ça de plus près. {scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}J'espère que ce n'est pas le \nsang de Chris. {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nTu baisses déjà les bras ?  {scroll 1}{clear 52}{scroll 0}\nÇa ne te ressemble pas. {scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nQui est-ce ? {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\nEh vous, arrêtez ! {scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nCours, Jill ! Il est fou ! {scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nBon sang...? {scroll 1}{clear 51}{scroll 0}Allons rendre compte de ça à \nWesker. {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nBarry...! {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nQuoi !? {scroll 1}{clear 41}{scroll 0}\nAttention ! C'est un monstre ! {scroll 1}{clear 76}{scroll 0}\nJe m'en charge ! {scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est...? {scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Kenneth a également été tué. \nPeut-être par cette créature. {scroll 1}{timed 135}</Text>
+    <Text>{scroll 0}De toutes façons, allons en \nrendre compte à Wesker. {scroll 1}{timed 89}</Text>
+    <Text>A cet endroit, les recherches \nne sont pas finies.</Text>
+    <Text>Il faut que j'en rende\ncompte à Wesker...</Text>
+    <Text>C'est la cavité où il y \navait un blason.</Text>
+    <Text>\nIl y a un blason.</Text>
+    <Text>\nBarry enquête...</Text>
+    <Text>\nPas de temps pour vérifier.</Text>
+    <Text>\nRien d'utile.</Text>
+    <Text>\nLe portrait d'une femme.</Text>
+    <Text>Une photo d'un superbe \npaysage.</Text>
+    <Text>\nUne pendule poussièreuse.</Text>
+    <Text>\nElle ne fonctionne plus.</Text>
+    <Text>\nDes couverts.</Text>
+    <Text>Il fait sombre dehors et \nje ne peux pas voir loin.</Text>
+    <Text>\nC'est vide.</Text>
+    <Text>Il y a un espace creux\nderrière le bouclier.</Text>
+    <Text>{scroll 2}\nL'horloge a sonné 3 fois.</Text>
+</Strings>

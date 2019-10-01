@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}C'è un interruttore...\nVuoi premerlo?{branch 0 6 1}</Text>
+    <Text>{scroll 4}\nJohn... ADA...{scroll 2}</Text>
+    <Text>{scroll 2}C'è qualcosa scritto\nsull'immagine...{scroll 2}</Text>
+    <Text>{scroll 2}È troppo buio, non\nsi vede niente...{scroll 2}</Text>
+    <Text>{scroll 2}Sembra che qualcuno lo\nabbia usato di recente...{scroll 2}</Text>
+    <Text>{scroll 2}L'interruttore del\ncondizionatore, ma è rotto...{scroll 2}</Text>
+</Strings>

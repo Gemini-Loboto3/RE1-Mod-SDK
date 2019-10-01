@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}C-Che cosa sono?\nM-Mostri?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nÈ ancora nella casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nChe cosa sono?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}È Rebecca,\ndev'essere di sopra!{scroll 2}{timed 110}</Text>
+    <Text>Lascerò dei proiettili nella\nstanza sul retro...{scroll 2}{clear 0}Usali in caso di difficoltà,\nWesker...{scroll 2}</Text>
+    <Text>Lascerò dei proiettili nella\nstanza sul retro...{scroll 2}{clear 0}Usali in caso di difficoltà,\nBarry...{scroll 2}</Text>
+    <Text>Vorrei avere il tempo per\nammirare queste immagini...{scroll 2}</Text>
+</Strings>

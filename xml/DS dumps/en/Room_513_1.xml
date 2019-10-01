@@ -1,0 +1,39 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}There's a key on the\nfloor...</Text>
+    <Text>{scroll 2}\nWhat a miserable death...</Text>
+    <Text>{scroll 2}\nI can't leave Barry alone!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nIs this...?{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nThat's right!{scroll 1}{clear 115}{scroll 0}This is the ultimate life\nform. Tyrant!!{scroll 1}{timed 64}</Text>
+    <Text>{scroll 1}{clear 50}{scroll 0}\nChris!{scroll 1}{clear 40}{scroll 1}{clear 30}{scroll 0}\nStop it!{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\nWesker, you're pitiful!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nThis is your savior?{scroll 1}{clear 75}{scroll 0}You say this failure,\nis your savior?{scroll 1}{timed 168}</Text>
+    <Text>{scroll 0}\nYou can make sure yourself,{scroll 1}{clear 75}{scroll 0}whether Tyrant is a failure\nor not.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Go to hell!\nJill will join you too.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nWhat?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nDon't come this way! Nooooo!{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}\nYou can't kill me!{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Tyrant virus is a super\nvirus, which creatures{scroll 1}{clear 120}{scroll 0}a monster which is much\nstronger than human beings.{scroll 1}{clear 110}{scroll 0}Tyrant is the most powerful\nbiological weapon{scroll 1}{clear 95}{scroll 0}\nin the world.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}You don't mean you're\nexperimenting on real people?{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}\nThis is really beautiful!{scroll 1}{clear 95}{scroll 0}\nAll this power will be mine!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}For the sake of an awful\ncreature?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nDon't be upset.{scroll 1}{clear 45}{scroll 0}All weak people exist\nto be eaten.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}It can't control\nwhat it does.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nCan a creature like this{scroll 1}{clear 45}{scroll 0}really be the ultimate\nbiological weapon?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}Really!\nWesker is a crazy man.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Tyrant is not completely\ndeveloped.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nBut we can't let it live.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}That must be the computer\nfor monitoring this creature.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 1}{clear 20}{scroll 0}\nDamn you!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room...{clear 0}{scroll 2}But there's no time to\noperate it!</Text>
+    <Text>{scroll 2}It's electronically\nlocked!?</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room...{clear 0}{scroll 2}There's a door lock switch...\nWill you unlock it?{branch 0 6 0}</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room...{clear 0}{scroll 2}A door lock device...\nUnlock the door?{branch 0 6 0}</Text>
+    <Text>{scroll 2}It's electronically\nlocked...</Text>
+    <Text>{scroll 2}It looks like the control\ndevice for this room...</Text>
+    <Text>{scroll 0}\nBarry! Barry!!{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nYou're alive!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Uhh, ahh,\nI'm really embarrassed.{scroll 1}{clear 165}{scroll 0}\nI was clumsy.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\nLet's get going.{scroll 1}{timed 90}</Text>
+</Strings>

@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWesker!{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nChris! You're alive?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nMy words exactly.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Where's Jill?\nAren't you with Jill?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nI'm sorry,{scroll 1}{clear 45}{scroll 0}we were attacked by\na strange monster.{scroll 1}{clear 65}{scroll 0}I lost track of her, while\nwe were scouting around.{scroll 1}{clear 90}{scroll 0}\nI hope she's okay.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}I see, well it's not\nyour fault.{scroll 1}{clear 80}{scroll 0}\nThis place is crazy!{scroll 1}{clear 43}{scroll 0}If we stay here,\nall of us will end up dead!{scroll 1}{clear 86}{scroll 0}\nWhat should we do Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}We have to complete\nthis mission.{scroll 1}{clear 50}{scroll 0}Whether we escape or stay\nand look for Jill,{scroll 1}{clear 60}{scroll 0}we don't have many bullets left and\nwe can't even protect ourselves.{scroll 1}{clear 125}{scroll 0}\nWe're still in trouble.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nChris,{scroll 1}{clear 30}{scroll 0}there are a lot of\nlocked rooms in that house.{scroll 1}{clear 75}{scroll 0}Check them out one\nmore time.{scroll 1}{clear 70}{scroll 0}There must be a place\nto hide safely.{scroll 1}{clear 75}{scroll 0}I'll look around the house\na little more.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOkay.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nLet's get going.{scroll 1}{timed 60}</Text>
+</Strings>

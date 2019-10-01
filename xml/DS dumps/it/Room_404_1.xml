@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>\nUna "palla 3"...{scroll 2}</Text>
+    <Text>\nUna "palla 6"...{scroll 2}</Text>
+    <Text>\nUna "palla 9"...{scroll 2}</Text>
+    <Text>Sembra il quadrante di\nun orologio...{scroll 2}{clear 0}\nUna specie di codice...{scroll 2}</Text>
+    <Text>\nUn bersaglio per le freccette.{scroll 2}</Text>
+    <Text>\nRotto...{scroll 2}</Text>
+    <Text>Non c'è tempo per\ncontrollare...{scroll 2}</Text>
+    <Text>Sembra il quadrante di\nun orologio...{scroll 2}{clear 0}\n1·2···4·5···{scroll 2}{clear 0}\nUna specie di codice...{scroll 2}</Text>
+    <Text>Sembra il quadrante di\nun orologio...{scroll 2}{clear 0}\n2···1·5···{scroll 2}{clear 0}\nUna specie di codice...{scroll 2}</Text>
+    <Text>Sembra il quadrante di\nun orologio...{scroll 2}{clear 0}\n3···4·5···{scroll 2}{clear 0}\nUna specie di codice...{scroll 2}</Text>
+    <Text>Sembra il quadrante di\nun orologio...{scroll 2}{clear 0}\n9···5·8···{scroll 2}{clear 0}\nUna specie di codice...{scroll 2}</Text>
+</Strings>

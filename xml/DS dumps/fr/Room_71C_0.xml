@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>\nC'est poussiéreux. {scroll 2}{clear 0}Cela n'a pas été utilisé \ndepuis longtemps.{scroll 2}</Text>
+    <Text>Un congélateur. Il n'a pas\nété utilisé depuis longtemps.{scroll 2}</Text>
+    <Text>\nUn four.{clear 0}C'est rouillé et ça ne \nfonctionne pas.{scroll 2}</Text>
+    <Text>Une cuisinière à gaz. Le\ngaz est coupé.{scroll 2}</Text>
+    <Text>\nL'eau est coupée.{scroll 2}</Text>
+    <Text>Il y a du sang séché.\nQu'ont-ils cuisiné ici ?{scroll 2}</Text>
+</Strings>

@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\nIl y a un trou hexagonal.</Text>
+    <Text>{scroll 2}C'est un plan DU SOUS-SOL.\nLe prendre ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Vous avez le plan \nDU SOUS-SOL.</Text>
+    <Text>{scroll 2}\nRien d'utile.</Text>
+</Strings>

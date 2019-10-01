@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Es una máquina de\ncontraseñas...{clear 0}Si tuviera un DISCO MO podría\nconseguir la contraseña...{scroll 2}</Text>
+    <Text>{scroll 2}\nYa tengo la contraseña...{scroll 2}</Text>
+</Strings>

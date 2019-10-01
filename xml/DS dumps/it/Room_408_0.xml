@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text>{scroll 0}\nOooh!{scroll 1}{clear 20}{scroll 0}\nNon posso crederci!{scroll 1}{clear 60}{scroll 0}\nStai bene?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Sì. Così è sistemato. Dobbiamo\narrivare alla radice del problema.{scroll 1}{clear 155}{scroll 0}\nMi hai salvato di nuovo.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nIo... Io...{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nDavvero! Grazie.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Avresti fatto lo stesso\nper me, vero?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nCerto.{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Beh, penso di poter preparare\nun'altra pozione.{scroll 1}{clear 70}{scroll 0}Tornerò nel locale\nfarmaceutico che ho{scroll 1}{clear 70}{scroll 0}\ntrovato poco fa.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Comunque, Chris,\nsono felice che tu sia salvo.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Beh, Chris,\nquesta è la radio di Richard.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Poco fa abbiamo ricevuto\nun messaggio da Brad, nel{scroll 1}{clear 90}{scroll 0}\ncortile.{scroll 1}{clear 40}{scroll 0}Però è ancora su in cielo\na svolazzare e{scroll 1}{clear 60}{scroll 0}non è riuscito a\nsentire le nostre voci.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nForse gli si è rotta la radio.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Certo, ho capito.\nLa terrò io, dobbiamo riuscire{scroll 1}{clear 100}{scroll 0}a far sapere a Brad che\nsiamo qui.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Nel locale farmaceutico\nche ho trovato poco fa{scroll 1}{clear 80}{scroll 0}dovrei riuscire a\ncombinare qualcosa.{scroll 1}{timed 80}</Text>
+    <Text>\nNon si muoverà mai...{clear 0}Sembra che ci sia un blocco\ndall'altro lato...</Text>
+    <Text>{scroll 2}\nDovrei darmi una mossa.{scroll 2}</Text>
+    <Text>\nChiusa...</Text>
+    <Text>Il sentiero si aprirà per chi\ngirerà la pietra.{scroll 2}</Text>
+    <Text>\nLa porta è chiusa.{clear 0}Ha qualcosa a che fare con la\nstele di pietra...{scroll 2}</Text>
+    <Text>\nLa porta è chiusa{clear 0}A tutti i giocatori serve\nuna chiave per aprirla.{scroll 2}</Text>
+    <Text>Hai usato la\n{color 1}CHIAVE DEL DORMITORIO{color 0}.</Text>
+</Strings>

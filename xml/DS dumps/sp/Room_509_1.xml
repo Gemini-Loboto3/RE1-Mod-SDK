@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}Es una máquina de\ngrabación de contraseñas...{clear 0}Si tuviera un DISCO MO podría\nconseguir la contraseña...{scroll 2}</Text>
+    <Text>{scroll 2}\nYa tengo la contraseña...{scroll 2}</Text>
+    <Text>{scroll 2}\nNada especial...{scroll 2}</Text>
+    <Text>{scroll 2}La mayoría son\nlibros de ficción...{scroll 2}</Text>
+    <Text>{scroll 2}Cajas de cartón y un póster...\nNada útil...{scroll 2}</Text>
+    <Text>{scroll 2}Un interruptor para\nel aire acondicionado...{scroll 2}</Text>
+    <Text>{scroll 2}Los dardos tienen sensores.\n¿Quieres probarlos? {branch 0 6 1}</Text>
+    <Text>{scroll 2}\nLa persiana está bien cerrada.</Text>
+</Strings>

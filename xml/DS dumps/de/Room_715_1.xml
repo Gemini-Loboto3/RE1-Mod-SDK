@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Da ist ein Schalter.\nMöchten Sie draufdrücken?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nNichts Wichtiges.{scroll 1}</Text>
+    <Text>{scroll 2}Möchten Sie den Augapfel\nherausnehmen?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Er sieht aus, \nals ob er am Leben ist.{scroll 1}</Text>
+    <Text>{scroll 2}Er sieht aus,\nals ob er sich gleich bewegt.{scroll 1}</Text>
+    <Text>{scroll 2}\nEin Schaukelstuhl.{scroll 1}</Text>
+    <Text>{scroll 2}\nNichts von Interesse.{scroll 1}</Text>
+    <Text>{scroll 2}\nDa sind Kerzen...</Text>
+    <Text>{scroll 2}\nEin Feuerzeug könnte helfen.</Text>
+    <Text>{scroll 2}\nKerzen anzünden?{branch 0 6 1}</Text>
+</Strings>

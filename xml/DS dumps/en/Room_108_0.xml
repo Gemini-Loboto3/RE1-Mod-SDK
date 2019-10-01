@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}There is no time to check\nit...{scroll 1}</Text>
+    <Text>{scroll 2}\nCreepy stuff...{scroll 1}</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

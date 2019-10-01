@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nEh eh eh, non spaventarmi.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Ecco cosa volevo\ndire.{scroll 1}{clear 60}{scroll 0}Non dovresti andare al\npiano terra,{scroll 1}{clear 40}{scroll 0}\nBarry?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Sì, hai ragione, ma guarda\nqui!{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nÈ Forest! Oh mio Dio!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nÈ orribile!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Voglio scoprire che cosa\nha ucciso Forest.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Sembra che sia stato ucciso\nda una specie di corvo.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Puoi dare un'occhiata al\nprimo piano, Jill?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOK.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Ehi, Jill! Questo doveva\nessere di Forest.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Non hai un'arma... Porta\nquesta con te.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nNon posso crederci.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}\nForest...{scroll 1}</Text>
+    <Text>{scroll 2}È Forest! È stato\nbeccato a morte dai corvi.{scroll 1}</Text>
+</Strings>

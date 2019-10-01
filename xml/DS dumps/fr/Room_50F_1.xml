@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>Un panneau électrique.\nCertaines zones ne sont pas{scroll 2}{clear 0}raccordées. Raccorder les\nzones sans électricité ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Cela montre le niveau\nd'électricité.{scroll 2}</Text>
+    <Text>{scroll 2}\nUn régulateur de courant.{clear 0}{scroll 2}Voltage incorrect.\nModifier ?{branch 0 6 1}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Tracez 2 fils pour rétablir\nle courant de l'ascensceur.{clear 0}Toutes les jauges doivent\nêtre dans le rouge.</Text>
+</Strings>

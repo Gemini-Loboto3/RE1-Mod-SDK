@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}La bañera está llena\nde agua turbia...{clear 0}{scroll 2}¿Quieres vaciarla?{branch 0 6 1}</Text>
+    <Text>\nNada especial...</Text>
+    <Text>\nNada destacable...</Text>
+</Strings>

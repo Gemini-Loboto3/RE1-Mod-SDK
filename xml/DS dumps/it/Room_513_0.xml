@@ -1,0 +1,39 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'è una chiave sul\npavimento...</Text>
+    <Text>{scroll 2}\nChe morte miserabile...</Text>
+    <Text>{scroll 2}\nNon posso lasciare solo Barry!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nÈ questo?{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nEsatto!{scroll 1}{clear 35}{scroll 0}La forma di vita suprema!\nIl Tyrant!{scroll 1}{timed 114}</Text>
+    <Text>{scroll 1}{clear 50}{scroll 0}\nChris!{scroll 1}{clear 40}{scroll 1}{clear 30}{scroll 0}\nSmettila!{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\nWesker, sei patetico!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nQuesto sarebbe il tuo eroe?{scroll 1}{clear 75}{scroll 0}Questo patetico fallimento\nè il tuo salvatore?{scroll 1}{timed 168}</Text>
+    <Text>{scroll 0}\nPotrai vedere da solo se{scroll 1}{clear 75}{scroll 0}il Tyrant è o meno un\nfallimento.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Vai all'inferno!\nE Jill verrà con te.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nCosa?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Non venire da questa parte!\nNooo!{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}\nNon mi ucciderai!{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Il Tyrant è un super virus,\nin grado di creare dei{scroll 1}{clear 135}{scroll 0}mostri molto più forti di\nun essere umano.{scroll 1}{clear 100}{scroll 0}Il Tyrant è la più potente\narma biologica{scroll 1}{clear 120}{scroll 0}\ndel mondo.{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Vuoi dire che conduci\nesperimenti su esseri umani?{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}\nChe meraviglia!{scroll 1}{clear 95}{scroll 0}\nQuesto potere sarà mio!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Per questo hai generato\nquesta creatura orrenda?{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nNon ti arrabbiare.{scroll 1}{clear 45}{scroll 0}Il destino dei deboli è quello\ndi essere divorati.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Non può controllare le\nsue azioni.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nDavvero una creatura come{scroll 1}{clear 50}{scroll 0}questa può essere l'arma\nbiologica suprema?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Certo!\nWesker è un folle.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Lo sviluppo del Tyrant\nnon è completo.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nNon possiamo lasciarla in vita.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Quello dev'essere il computer\nche controlla la creatura.{scroll 1}{timed 115}</Text>
+    <Text>{scroll 1}{clear 20}{scroll 0}\nDannazione a te!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 2}Sembra il dispositivo di\ncontrollo della stanza...{clear 0}{scroll 2}Ma non c'è il tempo per\nattivarlo!</Text>
+    <Text>{scroll 2}Eh... è bloccata\nelettronicamente?!</Text>
+    <Text>{scroll 2}Sembra il dispositivo di\ncontrollo della stanza...{clear 0}{scroll 2}C'è un interruttore di blocco.\nVuoi aprire la porta?{branch 0 6 0}</Text>
+    <Text>{scroll 2}Sembra il dispositivo di\ncontrollo della stanza...{clear 0}{scroll 2}C'è un dispositivo di blocco.\nVuoi aprire la porta?{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nÈ chiusa elettronicamente...{scroll 1}</Text>
+    <Text>{scroll 2}Sembra il dispositivo di\ncontrollo della stanza...</Text>
+    <Text>{scroll 0}\nBarry! Barry!{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nSei vivo!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Uh, aaah,\nche imbarazzo.{scroll 1}{clear 165}{scroll 0}\nHo combinato un disastro.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\nDiamoci una mossa.{scroll 1}{timed 90}</Text>
+</Strings>

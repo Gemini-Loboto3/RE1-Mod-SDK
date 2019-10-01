@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nWas ist passiert¼{scroll 1}{clear 70}{scroll 0}Huh! Das macht mich jetzt ganz\nverlegen. Ich war ungeschickt.{scroll 1}{clear 220}{scroll 0}Oh, du solltest jetzt\nnicht sprechen.{scroll 1}{clear 80}{scroll 0}Ich werde erst mal\nErste Hilfe leisten.{scroll 1}{clear 70}{scroll 0}Vielleicht ist meine Zeit\nabgelaufen.{scroll 1}{clear 90}{scroll 0}\nJill,{scroll 1}{clear 50}{scroll 0}\nnimm das hier...{scroll 1}{clear 100}{scroll 0}Ich habe euch alle\nvon Anfang an getäuscht.{scroll 1}{clear 175}{scroll 0}Wenn ihr mir noch mal\nvergeben könnt,{scroll 1}{clear 100}{scroll 0}würdet ihr das hier bitte\nmeiner Familie übergeben?{scroll 1}{clear 120}{scroll 0}Und wenn es möglich ist,\nversucht{scroll 1}{clear 75}{scroll 0}\nbitte, sie zu schützen.{scroll 1}{clear 165}{scroll 0}Was meinst du denn damit?\n...Barry. Gib nicht auf.{scroll 1}{clear 120}{scroll 0}\nAh, Jill.{scroll 1}{clear 100}{scroll 0}Nimm dich vor diesem Kerl\nin Acht.{scroll 1}{clear 170}{scroll 0}\nBitte bleib' am Leben...{scroll 1}{timed 200}</Text>
+    <Text>{scroll 2}\nBarry...{scroll 1}</Text>
+    <Text>{scroll 2}\nDa ist eine Leiter.{clear 0}Möchten Sie hinaufklettern?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nDa ist ein sechseckiges Loch.{scroll 1}</Text>
+    <Text>{scroll 2}Ein Spalt, ich kann nicht\nhinüberspringen.{scroll 1}</Text>
+</Strings>

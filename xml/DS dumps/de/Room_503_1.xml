@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}\nSie ist elektrisch verriegelt.{scroll 1}</Text>
+    <Text>{scroll 2}\nDort ist ein Schild.{scroll 1}{clear 0}\n"Videoraum"{scroll 1}</Text>
+</Strings>

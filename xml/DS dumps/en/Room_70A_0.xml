@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nIt's too heavy to move...</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}It seems someone has\nsearched here already...{clear 0}{scroll 2}It appears to be a switch...\nWill you push it?{branch 0 6 0}</Text>
+    <Text>{scroll 2}There's something at the\nback of the shelf...</Text>
+    <Text>{scroll 2}\nIt's well arranged...</Text>
+    <Text>{scroll 2}\nNothing special...</Text>
+    <Text>{scroll 2}\n{clear 0}\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}\n{clear 0}\n?{branch 0 6 0}</Text>
+    <Text>{scroll 0}\nIs that you, Jill?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\nWhat's going on?{scroll 1}{clear 60}{scroll 0}\nHow come you look so scared?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nLook at this!{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nWhat do you think of it?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}I've been thinking something\nis wrong with this house.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nRight.{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Hey! What is this?\nThere's a page missing.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Yeah, I thought \nabout that too.{scroll 1}{clear 85}{scroll 0}Perhaps that was\nthe most important part.{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}I think I'll stay and\nlook around more.{scroll 1}{timed 94}</Text>
+</Strings>

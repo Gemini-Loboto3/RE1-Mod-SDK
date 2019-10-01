@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>L'acqua scorre dal canale di\nscolo superiore...{clear 0}\nC'è qualcosa dietro...</Text>
+    <Text>\nLa batteria è fuori...</Text>
+    <Text>\nNiente di che...</Text>
+    <Text>C'è una scala...\nVuoi scendere?{branch 0 6 0}</Text>
+    <Text>Devo dare energia\nall'ascensore...</Text>
+</Strings>

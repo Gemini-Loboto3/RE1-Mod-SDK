@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Les livres relatifs aux\nexpériences sont alignés.{scroll 2}</Text>
+    <Text>{scroll 2}\nPas de temps pour vérifier.{scroll 2}</Text>
+    <Text>{scroll 2}Je me demande où se trouve le\nlivre manquant...{scroll 2}</Text>
+    <Text>{scroll 2}\nUne rangée de livres rouges.{clear 0}Il y a un livre blanc. \nLe prendre ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}\nA présent, il manque un livre.{scroll 2}</Text>
+    <Text>\nPas de temps pour vérifier.</Text>
+    <Text>{scroll 2}C'est soudé et ne peut\nêtre ouvert.</Text>
+</Strings>

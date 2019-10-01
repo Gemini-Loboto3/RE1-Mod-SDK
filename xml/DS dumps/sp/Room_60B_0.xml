@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 0}¿Q-Qué son?\n¿Monstruos?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}¡Rebecca!\n¿Sigue estando en la casa?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\n¿Qué son?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}Es Rebecca,\n¡debe estar arriba!{scroll 2}{timed 110}</Text>
+    <Text>He dejado balas en la\nhabitación de la derecha...{scroll 2}{clear 0}Úsalas si estás en apuros.\n               Wesker{scroll 2}</Text>
+    <Text>He puesto balas en\nla habitación de la derecha...{scroll 2}{clear 0}Úsalas si tienes\nproblemas.      Barry{scroll 2}</Text>
+    <Text>Ojalá tuviera tiempo de\ndisfrutar de los cuadros...{scroll 2}</Text>
+    <Text>{scroll 2}Los peldaños no parecen seguros.\nMejor no arriesgarse.</Text>
+</Strings>

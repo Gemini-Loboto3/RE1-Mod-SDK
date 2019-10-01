@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}\nIl y a une table d'opération.{scroll 10}</Text>
+    <Text>{scroll 2}Instruments chirurgicaux.\nCertains ont des traces de sang.{scroll 10}</Text>
+    <Text>{scroll 2}Il y a un conduit d'aération.\nY entrer ?{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nUn gaz nocif s'échappe...!{scroll 10}</Text>
+    <Text>{scroll 2}\nUn corps est étendu ici.{scroll 10}</Text>
+    <Text>{scroll 2}\nOn dirait une morgue.{scroll 10}</Text>
+    <Text>{scroll 2}C'est une machine pour\ncodes d'accès.{scroll 10}{clear 0}{scroll 2}Si j'avais un DISQUE MO, je\npourrais avoir le code...{scroll 10}</Text>
+    <Text>{scroll 2}\nJ'ai déjà le code d'accès.{scroll 10}</Text>
+    <Text>{scroll 2}Vous avez obtenu le code \nd'accès.{scroll 10}</Text>
+    <Text>{scroll 2}C'est fermé.\nExaminer ?{branch 0 6 1}</Text>
+</Strings>

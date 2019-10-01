@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 2}Il y a un bouton. \nAppuyer dessus ?{scroll 1}{branch 0 6 0}</Text>
+    <Text>{scroll 2}Pas de réaction. \nCa n'est pas branché.{scroll 1}</Text>
+    <Text>{scroll 0}\nChris ! {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nJill ! {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nExcusez-moi, Chris ! {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nComment ? Rebecca. {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}J'ai aperçu un dossier \nRecherche dans ce laboratoire.{scroll 1}{clear 100}{scroll 0}\nD'après lui, une grande partie{scroll 1}{clear 50}{scroll 0}des recherches sur le virus \nTyran se trouve ici-même...{scroll 1}{clear 100}{scroll 0}Nous devrions détruire cet \nendroit... {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}La situation nous dépasse déjà. \nRebecca, pouvez-vous le faire ?{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}Oui. Je vais déclencher le \ncompte à rebours de la bombe. {scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}OK ! Nous avons maintenant une\npossibilité de nous échapper !{scroll 1}{clear 102}{scroll 0}Rendez-vous à l'extérieur de\nla maison ! {scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Rebecca ! Vous êtes saine et \nsauve ! {scroll 1}{clear 85}{scroll 0}Je vous ai vu dans le jardin...\nJe vous retrouve enfin. {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Rebecca ! Vous êtes saine et \nsauve ! {scroll 1}{clear 80}{scroll 0}\nJe suis désolée. {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Eh bien...\nje suis heureux que{scroll 1}{clear 50}{scroll 0}vous alliez bien.\nNe partez pas seule ! {scroll 1}{clear 90}{scroll 0}\nA vos ordres. {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nEh, je te cherchais. {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nBarry ! {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Jill, ne te mets pas en\ncolère ! Je voulais t'attendre. {scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nBarry, essaie de ne pas tout  {scroll 1}{clear 65}{scroll 0}gâcher encore une fois comme \ntu l'as fait avec la corde ! {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nJill ! Tu es là aussi ! {scroll 1}{clear 70}{scroll 0}\nOui, et toi ? {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nEcoute, je me suis perdu. {scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\nContinuons. {scroll 1}{timed 45}</Text>
+    <Text>{scroll 2}\n {scroll 1}</Text>
+</Strings>

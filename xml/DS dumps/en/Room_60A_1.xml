@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}Wh-What are they?\nM-Monsters?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca!\nIs she still in the house?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nWhat are they?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}It's Rebecca,\nshe must be upstairs!{scroll 2}{timed 110}</Text>
+</Strings>

@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\n¡Wesker!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nJill... Estás bien...{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nEso te iba a decir yo.{scroll 1}{clear 80}{scroll 0}\n¿Dónde diablos has estado?{scroll 1}{clear 50}{scroll 0}Desapareciste del vestíbulo,\nde repente.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Lo siento,\npero tenía mis razones.{scroll 1}{clear 108}{scroll 0}Quizá las hayáis conocido.\nEs todo lo que pude hacer {scroll 1}{clear 80}{scroll 0}para protegerme de esas\nextrañas criaturas.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n¿De verdad?{scroll 1}{clear 40}{scroll 0}De todas maneras,\nme alegro de que estés bien.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nHace un rato he visto a Barry.{scroll 1}{clear 65}{scroll 0}\nCreo que le pasa algo.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}Sí, estoy de acuerdo.\nEstaba muy raro, ¿verdad?{scroll 1}{clear 135}{scroll 0}\nParecía muy cansado.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nBueno, quizá es normal,{scroll 1}{clear 40}{scroll 0}teniendo en cuenta\nlas circunstancias.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Jill, ¡nuestra prioridad\nes salir de aquí!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\nSí, ¡tienes razón!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Hay muchas habitaciones\nen la mansión en las que{scroll 1}{clear 80}{scroll 0}no podemos entrar\nporque están cerradas.{scroll 1}{clear 79}{scroll 0}He estado investigando,\na ver si descubría algo.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nVale, volveré a la mansión{scroll 1}{clear 48}{scroll 0}\na ver si encuentro alguna pista.{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}¿Lo harás?\nCuento contigo.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nNo puede ser cierto.{scroll 1}{clear 40}{scroll 0}\nMe han contado otra cosa.{scroll 1}{clear 67}{scroll 0}\n{scroll 1}{clear 109}{scroll 0}Pero no es necesario\nque acabes con ＳＴＡＲＳ{scroll 1}{clear 120}{scroll 0}\n{scroll 1}{clear 145}{scroll 0}\n¡¿Qué pasa con mi familia?!{scroll 1}{clear 70}{scroll 0}\n{scroll 1}{clear 109}{scroll 0}\nAsí que todo depende de mí, ¿eh?{scroll 1}{timed 100}</Text>
+    <Text>Se oye una voz al otro\nlado de la puerta...</Text>
+</Strings>

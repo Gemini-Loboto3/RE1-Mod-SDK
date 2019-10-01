@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Les symboles sont tous dans\nleur cavité.</Text>
+    <Text>{scroll 0}\nQuoi ?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ça doit être...La radio \ndes ＳＴＡＲＳ...! {scroll 1}{clear 84}{scroll 0}Elle est un peu abîmée, \nmais elle peut peut-être {scroll 1}{clear 70}{scroll 0}\nm'être utile. {scroll 1}{clear 45}{scroll 0}\nJe la prends.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Qu'est-ce que c'est ? \nDes monstres ?{scroll 2}{timed 140}</Text>
+    <Text>{scroll 0}Rebecca ! Est-elle encore dans \nla maison ?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 2}{timed 70}</Text>
+    <Text>{scroll 0}C'est Rebecca ! Elle doit être \nà l'étage !{scroll 2}{timed 110}</Text>
+    <Text>{scroll 2}Lorsque le soleil se couche à\nl'ouest et la lune se lève à{clear 0}{scroll 2}l'est, apparaîtront les \nétoiles dans le ciel et{clear 0}{scroll 2}le vent soufflera en direction\nde la terre.{clear 0}{scroll 2}C'est alors que la porte de la\nnouvelle vie s'ouvrira.</Text>
+</Strings>

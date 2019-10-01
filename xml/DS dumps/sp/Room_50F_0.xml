@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>Un control de energía...\nHay zonas sin suministro {scroll 2}{clear 0}eléctrico... ¿Quieres activar\nlas zonas sin luz?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Muestra el estado del\nsuministro de energía...{scroll 2}</Text>
+    <Text>{scroll 2}\nUn regulador de potencia...{clear 0}{scroll 2}El voltaje es incorrecto.\n¿Ajustas los cables?{branch 0 6 1}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Pon dos cables en horizontal.\nCuando los gráficos superiores{clear 0}{scroll 2}pasen todos de 8, la electricidad\nse activará.{clear 0}{scroll 2}Cada gráfico rojo sube\nhasta la suma de{clear 0}{scroll 2}los números verdes a los que\nestá conectado.{clear 0}{scroll 2}Ten en cuenta que la\nelectricidad que circula desde{clear 0}{scroll 2}los números verdes hasta los\ngráficos rojos se desvía por{clear 0}{scroll 2}todas las ramificaciones\nhorizontales que encuentra en{clear 0}{scroll 2}\nsu camino.</Text>
+</Strings>

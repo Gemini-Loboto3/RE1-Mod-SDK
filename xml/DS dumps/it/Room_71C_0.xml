@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>C'è molta polvere, è da\nmolto che non si usa...{scroll 2}</Text>
+    <Text>Un congelatore... Non viene\nusato da molto tempo...{scroll 2}</Text>
+    <Text>\nUn forno...{clear 0}È coperto di ruggine, sembra\nche non funzioni...{scroll 2}</Text>
+    <Text>Un fornello a gas... Però\nnon c'è il gas...{scroll 2}</Text>
+    <Text>\nNon c'è acqua...{scroll 2}</Text>
+    <Text>C'è del sangue nero rappreso.\nChe cosa è stato cucinato qui?{scroll 2}</Text>
+</Strings>

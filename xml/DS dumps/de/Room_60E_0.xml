@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Das ist eine Karte der\n{color 1}ERDGESCHOSSES{color 0}.{clear 0}{scroll 2}Möchten Sie sie mitnehmen?\n{branch 0 6 0}</Text>
+    <Text>{scroll 2}\nNichts von Nutzen.{scroll 10}</Text>
+    <Text>{scroll 2}\nNichts Besonderes.{scroll 10}</Text>
+    <Text>{scroll 2}Sie besitzen jetzt die Karte\nder {color 1}ERDGESCHOSSES{color 0}.{scroll 10}</Text>
+</Strings>

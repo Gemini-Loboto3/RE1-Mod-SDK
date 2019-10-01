@@ -1,0 +1,49 @@
+﻿<Strings>
+    <Text>{scroll 0}Je ne sais pas ce qu'il s'est \npassé ?{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}\nBarry, où est Barry ?{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Et bien, je suis désolé mais \nil est probablement...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nNon !{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 1}{clear 35}{scroll 0}\nJe vais voir.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Jill et moi restons dans le \nhall en cas d'urgence.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\nChris !{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nFais attention !{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Et si vous entendez des coups \nde feu...{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nWesker, Jill ?{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Qu'est-il arrivé à Jill et \nWesker ?{scroll 1}{timed 83}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 1}{clear 52}{scroll 0}\nOuah ! Quelle baraque !{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Capitaine Wesker, \noù est Chris ?{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Arrêtez ! \nN'ouvrez pas cette porte !{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\nMais Chris est...!{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\n...Qu'est-ce que c'était ?{scroll 1}{clear 38}{scroll 0}\n...C'est peut-être Chris ?{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}Bon, Jill, \npouvez-vous y aller ?{scroll 1}{clear 72}{scroll 0}Je vais avec toi ! Chris est\nun vieux frère, tu sais.{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\nOK ! Je m'en charge.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nSoyez vigilants !{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nWesker !?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nAide-moi à le retrouver,{scroll 1}{clear 37}{scroll 0}Jill, et ne quitte pas ce\nhall pour l'instant !{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}Tu as trouvé quelque chose, \nJill !?{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nRien.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Que signifie tout cela ? \nJe n'y comprends rien.{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}\nMoi non plus.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Maintenant, c'est au tour de \nWesker de disparaître...{scroll 1}{clear 56}{scroll 0}Je ne comprends rien à ce \nqui arrive !{scroll 1}{clear 56}{scroll 0}\nBon, on n'y peut rien. {scroll 1}{clear 30}{scroll 0}Cherchons-le chacun de notre \ncôté. {scroll 1}{clear 32}{scroll 0}Je vais de nouveau jeter un \ncoup d'oeil dans {scroll 1}{clear 30}{scroll 0}\nla salle à manger.{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}D'accord! Je vais de l'autre \ncôté.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\nCette maison est immense !{scroll 1}{clear 92}{scroll 0}Nous pourrions avoir des\nproblèmes si nous nous perdions.{scroll 1}{clear 170}{scroll 0}Nous devrions commencer par\nle rez-de-chaussée, OK ?{scroll 1}{clear 40}{scroll 0}\nEt...{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Jill, j'ai trouvé \nun Passe-partout.{scroll 1}{clear 62}{scroll 0}\nCa peut t'être utile,{scroll 1}{clear 75}{scroll 0}toi la reine des crocheteuses.\nPrends-le.{scroll 1}{timed 137}</Text>
+    <Text>{scroll 0}Merci. \nJ'en aurai peut-être besoin.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\nNon, je m'occupe de ce côté. {scroll 1}{clear 75}{scroll 0}Je t'ai dit de commencer par \nl'autre côté, Jill !{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Ecoute, \ns'il arrive quoi que ce soit, {scroll 1}{clear 90}{scroll 0}\non se retrouve dans le hall.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\n...Cette fois, je serai là.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\nSortir est trop dangereux!</Text>
+    <Text>{scroll 2}Il faut que je fouille le \nhall d'abord !</Text>
+    <Text>{scroll 0}\nBarry !{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Jill ! Que se passe-t-il ? \nDu nouveau ?{scroll 1}{clear 116}{scroll 0}Non, mais...Quelque chose \ncloche dans cette maison !{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}Ouah ! Ce hall est dangereux. \nPeut-être vaut-il mieux tout {scroll 1}{clear 115}{scroll 0}d'abord prévoir un moyen de \nsortir d'ici.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Il doit bien y avoir une porte\nà l'arrière... {scroll 1}{clear 120}{scroll 0}Essayons de la trouver\nd'abord, OK ?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}D'accord, \non se sépare de nouveau.{scroll 1}{clear 96}{scroll 0}Un moment. \nJ'ai trouvé quelque chose.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nQu'est-ce que c'est ?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}C'est une arme. Elle est très \npuissante, {scroll 1}{clear 65}{scroll 0}tout particulièrement pour se \ndébarrasser de morts-vivants. {scroll 1}{clear 70}{scroll 0}Mieux vaut que tu la prennes \navec toi.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nEt toi, Barry ?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nMoi, j'ai ça.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Dans ce cas, \nje la prends, merci.{scroll 1}{timed 87}</Text>
+    <Text>{scroll 2}\nC'est l'arme de Jill...!{clear 0}{scroll 2}\n{timed 1}</Text>
+    <Text>{scroll 2}\nPas de temps pour vérifier.</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>Eine Stromschalttafel. Einige\nBereiche sind nicht versorgt.{scroll 2}{clear 0}Möchten Sie die abgeschalteten\nBereiche aktivieren?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Hier wird der Zustand der\nStromversorgung angezeigt.{scroll 2}</Text>
+    <Text>{scroll 2}\nEin Stromregler.{clear 0}{scroll 2}Die Spannung ist falsch.\nVerkabelung rep.?{branch 0 6 1}</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{scroll 2}Platziere 2 Drähte. Wenn alle\nAnzeigen auf rot stehen.{clear 0}Die Elektrizität wird angestellt.</Text>
+</Strings>

@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 0}\nChris!{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}R-Rebecca...\nNo, è inutile...{scroll 2}{clear 120}{scroll 0}La radice è\nnel sotterraneo...{scroll 2}{clear 80}{scroll 0}\nPuoi... Woah!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}\nPrendi questo file...{scroll 2}{clear 70}{scroll 0}\nUsa i dati che contiene{scroll 2}{clear 60}{scroll 0}per creare la pozione che\nucciderà la radice.{scroll 2}{clear 95}{scroll 0}\nR-Rebecca, ti prego!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nChris! Non morire!{scroll 2}{timed 95}</Text>
+    <Text>{scroll 0}\nChe cosa diavolo è questo?{scroll 2}{clear 60}{scroll 0}\nBarry!{scroll 2}{clear 25}{scroll 0}\nJill!{scroll 2}{timed 35}</Text>
+    <Text>{scroll 0}\nMi hai salvato!{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nGià...{scroll 2}{timed 40}</Text>
+    <Text>{scroll 0}Per un pelo!\nGrazie, Barry.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}Non c'è di che. \nChe razza di mostro.{scroll 2}{clear 110}{scroll 0}Non riesco a crederci. Ma\nche razza di posto è questo?{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}OK, io resterò nella zona\ndel soldato e mi darò{scroll 2}{clear 90}{scroll 0}un'occhiata intorno.\nAnche se sono certo che ci{scroll 2}{scroll 0}siano ancora molte cose anche\nin quell'altra magione.{scroll 2}{clear 65}{scroll 0}Comunque, cominciamo la\nricerca da separati.{scroll 2}{timed 90}</Text>
+    <Text>{scroll 0}\nOK.{scroll 2}{timed 40}</Text>
+    <Text>C'è qualcosa che luccica qui,\nma non ci arrivo...{scroll 2}</Text>
+    <Text>Chiusa, di nuovo...\nLa porta non si aprirà...{scroll 2}</Text>
+    <Text>{scroll 2}C'è una saldatura, non si\napre...</Text>
+    <Text>{scroll 2}\nDovrei darmi una mossa.{scroll 2}</Text>
+</Strings>

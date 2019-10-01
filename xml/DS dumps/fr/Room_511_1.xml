@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}"Système de Compte à \nRebours Activé"{clear 0}\n"Alerte Optimale Donnée"{clear 0}\n"Déverrouiller tous les bâtiments"{clear 0}"Impossible de désactiver\nle Système de Compte à Rebours"{scroll 2}</Text>
+    <Text>{scroll 2}C'est un système de compte\nà rebours.{clear 0}\nC'est assez grand.{scroll 2}</Text>
+    <Text>{scroll 2}\nQuelle triste mort...{scroll 2}</Text>
+    <Text>{scroll 2}Un interrupteur. L'ascenseur\nest débranché.{clear 0}Le brancher ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}L'ascenseur n'est pas raccordé\nau système électrique.{scroll 2}</Text>
+    <Text>{scroll 2}Il faut que je branche\nl'ascenseur.{scroll 2}</Text>
+    <Text>{scroll 2}L'ascenseur est branché\nlorsque l'électricité et les{clear 0}\ncircuits ont été raccordés.{scroll 2}</Text>
+    <Text>{scroll 2}Rebecca active le système\nde compte à rebours.{scroll 2}</Text>
+    <Text>{scroll 2}Un régulateur de courant.\nZones sans courant.{clear 0}{scroll 2}Voltage incorrect.\nModifier ?{branch 0 6 1}</Text>
+    <Text>{scroll 2}Un régulateur... Je dois\ncontinuer d'avancer.{scroll 2}</Text>
+    <Text>{scroll 2}Tracez 2 fils pour rétablir\nle courant de l'ascensceur.{clear 0}Toutes les jauges doivent\nêtre dans le rouge.</Text>
+</Strings>

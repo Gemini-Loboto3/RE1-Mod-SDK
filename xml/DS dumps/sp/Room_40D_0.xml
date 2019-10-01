@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>Hay una escalera...\n¿quieres subir?{scroll 1}{branch 0 6 0}</Text>
+    <Text>Aquí hay agua acumulada,\nno puedo pasar...{scroll 2}</Text>
+</Strings>

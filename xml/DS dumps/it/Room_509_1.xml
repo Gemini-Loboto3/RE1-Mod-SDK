@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{scroll 2}Una macchina generatrice\ndi codici.{clear 0}Se avessi un DISCO MO,\npotrei ottenere il codice...{scroll 2}</Text>
+    <Text>{scroll 2}\nHo già il codice...{scroll 2}</Text>
+    <Text>{scroll 2}\nNiente di importante...{scroll 2}</Text>
+    <Text>{scroll 2}Molti sono libri di\nnarrativa...{scroll 2}</Text>
+    <Text>{scroll 2}Cartoni e poster...\nNiente di utile...{scroll 2}</Text>
+    <Text>{scroll 2}L'interruttore del\ncondizionatore...{scroll 2}</Text>
+    <Text>{scroll 2}Le freccette hanno dei sensori.\nVuoi provarle? {branch 0 6 1}</Text>
+    <Text>{scroll 2}\nLo sportello è chiuso.</Text>
+</Strings>

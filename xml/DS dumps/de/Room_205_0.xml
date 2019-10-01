@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>Da ist ein Schalter.\nMöchten Sie draufdrücken?{branch 1 6 0}</Text>
+    <Text>\nEin unheimliches Loch.{scroll 2}</Text>
+    <Text>Irgend etwas ist dort\nin der Vitrine zu sehen.{scroll 2}</Text>
+    <Text>\nRobust aussehende Rüstungen.{scroll 2}</Text>
+    <Text>\nEs entweicht Giftgas!{scroll 2}{timed 1}</Text>
+    <Text>{scroll 2}Eine Waage...\nWaage untersuchen?{branch 0 6 1}</Text>
+</Strings>

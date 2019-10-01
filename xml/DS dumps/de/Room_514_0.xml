@@ -1,0 +1,24 @@
+﻿<Strings>
+    <Text>{scroll 0}Chris, du hast ein erstaunliches\nTalent als mein Untergebener.{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Ich würde nie für eine Firma\nwie Umbrella arbeiten.{scroll 1}{clear 100}{scroll 0}Und Du, Wesker,\nwarst du früher bei Umbrella?{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nWas meinst du damit?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Seit wann arbeitest du\nals Agent für Umbrella{scroll 1}{clear 107}{scroll 0}\nverrätst die ＳＴＡＲＳ?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Da irrst du dich. Ich war\nfrüher mal bei Umbrella, ja.{scroll 1}{clear 140}{scroll 0}\nMittlerweile bin ich bereit,{scroll 1}{clear 44}{scroll 0}mich mit allerhand abzufinden-\nsogar damit,{scroll 1}{clear 44}{scroll 0}euch Bürgerwehr der ＳＴＡＲＳ\nLoszuwerden.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Jetzt ist\ndas Schlimmste eingetreten!{scroll 1}{clear 120}{scroll 0}Das misslungene Experiment hat\neinen Virus freigesetzt,{scroll 1}{clear 95}{scroll 0}eine biologische Waffe, die\ndas ganze Labor verseuchte.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Durch den Tyrant-Virus\ngeschah das Schlimmste...{scroll 1}{clear 90}{scroll 0}Durch ihn verlor ich ein paar\nder ＳＴＡＲＳ-Teamkameraden.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Du hast sie mit deinen\neigenen Händen umgebracht!{scroll 1}{clear 85}{scroll 0}\nHast du auch Enrico getötet?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nJa, so ungefähr.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nKeine Bewegung!{scroll 1}{clear 40}{scroll 0}Wenn du dich bewegst,\nbring ich dich um!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Chris,\nich muss dir was zeigen.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nLos, vorwärts!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nEnrico?{scroll 1}{clear 40}{scroll 0}Ich werde die ＳＴＡＲＳ selbst\nvernichten und euch auch.{scroll 1}{clear 110}{scroll 0}Tatsache ist,\nUmbrella hat keine Ahnung,{scroll 1}{clear 100}{scroll 0}was man mit dem Tyrant-Virus\nanfangen kann.{scroll 1}{clear 100}{scroll 0}Wir haben den Befehl, dieses\nLabor in die Luft zu sprengen.{scroll 1}{clear 80}{scroll 0}Das ist keine schlechte Idee,\naber ich denke, wir sollten {scroll 1}{clear 60}{scroll 0}diese wichtige Forschungs-\narbeit für zukünftige{scroll 1}{clear 80}{scroll 0}\nZwecke in Sicherheit bringen.{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nDu, du glaubst, dass du{scroll 1}{clear 40}{scroll 0}mit so "brisantem Material"\neinfach abhauen kannst?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nMöchtest du es sehen?{scroll 1}{clear 60}{scroll 0}\nKommt mit.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Entschuldige meine schlechten\nManieren,{scroll 1}{clear 65}{scroll 0}aber ich bin es nicht gewohnt,\nLeute zu eskortieren!{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nLos, geh!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nHah!{scroll 1}{clear 40}{scroll 0}Wie es scheint, hält diese kugel- \nsichere Weste eine Menge aus.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nDas glaube ich auch.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Wie steht es um\nCaptain Wesker?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Er schläft jetzt bei seiner\nperfekten Pleite.{scroll 1}{clear 100}{scroll 0}Beeil dich!\nIch will hier endlich raus!{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0} {scroll 0}\nWesker...{scroll 1}{timed 40}</Text>
+</Strings>

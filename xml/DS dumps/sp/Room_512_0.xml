@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 0}Jill, siento haberte\nhecho esperar.{scroll 1}{clear 85}{scroll 0}\n¡Chris!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nSabía que podía confiar en ti.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}¡Vamos!\nNo tenemos nada que hacer aquí.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n¿Jill? ¿Estás ahí?{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nJill, ¡estás bien!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Ahh, sí.\nWesker está aquí, él...{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Sí, lo sé. De todas formas,\ntenemos que salir de aquí.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n¡Chris!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n¡Oh, Jill!{scroll 1}{clear 40}{scroll 0}Siento haberte hecho\nesperar.{scroll 1}{clear 60}{scroll 0}\n¿Está todo hecho?{scroll 1}{clear 65}{scroll 0}Bueno, casi todo.\nPues vamos.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n¡Oh, Jill!{scroll 1}{clear 40}{scroll 0}\n¡Oh, Chris! ¿Estás bien?{scroll 1}{clear 70}{scroll 0}¡Sí, y tú también!\n¿Qué le ha pasado a Wesker?{scroll 1}{clear 130}{scroll 0}Ya hablaremos después,\n¡tenemos que salir de aquí!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 2}Por aquí no hay nada \nimportante...{scroll 1}</Text>
+    <Text>{scroll 2}Por aquí no hay nada \nimportante...{scroll 1}</Text>
+    <Text>{scroll 2}Por aquí no hay nada \nimportante...{scroll 1}</Text>
+</Strings>

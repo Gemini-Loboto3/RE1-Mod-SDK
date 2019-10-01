@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>There's a switch...\nWill you push it? {branch 1 6 0}</Text>
+    <Text>\nA weird hole opens...{scroll 2}</Text>
+    <Text>Something can be seen in \nthe showcase...{scroll 2}</Text>
+    <Text>Heavy-looking suits of \narmor...{scroll 2}</Text>
+    <Text>\nPoison gas is escaping...!{scroll 2}{timed 1}</Text>
+    <Text>{scroll 2}A set of scales...\nExamine the scales? {branch 0 6 1}</Text>
+</Strings>

@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Devo prima esplorare\nquesta sala!</Text>
+    <Text>{scroll 0}\nBarry!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Jill! Cosa sta succedendo?\nNe sai qualcosa?{scroll 1}{clear 116}{scroll 0}No, ma in questa casa c'è\nqualcosa di malvagio.{scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}Accidenti! Questa sala\nè molto pericolosa.{scroll 1}{clear 115}{scroll 0}Dovremmo per prima cosa\ncrearci una via di fuga. {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Dev'esserci una porta sul\nretro, da qualche parte.{scroll 1}{clear 100}{scroll 0}Cerchiamo quella come prima\ncosa, d'accordo?{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nOK, separiamoci di nuovo.{scroll 1}{clear 80}{scroll 0}Un attimo!\nHo trovato qualcosa.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}\nChe cos'è?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nUn'arma.{scroll 1}{clear 45}{scroll 0}È molto potente, specie\ncontro le creature{scroll 1}{clear 125}{scroll 0}viventi.\nPortala con te.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nE tu come farai, Barry?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nIo ho questa!{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Grazie, allora\nprenderò l'arma.{scroll 1}{timed 87}</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHey! What's going on?{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}Jill? Is that you, Jill?\nWhat happened?{scroll 2}{timed 110}</Text>
+    <Text>{scroll 0}Barry! Help me please!\nThe door won't open. Quick!{scroll 2}{timed 150}</Text>
+    <Text>{scroll 0}Stay away from the door\nJill!{scroll 2}{clear 45}{scroll 0}I'm going to kick this\ndoor down!{scroll 2}{timed 65}</Text>
+    <Text>{scroll 0}\nHurry! This way!{scroll 2}{timed 60}</Text>
+</Strings>

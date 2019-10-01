@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text>{scroll 0}\nRebecca!{scroll 2}{timed 105}</Text>
+    <Text>{scroll 0}\nChris!{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}\nThank God, you're safe!{scroll 2}{timed 80}</Text>
+    <Text>{scroll 0}I'm sorry that you were\nworried about me.{scroll 2}{clear 75}{scroll 0}\nWe are in great danger!{scroll 2}{timed 75}</Text>
+    <Text>{scroll 0}\nWe must organize a search{scroll 2}{clear 45}{scroll 0}for the others, and get the\nhell outta here!{scroll 2}{timed 100}</Text>
+    <Text>{scroll 0}\nUnderstood?{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}\nYes, Sir!{scroll 2}{timed 50}</Text>
+    <Text>{scroll 0}Okay, I'll go first! Proceed\nwith your own judgment.{scroll 2}{clear 135}{scroll 0}\nAlright? Can you do it?{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nYes! I can!{scroll 2}{timed 60}</Text>
+    <Text>{scroll 0}\nGood luck!{scroll 2}{timed 45}</Text>
+    <Text>{scroll 0}\nYes, Sir! I will do my best!{scroll 2}{timed 95}</Text>
+    <Text>I don't need any more\nserum...{scroll 2}</Text>
+    <Text>\nVitamins and serums...{scroll 2}</Text>
+    <Text>{scroll 2}The chest is locked.\nExamine it?{branch 0 6 1}</Text>
+</Strings>

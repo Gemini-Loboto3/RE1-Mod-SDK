@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 0}Jill?\nBist du das, Jill!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Oh, Chris!\nDu lebst¼{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Na klar! Wir stecken in einem\nechten Dilemma, Jill!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nIch weiß, Chris.{scroll 1}{clear 60}{scroll 0}Trotzdem muß ich diesen Raum\nirgendwie öffnen.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nOh, so klappt es nicht.{scroll 1}{clear 70}{scroll 0}\nNun, Chris,{scroll 1}{clear 30}{scroll 0}ich verspreche, dass ich bald\nzurückkomme und dir helfe!{scroll 1}{clear 50}{scroll 0}\nWartest du hier auf mich?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Schon gut.\nIch warte hier auf dich.{scroll 1}{timed 80}</Text>
+    <Text>\nDie Tür ist fest verschlossen.</Text>
+</Strings>

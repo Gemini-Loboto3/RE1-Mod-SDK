@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text>{scroll 0}\nJill!{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nHe, he, he, don't scare me.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}That's what I was\ngoing to say.{scroll 1}{clear 60}{scroll 0}Aren't you supposed\nto be going over{scroll 1}{clear 40}{scroll 0}\nthe first floor, Barry?{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Yeah, you're right, but\njust take a look at this!!{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\nIt's Forest! Oh my god!{scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\nIt's awful!{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}I'm going to find out what\ncaused Forest's death.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}It looks like he was killed\nby a crow or something.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Can you look around\nthe first floor, Jill?{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nOK{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Hey Jill! This must have\nbeen Forest's.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}You don't have a weapon,\ntake this with you.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nI can't believe.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 2}\nForest...{scroll 1}</Text>
+    <Text>{scroll 2}It's Forest...!  He's been\npecked to death by crows...{scroll 1}</Text>
+</Strings>

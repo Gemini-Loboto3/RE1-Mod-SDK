@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\nHi Jill.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Hi Barry, I heard someone\ntalking.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}So you heard it too.\nI think I'm getting old.{scroll 1}{clear 110}{scroll 0}It seems that talking to\nmyself is becoming a habit.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Talking to yourself?\nBarry, something must have{scroll 1}{clear 125}{scroll 0}happened to you. Am I wrong?\nYou sound strange.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Well, it seems I made you\nworry, but don't.{scroll 1}{clear 90}{scroll 0}Maybe I have been a nervous\nwreck since all of these{scroll 1}{clear 80}{scroll 0}strange things started\nhappening.{scroll 1}{clear 80}{scroll 0}\nWell, I think I'll go out{scroll 1}{clear 50}{scroll 0}and get some fresh air\nfor a change.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}I told you, don't worry.\nI'll just go and{scroll 1}{clear 90}{scroll 0}get some fresh air and\nbe eaten by a monster.{scroll 1}{timed 110}</Text>
+    <Text>A guardhouse sketch...\nWill you take it?{branch 0 6 0}</Text>
+    <Text>There's a ladder...\nWill you descend it?{branch 0 6 0}</Text>
+    <Text>There is no time to check\nit...</Text>
+    <Text>You got the\nmap of the GUARDHOUSE...</Text>
+    <Text>{scroll 2}\nNo need to go down here.</Text>
+</Strings>

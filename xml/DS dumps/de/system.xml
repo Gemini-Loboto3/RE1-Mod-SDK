@@ -1,0 +1,248 @@
+﻿<Strings>
+    <Text>Dieses Spiel enthält Szenen mit\nextremen Gewaltdarstellungen.</Text>
+    <Text>{color 1}Normal</Text>
+    <Text>{color 1}Schwierig</Text>
+    <Text>Wählen / Aktion</Text>
+    <Text>Abbrechen / Laufen</Text>
+    <Text>Verb. unterbrochen</Text>
+    <Text>Typ A</Text>
+    <Text>Typ B</Text>
+    <Text>Blutfarbe</Text>
+    <Text>Rot</Text>
+    <Text>Grün</Text>
+    <Text>Mikroempfindlichkeit</Text>
+    <Text>Hoch</Text>
+    <Text>Normal</Text>
+    <Text>Niedrig</Text>
+    <Text>Drehen / Laden </Text>
+    <Text>H.Raum</Text>
+    <Text>H.Halle</Text>
+    <Text>Garten</Text>
+    <Text>Schlafräume</Text>
+    <Text>Laboratorium</Text>
+    <Text>H.Lager</Text>
+    <Text>Garten</Text>
+    <Text>Keine Daten</Text>
+    <Text>SPEICHERN.</Text>
+    <Text>LADEN.</Text>
+    <Text></Text>
+    <Text>Systemdaten</Text>
+    <Text></Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Klassischer Modus</Text>
+    <Text>Wiedergeburt-Modus</Text>
+    <Text>Überschreiben?{branch 0 6 0}</Text>
+    <Text>Keine datei vorhanden.</Text>
+    <Text>Speichern mißlungen</Text>
+    <Text>Systemdaten beschädigt\nund verloren.</Text>
+    <Text>Speicherdaten löschen</Text>
+    <Text>Speicherdaten löschen?{branch 0 6 0}</Text>
+    <Text>OK zum Löschen?{branch 0 6 0}</Text>
+    <Text>Speicherdaten gelöscht.</Text>
+    <Text>Master of Knifing\nist nun wählbar.</Text>
+    <Text>ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Unbegr. Raketenwerfer\nwurde freigeschaltet.</Text>
+    <Text>Chris</Text>
+    <Text>Jill</Text>
+    <Text>Barry</Text>
+    <Text>Rebecca</Text>
+    <Text>Wesker</Text>
+    <Text>Kenneth</Text>
+    <Text>Forest</Text>
+    <Text>Richard</Text>
+    <Text>Enrico</Text>
+    <Text>Herrenhaus</Text>
+    <Text>Garten</Text>
+    <Text>Wachhaus</Text>
+    <Text>Labor</Text>
+    <Text>1.</Text>
+    <Text>EG</Text>
+    <Text>U1</Text>
+    <Text>U2</Text>
+    <Text>U3</Text>
+    <Text>U4</Text>
+    <Text>U5</Text>
+    <Text>Bitte warten...</Text>
+    <Text>{color 1}ENTKOMMEN!</Text>
+    <Text>Das hat schon jmd. genommen.</Text>
+    <Text>Zeit</Text>
+    <Text>Tote Gegner</Text>
+    <Text>Keine Heilung</Text>
+    <Text>Scharfschütze</Text>
+    <Text>Messermeister</Text>
+    <Text>Gesamt</Text>
+    <Text>{color 1}TEAM-PUNKTE</Text>
+    <Text>{color 1}PUNKTE.</Text>
+    <Text>Punkte</Text>
+    <Text>Errechne Team-Punkte...</Text>
+    <Text>RANG</Text>
+    <Text>Neu</Text>
+    <Text>Ende</Text>
+    <Text>1. Bonus</Text>
+    <Text>2. Bonus</Text>
+    <Text>1.</Text>
+    <Text>2.</Text>
+    <Text>3.</Text>
+    <Text>4.</Text>
+    <Text>{color 1}RANGLISTE</Text>
+    <Text>Benutz. einladen</Text>
+    <Text>Suche Spiele...</Text>
+    <Text>Modus wählen</Text>
+    <Text>Kontra</Text>
+    <Text>Koop</Text>
+    <Text>Level wählen</Text>
+    <Text>Start</Text>
+    <Text>Ziel</Text>
+    <Text>Zeitlimit</Text>
+    <Text>Charakter wählen</Text>
+    <Text>Warte auf Benutzer...</Text>
+    <Text>Kabell. Verb. unterbrech.?</Text>
+    <Text>VERBINDUNG\nUNTERBROCHEN</Text>
+    <Text>Viel Glück</Text>
+    <Text>Level 1 Start</Text>
+    <Text>Level 2 Start</Text>
+    <Text>Level 3 Start</Text>
+    <Text>Level 4 Start</Text>
+    <Text>Letzter Level</Text>
+    <Text>Start</Text>
+    <Text>Level 1 Fertig</Text>
+    <Text>Level 2 Fertig</Text>
+    <Text>Level 3 Fertig</Text>
+    <Text>Level 4 Fertig</Text>
+    <Text>Du kannst den wahren Horror,\nder dich erwartet,  nicht...</Text>
+    <Text>Level-Zeit</Text>
+    <Text>Max Kombos</Text>
+    <Text>Treffgen.</Text>
+    <Text>Schaden</Text>
+    <Text>Pte.</Text>
+    <Text>Geamt</Text>
+    <Text>PAUSE</Text>
+    <Text>ZURÜCK ZUM SPIEL</Text>
+    <Text>VERLASSEN</Text>
+    <Text></Text>
+    <Text>Das Alpha-Team fliegt über\ndas Waldgebiet¤¦</Text>
+    <Text>nordwestlich von\nRaccoon-City.</Text>
+    <Text>Wir suchen nach dem\nHubschrauber</Text>
+    <Text>unserer Landsleute vom\nBravo-Team.</Text>
+    <Text>Während unserer Mission\nverschwand er plötzlich.</Text>
+    <Text>In Raccoon-City passierten kürzlich\nbizarre Mordfälle.</Text>
+    <Text></Text>
+    <Text>Es gibt haarsträubende\nBerichte von Familien,</Text>
+    <Text>die von einer Gruppe von etwa\nzehn Personen angegriffen wurden.</Text>
+    <Text>Die Opfer wurden\noffenbar aufgefressen.</Text>
+    <Text>Das Bravo-Team flog zum Versteck\nder Verdächtigen und verschwand</Text>
+    <Text>spurlos.</Text>
+    <Text>Da war nur der Hubschrauber\ndes Bravo-Teams.</Text>
+    <Text>Wir fanden bald heraus, warum.</Text>
+    <Text>Es befand sich niemand\nmehr an Bord,</Text>
+    <Text>aber seltsamerweise war fast die\ngesamte Ausrüstung noch da.</Text>
+    <Text>Hey, kommt hierher!</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>{color 1}Training</Text>
+    <Text> </Text>
+    <Text>Bist du müde, Rebecca?</Text>
+    <Text>Tut mir Leid, Chris. Ich bin...</Text>
+    <Text>Du hast wirklich einen\ntollen Einsatz gezeigt.</Text>
+    <Text>Dieser Fall war einfach\nzu absurd.</Text>
+    <Text>Es war so...</Text>
+    <Text>Deine Frau?</Text>
+    <Text>Ja, meine Frau und die\nKinder...</Text>
+    <Text>sie warteten immer lange\nauf mich.</Text>
+    <Text>Sogar heute...\nmeine älteste Tochter...</Text>
+    <Text>Ich bin so traurig.</Text>
+    <Text>Mach dir keine Sorgen.</Text>
+    <Text>Ich bin sicher, dass sie\nnoch leben.</Text>
+    <Text>Ja</Text>
+    <Text>Nein</Text>
+    <Text>TREFFER!</Text>
+    <Text>{color 0}VERBUNDEN</Text>
+    <Text>MISSLUNGEN</Text>
+    <Text>Pte.</Text>
+    <Text>Max Kombos</Text>
+    <Text>LEBEN</Text>
+    <Text>Bonuspunkte</Text>
+    <Text>{color 1}Kontra</Text>
+    <Text>{color 1}Koop</Text>
+    <Text>{color 0}\n\n\n\n\n\n</Text>
+    <Text>{color 0}\n\n\n\n\n\n\n\n</Text>
+    <Text>Besiege "gelbe" Feinde!\nDie Feinde deines Gegners\nwerden stärker.\nBesiege "violette" Feinde!\nDeine Gegner können\nnicht entkommen.\nNur eine Person kann Dinge\nin blauen Boxen nehmen.</Text>
+    <Text>Du und deine Verbündeten\nteilen denselben Lebensbalken!\nDie Gegner teilen sich auch\ndenselben Lebensbalken!\nSind alle im selben Raum,\ngibt es einen Angriffsbonus!\nDu kannst Gegenstände\nin Boxen weitergeben.\nNur eine Person kann Dinge\nin blauen Boxen nehmen.</Text>
+    <Text>{color 2}Warte auf Spielende...\n\nDu bist tot! Nutze die Zeit,\num den anderen zuzuschauen\nund von ihnen zu lernen!</Text>
+    <Text>{color 1}VOUS AVEZ\nSURVÉCU!</Text>
+    <Text>Gesamtzeit</Text>
+    <Text>Speicherungen</Text>
+    <Text>GANZ SCHÖN CLEVER!</Text>
+    <Text>Sie haben den Fall komplett\nabgeschlossen.</Text>
+    <Text>Sie haben Folgendes\ngenommen:{color 1}SPEZ.SCHLÜSS.{color 0}.</Text>
+    <Text>Sie haben Folgendes genommen:\n{color 1}RAKETENWERFER{color 0}.</Text>
+    <Text>Name</Text>
+    <Text>Datum</Text>
+    <Text>Chris Redfield</Text>
+    <Text>Jill Valentine</Text>
+    <Text>Barry Burton</Text>
+    <Text>Rebecca Chambers</Text>
+    <Text>Albert Wesker</Text>
+    <Text>Kenneth J. Sullivan</Text>
+    <Text>Forest Speyer</Text>
+    <Text>Richard Aiken</Text>
+    <Text>Enrico Marini</Text>
+    <Text>Level 1</Text>
+    <Text>Level 2</Text>
+    <Text>Level 3</Text>
+    <Text>Level 4</Text>
+    <Text>Letzter Level</Text>
+    <Text>Start</Text>
+    <Text>Alle Level Fertig!</Text>
+    <Text>Glückwunsch!</Text>
+    <Text>Gut mit Handfeuerwaffen</Text>
+    <Text>Kann sehr viel tragen</Text>
+    <Text>Experte mit der Magnum</Text>
+    <Text>Erste-Hilfe-Experte</Text>
+    <Text>Feuerwaffenexperte</Text>
+    <Text>Messerexperte</Text>
+    <Text>Gut mit schweren Waffen</Text>
+    <Text>Meister mit der Shotgun</Text>
+    <Text>Überdurchschn. begabt</Text>
+    <Text>GESAMTZEIT</Text>
+    <Text>ERGEBNIS</Text>
+    <Text>Herrenhaus EG</Text>
+    <Text>Herrenhaus 1.</Text>
+    <Text>Herrenhaus U1</Text>
+    <Text>Garten EG</Text>
+    <Text>Garten U1</Text>
+    <Text>Wachhaus EG</Text>
+    <Text>Wachhaus U1</Text>
+    <Text>Labor U1</Text>
+    <Text>Labor U2</Text>
+    <Text>Labor U3</Text>
+    <Text>Labor U4</Text>
+    <Text>Zeit</Text>
+    <Text>Systemdaten beschädigt.\nAlte Datei geladen.</Text>
+    <Text>Speicherstand 1 defekt.\nDatei gelöscht.</Text>
+    <Text>Speicherstand 2 defekt.\nDatei gelöscht.</Text>
+    <Text>Speicherstand 3 defekt.\nDatei gelöscht.</Text>
+    <Text>Speicherstand 4 defekt.\nDatei gelöscht.</Text>
+    <Text>Speicherstand 5 defekt.\nDatei gelöscht.</Text>
+    <Text>Speicherstand 1 defekt.\nAlte Datei geladen.</Text>
+    <Text>Speicherstand 2 defekt.\nAlte Datei geladen.</Text>
+    <Text>Speicherstand 3 defekt.\nAlte Datei geladen.</Text>
+    <Text>Speicherstand 4 defekt.\nAlte Datei geladen.</Text>
+    <Text>Speicherstand 5 defekt.\nAlte Datei geladen.</Text>
+    <Text>Chris ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Jill ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Barry ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Rebecca ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Wesker ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Kenneth ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Forest ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Richard ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Enrico ist nun wählbar\nfür Multi-Karten-Spiel!</Text>
+    <Text>Nein, geht nicht!</Text>
+    <Text>Jill, lauf in Richtung Haus!</Text>
+    <Text>Nur drei Mitglieder der S.T.A.R.S. \nsind jetzt noch übrig.</Text>
+    <Text>Captain Wesker, Jill und ich.</Text>
+    <Text>Wir wissen nicht, wo\nBarry steckt.</Text>
+    <Text>Wireless Verbindung starten?{branch 0 0 0}</Text>
+</Strings>

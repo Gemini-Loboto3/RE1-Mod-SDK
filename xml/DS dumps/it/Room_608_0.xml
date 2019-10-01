@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Non c'è tempo per\ncontrollare...{scroll 1}</Text>
+    <Text>{scroll 2}\nQuesta roba mette i brividi...{scroll 1}</Text>
+    <Text>{scroll 2}Il baule è chiuso.\nVuoi esaminarlo?{branch 0 6 1}</Text>
+</Strings>

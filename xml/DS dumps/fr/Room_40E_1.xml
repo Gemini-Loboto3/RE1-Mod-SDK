@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nC'est fermé.{clear 0}{scroll 2}\nIl n'y a pas de serrure.</Text>
+    <Text>{scroll 2}\nC'est un grand réservoir.</Text>
+    <Text>{scroll 2}\nUn trou s'ouvre.</Text>
+</Strings>

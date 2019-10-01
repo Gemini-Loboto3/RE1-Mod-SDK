@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}La baignoire est remplie\nd'eau boueuse.{clear 0}{scroll 2}La vider ?{branch 0 6 1}</Text>
+    <Text>\nRien d'utile.</Text>
+</Strings>
